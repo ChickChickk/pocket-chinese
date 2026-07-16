@@ -272,7 +272,6 @@ const WORDS = [
       pinyin: "wǒ shì xué shēng",
       en: "I am a student.",
     },
-    say: null,
   },
   {
     num: 2,
@@ -288,7 +287,6 @@ const WORDS = [
       pinyin: "nǐ jīn tiān yǒu kòng ma",
       en: "Are you free today?",
     },
-    say: null,
   },
   {
     num: 3,
@@ -304,7 +302,6 @@ const WORDS = [
       pinyin: "tā zhù zài tái běi",
       en: "He lives in Taipei.",
     },
-    say: null,
   },
   {
     num: 4,
@@ -320,7 +317,6 @@ const WORDS = [
       pinyin: "tā shì wǒ de tóng shì",
       en: "She is my coworker.",
     },
-    say: null,
   },
   {
     num: 5,
@@ -336,7 +332,6 @@ const WORDS = [
       pinyin: "wǒ men yì qǐ chī fàn ba",
       en: "Let's eat together.",
     },
-    say: null,
   },
   {
     num: 6,
@@ -352,7 +347,6 @@ const WORDS = [
       pinyin: "nǐ men zhǔn bèi hǎo le ma",
       en: "Are you all ready?",
     },
-    say: null,
   },
   {
     num: 7,
@@ -368,7 +362,6 @@ const WORDS = [
       pinyin: "tā men yǐ jīng dào le",
       en: "They have already arrived.",
     },
-    say: null,
   },
   {
     num: 8,
@@ -384,7 +377,6 @@ const WORDS = [
       pinyin: "zhè shì wǒ de shǒu jī",
       en: "This is my phone.",
     },
-    say: null,
   },
   {
     num: 9,
@@ -400,7 +392,6 @@ const WORDS = [
       pinyin: "nà jiā diàn hěn hǎo chī",
       en: "That restaurant is really good.",
     },
-    say: null,
   },
   {
     num: 10,
@@ -416,7 +407,6 @@ const WORDS = [
       pinyin: "nǐ yào nǎ yí ge",
       en: "Which one do you want?",
     },
-    say: null,
   },
   {
     num: 11,
@@ -432,7 +422,6 @@ const WORDS = [
       pinyin: "mén kǒu de rén shì shéi",
       en: "Who is the person at the door?",
     },
-    say: null,
   },
   {
     num: 12,
@@ -448,7 +437,6 @@ const WORDS = [
       pinyin: "nǐ xiǎng chī shén me",
       en: "What do you want to eat?",
     },
-    say: null,
   },
   {
     num: 13,
@@ -464,7 +452,6 @@ const WORDS = [
       pinyin: "zuì jìn de jié yùn zhàn zài nǎ lǐ",
       en: "Where is the nearest MRT station?",
     },
-    say: null,
   },
   {
     num: 14,
@@ -480,7 +467,6 @@ const WORDS = [
       pinyin: "zhè ge zì zěn me niàn",
       en: "How is this character pronounced?",
     },
-    say: null,
   },
   {
     num: 15,
@@ -496,7 +482,6 @@ const WORDS = [
       pinyin: "nǐ wèi shén me chí dào",
       en: "Why are you late?",
     },
-    say: null,
   },
   {
     num: 16,
@@ -512,7 +497,6 @@ const WORDS = [
       pinyin: "nǐ yǒu jǐ ge xiōng dì jiě mèi",
       en: "How many siblings do you have?",
     },
-    say: null,
   },
   {
     num: 17,
@@ -528,7 +512,6 @@ const WORDS = [
       pinyin: "zhè jiàn yī fú duō shǎo qián",
       en: "How much is this piece of clothing?",
     },
-    say: null,
   },
   {
     num: 18,
@@ -544,7 +527,6 @@ const WORDS = [
       pinyin: "zhè shì wǒ de shū",
       en: "This is my book.",
     },
-    say: "我的",
   },
   {
     num: 19,
@@ -560,7 +542,6 @@ const WORDS = [
       pinyin: "wǒ chī guò wǎn cān le",
       en: "I've eaten dinner.",
     },
-    say: "好了",
   },
   {
     num: 20,
@@ -576,7 +557,6 @@ const WORDS = [
       pinyin: "wǒ qù guò tái nán",
       en: "I've been to Tainan.",
     },
-    say: null,
   },
   {
     num: 21,
@@ -592,7 +572,6 @@ const WORDS = [
       pinyin: "mén yì zhí kāi zhe",
       en: "The door is standing open.",
     },
-    say: "開著",
   },
   {
     num: 22,
@@ -608,7 +587,6 @@ const WORDS = [
       pinyin: "nǐ huì shuō zhōng wén ma",
       en: "Can you speak Chinese?",
     },
-    say: null,
   },
   {
     num: 23,
@@ -624,7 +602,6 @@ const WORDS = [
       pinyin: "wǒ hěn hǎo nǐ ne",
       en: "I'm fine — and you?",
     },
-    say: null,
   },
   {
     num: 24,
@@ -640,7 +617,6 @@ const WORDS = [
       pinyin: "wǒ men xiān xiū xí yí xià ba",
       en: "Let's take a break first.",
     },
-    say: null,
   },
   {
     num: 25,
@@ -656,7 +632,6 @@ const WORDS = [
       pinyin: "hǎo piào liàng a",
       en: "It's so beautiful!",
     },
-    say: null,
   },
   {
     num: 26,
@@ -672,7 +647,6 @@ const WORDS = [
       pinyin: "wǒ yě xiǎng qù",
       en: "I want to go too.",
     },
-    say: null,
   },
   {
     num: 27,
@@ -688,7 +662,6 @@ const WORDS = [
       pinyin: "dà jiā dōu zhī dào zhè jiàn shì",
       en: "Everyone knows about this.",
     },
-    say: null,
   },
   {
     num: 28,
@@ -704,7 +677,6 @@ const WORDS = [
       pinyin: "tā jīn tiān yòu chí dào le",
       en: "He was late again today.",
     },
-    say: null,
   },
   {
     num: 29,
@@ -720,7 +692,6 @@ const WORDS = [
       pinyin: "wǒ men míng tiān zài tǎo lùn",
       en: "We'll discuss it again tomorrow.",
     },
-    say: null,
   },
   {
     num: 30,
@@ -736,7 +707,6 @@ const WORDS = [
       pinyin: "wǒ hái méi chī zǎo cān",
       en: "I haven't eaten breakfast yet.",
     },
-    say: null,
   },
   {
     num: 31,
@@ -752,7 +722,6 @@ const WORDS = [
       pinyin: "wǒ xià bān hòu jiù huí jiā",
       en: "I'll go home right after work.",
     },
-    say: null,
   },
   {
     num: 32,
@@ -768,7 +737,6 @@ const WORDS = [
       pinyin: "tā wǎn shàng shí diǎn cái dào jiā",
       en: "He didn't get home until 10 p.m.",
     },
-    say: null,
   },
   {
     num: 33,
@@ -784,7 +752,6 @@ const WORDS = [
       pinyin: "jīn tiān hěn lěng",
       en: "It's very cold today.",
     },
-    say: null,
   },
   {
     num: 34,
@@ -800,7 +767,6 @@ const WORDS = [
       pinyin: "zhè bēi kā fēi tài tián le",
       en: "This coffee is too sweet.",
     },
-    say: null,
   },
   {
     num: 35,
@@ -816,7 +782,6 @@ const WORDS = [
       pinyin: "zhè shì wǒ zuì xǐ huān de gē",
       en: "This is my favorite song.",
     },
-    say: null,
   },
   {
     num: 36,
@@ -832,7 +797,6 @@ const WORDS = [
       pinyin: "jīn tiān bǐ zuó tiān gèng rè",
       en: "Today is hotter than yesterday.",
     },
-    say: null,
   },
   {
     num: 37,
@@ -848,7 +812,6 @@ const WORDS = [
       pinyin: "zhè ge fāng fǎ bǐ jiào jiǎn dān",
       en: "This method is relatively simple.",
     },
-    say: null,
   },
   {
     num: 38,
@@ -864,7 +827,6 @@ const WORDS = [
       pinyin: "wǒ bù hē kā fēi",
       en: "I don't drink coffee.",
     },
-    say: null,
   },
   {
     num: 39,
@@ -880,7 +842,6 @@ const WORDS = [
       pinyin: "wǒ jīn tiān méi dài qián",
       en: "I didn't bring money today.",
     },
-    say: null,
   },
   {
     num: 40,
@@ -896,7 +857,6 @@ const WORDS = [
       pinyin: "bié wàng le dài hù zhào",
       en: "Don't forget to bring your passport.",
     },
-    say: null,
   },
   {
     num: 41,
@@ -912,7 +872,6 @@ const WORDS = [
       pinyin: "wǒ zhǐ mǎi le yì bēi chá",
       en: "I bought only one cup of tea.",
     },
-    say: null,
   },
   {
     num: 42,
@@ -929,7 +888,6 @@ const WORDS = [
       pinyin: "tā lián zì jǐ de míng zì dōu xiě cuò le",
       en: "He even wrote his own name wrong.",
     },
-    say: null,
   },
   {
     num: 43,
@@ -945,7 +903,6 @@ const WORDS = [
       pinyin: "wǒ xǐ huān chá hé kā fēi",
       en: "I like tea and coffee.",
     },
-    say: null,
   },
   {
     num: 44,
@@ -961,7 +918,6 @@ const WORDS = [
       pinyin: "nǐ kě yǐ dā gōng chē huò jié yùn",
       en: "You can take the bus or the MRT.",
     },
-    say: null,
   },
   {
     num: 45,
@@ -977,7 +933,6 @@ const WORDS = [
       pinyin: "wǒ hěn lèi dàn shì hái yào gōng zuò",
       en: "I'm tired, but I still have to work.",
     },
-    say: null,
   },
   {
     num: 46,
@@ -994,7 +949,6 @@ const WORDS = [
       pinyin: "wài miàn xià yǔ suǒ yǐ wǒ dài le yǔ sǎn",
       en: "It's raining, so I brought an umbrella.",
     },
-    say: null,
   },
   {
     num: 47,
@@ -1010,7 +964,6 @@ const WORDS = [
       pinyin: "yīn wèi sāi chē wǒ chí dào le",
       en: "I was late because of traffic.",
     },
-    say: null,
   },
   {
     num: 48,
@@ -1026,7 +979,6 @@ const WORDS = [
       pinyin: "rú guǒ yǒu wèn tí qǐng gào sù wǒ",
       en: "If there's a problem, please tell me.",
     },
-    say: null,
   },
   {
     num: 49,
@@ -1042,7 +994,6 @@ const WORDS = [
       pinyin: "wǒ shì yìn ní rén",
       en: "I'm Indonesian.",
     },
-    say: null,
   },
   {
     num: 50,
@@ -1058,7 +1009,6 @@ const WORDS = [
       pinyin: "wǒ yǒu liǎng ge wèn tí",
       en: "I have two questions.",
     },
-    say: null,
   },
   {
     num: 51,
@@ -1074,7 +1024,6 @@ const WORDS = [
       pinyin: "wǒ xiàn zài zài gōng sī",
       en: "I'm at the office right now.",
     },
-    say: null,
   },
   {
     num: 52,
@@ -1090,7 +1039,6 @@ const WORDS = [
       pinyin: "wǒ míng tiān yào qù yín háng",
       en: "I'm going to the bank tomorrow.",
     },
-    say: null,
   },
   {
     num: 53,
@@ -1106,7 +1054,6 @@ const WORDS = [
       pinyin: "nǐ shén me shí hòu lái tái wān",
       en: "When are you coming to Taiwan?",
     },
-    say: null,
   },
   {
     num: 54,
@@ -1122,7 +1069,6 @@ const WORDS = [
       pinyin: "wǒ wǎn shàng jiǔ diǎn huí jiā",
       en: "I get home at 9 p.m.",
     },
-    say: null,
   },
   {
     num: 55,
@@ -1138,7 +1084,6 @@ const WORDS = [
       pinyin: "wǒ men zǒu lù qù chē zhàn",
       en: "We walk to the station.",
     },
-    say: null,
   },
   {
     num: 56,
@@ -1154,7 +1099,6 @@ const WORDS = [
       pinyin: "wǒ yǐ jīng dào gōng sī le",
       en: "I've already arrived at the office.",
     },
-    say: null,
   },
   {
     num: 57,
@@ -1170,7 +1114,6 @@ const WORDS = [
       pinyin: "qǐng jìn lái zuò",
       en: "Please come in and sit down.",
     },
-    say: null,
   },
   {
     num: 58,
@@ -1186,7 +1129,6 @@ const WORDS = [
       pinyin: "tā gāng cóng fáng jiān chū lái",
       en: "He just came out of the room.",
     },
-    say: null,
   },
   {
     num: 59,
@@ -1202,7 +1144,6 @@ const WORDS = [
       pinyin: "wǒ men zuò diàn tī shàng lóu",
       en: "We take the elevator upstairs.",
     },
-    say: null,
   },
   {
     num: 60,
@@ -1218,7 +1159,6 @@ const WORDS = [
       pinyin: "wǒ xiàn zài yào xià lóu",
       en: "I'm going downstairs now.",
     },
-    say: null,
   },
   {
     num: 61,
@@ -1234,7 +1174,6 @@ const WORDS = [
       pinyin: "qǐng bāng wǒ kāi mén",
       en: "Please open the door for me.",
     },
-    say: null,
   },
   {
     num: 62,
@@ -1250,7 +1189,6 @@ const WORDS = [
       pinyin: "lí kāi qián jì de guān dēng",
       en: "Remember to turn off the light before you leave.",
     },
-    say: null,
   },
   {
     num: 63,
@@ -1266,7 +1204,6 @@ const WORDS = [
       pinyin: "wǒ měi tiān zuò jié yùn shàng bān",
       en: "I take the MRT to work every day.",
     },
-    say: null,
   },
   {
     num: 64,
@@ -1282,7 +1219,6 @@ const WORDS = [
       pinyin: "qǐng zhàn zài zhè lǐ děng",
       en: "Please stand here and wait.",
     },
-    say: null,
   },
   {
     num: 65,
@@ -1298,7 +1234,6 @@ const WORDS = [
       pinyin: "wǒ wǎn shàng xǐ huān kàn diàn yǐng",
       en: "I like watching movies at night.",
     },
-    say: null,
   },
   {
     num: 66,
@@ -1314,7 +1249,6 @@ const WORDS = [
       pinyin: "qǐng zǐ xì tīng lǎo shī shuō",
       en: "Please listen carefully to the teacher.",
     },
-    say: null,
   },
   {
     num: 67,
@@ -1330,7 +1264,6 @@ const WORDS = [
       pinyin: "nǐ kě yǐ zài shuō yí cì ma",
       en: "Can you say it once more?",
     },
-    say: null,
   },
   {
     num: 68,
@@ -1346,7 +1279,6 @@ const WORDS = [
       pinyin: "tā zhōng wén jiǎng de hěn hǎo",
       en: "He speaks Chinese very well.",
     },
-    say: null,
   },
   {
     num: 69,
@@ -1362,7 +1294,6 @@ const WORDS = [
       pinyin: "wǒ xiǎng wèn yí ge wèn tí",
       en: "I'd like to ask a question.",
     },
-    say: null,
   },
   {
     num: 70,
@@ -1378,7 +1309,6 @@ const WORDS = [
       pinyin: "qǐng yòng zhōng wén huí dá",
       en: "Please answer in Chinese.",
     },
-    say: null,
   },
   {
     num: 71,
@@ -1394,7 +1324,6 @@ const WORDS = [
       pinyin: "wǒ zhī dào nà jiā diàn zài nǎ lǐ",
       en: "I know where that store is.",
     },
-    say: null,
   },
   {
     num: 72,
@@ -1410,7 +1339,6 @@ const WORDS = [
       pinyin: "wǒ zài dà xué rèn shì tā",
       en: "I met her at university.",
     },
-    say: null,
   },
   {
     num: 73,
@@ -1427,7 +1355,6 @@ const WORDS = [
       pinyin: "wǒ xiǎng xiān liǎo jiě gōng zuò nèi róng",
       en: "I want to understand the job first.",
     },
-    say: null,
   },
   {
     num: 74,
@@ -1443,7 +1370,6 @@ const WORDS = [
       pinyin: "zhè ge wén fǎ wǒ bú tài dǒng",
       en: "I don't really understand this grammar.",
     },
-    say: null,
   },
   {
     num: 75,
@@ -1459,7 +1385,6 @@ const WORDS = [
       pinyin: "wǒ xiǎng hē yì bēi kā fēi",
       en: "I'd like to drink a cup of coffee.",
     },
-    say: null,
   },
   {
     num: 76,
@@ -1475,7 +1400,6 @@ const WORDS = [
       pinyin: "wǒ jué de zhè ge fāng fǎ hěn hǎo",
       en: "I think this method is good.",
     },
-    say: null,
   },
   {
     num: 77,
@@ -1491,7 +1415,6 @@ const WORDS = [
       pinyin: "wǒ xiāng xìn nǐ kě yǐ zuò dào",
       en: "I believe you can do it.",
     },
-    say: null,
   },
   {
     num: 78,
@@ -1507,7 +1430,6 @@ const WORDS = [
       pinyin: "jì de míng tiān dài zhèng jiàn",
       en: "Remember to bring your ID tomorrow.",
     },
-    say: null,
   },
   {
     num: 79,
@@ -1523,7 +1445,6 @@ const WORDS = [
       pinyin: "wǒ wàng jì dài yǔ sǎn le",
       en: "I forgot to bring an umbrella.",
     },
-    say: null,
   },
   {
     num: 80,
@@ -1539,7 +1460,6 @@ const WORDS = [
       pinyin: "wǒ yào yí fèn jī ròu biàn dāng",
       en: "I'd like one chicken lunchbox.",
     },
-    say: null,
   },
   {
     num: 81,
@@ -1555,7 +1475,6 @@ const WORDS = [
       pinyin: "wǒ xū yào nǐ de bāng zhù",
       en: "I need your help.",
     },
-    say: null,
   },
   {
     num: 82,
@@ -1571,7 +1490,6 @@ const WORDS = [
       pinyin: "zhè lǐ kě yǐ pāi zhào ma",
       en: "May I take photos here?",
     },
-    say: null,
   },
   {
     num: 83,
@@ -1587,7 +1505,6 @@ const WORDS = [
       pinyin: "wǒ huì shuō yì diǎn zhōng wén",
       en: "I can speak a little Chinese.",
     },
-    say: null,
   },
   {
     num: 84,
@@ -1603,7 +1520,6 @@ const WORDS = [
       pinyin: "nǐ jīn tiān néng lái ma",
       en: "Are you able to come today?",
     },
-    say: null,
   },
   {
     num: 85,
@@ -1619,7 +1535,6 @@ const WORDS = [
       pinyin: "nǐ yīng gāi zǎo diǎn xiū xí",
       en: "You should rest earlier.",
     },
-    say: null,
   },
   {
     num: 86,
@@ -1635,7 +1550,6 @@ const WORDS = [
       pinyin: "jìn qù yǐ qián bì xū mǎi piào",
       en: "You must buy a ticket before going in.",
     },
-    say: null,
   },
   {
     num: 87,
@@ -1651,7 +1565,6 @@ const WORDS = [
       pinyin: "wǒ yuàn yì shì shì kàn",
       en: "I'm willing to give it a try.",
     },
-    say: null,
   },
   {
     num: 88,
@@ -1667,7 +1580,6 @@ const WORDS = [
       pinyin: "wǒ hěn xǐ huān tái wān xiǎo chī",
       en: "I really like Taiwanese snacks.",
     },
-    say: null,
   },
   {
     num: 89,
@@ -1683,7 +1595,6 @@ const WORDS = [
       pinyin: "wǒ ài wǒ de jiā rén",
       en: "I love my family.",
     },
-    say: null,
   },
   {
     num: 90,
@@ -1699,7 +1610,6 @@ const WORDS = [
       pinyin: "wǒ tǎo yàn sāi chē",
       en: "I hate traffic jams.",
     },
-    say: null,
   },
   {
     num: 91,
@@ -1715,7 +1625,6 @@ const WORDS = [
       pinyin: "xī wàng míng tiān tiān qì hěn hǎo",
       en: "I hope the weather is nice tomorrow.",
     },
-    say: null,
   },
   {
     num: 92,
@@ -1731,7 +1640,6 @@ const WORDS = [
       pinyin: "wǒ jué dìng jiē shòu zhè fèn gōng zuò",
       en: "I've decided to accept this job.",
     },
-    say: null,
   },
   {
     num: 93,
@@ -1747,7 +1655,6 @@ const WORDS = [
       pinyin: "nǐ kě yǐ xuǎn zé bù tóng de fāng àn",
       en: "You can choose a different option.",
     },
-    say: null,
   },
   {
     num: 94,
@@ -1764,7 +1671,6 @@ const WORDS = [
       pinyin: "wǒ zhèng zài zhǔn bèi míng tiān de miàn shì",
       en: "I'm preparing for tomorrow's interview.",
     },
-    say: null,
   },
   {
     num: 95,
@@ -1780,7 +1686,6 @@ const WORDS = [
       pinyin: "huì yì jiǔ diǎn kāi shǐ",
       en: "The meeting starts at nine.",
     },
-    say: null,
   },
   {
     num: 96,
@@ -1796,7 +1701,6 @@ const WORDS = [
       pinyin: "qǐng jì xù shuō",
       en: "Please go on.",
     },
-    say: null,
   },
   {
     num: 97,
@@ -1812,7 +1716,6 @@ const WORDS = [
       pinyin: "wǒ ná le liǎng běn shū",
       en: "I took two books.",
     },
-    say: null,
   },
   {
     num: 98,
@@ -1828,7 +1731,6 @@ const WORDS = [
       pinyin: "qǐng bǎ yào shi fàng zài zhuō shàng",
       en: "Please put the keys on the table.",
     },
-    say: null,
   },
   {
     num: 99,
@@ -1844,7 +1746,6 @@ const WORDS = [
       pinyin: "qǐng gěi wǒ yì bēi shuǐ",
       en: "Please give me a glass of water.",
     },
-    say: null,
   },
   {
     num: 100,
@@ -1860,7 +1761,6 @@ const WORDS = [
       pinyin: "chū mén jì de dài sǎn",
       en: "Remember to bring an umbrella when you go out.",
     },
-    say: null,
   },
   {
     num: 101,
@@ -1876,7 +1776,6 @@ const WORDS = [
       pinyin: "wǒ sòng le tā yí fèn lǐ wù",
       en: "I gave her a gift.",
     },
-    say: null,
   },
   {
     num: 102,
@@ -1892,7 +1791,6 @@ const WORDS = [
       pinyin: "kě yǐ jiè wǒ yì zhī bǐ ma",
       en: "Can you lend me a pen?",
     },
-    say: null,
   },
   {
     num: 103,
@@ -1908,7 +1806,6 @@ const WORDS = [
       pinyin: "wǒ míng tiān bǎ shū huán gěi nǐ",
       en: "I'll return the book to you tomorrow.",
     },
-    say: null,
   },
   {
     num: 104,
@@ -1924,7 +1821,6 @@ const WORDS = [
       pinyin: "wǒ xiǎng mǎi yí jiàn wài tào",
       en: "I want to buy a jacket.",
     },
-    say: null,
   },
   {
     num: 105,
@@ -1940,7 +1836,6 @@ const WORDS = [
       pinyin: "zhè jiā diàn mài shǒu jī",
       en: "This shop sells phones.",
     },
-    say: null,
   },
   {
     num: 106,
@@ -1956,7 +1851,6 @@ const WORDS = [
       pinyin: "wǒ kě yǐ yòng xìn yòng kǎ fù ma",
       en: "Can I pay by credit card?",
     },
-    say: null,
   },
   {
     num: 107,
@@ -1972,7 +1866,6 @@ const WORDS = [
       pinyin: "diàn yuán zhǎo qián gěi wǒ",
       en: "The clerk gave me change.",
     },
-    say: null,
   },
   {
     num: 108,
@@ -1988,7 +1881,6 @@ const WORDS = [
       pinyin: "wǒ kě yǐ yòng yí xià nǐ de shǒu jī ma",
       en: "Can I use your phone for a moment?",
     },
-    say: null,
   },
   {
     num: 109,
@@ -2004,7 +1896,6 @@ const WORDS = [
       pinyin: "wǒ xiǎng huàn yí jiàn dà yì diǎn de",
       en: "I'd like to exchange it for a bigger one.",
     },
-    say: null,
   },
   {
     num: 110,
@@ -2020,7 +1911,6 @@ const WORDS = [
       pinyin: "wǒ de shǒu jī huài le yào ná qù xiū",
       en: "My phone is broken; I need to get it repaired.",
     },
-    say: null,
   },
   {
     num: 111,
@@ -2036,7 +1926,6 @@ const WORDS = [
       pinyin: "wǒ měi tiān xǐ tóu",
       en: "I wash my hair every day.",
     },
-    say: null,
   },
   {
     num: 112,
@@ -2052,7 +1941,6 @@ const WORDS = [
       pinyin: "wǒ zhōu mò qīng lǐ fáng jiān",
       en: "I clean my room on weekends.",
     },
-    say: null,
   },
   {
     num: 113,
@@ -2068,7 +1956,6 @@ const WORDS = [
       pinyin: "wǒ zài zhěng lǐ xíng lǐ",
       en: "I'm organizing my luggage.",
     },
-    say: null,
   },
   {
     num: 114,
@@ -2084,7 +1971,6 @@ const WORDS = [
       pinyin: "qǐng bǎ lè sè diū dào lè sè tǒng",
       en: "Please throw the trash in the bin.",
     },
-    say: null,
   },
   {
     num: 115,
@@ -2100,7 +1986,6 @@ const WORDS = [
       pinyin: "jīn tiān hěn lěng duō chuān yì diǎn",
       en: "It's cold today — wear a bit more.",
     },
-    say: null,
   },
   {
     num: 116,
@@ -2116,7 +2001,6 @@ const WORDS = [
       pinyin: "jìn mén qián qǐng xiān tuō xié",
       en: "Please take off your shoes before coming in.",
     },
-    say: null,
   },
   {
     num: 117,
@@ -2132,7 +2016,6 @@ const WORDS = [
       pinyin: "nǐ chī zǎo cān le ma",
       en: "Have you eaten breakfast?",
     },
-    say: null,
   },
   {
     num: 118,
@@ -2148,7 +2031,6 @@ const WORDS = [
       pinyin: "wǒ xiǎng hē yì bēi rè chá",
       en: "I'd like a cup of hot tea.",
     },
-    say: null,
   },
   {
     num: 119,
@@ -2164,7 +2046,6 @@ const WORDS = [
       pinyin: "jīn tiān wǒ lái zhǔ wǎn cān",
       en: "I'll cook dinner today.",
     },
-    say: null,
   },
   {
     num: 120,
@@ -2180,7 +2061,6 @@ const WORDS = [
       pinyin: "wǒ zài chú fáng qiē cài",
       en: "I'm cutting vegetables in the kitchen.",
     },
-    say: null,
   },
   {
     num: 121,
@@ -2196,7 +2076,6 @@ const WORDS = [
       pinyin: "wǒ men diǎn le sān dào cài",
       en: "We ordered three dishes.",
     },
-    say: null,
   },
   {
     num: 122,
@@ -2212,7 +2091,6 @@ const WORDS = [
       pinyin: "wǒ zuó tiān hěn zǎo shuì",
       en: "I went to bed early yesterday.",
     },
-    say: null,
   },
   {
     num: 123,
@@ -2228,7 +2106,6 @@ const WORDS = [
       pinyin: "wǒ měi tiān qī diǎn qǐ chuáng",
       en: "I get up at seven every day.",
     },
-    say: null,
   },
   {
     num: 124,
@@ -2244,7 +2121,6 @@ const WORDS = [
       pinyin: "nǐ lèi le jiù xiū xí yí xià",
       en: "Rest for a bit if you're tired.",
     },
-    say: null,
   },
   {
     num: 125,
@@ -2260,7 +2136,6 @@ const WORDS = [
       pinyin: "wǒ xí guàn wǎn shàng xǐ zǎo",
       en: "I usually shower at night.",
     },
-    say: null,
   },
   {
     num: 126,
@@ -2276,7 +2151,6 @@ const WORDS = [
       pinyin: "shuì qián jì de shuā yá",
       en: "Remember to brush your teeth before bed.",
     },
-    say: null,
   },
   {
     num: 127,
@@ -2292,7 +2166,6 @@ const WORDS = [
       pinyin: "tā zài yín háng gōng zuò",
       en: "He works at a bank.",
     },
-    say: null,
   },
   {
     num: 128,
@@ -2308,7 +2181,6 @@ const WORDS = [
       pinyin: "wǒ zhèng zài xué xí zhōng wén",
       en: "I'm studying Chinese.",
     },
-    say: null,
   },
   {
     num: 129,
@@ -2324,7 +2196,6 @@ const WORDS = [
       pinyin: "lǎo shī jiāo wǒ men zhōng wén",
       en: "The teacher teaches us Chinese.",
     },
-    say: null,
   },
   {
     num: 130,
@@ -2340,7 +2211,6 @@ const WORDS = [
       pinyin: "wǒ měi tiān liàn xí shuō zhōng wén",
       en: "I practice speaking Chinese every day.",
     },
-    say: null,
   },
   {
     num: 131,
@@ -2356,7 +2226,6 @@ const WORDS = [
       pinyin: "wǒ zài xiě yì fēng xìn",
       en: "I'm writing a letter.",
     },
-    say: null,
   },
   {
     num: 132,
@@ -2372,7 +2241,6 @@ const WORDS = [
       pinyin: "wǒ xǐ huān dú xiǎo shuō",
       en: "I like reading novels.",
     },
-    say: null,
   },
   {
     num: 133,
@@ -2388,7 +2256,6 @@ const WORDS = [
       pinyin: "tā dǎ zì hěn kuài",
       en: "He types fast.",
     },
-    say: null,
   },
   {
     num: 134,
@@ -2404,7 +2271,6 @@ const WORDS = [
       pinyin: "mèi mei hěn huì huà huà",
       en: "My little sister is good at drawing.",
     },
-    say: null,
   },
   {
     num: 135,
@@ -2420,7 +2286,6 @@ const WORDS = [
       pinyin: "wǒ men pāi zhāng zhào ba",
       en: "Let's take a photo.",
     },
-    say: null,
   },
   {
     num: 136,
@@ -2436,7 +2301,6 @@ const WORDS = [
       pinyin: "wǒ bǎ zhào piàn chuán gěi nǐ",
       en: "I'll send you the photo.",
     },
-    say: null,
   },
   {
     num: 137,
@@ -2452,7 +2316,6 @@ const WORDS = [
       pinyin: "wǒ xiǎng xià zài zhè ge yìng yòng chéng shì",
       en: "I want to download this app.",
     },
-    say: null,
   },
   {
     num: 138,
@@ -2468,7 +2331,6 @@ const WORDS = [
       pinyin: "qǐng bǎ dàng àn shàng chuán dào yún duān",
       en: "Please upload the file to the cloud.",
     },
-    say: null,
   },
   {
     num: 139,
@@ -2484,7 +2346,6 @@ const WORDS = [
       pinyin: "qǐng àn zhè ge àn niǔ",
       en: "Please press this button.",
     },
-    say: null,
   },
   {
     num: 140,
@@ -2500,7 +2361,6 @@ const WORDS = [
       pinyin: "diǎn jī zhè lǐ kàn gèng duō",
       en: "Click here to see more.",
     },
-    say: null,
   },
   {
     num: 141,
@@ -2516,7 +2376,6 @@ const WORDS = [
       pinyin: "qǐng xiān dēng rù nǐ de zhàng hào",
       en: "Please log in to your account first.",
     },
-    say: null,
   },
   {
     num: 142,
@@ -2532,7 +2391,6 @@ const WORDS = [
       pinyin: "yòng wán qǐng jì de dēng chū",
       en: "Remember to log out when you're done.",
     },
-    say: null,
   },
   {
     num: 143,
@@ -2548,7 +2406,6 @@ const WORDS = [
       pinyin: "wǒ zài wǎng lù shàng sōu xún zī liào",
       en: "I'm searching for information online.",
     },
-    say: null,
   },
   {
     num: 144,
@@ -2564,7 +2421,6 @@ const WORDS = [
       pinyin: "chū fā qián jiǎn chá yí xià xíng lǐ",
       en: "Check your luggage before you leave.",
     },
-    say: null,
   },
   {
     num: 145,
@@ -2580,7 +2436,6 @@ const WORDS = [
       pinyin: "zhè jiā cān tīng de fú wù hěn hǎo",
       en: "This restaurant's service is very good.",
     },
-    say: null,
   },
   {
     num: 146,
@@ -2596,7 +2451,6 @@ const WORDS = [
       pinyin: "zhè ge jī dàn huài diào le",
       en: "This egg has gone bad.",
     },
-    say: null,
   },
   {
     num: 147,
@@ -2612,7 +2466,6 @@ const WORDS = [
       pinyin: "tā men jiā hěn dà",
       en: "Their house is big.",
     },
-    say: null,
   },
   {
     num: 148,
@@ -2628,7 +2481,6 @@ const WORDS = [
       pinyin: "zhè shuāng xié yǒu diǎn xiǎo",
       en: "These shoes are a little small.",
     },
-    say: null,
   },
   {
     num: 149,
@@ -2644,7 +2496,6 @@ const WORDS = [
       pinyin: "nà dòng dà lóu hěn gāo",
       en: "That building is very tall.",
     },
-    say: null,
   },
   {
     num: 150,
@@ -2660,7 +2511,6 @@ const WORDS = [
       pinyin: "wǒ bǐ jiě jie ǎi",
       en: "I'm shorter than my older sister.",
     },
-    say: null,
   },
   {
     num: 151,
@@ -2676,7 +2526,6 @@ const WORDS = [
       pinyin: "zhè tiáo lù hěn cháng",
       en: "This road is long.",
     },
-    say: null,
   },
   {
     num: 152,
@@ -2692,7 +2541,6 @@ const WORDS = [
       pinyin: "jīn tiān de huì yì hěn duǎn",
       en: "Today's meeting was short.",
     },
-    say: null,
   },
   {
     num: 153,
@@ -2708,7 +2556,6 @@ const WORDS = [
       pinyin: "zhè lǐ de rén hěn duō",
       en: "There are a lot of people here.",
     },
-    say: null,
   },
   {
     num: 154,
@@ -2724,7 +2571,6 @@ const WORDS = [
       pinyin: "jīn tiān kè rén bǐ jiào shǎo",
       en: "There are fewer customers today.",
     },
-    say: null,
   },
   {
     num: 155,
@@ -2740,7 +2586,6 @@ const WORDS = [
       pinyin: "gāo tiě hěn kuài",
       en: "The high-speed rail is fast.",
     },
-    say: null,
   },
   {
     num: 156,
@@ -2756,7 +2601,6 @@ const WORDS = [
       pinyin: "nǐ kě yǐ shuō màn yì diǎn ma",
       en: "Could you speak a little slower?",
     },
-    say: null,
   },
   {
     num: 157,
@@ -2772,7 +2616,6 @@ const WORDS = [
       pinyin: "wǒ jīn tiān dào de hěn zǎo",
       en: "I arrived early today.",
     },
-    say: null,
   },
   {
     num: 158,
@@ -2788,7 +2631,6 @@ const WORDS = [
       pinyin: "xiàn zài hěn wǎn le kuài shuì ba",
       en: "It's late now — go to sleep.",
     },
-    say: null,
   },
   {
     num: 159,
@@ -2804,7 +2646,6 @@ const WORDS = [
       pinyin: "wǒ mǎi le yì zhī xīn shǒu jī",
       en: "I bought a new phone.",
     },
-    say: null,
   },
   {
     num: 160,
@@ -2820,7 +2661,6 @@ const WORDS = [
       pinyin: "zhè tái diàn nǎo yǒu diǎn jiù le",
       en: "This computer is a bit old.",
     },
-    say: null,
   },
   {
     num: 161,
@@ -2836,7 +2676,6 @@ const WORDS = [
       pinyin: "tā kàn qǐ lái hěn nián qīng",
       en: "He looks young.",
     },
-    say: null,
   },
   {
     num: 162,
@@ -2852,7 +2691,6 @@ const WORDS = [
       pinyin: "wǒ yé ye nián jì hěn lǎo le",
       en: "My grandpa is very old.",
     },
-    say: null,
   },
   {
     num: 163,
@@ -2868,7 +2706,6 @@ const WORDS = [
       pinyin: "zhè jiàn yáng zhuāng hěn piào liàng",
       en: "This dress is beautiful.",
     },
-    say: null,
   },
   {
     num: 164,
@@ -2884,7 +2721,6 @@ const WORDS = [
       pinyin: "tā jīn tiān chuān de hěn shuài",
       en: "He looks handsome today.",
     },
-    say: null,
   },
   {
     num: 165,
@@ -2900,7 +2736,6 @@ const WORDS = [
       pinyin: "zhè zhī xiǎo gǒu hǎo kě ài",
       en: "This puppy is so cute.",
     },
-    say: null,
   },
   {
     num: 166,
@@ -2916,7 +2751,6 @@ const WORDS = [
       pinyin: "zhè ge yán sè yǒu diǎn chǒu",
       en: "This color is a bit ugly.",
     },
-    say: null,
   },
   {
     num: 167,
@@ -2932,7 +2766,6 @@ const WORDS = [
       pinyin: "zhè jiān cè suǒ hěn gān jìng",
       en: "This bathroom is clean.",
     },
-    say: null,
   },
   {
     num: 168,
@@ -2948,7 +2781,6 @@ const WORDS = [
       pinyin: "nǐ de xié zi hěn zāng",
       en: "Your shoes are dirty.",
     },
-    say: null,
   },
   {
     num: 169,
@@ -2964,7 +2796,6 @@ const WORDS = [
       pinyin: "tú shū guǎn lǐ hěn ān jìng",
       en: "It's very quiet in the library.",
     },
-    say: null,
   },
   {
     num: 170,
@@ -2980,7 +2811,6 @@ const WORDS = [
       pinyin: "wài miàn de mǎ lù hěn chǎo",
       en: "The street outside is noisy.",
     },
-    say: null,
   },
   {
     num: 171,
@@ -2996,7 +2826,6 @@ const WORDS = [
       pinyin: "zhè dào tí hěn jiǎn dān",
       en: "This question is simple.",
     },
-    say: null,
   },
   {
     num: 172,
@@ -3012,7 +2841,6 @@ const WORDS = [
       pinyin: "zhōng wén de fā yīn yǒu diǎn nán",
       en: "Chinese pronunciation is a bit hard.",
     },
-    say: null,
   },
   {
     num: 173,
@@ -3028,7 +2856,6 @@ const WORDS = [
       pinyin: "zhè ge zì hěn róng yì jì",
       en: "This character is easy to remember.",
     },
-    say: null,
   },
   {
     num: 174,
@@ -3044,7 +2871,6 @@ const WORDS = [
       pinyin: "zhè jiàn shì hěn zhòng yào",
       en: "This matter is important.",
     },
-    say: null,
   },
   {
     num: 175,
@@ -3060,7 +2886,6 @@ const WORDS = [
       pinyin: "jīn tiān shì ge tè bié de rì zi",
       en: "Today is a special day.",
     },
-    say: null,
   },
   {
     num: 176,
@@ -3076,7 +2901,6 @@ const WORDS = [
       pinyin: "zhè liǎng jiàn yī fú yán sè yí yàng",
       en: "These two shirts are the same color.",
     },
-    say: null,
   },
   {
     num: 177,
@@ -3092,7 +2916,6 @@ const WORDS = [
       pinyin: "wǒ men de xiǎng fǎ bù tóng",
       en: "Our ideas are different.",
     },
-    say: null,
   },
   {
     num: 178,
@@ -3108,7 +2931,6 @@ const WORDS = [
       pinyin: "nǐ de dá àn shì duì de",
       en: "Your answer is correct.",
     },
-    say: null,
   },
   {
     num: 179,
@@ -3124,7 +2946,6 @@ const WORDS = [
       pinyin: "wǒ xiě cuò le yí ge zì",
       en: "I wrote one character wrong.",
     },
-    say: null,
   },
   {
     num: 180,
@@ -3140,7 +2961,6 @@ const WORDS = [
       pinyin: "lǎo shī jiǎng de hěn qīng chǔ",
       en: "The teacher explained it clearly.",
     },
-    say: null,
   },
   {
     num: 181,
@@ -3156,7 +2976,6 @@ const WORDS = [
       pinyin: "zhè zhāng zhào piàn yǒu diǎn mó hú",
       en: "This photo is a bit blurry.",
     },
-    say: null,
   },
   {
     num: 182,
@@ -3173,7 +2992,6 @@ const WORDS = [
       pinyin: "zhù zài jié yùn zhàn fù jìn hěn fāng biàn",
       en: "It's convenient to live near an MRT station.",
     },
-    say: null,
   },
   {
     num: 183,
@@ -3189,7 +3007,6 @@ const WORDS = [
       pinyin: "zhè jiàn shì yǒu diǎn má fán",
       en: "This is a bit of a hassle.",
     },
-    say: null,
   },
   {
     num: 184,
@@ -3206,7 +3023,6 @@ const WORDS = [
       pinyin: "wǎn shàng yí ge rén zǒu lù yào zhù yì ān quán",
       en: "Be careful walking alone at night.",
     },
-    say: null,
   },
   {
     num: 185,
@@ -3222,7 +3038,6 @@ const WORDS = [
       pinyin: "zhè lǐ hěn wéi xiǎn bié kào jìn",
       en: "It's dangerous here — don't go near.",
     },
-    say: null,
   },
   {
     num: 186,
@@ -3238,7 +3053,6 @@ const WORDS = [
       pinyin: "tā de shēn tǐ hěn jiàn kāng",
       en: "He's very healthy.",
     },
-    say: null,
   },
   {
     num: 187,
@@ -3254,7 +3068,6 @@ const WORDS = [
       pinyin: "tā de gǎn mào hěn yán zhòng",
       en: "His cold is serious.",
     },
-    say: null,
   },
   {
     num: 188,
@@ -3270,7 +3083,6 @@ const WORDS = [
       pinyin: "yí qiè dōu hěn zhèng cháng",
       en: "Everything is normal.",
     },
-    say: null,
   },
   {
     num: 189,
@@ -3286,7 +3098,6 @@ const WORDS = [
       pinyin: "zhè ge wèi dào yǒu diǎn qí guài",
       en: "This smell is a bit strange.",
     },
-    say: null,
   },
   {
     num: 190,
@@ -3302,7 +3113,6 @@ const WORDS = [
       pinyin: "zhè běn shū hěn yǒu qù",
       en: "This book is interesting.",
     },
-    say: null,
   },
   {
     num: 191,
@@ -3318,7 +3128,6 @@ const WORDS = [
       pinyin: "zhè bù diàn yǐng hěn wú liáo",
       en: "This movie is boring.",
     },
-    say: null,
   },
   {
     num: 192,
@@ -3334,7 +3143,6 @@ const WORDS = [
       pinyin: "wǒ zuì jìn gōng zuò hěn máng",
       en: "I've been very busy with work lately.",
     },
-    say: null,
   },
   {
     num: 193,
@@ -3350,7 +3158,6 @@ const WORDS = [
       pinyin: "jīn tiān fēi cháng rè",
       en: "It's extremely hot today.",
     },
-    say: null,
   },
   {
     num: 194,
@@ -3367,7 +3174,6 @@ const WORDS = [
       pinyin: "zhè jiā diàn de dōng xi zhēn de hěn hǎo chī",
       en: "This shop's food is really delicious.",
     },
-    say: null,
   },
   {
     num: 195,
@@ -3383,7 +3189,6 @@ const WORDS = [
       pinyin: "wǒ jīn tiān yǒu diǎn lèi",
       en: "I'm a little tired today.",
     },
-    say: null,
   },
   {
     num: 196,
@@ -3399,7 +3204,6 @@ const WORDS = [
       pinyin: "qǐng gěi wǒ yì diǎn shí jiān",
       en: "Please give me a little time.",
     },
-    say: null,
   },
   {
     num: 197,
@@ -3415,7 +3219,6 @@ const WORDS = [
       pinyin: "wǒ wán quán bù dǒng",
       en: "I completely don't understand.",
     },
-    say: null,
   },
   {
     num: 198,
@@ -3431,7 +3234,6 @@ const WORDS = [
       pinyin: "shí jiān chà bu duō le wǒ men zǒu ba",
       en: "It's about time — let's go.",
     },
-    say: null,
   },
   {
     num: 199,
@@ -3448,7 +3250,6 @@ const WORDS = [
       pinyin: "cóng zhè lǐ dào chē zhàn dà gài shí fēn zhōng",
       en: "It's about ten minutes from here to the station.",
     },
-    say: null,
   },
   {
     num: 200,
@@ -3464,7 +3265,6 @@ const WORDS = [
       pinyin: "tā jīn tiān kě néng bú huì lái",
       en: "He might not come today.",
     },
-    say: null,
   },
   {
     num: 201,
@@ -3480,7 +3280,6 @@ const WORDS = [
       pinyin: "wǒ míng tiān yí dìng zhǔn shí dào",
       en: "I'll definitely arrive on time tomorrow.",
     },
-    say: null,
   },
   {
     num: 202,
@@ -3496,7 +3295,6 @@ const WORDS = [
       pinyin: "yě xǔ míng tiān huì xià yǔ",
       en: "Maybe it'll rain tomorrow.",
     },
-    say: null,
   },
   {
     num: 203,
@@ -3512,7 +3310,6 @@ const WORDS = [
       pinyin: "dāng rán kě yǐ méi wèn tí",
       en: "Of course, no problem.",
     },
-    say: null,
   },
   {
     num: 204,
@@ -3528,7 +3325,6 @@ const WORDS = [
       pinyin: "qí shí wǒ bú tài xǐ huān kā fēi",
       en: "Actually, I don't really like coffee.",
     },
-    say: null,
   },
   {
     num: 205,
@@ -3544,7 +3340,6 @@ const WORDS = [
       pinyin: "wǒ tè bié de xǐ huān zhè shǒu gē",
       en: "I especially like this song.",
     },
-    say: null,
   },
   {
     num: 206,
@@ -3560,7 +3355,6 @@ const WORDS = [
       pinyin: "wǒ zhǔ yào fù zé zhè ge bù fèn",
       en: "I'm mainly responsible for this part.",
     },
-    say: null,
   },
   {
     num: 207,
@@ -3576,7 +3370,6 @@ const WORDS = [
       pinyin: "wǒ tōng cháng qī diǎn qǐ chuáng",
       en: "I usually get up at seven.",
     },
-    say: null,
   },
   {
     num: 208,
@@ -3592,7 +3385,6 @@ const WORDS = [
       pinyin: "wǒ cháng cháng zài zhè jiā diàn chī fàn",
       en: "I often eat at this restaurant.",
     },
-    say: null,
   },
   {
     num: 209,
@@ -3608,7 +3400,6 @@ const WORDS = [
       pinyin: "wǒ yǒu shí hòu huì zì jǐ zhǔ fàn",
       en: "Sometimes I cook for myself.",
     },
-    say: null,
   },
   {
     num: 210,
@@ -3624,7 +3415,6 @@ const WORDS = [
       pinyin: "wǒ ǒu ěr huì qù kàn diàn yǐng",
       en: "I occasionally go to the movies.",
     },
-    say: null,
   },
   {
     num: 211,
@@ -3640,7 +3430,6 @@ const WORDS = [
       pinyin: "wǒ hěn shǎo hē jiǔ",
       en: "I rarely drink alcohol.",
     },
-    say: null,
   },
   {
     num: 212,
@@ -3656,7 +3445,6 @@ const WORDS = [
       pinyin: "tā cóng lái bù chí dào",
       en: "He is never late.",
     },
-    say: null,
   },
   {
     num: 213,
@@ -3672,7 +3460,6 @@ const WORDS = [
       pinyin: "wǒ měi tiān zǒu lù shàng bān",
       en: "I walk to work every day.",
     },
-    say: null,
   },
   {
     num: 214,
@@ -3688,7 +3475,6 @@ const WORDS = [
       pinyin: "wǒ men měi zhōu kāi yí cì huì",
       en: "We have a meeting once a week.",
     },
-    say: null,
   },
   {
     num: 215,
@@ -3704,7 +3490,6 @@ const WORDS = [
       pinyin: "wǒ měi yuè cún yì diǎn qián",
       en: "I save a little money every month.",
     },
-    say: null,
   },
   {
     num: 216,
@@ -3720,7 +3505,6 @@ const WORDS = [
       pinyin: "tā yì zhí zài jiǎng diàn huà",
       en: "He's been on the phone the whole time.",
     },
-    say: null,
   },
   {
     num: 217,
@@ -3736,7 +3520,6 @@ const WORDS = [
       pinyin: "wǒ mǎ shàng jiù dào",
       en: "I'll be there right away.",
     },
-    say: null,
   },
   {
     num: 218,
@@ -3752,7 +3535,6 @@ const WORDS = [
       pinyin: "qǐng lì kè lí kāi",
       en: "Please leave immediately.",
     },
-    say: null,
   },
   {
     num: 219,
@@ -3768,7 +3550,6 @@ const WORDS = [
       pinyin: "kuài chí dào le gǎn kuài zǒu ba",
       en: "We're about to be late — hurry up.",
     },
-    say: null,
   },
   {
     num: 220,
@@ -3784,7 +3565,6 @@ const WORDS = [
       pinyin: "bié jí màn màn lái",
       en: "Don't rush — take your time.",
     },
-    say: null,
   },
   {
     num: 221,
@@ -3800,7 +3580,6 @@ const WORDS = [
       pinyin: "wǒ men yì qǐ qù chī wǔ cān ba",
       en: "Let's go have lunch together.",
     },
-    say: null,
   },
   {
     num: 222,
@@ -3816,7 +3595,6 @@ const WORDS = [
       pinyin: "zhè jiàn shì wǒ zì jǐ lái jiù hǎo",
       en: "I'll handle this myself.",
     },
-    say: null,
   },
   {
     num: 223,
@@ -3832,7 +3610,6 @@ const WORDS = [
       pinyin: "wǒ yǐ jīng chī guò le",
       en: "I've already eaten.",
     },
-    say: null,
   },
   {
     num: 224,
@@ -3848,7 +3625,6 @@ const WORDS = [
       pinyin: "wǒ hái méi jué dìng yào qù nǎ lǐ",
       en: "I haven't decided where to go yet.",
     },
-    say: null,
   },
   {
     num: 225,
@@ -3864,7 +3640,6 @@ const WORDS = [
       pinyin: "gāng cái yǒu rén dǎ diàn huà zhǎo nǐ",
       en: "Someone called for you just now.",
     },
-    say: null,
   },
   {
     num: 226,
@@ -3880,7 +3655,6 @@ const WORDS = [
       pinyin: "wǒ gāng gāng cái dào jiā",
       en: "I just got home.",
     },
-    say: null,
   },
   {
     num: 227,
@@ -3896,7 +3670,6 @@ const WORDS = [
       pinyin: "wǒ zhèng zài kāi huì",
       en: "I'm in a meeting right now.",
     },
-    say: null,
   },
   {
     num: 228,
@@ -3912,7 +3685,6 @@ const WORDS = [
       pinyin: "wǒ zhōng yú bǎ gōng zuò zuò wán le",
       en: "I finally finished the work.",
     },
-    say: null,
   },
   {
     num: 229,
@@ -3928,7 +3700,6 @@ const WORDS = [
       pinyin: "wǒ xiān zǒu le zài jiàn",
       en: "I'll head off first — bye.",
     },
-    say: null,
   },
   {
     num: 230,
@@ -3944,7 +3715,6 @@ const WORDS = [
       pinyin: "wǒ men hòu lái jiù méi lián luò le",
       en: "We lost touch afterwards.",
     },
-    say: null,
   },
   {
     num: 231,
@@ -3960,7 +3730,6 @@ const WORDS = [
       pinyin: "wǒ yǐ qián zhù zài tái zhōng",
       en: "I used to live in Taichung.",
     },
-    say: null,
   },
   {
     num: 232,
@@ -3976,7 +3745,6 @@ const WORDS = [
       pinyin: "xià bān yǐ hòu wǒ yào qù yùn dòng",
       en: "After work I'm going to exercise.",
     },
-    say: null,
   },
   {
     num: 233,
@@ -3992,7 +3760,6 @@ const WORDS = [
       pinyin: "wǒ mù qián zhù zài tái běi",
       en: "I currently live in Taipei.",
     },
-    say: null,
   },
   {
     num: 234,
@@ -4008,7 +3775,6 @@ const WORDS = [
       pinyin: "nǐ zuì jìn hǎo ma",
       en: "How have you been lately?",
     },
-    say: null,
   },
   {
     num: 235,
@@ -4024,7 +3790,6 @@ const WORDS = [
       pinyin: "fù jìn yǒu yì jiā biàn lì shāng diàn",
       en: "There's a convenience store nearby.",
     },
-    say: null,
   },
   {
     num: 236,
@@ -4040,7 +3805,6 @@ const WORDS = [
       pinyin: "zhè lǐ dào chù dōu shì rén",
       en: "It's crowded everywhere here.",
     },
-    say: null,
   },
   {
     num: 237,
@@ -4056,7 +3820,6 @@ const WORDS = [
       pinyin: "bāo bāo lǐ miàn yǒu shén me",
       en: "What's inside the bag?",
     },
-    say: null,
   },
   {
     num: 238,
@@ -4072,7 +3835,6 @@ const WORDS = [
       pinyin: "wài miàn zài xià yǔ",
       en: "It's raining outside.",
     },
-    say: null,
   },
   {
     num: 239,
@@ -4088,7 +3850,6 @@ const WORDS = [
       pinyin: "zhuō zi shàng miàn yǒu yì běn shū",
       en: "There's a book on the table.",
     },
-    say: null,
   },
   {
     num: 240,
@@ -4104,7 +3865,6 @@ const WORDS = [
       pinyin: "yǐ zi xià miàn yǒu yì zhī māo",
       en: "There's a cat under the chair.",
     },
-    say: null,
   },
   {
     num: 241,
@@ -4120,7 +3880,6 @@ const WORDS = [
       pinyin: "xiàn zài qì wēn shì líng dù",
       en: "The temperature is zero degrees now.",
     },
-    say: null,
   },
   {
     num: 242,
@@ -4136,7 +3895,6 @@ const WORDS = [
       pinyin: "wǒ zhǐ yào yí ge",
       en: "I only want one.",
     },
-    say: null,
   },
   {
     num: 243,
@@ -4152,7 +3910,6 @@ const WORDS = [
       pinyin: "èr jiā èr děng yú sì",
       en: "Two plus two equals four.",
     },
-    say: null,
   },
   {
     num: 244,
@@ -4168,7 +3925,6 @@ const WORDS = [
       pinyin: "wǒ yǒu sān ge xiōng dì",
       en: "I have three brothers.",
     },
-    say: null,
   },
   {
     num: 245,
@@ -4184,7 +3940,6 @@ const WORDS = [
       pinyin: "yì nián yǒu sì jì",
       en: "There are four seasons in a year.",
     },
-    say: null,
   },
   {
     num: 246,
@@ -4200,7 +3955,6 @@ const WORDS = [
       pinyin: "wǒ wǔ diǎn xià bān",
       en: "I get off work at five.",
     },
-    say: null,
   },
   {
     num: 247,
@@ -4216,7 +3970,6 @@ const WORDS = [
       pinyin: "zhè bān gōng chē liù diǎn fā chē",
       en: "This bus leaves at six.",
     },
-    say: null,
   },
   {
     num: 248,
@@ -4232,7 +3985,6 @@ const WORDS = [
       pinyin: "yí ge xīng qí yǒu qī tiān",
       en: "There are seven days in a week.",
     },
-    say: null,
   },
   {
     num: 249,
@@ -4248,7 +4000,6 @@ const WORDS = [
       pinyin: "shāng diàn bā diǎn kāi mén",
       en: "The shop opens at eight.",
     },
-    say: null,
   },
   {
     num: 250,
@@ -4264,7 +4015,6 @@ const WORDS = [
       pinyin: "wǒ wǎn shàng jiǔ diǎn shuì jiào",
       en: "I go to sleep at nine.",
     },
-    say: null,
   },
   {
     num: 251,
@@ -4280,7 +4030,6 @@ const WORDS = [
       pinyin: "zhè lǐ yǒu shí ge rén",
       en: "There are ten people here.",
     },
-    say: null,
   },
   {
     num: 252,
@@ -4296,7 +4045,6 @@ const WORDS = [
       pinyin: "zhè jiàn yī fú yì bǎi kuài",
       en: "This shirt is a hundred dollars.",
     },
-    say: null,
   },
   {
     num: 253,
@@ -4312,7 +4060,6 @@ const WORDS = [
       pinyin: "zhè shuāng xié yào sān qiān kuài",
       en: "These shoes cost three thousand dollars.",
     },
-    say: null,
   },
   {
     num: 254,
@@ -4328,7 +4075,6 @@ const WORDS = [
       pinyin: "zhè tái diàn nǎo yào sān wàn kuài",
       en: "This computer costs thirty thousand dollars.",
     },
-    say: null,
   },
   {
     num: 255,
@@ -4344,7 +4090,6 @@ const WORDS = [
       pinyin: "tā shì dì yī ge dào de",
       en: "She was the first to arrive.",
     },
-    say: null,
   },
   {
     num: 256,
@@ -4360,7 +4105,6 @@ const WORDS = [
       pinyin: "qǐng kàn dì èr yè",
       en: "Please look at the second page.",
     },
-    say: null,
   },
   {
     num: 257,
@@ -4376,7 +4120,6 @@ const WORDS = [
       pinyin: "wǒ zhǐ chī le bàn wǎn fàn",
       en: "I only ate half a bowl of rice.",
     },
-    say: null,
   },
   {
     num: 258,
@@ -4392,7 +4135,6 @@ const WORDS = [
       pinyin: "wǒ jīn tiān méi yǒu shí jiān",
       en: "I don't have time today.",
     },
-    say: null,
   },
   {
     num: 259,
@@ -4408,7 +4150,6 @@ const WORDS = [
       pinyin: "chē chéng dà gài yí ge xiǎo shí",
       en: "The ride takes about an hour.",
     },
-    say: null,
   },
   {
     num: 260,
@@ -4424,7 +4165,6 @@ const WORDS = [
       pinyin: "qǐng děng wǒ wǔ fēn zhōng",
       en: "Please wait five minutes for me.",
     },
-    say: null,
   },
   {
     num: 261,
@@ -4440,7 +4180,6 @@ const WORDS = [
       pinyin: "zài děng wǒ jǐ miǎo",
       en: "Wait a few more seconds for me.",
     },
-    say: null,
   },
   {
     num: 262,
@@ -4456,7 +4195,6 @@ const WORDS = [
       pinyin: "jīn tiān tiān qì hěn hǎo",
       en: "The weather is nice today.",
     },
-    say: null,
   },
   {
     num: 263,
@@ -4472,7 +4210,6 @@ const WORDS = [
       pinyin: "míng tiān jiàn",
       en: "See you tomorrow.",
     },
-    say: null,
   },
   {
     num: 264,
@@ -4488,7 +4225,6 @@ const WORDS = [
       pinyin: "wǒ zuó tiān qù le yè shì",
       en: "I went to the night market yesterday.",
     },
-    say: null,
   },
   {
     num: 265,
@@ -4504,7 +4240,6 @@ const WORDS = [
       pinyin: "wǒ zǎo shàng hē kā fēi",
       en: "I drink coffee in the morning.",
     },
-    say: null,
   },
   {
     num: 266,
@@ -4520,7 +4255,6 @@ const WORDS = [
       pinyin: "wǒ men zhōng wǔ yì qǐ chī fàn",
       en: "We eat lunch together at noon.",
     },
-    say: null,
   },
   {
     num: 267,
@@ -4536,7 +4270,6 @@ const WORDS = [
       pinyin: "wǒ xià wǔ yǒu yí ge huì yì",
       en: "I have a meeting in the afternoon.",
     },
-    say: null,
   },
   {
     num: 268,
@@ -4552,7 +4285,6 @@ const WORDS = [
       pinyin: "wǒ wǎn shàng zài jiā kàn diàn yǐng",
       en: "I watch movies at home in the evening.",
     },
-    say: null,
   },
   {
     num: 269,
@@ -4568,7 +4300,6 @@ const WORDS = [
       pinyin: "tā bàn yè cái huí jiā",
       en: "He didn't get home until midnight.",
     },
-    say: null,
   },
   {
     num: 270,
@@ -4584,7 +4315,6 @@ const WORDS = [
       pinyin: "wǒ xià xīng qí yào chū chāi",
       en: "I'm going on a business trip next week.",
     },
-    say: null,
   },
   {
     num: 271,
@@ -4600,7 +4330,6 @@ const WORDS = [
       pinyin: "zhōu mò wǒ xiǎng qù pá shān",
       en: "I want to go hiking this weekend.",
     },
-    say: null,
   },
   {
     num: 272,
@@ -4616,7 +4345,6 @@ const WORDS = [
       pinyin: "xīng qí yī wǒ yào shàng bān",
       en: "I have to work on Monday.",
     },
-    say: null,
   },
   {
     num: 273,
@@ -4632,7 +4360,6 @@ const WORDS = [
       pinyin: "xīng qí èr yǒu zhōng wén kè",
       en: "There's a Chinese class on Tuesday.",
     },
-    say: null,
   },
   {
     num: 274,
@@ -4648,7 +4375,6 @@ const WORDS = [
       pinyin: "wǒ men xīng qí sān kāi huì",
       en: "We have a meeting on Wednesday.",
     },
-    say: null,
   },
   {
     num: 275,
@@ -4664,7 +4390,6 @@ const WORDS = [
       pinyin: "wǒ xīng qí sì yào kàn yī shēng",
       en: "I'm seeing a doctor on Thursday.",
     },
-    say: null,
   },
   {
     num: 276,
@@ -4680,7 +4405,6 @@ const WORDS = [
       pinyin: "xīng qí wǔ wǎn shàng yì qǐ chī fàn ba",
       en: "Let's have dinner together on Friday evening.",
     },
-    say: null,
   },
   {
     num: 277,
@@ -4696,7 +4420,6 @@ const WORDS = [
       pinyin: "xīng qí liù yín háng méi kāi",
       en: "The bank isn't open on Saturday.",
     },
-    say: null,
   },
   {
     num: 278,
@@ -4712,7 +4435,6 @@ const WORDS = [
       pinyin: "wǒ xīng qí rì tōng cháng zài jiā xiū xí",
       en: "I usually rest at home on Sunday.",
     },
-    say: null,
   },
   {
     num: 279,
@@ -4728,7 +4450,6 @@ const WORDS = [
       pinyin: "xià ge yuè wǒ yào bān jiā",
       en: "I'm moving next month.",
     },
-    say: null,
   },
   {
     num: 280,
@@ -4744,7 +4465,6 @@ const WORDS = [
       pinyin: "wǒ zài tái wān zhù le sān nián",
       en: "I've lived in Taiwan for three years.",
     },
-    say: null,
   },
   {
     num: 281,
@@ -4760,7 +4480,6 @@ const WORDS = [
       pinyin: "qǐng què rèn yí xià rì qí",
       en: "Please confirm the date.",
     },
-    say: null,
   },
   {
     num: 282,
@@ -4776,7 +4495,6 @@ const WORDS = [
       pinyin: "jīn tiān shì wǒ péng yǒu de shēng rì",
       en: "Today is my friend's birthday.",
     },
-    say: null,
   },
   {
     num: 283,
@@ -4792,7 +4510,6 @@ const WORDS = [
       pinyin: "xiàn zài jǐ diǎn",
       en: "What time is it now?",
     },
-    say: null,
   },
   {
     num: 284,
@@ -4808,7 +4525,6 @@ const WORDS = [
       pinyin: "qǐng děng yí xià wǒ mǎ shàng lái",
       en: "Please wait a moment, I'll be right there.",
     },
-    say: null,
   },
   {
     num: 285,
@@ -4824,7 +4540,6 @@ const WORDS = [
       pinyin: "tā měi tiān dōu zhǔn shí dào gōng sī",
       en: "He arrives at the office on time every day.",
     },
-    say: null,
   },
   {
     num: 286,
@@ -4840,7 +4555,6 @@ const WORDS = [
       pinyin: "jīn tiān sāi chē suǒ yǐ wǒ chí dào le",
       en: "There was traffic today, so I was late.",
     },
-    say: null,
   },
   {
     num: 287,
@@ -4856,7 +4570,6 @@ const WORDS = [
       pinyin: "wǒ men tí zǎo shí fēn zhōng dào le",
       en: "We arrived ten minutes early.",
     },
-    say: null,
   },
   {
     num: 288,
@@ -4872,7 +4585,6 @@ const WORDS = [
       pinyin: "nǐ xué zhōng wén duō jiǔ le",
       en: "How long have you been learning Chinese?",
     },
-    say: null,
   },
   {
     num: 289,
@@ -4888,7 +4600,6 @@ const WORDS = [
       pinyin: "wǒ mǎi le yí ge miàn bāo",
       en: "I bought a loaf of bread.",
     },
-    say: null,
   },
   {
     num: 290,
@@ -4904,7 +4615,6 @@ const WORDS = [
       pinyin: "mén kǒu yǒu yí wèi kè rén",
       en: "There's a guest at the door.",
     },
-    say: null,
   },
   {
     num: 291,
@@ -4920,7 +4630,6 @@ const WORDS = [
       pinyin: "qián miàn yǒu yì tiáo lù",
       en: "There's a road ahead.",
     },
-    say: null,
   },
   {
     num: 292,
@@ -4936,7 +4645,6 @@ const WORDS = [
       pinyin: "wǒ yào mǎi liǎng zhāng piào",
       en: "I want to buy two tickets.",
     },
-    say: null,
   },
   {
     num: 293,
@@ -4952,7 +4660,6 @@ const WORDS = [
       pinyin: "wǒ jiè le sān běn shū",
       en: "I borrowed three books.",
     },
-    say: null,
   },
   {
     num: 294,
@@ -4968,7 +4675,6 @@ const WORDS = [
       pinyin: "bàn gōng shì yǒu wǔ tái diàn nǎo",
       en: "There are five computers in the office.",
     },
-    say: null,
   },
   {
     num: 295,
@@ -4984,7 +4690,6 @@ const WORDS = [
       pinyin: "wǒ měi tiān hē liǎng bēi shuǐ",
       en: "I drink two cups of water every day.",
     },
-    say: null,
   },
   {
     num: 296,
@@ -5000,7 +4705,6 @@ const WORDS = [
       pinyin: "wǒ mǎi le yí jiàn wài tào",
       en: "I bought a jacket.",
     },
-    say: null,
   },
   {
     num: 297,
@@ -5016,7 +4720,6 @@ const WORDS = [
       pinyin: "fù jìn yǒu yì jiān kā fēi diàn",
       en: "There's a café nearby.",
     },
-    say: null,
   },
   {
     num: 298,
@@ -5032,7 +4735,6 @@ const WORDS = [
       pinyin: "mén kǒu tíng le yí liàng chē",
       en: "There's a car parked at the door.",
     },
-    say: null,
   },
   {
     num: 299,
@@ -5048,7 +4750,6 @@ const WORDS = [
       pinyin: "wǒ xū yào yì shuāng xīn xié",
       en: "I need a new pair of shoes.",
     },
-    say: null,
   },
   {
     num: 300,
@@ -5064,7 +4765,6 @@ const WORDS = [
       pinyin: "wǒ qù guò tái nán liǎng cì",
       en: "I've been to Tainan twice.",
     },
-    say: null,
   },
   {
     num: 301,
@@ -5080,7 +4780,6 @@ const WORDS = [
       pinyin: "zhè jiā diàn yǒu hěn duō zhǒng chá",
       en: "This shop has many kinds of tea.",
     },
-    say: null,
   },
   {
     num: 302,
@@ -5096,7 +4795,6 @@ const WORDS = [
       pinyin: "wǒ chī le liǎng kē píng guǒ",
       en: "I ate two apples.",
     },
-    say: null,
   },
   {
     num: 303,
@@ -5112,7 +4810,6 @@ const WORDS = [
       pinyin: "qǐng gěi wǒ yì zhī bǐ",
       en: "Please give me a pen.",
     },
-    say: null,
   },
   {
     num: 304,
@@ -5128,7 +4825,6 @@ const WORDS = [
       pinyin: "fáng jiān lǐ yǒu sì bǎ yǐ zi",
       en: "There are four chairs in the room.",
     },
-    say: null,
   },
   {
     num: 305,
@@ -5144,7 +4840,6 @@ const WORDS = [
       pinyin: "wǒ zǎo cān chī le liǎng piàn tǔ sī",
       en: "I ate two slices of toast for breakfast.",
     },
-    say: null,
   },
   {
     num: 306,
@@ -5160,7 +4855,6 @@ const WORDS = [
       pinyin: "qǐng gěi wǒ yí kuài dàn gāo",
       en: "Please give me a piece of cake.",
     },
-    say: null,
   },
   {
     num: 307,
@@ -5176,7 +4870,6 @@ const WORDS = [
       pinyin: "wǒ mǎi le yì hé shuǐ jiǎo",
       en: "I bought a box of dumplings.",
     },
-    say: null,
   },
   {
     num: 308,
@@ -5192,7 +4885,6 @@ const WORDS = [
       pinyin: "zhuō shàng yǒu sān píng shuǐ",
       en: "There are three bottles of water on the table.",
     },
-    say: null,
   },
   {
     num: 309,
@@ -5208,7 +4900,6 @@ const WORDS = [
       pinyin: "wǒ men diǎn le liǎng pán cài",
       en: "We ordered two plates of food.",
     },
-    say: null,
   },
   {
     num: 310,
@@ -5224,7 +4915,6 @@ const WORDS = [
       pinyin: "tā mǎi le yí tào xī zhuāng",
       en: "He bought a suit.",
     },
-    say: null,
   },
   {
     num: 311,
@@ -5240,7 +4930,6 @@ const WORDS = [
       pinyin: "wǒ shōu dào yì fēng diàn zǐ yóu jiàn",
       en: "I received an email.",
     },
-    say: null,
   },
   {
     num: 312,
@@ -5256,7 +4945,6 @@ const WORDS = [
       pinyin: "lǎo shī yào wǒ men xiě yì piān wén zhāng",
       en: "The teacher asked us to write an essay.",
     },
-    say: null,
   },
   {
     num: 313,
@@ -5272,7 +4960,6 @@ const WORDS = [
       pinyin: "wǒ zhōu mò kàn le liǎng bù diàn yǐng",
       en: "I watched two movies over the weekend.",
     },
-    say: null,
   },
   {
     num: 314,
@@ -5288,7 +4975,6 @@ const WORDS = [
       pinyin: "bàn gōng shì zài shí èr céng",
       en: "The office is on the twelfth floor.",
     },
-    say: null,
   },
   {
     num: 315,
@@ -5304,7 +4990,6 @@ const WORDS = [
       pinyin: "zhè lǐ yǒu hěn duō rén",
       en: "There are a lot of people here.",
     },
-    say: null,
   },
   {
     num: 316,
@@ -5320,7 +5005,6 @@ const WORDS = [
       pinyin: "dà jiā dōu dào le ma",
       en: "Is everyone here?",
     },
-    say: null,
   },
   {
     num: 317,
@@ -5336,7 +5020,6 @@ const WORDS = [
       pinyin: "bié guǎn bié rén zěn me xiǎng",
       en: "Don't worry about what others think.",
     },
-    say: null,
   },
   {
     num: 318,
@@ -5352,7 +5035,6 @@ const WORDS = [
       pinyin: "tā shì wǒ de hǎo péng yǒu",
       en: "He's my good friend.",
     },
-    say: null,
   },
   {
     num: 319,
@@ -5368,7 +5050,6 @@ const WORDS = [
       pinyin: "tā shì wǒ de dà xué tóng xué",
       en: "She's my university classmate.",
     },
-    say: null,
   },
   {
     num: 320,
@@ -5384,7 +5065,6 @@ const WORDS = [
       pinyin: "wǒ gēn tóng shì yì qǐ chī wǔ cān",
       en: "I have lunch with my coworkers.",
     },
-    say: null,
   },
   {
     num: 321,
@@ -5400,7 +5080,6 @@ const WORDS = [
       pinyin: "wǒ de lín jū hěn yǒu shàn",
       en: "My neighbor is friendly.",
     },
-    say: null,
   },
   {
     num: 322,
@@ -5416,7 +5095,6 @@ const WORDS = [
       pinyin: "jīn tiān diàn lǐ yǒu hěn duō kè rén",
       en: "There are many customers in the shop today.",
     },
-    say: null,
   },
   {
     num: 323,
@@ -5432,7 +5110,6 @@ const WORDS = [
       pinyin: "bú yào gēn mò shēng rén zǒu",
       en: "Don't go with strangers.",
     },
-    say: null,
   },
   {
     num: 324,
@@ -5448,7 +5125,6 @@ const WORDS = [
       pinyin: "wǒ hěn ài wǒ de jiā rén",
       en: "I love my family very much.",
     },
-    say: null,
   },
   {
     num: 325,
@@ -5464,7 +5140,6 @@ const WORDS = [
       pinyin: "tā yǒu yí ge xìng fú de jiā tíng",
       en: "He has a happy family.",
     },
-    say: null,
   },
   {
     num: 326,
@@ -5480,7 +5155,6 @@ const WORDS = [
       pinyin: "wǒ bà ba shì lǎo shī",
       en: "My dad is a teacher.",
     },
-    say: null,
   },
   {
     num: 327,
@@ -5496,7 +5170,6 @@ const WORDS = [
       pinyin: "wǒ mā ma hěn huì zhǔ cài",
       en: "My mom is a great cook.",
     },
-    say: null,
   },
   {
     num: 328,
@@ -5512,7 +5185,6 @@ const WORDS = [
       pinyin: "wǒ de fù mǔ zhù zài tái nán",
       en: "My parents live in Tainan.",
     },
-    say: null,
   },
   {
     num: 329,
@@ -5528,7 +5200,6 @@ const WORDS = [
       pinyin: "tā yǒu yí ge ér zi",
       en: "He has a son.",
     },
-    say: null,
   },
   {
     num: 330,
@@ -5544,7 +5215,6 @@ const WORDS = [
       pinyin: "tā men de nǚ ér hěn kě ài",
       en: "Their daughter is cute.",
     },
-    say: null,
   },
   {
     num: 331,
@@ -5560,7 +5230,6 @@ const WORDS = [
       pinyin: "wǒ gē ge bǐ wǒ dà sān suì",
       en: "My older brother is three years older than me.",
     },
-    say: null,
   },
   {
     num: 332,
@@ -5576,7 +5245,6 @@ const WORDS = [
       pinyin: "wǒ dì di hái zài niàn shū",
       en: "My younger brother is still in school.",
     },
-    say: null,
   },
   {
     num: 333,
@@ -5592,7 +5260,6 @@ const WORDS = [
       pinyin: "wǒ jiě jie zài yín háng gōng zuò",
       en: "My older sister works at a bank.",
     },
-    say: null,
   },
   {
     num: 334,
@@ -5608,7 +5275,6 @@ const WORDS = [
       pinyin: "wǒ mèi mei hěn xǐ huān huà huà",
       en: "My little sister loves drawing.",
     },
-    say: null,
   },
   {
     num: 335,
@@ -5624,7 +5290,6 @@ const WORDS = [
       pinyin: "tā de zhàng fū shì yī shēng",
       en: "Her husband is a doctor.",
     },
-    say: null,
   },
   {
     num: 336,
@@ -5640,7 +5305,6 @@ const WORDS = [
       pinyin: "wáng xiān shēng de tài tai hěn qīn qiè",
       en: "Mr. Wang's wife is very kind.",
     },
-    say: null,
   },
   {
     num: 337,
@@ -5656,7 +5320,6 @@ const WORDS = [
       pinyin: "tā yǒu nán péng yǒu le",
       en: "She has a boyfriend now.",
     },
-    say: null,
   },
   {
     num: 338,
@@ -5672,7 +5335,6 @@ const WORDS = [
       pinyin: "tā gēn nǚ péng yǒu qù kàn diàn yǐng",
       en: "He went to a movie with his girlfriend.",
     },
-    say: null,
   },
   {
     num: 339,
@@ -5688,7 +5350,6 @@ const WORDS = [
       pinyin: "tā shì wǒ zuì hǎo de bàn lǚ",
       en: "She's my best partner.",
     },
-    say: null,
   },
   {
     num: 340,
@@ -5704,7 +5365,6 @@ const WORDS = [
       pinyin: "guò nián shí qīn qī dōu huì lái",
       en: "Relatives all come during New Year.",
     },
-    say: null,
   },
   {
     num: 341,
@@ -5720,7 +5380,6 @@ const WORDS = [
       pinyin: "wǒ yé ye jīn nián bā shí suì",
       en: "My grandpa is eighty this year.",
     },
-    say: null,
   },
   {
     num: 342,
@@ -5736,7 +5395,6 @@ const WORDS = [
       pinyin: "wǒ nǎi nai hěn huì zuò cài",
       en: "My grandma is a great cook.",
     },
-    say: null,
   },
   {
     num: 343,
@@ -5752,7 +5410,6 @@ const WORDS = [
       pinyin: "wǒ wài gōng zhù zài xiāng xià",
       en: "My maternal grandpa lives in the countryside.",
     },
-    say: null,
   },
   {
     num: 344,
@@ -5768,7 +5425,6 @@ const WORDS = [
       pinyin: "wǒ wài pó zuò de cài hěn hǎo chī",
       en: "The food my maternal grandma makes is delicious.",
     },
-    say: null,
   },
   {
     num: 345,
@@ -5784,7 +5440,6 @@ const WORDS = [
       pinyin: "wǒ men de lǎo shī hěn yǒu nài xīn",
       en: "Our teacher is very patient.",
     },
-    say: null,
   },
   {
     num: 346,
@@ -5800,7 +5455,6 @@ const WORDS = [
       pinyin: "zhè ge bān yǒu sān shí ge xué shēng",
       en: "There are thirty students in this class.",
     },
-    say: null,
   },
   {
     num: 347,
@@ -5816,7 +5470,6 @@ const WORDS = [
       pinyin: "wǒ xià wǔ yào qù kàn yī shēng",
       en: "I'm going to see a doctor this afternoon.",
     },
-    say: null,
   },
   {
     num: 348,
@@ -5832,7 +5485,6 @@ const WORDS = [
       pinyin: "hù shì bāng wǒ liáng le tǐ wēn",
       en: "The nurse took my temperature.",
     },
-    say: null,
   },
   {
     num: 349,
@@ -5848,7 +5500,6 @@ const WORDS = [
       pinyin: "wǒ men lǎo bǎn rén hěn hǎo",
       en: "Our boss is a good person.",
     },
-    say: null,
   },
   {
     num: 350,
@@ -5864,7 +5515,6 @@ const WORDS = [
       pinyin: "zhè jiàn shì yào wèn zhǔ guǎn",
       en: "You need to ask the supervisor about this.",
     },
-    say: null,
   },
   {
     num: 351,
@@ -5880,7 +5530,6 @@ const WORDS = [
       pinyin: "zhè jiā gōng sī yǒu yì bǎi ge yuán gōng",
       en: "This company has a hundred employees.",
     },
-    say: null,
   },
   {
     num: 352,
@@ -5896,7 +5545,6 @@ const WORDS = [
       pinyin: "tā shì yí wèi ruǎn tǐ gōng chéng shī",
       en: "He's a software engineer.",
     },
-    say: null,
   },
   {
     num: 353,
@@ -5912,7 +5560,6 @@ const WORDS = [
       pinyin: "jì chéng chē sī jī hěn qīn qiè",
       en: "The taxi driver was very kind.",
     },
-    say: null,
   },
   {
     num: 354,
@@ -5928,7 +5575,6 @@ const WORDS = [
       pinyin: "diàn yuán bāng wǒ zhǎo dào le chǐ cùn",
       en: "The clerk helped me find the size.",
     },
-    say: null,
   },
   {
     num: 355,
@@ -5944,7 +5590,6 @@ const WORDS = [
       pinyin: "yǒu wèn tí kě yǐ zhǎo jǐng chá",
       en: "You can find a police officer if you have a problem.",
     },
-    say: null,
   },
   {
     num: 356,
@@ -5960,7 +5605,6 @@ const WORDS = [
       pinyin: "fáng dōng xià zhōu huì lái",
       en: "The landlord is coming next week.",
     },
-    say: null,
   },
   {
     num: 357,
@@ -5976,7 +5620,6 @@ const WORDS = [
       pinyin: "zhè wèi fáng kè zhù le liǎng nián",
       en: "This tenant has lived here for two years.",
     },
-    say: null,
   },
   {
     num: 358,
@@ -5992,7 +5635,6 @@ const WORDS = [
       pinyin: "zhè wèi gù kè xiǎng yào tuì huò",
       en: "This customer wants to return an item.",
     },
-    say: null,
   },
   {
     num: 359,
@@ -6008,7 +5650,6 @@ const WORDS = [
       pinyin: "wǒ xiǎng gēn jīng lǐ tán yì tán",
       en: "I'd like to talk with the manager.",
     },
-    say: null,
   },
   {
     num: 360,
@@ -6025,7 +5666,6 @@ const WORDS = [
       pinyin: "wǒ men de tuán duì hé zuò de hěn hǎo",
       en: "Our team works well together.",
     },
-    say: null,
   },
   {
     num: 361,
@@ -6041,7 +5681,6 @@ const WORDS = [
       pinyin: "tā men de guān xì hěn hǎo",
       en: "They have a good relationship.",
     },
-    say: null,
   },
   {
     num: 362,
@@ -6057,7 +5696,6 @@ const WORDS = [
       pinyin: "tā men de hūn yīn hěn xìng fú",
       en: "They have a happy marriage.",
     },
-    say: null,
   },
   {
     num: 363,
@@ -6073,7 +5711,6 @@ const WORDS = [
       pinyin: "bīng xiāng lǐ méi yǒu shí wù le",
       en: "There's no food left in the fridge.",
     },
-    say: null,
   },
   {
     num: 364,
@@ -6089,7 +5726,6 @@ const WORDS = [
       pinyin: "wǒ měi tiān dōu chī zǎo cān",
       en: "I eat breakfast every day.",
     },
-    say: null,
   },
   {
     num: 365,
@@ -6105,7 +5741,6 @@ const WORDS = [
       pinyin: "wǒ men zhōng wǔ yì qǐ chī wǔ cān ba",
       en: "Let's have lunch together at noon.",
     },
-    say: null,
   },
   {
     num: 366,
@@ -6121,7 +5756,6 @@ const WORDS = [
       pinyin: "jīn tiān de wǎn cān wǒ qǐng kè",
       en: "Dinner's on me today.",
     },
-    say: null,
   },
   {
     num: 367,
@@ -6137,7 +5771,6 @@ const WORDS = [
       pinyin: "nǐ chī fàn le ma",
       en: "Have you eaten?",
     },
-    say: null,
   },
   {
     num: 368,
@@ -6153,7 +5786,6 @@ const WORDS = [
       pinyin: "zhè jiā de niú ròu miàn hěn yǒu míng",
       en: "This place's beef noodles are famous.",
     },
-    say: null,
   },
   {
     num: 369,
@@ -6169,7 +5801,6 @@ const WORDS = [
       pinyin: "wǒ mǎi le yí ge miàn bāo dāng zǎo cān",
       en: "I bought a bread roll for breakfast.",
     },
-    say: null,
   },
   {
     num: 370,
@@ -6185,7 +5816,6 @@ const WORDS = [
       pinyin: "shēng bìng de shí hòu wǒ zhǐ xiǎng hē zhōu",
       en: "When I'm sick I only want congee.",
     },
-    say: null,
   },
   {
     num: 371,
@@ -6201,7 +5831,6 @@ const WORDS = [
       pinyin: "zhè wǎn tāng yǒu diǎn tàng",
       en: "This soup is a bit too hot.",
     },
-    say: null,
   },
   {
     num: 372,
@@ -6217,7 +5846,6 @@ const WORDS = [
       pinyin: "jì de duō hē shuǐ",
       en: "Remember to drink more water.",
     },
-    say: null,
   },
   {
     num: 373,
@@ -6233,7 +5861,6 @@ const WORDS = [
       pinyin: "nǐ yào hē chá hái shì kā fēi",
       en: "Would you like tea or coffee?",
     },
-    say: null,
   },
   {
     num: 374,
@@ -6249,7 +5876,6 @@ const WORDS = [
       pinyin: "wǒ xū yào yì bēi kā fēi tí shén",
       en: "I need a cup of coffee to wake up.",
     },
-    say: null,
   },
   {
     num: 375,
@@ -6265,7 +5891,6 @@ const WORDS = [
       pinyin: "bīng xiāng lǐ hái yǒu niú nǎi ma",
       en: "Is there still milk in the fridge?",
     },
-    say: null,
   },
   {
     num: 376,
@@ -6281,7 +5906,6 @@ const WORDS = [
       pinyin: "zhè bēi guǒ zhī shì xiàn zhà de",
       en: "This juice is freshly squeezed.",
     },
-    say: null,
   },
   {
     num: 377,
@@ -6297,7 +5921,6 @@ const WORDS = [
       pinyin: "tiān qì rè lái yì píng pí jiǔ ba",
       en: "It's hot — let's have a beer.",
     },
-    say: null,
   },
   {
     num: 378,
@@ -6313,7 +5936,6 @@ const WORDS = [
       pinyin: "wǒ bǐ jiào xǐ huān chī jī ròu",
       en: "I prefer chicken.",
     },
-    say: null,
   },
   {
     num: 379,
@@ -6329,7 +5951,6 @@ const WORDS = [
       pinyin: "zhè dào cài yòng de shì zhū ròu",
       en: "This dish is made with pork.",
     },
-    say: null,
   },
   {
     num: 380,
@@ -6346,7 +5967,6 @@ const WORDS = [
       pinyin: "niú ròu miàn shì tái wān de dài biǎo měi shí",
       en: "Beef noodle soup is Taiwan's signature dish.",
     },
-    say: null,
   },
   {
     num: 381,
@@ -6362,7 +5982,6 @@ const WORDS = [
       pinyin: "zhè tiáo yú hěn xīn xiān",
       en: "This fish is very fresh.",
     },
-    say: null,
   },
   {
     num: 382,
@@ -6378,7 +5997,6 @@ const WORDS = [
       pinyin: "wǒ zǎo cān chī le liǎng kē dàn",
       en: "I ate two eggs for breakfast.",
     },
-    say: null,
   },
   {
     num: 383,
@@ -6394,7 +6012,6 @@ const WORDS = [
       pinyin: "chòu dòu fǔ shì tái wān yǒu míng de xiǎo chī",
       en: "Stinky tofu is a famous Taiwanese snack.",
     },
-    say: null,
   },
   {
     num: 384,
@@ -6410,7 +6027,6 @@ const WORDS = [
       pinyin: "duō chī shū cài duì shēn tǐ hǎo",
       en: "Eating more vegetables is good for you.",
     },
-    say: null,
   },
   {
     num: 385,
@@ -6426,7 +6042,6 @@ const WORDS = [
       pinyin: "wǒ měi tiān dōu chī shuǐ guǒ",
       en: "I eat fruit every day.",
     },
-    say: null,
   },
   {
     num: 386,
@@ -6442,7 +6057,6 @@ const WORDS = [
       pinyin: "wǒ mǎi le sān kē píng guǒ",
       en: "I bought three apples.",
     },
-    say: null,
   },
   {
     num: 387,
@@ -6458,7 +6072,6 @@ const WORDS = [
       pinyin: "tái wān de xiāng jiāo yòu xiāng yòu tián",
       en: "Taiwanese bananas are fragrant and sweet.",
     },
-    say: null,
   },
   {
     num: 388,
@@ -6474,7 +6087,6 @@ const WORDS = [
       pinyin: "dōng tiān de jú zi tè bié tián",
       en: "Winter oranges are especially sweet.",
     },
-    say: null,
   },
   {
     num: 389,
@@ -6490,7 +6102,6 @@ const WORDS = [
       pinyin: "xià tiān chī xī guā zuì xiāo shǔ",
       en: "Eating watermelon in summer is the best way to cool off.",
     },
-    say: null,
   },
   {
     num: 390,
@@ -6506,7 +6117,6 @@ const WORDS = [
       pinyin: "wǒ yòng mǎ líng shǔ zhǔ le nóng tāng",
       en: "I made soup with potatoes.",
     },
-    say: null,
   },
   {
     num: 391,
@@ -6522,7 +6132,6 @@ const WORDS = [
       pinyin: "fān qié chǎo dàn shì jiā cháng cài",
       en: "Tomato and egg is a home-style dish.",
     },
-    say: null,
   },
   {
     num: 392,
@@ -6538,7 +6147,6 @@ const WORDS = [
       pinyin: "qiē yáng cōng ràng wǒ liú yǎn lèi",
       en: "Cutting onions makes me cry.",
     },
-    say: null,
   },
   {
     num: 393,
@@ -6554,7 +6162,6 @@ const WORDS = [
       pinyin: "wǒ zǎo shàng mǎi le yí ge fàn tuán",
       en: "I bought a rice ball this morning.",
     },
-    say: null,
   },
   {
     num: 394,
@@ -6570,7 +6177,6 @@ const WORDS = [
       pinyin: "wǒ yí cì kě yǐ chī èr shí kē shuǐ jiǎo",
       en: "I can eat twenty dumplings in one sitting.",
     },
-    say: null,
   },
   {
     num: 395,
@@ -6586,7 +6192,6 @@ const WORDS = [
       pinyin: "zhōng wǔ wǒ tōng cháng mǎi biàn dāng",
       en: "I usually buy a lunchbox at noon.",
     },
-    say: null,
   },
   {
     num: 396,
@@ -6602,7 +6207,6 @@ const WORDS = [
       pinyin: "dōng tiān zuì shì hé chī huǒ guō",
       en: "Winter is the best time for hot pot.",
     },
-    say: null,
   },
   {
     num: 397,
@@ -6618,7 +6222,6 @@ const WORDS = [
       pinyin: "tái wān de yè shì yǒu hěn duō xiǎo chī",
       en: "Taiwan's night markets have lots of snacks.",
     },
-    say: null,
   },
   {
     num: 398,
@@ -6634,7 +6237,6 @@ const WORDS = [
       pinyin: "chī wán fàn wǒ xiǎng lái fèn tián diǎn",
       en: "After the meal I'd like a dessert.",
     },
-    say: null,
   },
   {
     num: 399,
@@ -6650,7 +6252,6 @@ const WORDS = [
       pinyin: "wǒ de kā fēi bù jiā táng",
       en: "I don't take sugar in my coffee.",
     },
-    say: null,
   },
   {
     num: 400,
@@ -6666,7 +6267,6 @@ const WORDS = [
       pinyin: "zhè dào cài yào zài jiā yì diǎn yán",
       en: "This dish needs a bit more salt.",
     },
-    say: null,
   },
   {
     num: 401,
@@ -6682,7 +6282,6 @@ const WORDS = [
       pinyin: "wǒ bù gǎn chī tài là de dōng xi",
       en: "I can't handle very spicy food.",
     },
-    say: null,
   },
   {
     num: 402,
@@ -6698,7 +6297,6 @@ const WORDS = [
       pinyin: "zhè ge dàn gāo tài tián le",
       en: "This cake is too sweet.",
     },
-    say: null,
   },
   {
     num: 403,
@@ -6714,7 +6312,6 @@ const WORDS = [
       pinyin: "zhè ge níng méng hěn suān",
       en: "This lemon is very sour.",
     },
-    say: null,
   },
   {
     num: 404,
@@ -6730,7 +6327,6 @@ const WORDS = [
       pinyin: "zhè bēi kā fēi yǒu diǎn kǔ",
       en: "This coffee is a little bitter.",
     },
-    say: null,
   },
   {
     num: 405,
@@ -6746,7 +6342,6 @@ const WORDS = [
       pinyin: "tāng tài xián le jiā diǎn shuǐ ba",
       en: "The soup is too salty — add some water.",
     },
-    say: null,
   },
   {
     num: 406,
@@ -6762,7 +6357,6 @@ const WORDS = [
       pinyin: "zhè jiā de lǔ ròu fàn zhēn hǎo chī",
       en: "This place's braised pork rice is really delicious.",
     },
-    say: null,
   },
   {
     num: 407,
@@ -6778,7 +6372,6 @@ const WORDS = [
       pinyin: "zhè ge biàn dāng yǒu diǎn nán chī",
       en: "This lunchbox doesn't taste very good.",
     },
-    say: null,
   },
   {
     num: 408,
@@ -6794,7 +6387,6 @@ const WORDS = [
       pinyin: "wǒ hái méi chī fàn hǎo è",
       en: "I haven't eaten yet — I'm so hungry.",
     },
-    say: null,
   },
   {
     num: 409,
@@ -6810,7 +6402,6 @@ const WORDS = [
       pinyin: "yùn dòng wán wǒ jué de hěn kě",
       en: "After exercising I feel thirsty.",
     },
-    say: null,
   },
   {
     num: 410,
@@ -6826,7 +6417,6 @@ const WORDS = [
       pinyin: "wǒ chī bǎo le xiè xiè",
       en: "I'm full, thank you.",
     },
-    say: null,
   },
   {
     num: 411,
@@ -6842,7 +6432,6 @@ const WORDS = [
       pinyin: "qǐng wèn nèi yòng hái shì wài dài",
       en: "For here or to go?",
     },
-    say: null,
   },
   {
     num: 412,
@@ -6858,7 +6447,6 @@ const WORDS = [
       pinyin: "wǒ yào wài dài yì bēi kā fēi",
       en: "I'd like a coffee to go.",
     },
-    say: null,
   },
   {
     num: 413,
@@ -6874,7 +6462,6 @@ const WORDS = [
       pinyin: "wǒ yào dìng wèi liǎng ge rén",
       en: "I'd like to reserve a table for two.",
     },
-    say: null,
   },
   {
     num: 414,
@@ -6890,7 +6477,6 @@ const WORDS = [
       pinyin: "qǐng wèn kě yǐ diǎn cān le ma",
       en: "May we order now?",
     },
-    say: null,
   },
   {
     num: 415,
@@ -6906,7 +6492,6 @@ const WORDS = [
       pinyin: "wǒ men zài jiā diǎn yí fèn tián diǎn",
       en: "Let's order one more dessert.",
     },
-    say: null,
   },
   {
     num: 416,
@@ -6922,7 +6507,6 @@ const WORDS = [
       pinyin: "má fán bāng wǒ jié zhàng",
       en: "Could I have the bill, please.",
     },
-    say: null,
   },
   {
     num: 417,
@@ -6938,7 +6522,6 @@ const WORDS = [
       pinyin: "chī bù wán kě yǐ dǎ bāo ma",
       en: "Can I take the leftovers to go?",
     },
-    say: null,
   },
   {
     num: 418,
@@ -6954,7 +6537,6 @@ const WORDS = [
       pinyin: "qǐng gěi wǒ yí tào cān jù",
       en: "Please give me a set of utensils.",
     },
-    say: null,
   },
   {
     num: 419,
@@ -6970,7 +6552,6 @@ const WORDS = [
       pinyin: "wǒ bú tài huì yòng kuài zi",
       en: "I'm not very good with chopsticks.",
     },
-    say: null,
   },
   {
     num: 420,
@@ -6986,7 +6567,6 @@ const WORDS = [
       pinyin: "qǐng zài gěi wǒ yì zhī tāng shi",
       en: "Please give me another spoon.",
     },
-    say: null,
   },
   {
     num: 421,
@@ -7002,7 +6582,6 @@ const WORDS = [
       pinyin: "xiǎo hái zi yòng chā zi bǐ jiào ān quán",
       en: "It's safer for children to use a fork.",
     },
-    say: null,
   },
   {
     num: 422,
@@ -7018,7 +6597,6 @@ const WORDS = [
       pinyin: "zhè bǎ dāo zi hěn lì",
       en: "This knife is very sharp.",
     },
-    say: null,
   },
   {
     num: 423,
@@ -7034,7 +6612,6 @@ const WORDS = [
       pinyin: "qǐng bāng wǒ ná yí ge wǎn",
       en: "Please get me a bowl.",
     },
-    say: null,
   },
   {
     num: 424,
@@ -7050,7 +6627,6 @@ const WORDS = [
       pinyin: "zhè ge pán zi pò le",
       en: "This plate is broken.",
     },
-    say: null,
   },
   {
     num: 425,
@@ -7066,7 +6642,6 @@ const WORDS = [
       pinyin: "zhè ge bēi zi shì wǒ de",
       en: "This cup is mine.",
     },
-    say: null,
   },
   {
     num: 426,
@@ -7082,7 +6657,6 @@ const WORDS = [
       pinyin: "wǒ bù xū yào xī guǎn xiè xiè",
       en: "I don't need a straw, thanks.",
     },
-    say: null,
   },
   {
     num: 427,
@@ -7098,7 +6672,6 @@ const WORDS = [
       pinyin: "kě yǐ gěi wǒ yì zhāng zhǐ jīn ma",
       en: "Could I get a napkin?",
     },
-    say: null,
   },
   {
     num: 428,
@@ -7114,7 +6687,6 @@ const WORDS = [
       pinyin: "yǐn liào lǐ de bīng kuài tài duō le",
       en: "There's too much ice in the drink.",
     },
-    say: null,
   },
   {
     num: 429,
@@ -7130,7 +6702,6 @@ const WORDS = [
       pinyin: "qǐng gěi wǒ yì bēi wēn shuǐ",
       en: "Please give me a glass of warm water.",
     },
-    say: null,
   },
   {
     num: 430,
@@ -7146,7 +6717,6 @@ const WORDS = [
       pinyin: "duō hē kāi shuǐ duì shēn tǐ hǎo",
       en: "Drinking plenty of water is good for you.",
     },
-    say: null,
   },
   {
     num: 431,
@@ -7162,7 +6732,6 @@ const WORDS = [
       pinyin: "wǒ yào yí fèn jī pái",
       en: "I'd like one fried chicken cutlet.",
     },
-    say: null,
   },
   {
     num: 432,
@@ -7178,7 +6747,6 @@ const WORDS = [
       pinyin: "wǒ yì cān chī liǎng wǎn fàn",
       en: "I eat two bowls of rice per meal.",
     },
-    say: null,
   },
   {
     num: 433,
@@ -7194,7 +6762,6 @@ const WORDS = [
       pinyin: "zhè ge tào cān bǐ jiào huá suàn",
       en: "This set meal is better value.",
     },
-    say: null,
   },
   {
     num: 434,
@@ -7210,7 +6777,6 @@ const WORDS = [
       pinyin: "nǐ xiǎng hē shén me yǐn liào",
       en: "What would you like to drink?",
     },
-    say: null,
   },
   {
     num: 435,
@@ -7226,7 +6792,6 @@ const WORDS = [
       pinyin: "zhēn zhū shì wǒ zuì ài de pèi liào",
       en: "Pearls are my favorite topping.",
     },
-    say: null,
   },
   {
     num: 436,
@@ -7242,7 +6807,6 @@ const WORDS = [
       pinyin: "zhè zhǒng jiàng liào yǒu diǎn là",
       en: "This sauce is a bit spicy.",
     },
-    say: null,
   },
   {
     num: 437,
@@ -7258,7 +6822,6 @@ const WORDS = [
       pinyin: "wǒ chī sù shí qǐng bú yào jiā ròu",
       en: "I'm vegetarian — please don't add meat.",
     },
-    say: null,
   },
   {
     num: 438,
@@ -7274,7 +6837,6 @@ const WORDS = [
       pinyin: "zhè jiā diàn hūn shí sù shí dōu yǒu",
       en: "This shop has both meat and vegetarian options.",
     },
-    say: null,
   },
   {
     num: 439,
@@ -7290,7 +6852,6 @@ const WORDS = [
       pinyin: "wǒ de cān diǎn yào bú là de",
       en: "I'd like my meal not spicy.",
     },
-    say: null,
   },
   {
     num: 440,
@@ -7306,7 +6867,6 @@ const WORDS = [
       pinyin: "wǒ de zhēn nǎi yào shǎo bīng",
       en: "I'd like less ice in my bubble tea.",
     },
-    say: null,
   },
   {
     num: 441,
@@ -7322,7 +6882,6 @@ const WORDS = [
       pinyin: "tiān qì lěng wǒ yào qù bīng",
       en: "It's cold — I'll have it without ice.",
     },
-    say: null,
   },
   {
     num: 442,
@@ -7338,7 +6897,6 @@ const WORDS = [
       pinyin: "zhè bēi wǒ yào bàn táng",
       en: "I'd like this one with half sugar.",
     },
-    say: null,
   },
   {
     num: 443,
@@ -7354,7 +6912,6 @@ const WORDS = [
       pinyin: "wǒ tōng cháng dōu diǎn wú táng",
       en: "I usually order it sugar-free.",
     },
-    say: null,
   },
   {
     num: 444,
@@ -7370,7 +6927,6 @@ const WORDS = [
       pinyin: "qǐng bāng wǒ jiā rè biàn dāng",
       en: "Please heat up my lunchbox.",
     },
-    say: null,
   },
   {
     num: 445,
@@ -7386,7 +6942,6 @@ const WORDS = [
       pinyin: "kāi fēng hòu qǐng lěng cáng",
       en: "Refrigerate after opening.",
     },
-    say: null,
   },
   {
     num: 446,
@@ -7402,7 +6957,6 @@ const WORDS = [
       pinyin: "zhè xiē shuǐ jiǎo yào lěng dòng bǎo cún",
       en: "These dumplings need to be kept frozen.",
     },
-    say: null,
   },
   {
     num: 447,
@@ -7418,7 +6972,6 @@ const WORDS = [
       pinyin: "wǒ jīn tiān kǎo le yí ge dàn gāo",
       en: "I baked a cake today.",
     },
-    say: null,
   },
   {
     num: 448,
@@ -7434,7 +6987,6 @@ const WORDS = [
       pinyin: "zhà de dōng xi chī duō le bú jiàn kāng",
       en: "Eating too much fried food isn't healthy.",
     },
-    say: null,
   },
   {
     num: 449,
@@ -7450,7 +7002,6 @@ const WORDS = [
       pinyin: "wǒ chǎo le yì pán qīng cài",
       en: "I stir-fried a plate of greens.",
     },
-    say: null,
   },
   {
     num: 450,
@@ -7466,7 +7017,6 @@ const WORDS = [
       pinyin: "zhè tiáo yú yòng zhēng de bǐ jiào hǎo chī",
       en: "This fish tastes better steamed.",
     },
-    say: null,
   },
   {
     num: 451,
@@ -7482,7 +7032,6 @@ const WORDS = [
       pinyin: "qǐng bǎ jiàng liào jiǎo bàn jūn yún",
       en: "Please stir the sauce evenly.",
     },
-    say: null,
   },
   {
     num: 452,
@@ -7498,7 +7047,6 @@ const WORDS = [
       pinyin: "zhè dào cài de wèi dào hěn tè bié",
       en: "This dish has a very distinctive flavor.",
     },
-    say: null,
   },
   {
     num: 453,
@@ -7514,7 +7062,6 @@ const WORDS = [
       pinyin: "zhè xiē shū cài hěn xīn xiān",
       en: "These vegetables are very fresh.",
     },
-    say: null,
   },
   {
     num: 454,
@@ -7530,7 +7077,6 @@ const WORDS = [
       pinyin: "zhè píng niú nǎi yǐ jīng guò qí le",
       en: "This milk has already expired.",
     },
-    say: null,
   },
   {
     num: 455,
@@ -7546,7 +7092,6 @@ const WORDS = [
       pinyin: "zhè kuài ròu hái méi shú",
       en: "This piece of meat isn't cooked yet.",
     },
-    say: null,
   },
   {
     num: 456,
@@ -7562,7 +7107,6 @@ const WORDS = [
       pinyin: "wǒ bù gǎn chī shēng de yú",
       en: "I don't dare eat raw fish.",
     },
-    say: null,
   },
   {
     num: 457,
@@ -7578,7 +7122,6 @@ const WORDS = [
       pinyin: "wǒ zài chú fáng zhǔ fàn",
       en: "I'm cooking in the kitchen.",
     },
-    say: null,
   },
   {
     num: 458,
@@ -7594,7 +7137,6 @@ const WORDS = [
       pinyin: "wǒ de jiā lí gōng sī hěn jìn",
       en: "My home is close to the office.",
     },
-    say: null,
   },
   {
     num: 459,
@@ -7610,7 +7152,6 @@ const WORDS = [
       pinyin: "zhè jiān fáng zi hěn jiù le",
       en: "This house is quite old.",
     },
-    say: null,
   },
   {
     num: 460,
@@ -7626,7 +7167,6 @@ const WORDS = [
       pinyin: "wǒ zhù zài yì jiān xiǎo gōng yù",
       en: "I live in a small apartment.",
     },
-    say: null,
   },
   {
     num: 461,
@@ -7642,7 +7182,6 @@ const WORDS = [
       pinyin: "wǒ de fáng jiān zài èr lóu",
       en: "My room is on the second floor.",
     },
-    say: null,
   },
   {
     num: 462,
@@ -7658,7 +7197,6 @@ const WORDS = [
       pinyin: "wǒ men zài kè tīng kàn diàn shì",
       en: "We watch TV in the living room.",
     },
-    say: null,
   },
   {
     num: 463,
@@ -7674,7 +7212,6 @@ const WORDS = [
       pinyin: "zhè jiān wò shì yǒu dà chuāng hù",
       en: "This bedroom has a big window.",
     },
-    say: null,
   },
   {
     num: 464,
@@ -7690,7 +7227,6 @@ const WORDS = [
       pinyin: "yù shì lǐ méi yǒu rè shuǐ",
       en: "There's no hot water in the bathroom.",
     },
-    say: null,
   },
   {
     num: 465,
@@ -7706,7 +7242,6 @@ const WORDS = [
       pinyin: "qǐng wèn cè suǒ zài nǎ lǐ",
       en: "Excuse me, where's the toilet?",
     },
-    say: null,
   },
   {
     num: 466,
@@ -7722,7 +7257,6 @@ const WORDS = [
       pinyin: "wǒ zài yáng tái shài yī fú",
       en: "I hang the laundry on the balcony.",
     },
-    say: null,
   },
   {
     num: 467,
@@ -7738,7 +7272,6 @@ const WORDS = [
       pinyin: "qǐng bǎ mén guān shàng",
       en: "Please close the door.",
     },
-    say: null,
   },
   {
     num: 468,
@@ -7754,7 +7287,6 @@ const WORDS = [
       pinyin: "dǎ kāi chuāng hù tōng fēng ba",
       en: "Let's open the window to air the place out.",
     },
-    say: null,
   },
   {
     num: 469,
@@ -7770,7 +7302,6 @@ const WORDS = [
       pinyin: "zhè miàn qiáng yào chóng xīn yóu qī",
       en: "This wall needs repainting.",
     },
-    say: null,
   },
   {
     num: 470,
@@ -7786,7 +7317,6 @@ const WORDS = [
       pinyin: "dì bǎn gāng tuō guò xiǎo xīn huá",
       en: "The floor was just mopped — careful, it's slippery.",
     },
-    say: null,
   },
   {
     num: 471,
@@ -7802,7 +7332,6 @@ const WORDS = [
       pinyin: "wǒ měi tiān pá lóu tī yùn dòng",
       en: "I climb the stairs for exercise every day.",
     },
-    say: null,
   },
   {
     num: 472,
@@ -7818,7 +7347,6 @@ const WORDS = [
       pinyin: "diàn tī huài le wǒ men zǒu lóu tī ba",
       en: "The elevator's broken — let's take the stairs.",
     },
-    say: null,
   },
   {
     num: 473,
@@ -7834,7 +7362,6 @@ const WORDS = [
       pinyin: "zhè zhāng zhuō zi tài xiǎo le",
       en: "This table is too small.",
     },
-    say: null,
   },
   {
     num: 474,
@@ -7850,7 +7377,6 @@ const WORDS = [
       pinyin: "qǐng bǎ yǐ zi bān guò lái",
       en: "Please bring the chair over.",
     },
-    say: null,
   },
   {
     num: 475,
@@ -7866,7 +7392,6 @@ const WORDS = [
       pinyin: "zhè zhāng chuáng shuì qǐ lái hěn shū fú",
       en: "This bed is comfortable to sleep on.",
     },
-    say: null,
   },
   {
     num: 476,
@@ -7882,7 +7407,6 @@ const WORDS = [
       pinyin: "tā zài shā fā shàng shuì zháo le",
       en: "He fell asleep on the sofa.",
     },
-    say: null,
   },
   {
     num: 477,
@@ -7898,7 +7422,6 @@ const WORDS = [
       pinyin: "wǎn fàng zài guì zi lǐ",
       en: "The bowls are in the cabinet.",
     },
-    say: null,
   },
   {
     num: 478,
@@ -7914,7 +7437,6 @@ const WORDS = [
       pinyin: "zhè zhǎn dēng bú tài liàng",
       en: "This lamp isn't very bright.",
     },
-    say: null,
   },
   {
     num: 479,
@@ -7930,7 +7452,6 @@ const WORDS = [
       pinyin: "xià tiān méi yǒu lěng qì shòu bù liǎo",
       en: "Summer is unbearable without air conditioning.",
     },
-    say: null,
   },
   {
     num: 480,
@@ -7946,7 +7467,6 @@ const WORDS = [
       pinyin: "qǐng bǎ diàn fēng shàn dǎ kāi",
       en: "Please turn on the electric fan.",
     },
-    say: null,
   },
   {
     num: 481,
@@ -7962,7 +7482,6 @@ const WORDS = [
       pinyin: "xǐ yī jī zài yáng tái",
       en: "The washing machine is on the balcony.",
     },
-    say: null,
   },
   {
     num: 482,
@@ -7978,7 +7497,6 @@ const WORDS = [
       pinyin: "tái wān hěn cháo shī hōng yī jī hěn shí yòng",
       en: "Taiwan is humid, so a dryer is very practical.",
     },
-    say: null,
   },
   {
     num: 483,
@@ -7994,7 +7512,6 @@ const WORDS = [
       pinyin: "wǒ hěn shǎo kàn diàn shì",
       en: "I rarely watch TV.",
     },
-    say: null,
   },
   {
     num: 484,
@@ -8010,7 +7527,6 @@ const WORDS = [
       pinyin: "yáo kòng qì bú jiàn le",
       en: "The remote control is missing.",
     },
-    say: null,
   },
   {
     num: 485,
@@ -8026,7 +7542,6 @@ const WORDS = [
       pinyin: "wǒ bǎ yào shi wàng zài jiā lǐ le",
       en: "I left my keys at home.",
     },
-    say: null,
   },
   {
     num: 486,
@@ -8042,7 +7557,6 @@ const WORDS = [
       pinyin: "mén suǒ huài le dǎ bù kāi",
       en: "The lock is broken — it won't open.",
     },
-    say: null,
   },
   {
     num: 487,
@@ -8058,7 +7572,6 @@ const WORDS = [
       pinyin: "qǐng bāng wǒ bǎ lè sè ná chū qù",
       en: "Please take the trash out for me.",
     },
-    say: null,
   },
   {
     num: 488,
@@ -8074,7 +7587,6 @@ const WORDS = [
       pinyin: "lè sè dài yào qù biàn lì shāng diàn mǎi",
       en: "You buy trash bags at the convenience store.",
     },
-    say: null,
   },
   {
     num: 489,
@@ -8090,7 +7602,6 @@ const WORDS = [
       pinyin: "lè sè chē měi tiān wǎn shàng qī diǎn lái",
       en: "The garbage truck comes at seven every evening.",
     },
-    say: null,
   },
   {
     num: 490,
@@ -8106,7 +7617,6 @@ const WORDS = [
       pinyin: "wǒ yào qù xǐ yī fú",
       en: "I'm going to do the laundry.",
     },
-    say: null,
   },
   {
     num: 491,
@@ -8122,7 +7632,6 @@ const WORDS = [
       pinyin: "zhè tiáo kù zi yǒu diǎn jǐn",
       en: "These pants are a bit tight.",
     },
-    say: null,
   },
   {
     num: 492,
@@ -8138,7 +7647,6 @@ const WORDS = [
       pinyin: "zhè jiàn qún zi hěn shì hé nǐ",
       en: "This skirt suits you well.",
     },
-    say: null,
   },
   {
     num: 493,
@@ -8154,7 +7662,6 @@ const WORDS = [
       pinyin: "wài miàn hěn lěng jì de chuān wài tào",
       en: "It's cold out — remember to wear a jacket.",
     },
-    say: null,
   },
   {
     num: 494,
@@ -8170,7 +7677,6 @@ const WORDS = [
       pinyin: "jìn mén qián qǐng tuō xié zi",
       en: "Please take off your shoes before coming in.",
     },
-    say: null,
   },
   {
     num: 495,
@@ -8186,7 +7692,6 @@ const WORDS = [
       pinyin: "wǒ shǎo le yì zhī wà zi",
       en: "I'm missing one sock.",
     },
-    say: null,
   },
   {
     num: 496,
@@ -8202,7 +7707,6 @@ const WORDS = [
       pinyin: "tài yáng hěn dà dài mào zi ba",
       en: "The sun is strong — put on a hat.",
     },
-    say: null,
   },
   {
     num: 497,
@@ -8218,7 +7722,6 @@ const WORDS = [
       pinyin: "zhè tiáo máo jīn shì gān jìng de",
       en: "This towel is clean.",
     },
-    say: null,
   },
   {
     num: 498,
@@ -8234,7 +7737,6 @@ const WORDS = [
       pinyin: "qǐng yòng féi zào xǐ shǒu",
       en: "Please wash your hands with soap.",
     },
-    say: null,
   },
   {
     num: 499,
@@ -8250,7 +7752,6 @@ const WORDS = [
       pinyin: "xǐ fǎ jīng yòng wán le",
       en: "The shampoo has run out.",
     },
-    say: null,
   },
   {
     num: 500,
@@ -8266,7 +7767,6 @@ const WORDS = [
       pinyin: "yá shuā yīng gāi sān ge yuè huàn yí cì",
       en: "A toothbrush should be replaced every three months.",
     },
-    say: null,
   },
   {
     num: 501,
@@ -8282,7 +7782,6 @@ const WORDS = [
       pinyin: "wǒ jǐ le yì diǎn yá gāo",
       en: "I squeezed out a little toothpaste.",
     },
-    say: null,
   },
   {
     num: 502,
@@ -8298,7 +7797,6 @@ const WORDS = [
       pinyin: "dōng tiān yào gài hòu mián bèi",
       en: "In winter you need a thick quilt.",
     },
-    say: null,
   },
   {
     num: 503,
@@ -8314,7 +7812,6 @@ const WORDS = [
       pinyin: "zhè ge zhěn tóu tài ruǎn le",
       en: "This pillow is too soft.",
     },
-    say: null,
   },
   {
     num: 504,
@@ -8330,7 +7827,6 @@ const WORDS = [
       pinyin: "tái běi de zū jīn hěn guì",
       en: "Rent in Taipei is expensive.",
     },
-    say: null,
   },
   {
     num: 505,
@@ -8346,7 +7842,6 @@ const WORDS = [
       pinyin: "yā jīn huì zài tuì zū shí tuì huán",
       en: "The deposit is returned when you move out.",
     },
-    say: null,
   },
   {
     num: 506,
@@ -8363,7 +7858,6 @@ const WORDS = [
       pinyin: "tái běi de dà zhòng jiāo tōng hěn fāng biàn",
       en: "Taipei's public transportation is very convenient.",
     },
-    say: null,
   },
   {
     num: 507,
@@ -8379,7 +7873,6 @@ const WORDS = [
       pinyin: "zhè tiáo lù hěn zhǎi",
       en: "This road is narrow.",
     },
-    say: null,
   },
   {
     num: 508,
@@ -8395,7 +7888,6 @@ const WORDS = [
       pinyin: "zhè tiáo jiē shàng yǒu hěn duō xiǎo chī",
       en: "There are lots of snack shops on this street.",
     },
-    say: null,
   },
   {
     num: 509,
@@ -8411,7 +7903,6 @@ const WORDS = [
       pinyin: "zài xià yí ge shí zì lù kǒu yòu zhuǎn",
       en: "Turn right at the next intersection.",
     },
-    say: null,
   },
   {
     num: 510,
@@ -8428,7 +7919,6 @@ const WORDS = [
       pinyin: "qián miàn yǒu hóng lǜ dēng qǐng màn yì diǎn",
       en: "There's a traffic light ahead — please slow down.",
     },
-    say: null,
   },
   {
     num: 511,
@@ -8444,7 +7934,6 @@ const WORDS = [
       pinyin: "jī chē bù néng tíng zài rén xíng dào shàng",
       en: "Scooters can't park on the sidewalk.",
     },
-    say: null,
   },
   {
     num: 512,
@@ -8460,7 +7949,6 @@ const WORDS = [
       pinyin: "qǐng zǒu bān mǎ xiàn guò mǎ lù",
       en: "Please use the crosswalk.",
     },
-    say: null,
   },
   {
     num: 513,
@@ -8476,7 +7964,6 @@ const WORDS = [
       pinyin: "wǒ hǎo xiàng zǒu cuò fāng xiàng le",
       en: "I think I went the wrong way.",
     },
-    say: null,
   },
   {
     num: 514,
@@ -8492,7 +7979,6 @@ const WORDS = [
       pinyin: "yóu jú zài yín háng de zuǒ biān",
       en: "The post office is to the left of the bank.",
     },
-    say: null,
   },
   {
     num: 515,
@@ -8508,7 +7994,6 @@ const WORDS = [
       pinyin: "biàn lì shāng diàn zài yòu biān",
       en: "The convenience store is on the right.",
     },
-    say: null,
   },
   {
     num: 516,
@@ -8524,7 +8009,6 @@ const WORDS = [
       pinyin: "chē zhàn jiù zài qián miàn",
       en: "The station is just ahead.",
     },
-    say: null,
   },
   {
     num: 517,
@@ -8540,7 +8024,6 @@ const WORDS = [
       pinyin: "cè suǒ zài cān tīng hòu miàn",
       en: "The toilet is behind the restaurant.",
     },
-    say: null,
   },
   {
     num: 518,
@@ -8556,7 +8039,6 @@ const WORDS = [
       pinyin: "zhí zǒu dà gài wǔ fēn zhōng jiù dào le",
       en: "Go straight for about five minutes and you're there.",
     },
-    say: null,
   },
   {
     num: 519,
@@ -8572,7 +8054,6 @@ const WORDS = [
       pinyin: "zài dì èr ge lù kǒu zuǒ zhuǎn",
       en: "Turn left at the second intersection.",
     },
-    say: null,
   },
   {
     num: 520,
@@ -8588,7 +8069,6 @@ const WORDS = [
       pinyin: "kàn dào yóu jú jiù yòu zhuǎn",
       en: "Turn right when you see the post office.",
     },
-    say: null,
   },
   {
     num: 521,
@@ -8604,7 +8084,6 @@ const WORDS = [
       pinyin: "guò mǎ lù yào xiǎo xīn",
       en: "Be careful crossing the road.",
     },
-    say: null,
   },
   {
     num: 522,
@@ -8620,7 +8099,6 @@ const WORDS = [
       pinyin: "wǒ yòng shǒu jī kàn dì tú",
       en: "I use my phone to look at the map.",
     },
-    say: null,
   },
   {
     num: 523,
@@ -8636,7 +8114,6 @@ const WORDS = [
       pinyin: "qǐng gěi wǒ nǐ de dì zhǐ",
       en: "Please give me your address.",
     },
-    say: null,
   },
   {
     num: 524,
@@ -8652,7 +8129,6 @@ const WORDS = [
       pinyin: "chē zhàn qián miàn yǒu hěn duō jì chéng chē",
       en: "There are lots of taxis in front of the station.",
     },
-    say: null,
   },
   {
     num: 525,
@@ -8669,7 +8145,6 @@ const WORDS = [
       pinyin: "zhè bān gōng chē huì dào tái běi chē zhàn ma",
       en: "Does this bus go to Taipei Main Station?",
     },
-    say: null,
   },
   {
     num: 526,
@@ -8685,7 +8160,6 @@ const WORDS = [
       pinyin: "dā jié yùn bǐ kāi chē kuài",
       en: "The MRT is faster than driving.",
     },
-    say: null,
   },
   {
     num: 527,
@@ -8701,7 +8175,6 @@ const WORDS = [
       pinyin: "huǒ chē wù diǎn le bàn xiǎo shí",
       en: "The train was half an hour late.",
     },
-    say: null,
   },
   {
     num: 528,
@@ -8718,7 +8191,6 @@ const WORDS = [
       pinyin: "zuò gāo tiě dào gāo xióng zhǐ yào liǎng ge xiǎo shí",
       en: "The high-speed rail to Kaohsiung takes only two hours.",
     },
-    say: null,
   },
   {
     num: 529,
@@ -8734,7 +8206,6 @@ const WORDS = [
       pinyin: "wǒ men jiào yì tái jì chéng chē ba",
       en: "Let's call a taxi.",
     },
-    say: null,
   },
   {
     num: 530,
@@ -8750,7 +8221,6 @@ const WORDS = [
       pinyin: "tái wān de jī chē fēi cháng duō",
       en: "There are a huge number of scooters in Taiwan.",
     },
-    say: null,
   },
   {
     num: 531,
@@ -8766,7 +8236,6 @@ const WORDS = [
       pinyin: "wǒ qí jiǎo tà chē shàng xué",
       en: "I ride a bicycle to school.",
     },
-    say: null,
   },
   {
     num: 532,
@@ -8782,7 +8251,6 @@ const WORDS = [
       pinyin: "wǒ hái méi mǎi qì chē",
       en: "I haven't bought a car yet.",
     },
-    say: null,
   },
   {
     num: 533,
@@ -8798,7 +8266,6 @@ const WORDS = [
       pinyin: "fēi jī zhǔn shí qǐ fēi le",
       en: "The plane took off on time.",
     },
-    say: null,
   },
   {
     num: 534,
@@ -8814,7 +8281,6 @@ const WORDS = [
       pinyin: "wǒ men zuò chuán qù lǜ dǎo",
       en: "We're taking a boat to Green Island.",
     },
-    say: null,
   },
   {
     num: 535,
@@ -8830,7 +8296,6 @@ const WORDS = [
       pinyin: "huǒ chē zài dì sān yuè tái",
       en: "The train is at platform three.",
     },
-    say: null,
   },
   {
     num: 536,
@@ -8846,7 +8311,6 @@ const WORDS = [
       pinyin: "wǒ mǎi le liǎng zhāng chē piào",
       en: "I bought two tickets.",
     },
-    say: null,
   },
   {
     num: 537,
@@ -8862,7 +8326,6 @@ const WORDS = [
       pinyin: "yòng yōu yóu kǎ dā jié yùn yǒu zhé kòu",
       en: "You get a discount using an EasyCard on the MRT.",
     },
-    say: null,
   },
   {
     num: 538,
@@ -8878,7 +8341,6 @@ const WORDS = [
       pinyin: "qǐng cóng qián mén shàng chē",
       en: "Please board through the front door.",
     },
-    say: null,
   },
   {
     num: 539,
@@ -8894,7 +8356,6 @@ const WORDS = [
       pinyin: "wǒ xià yí zhàn xià chē",
       en: "I'm getting off at the next stop.",
     },
-    say: null,
   },
   {
     num: 540,
@@ -8910,7 +8371,6 @@ const WORDS = [
       pinyin: "nǐ yào zài tái běi chē zhàn zhuǎn chē",
       en: "You need to transfer at Taipei Main Station.",
     },
-    say: null,
   },
   {
     num: 541,
@@ -8926,7 +8386,6 @@ const WORDS = [
       pinyin: "wǒ měi tiān dā chē shàng bān",
       en: "I commute by public transport every day.",
     },
-    say: null,
   },
   {
     num: 542,
@@ -8942,7 +8401,6 @@ const WORDS = [
       pinyin: "hē jiǔ bù kāi chē",
       en: "Don't drink and drive.",
     },
-    say: null,
   },
   {
     num: 543,
@@ -8958,7 +8416,6 @@ const WORDS = [
       pinyin: "qí chē yí dìng yào dài ān quán mào",
       en: "You must wear a helmet when riding.",
     },
-    say: null,
   },
   {
     num: 544,
@@ -8974,7 +8431,6 @@ const WORDS = [
       pinyin: "zhè lǐ bù néng tíng chē",
       en: "You can't park here.",
     },
-    say: null,
   },
   {
     num: 545,
@@ -8990,7 +8446,6 @@ const WORDS = [
       pinyin: "xià bān shí jiān hěn róng yì sāi chē",
       en: "It gets jammed easily at rush hour.",
     },
-    say: null,
   },
   {
     num: 546,
@@ -9006,7 +8461,6 @@ const WORDS = [
       pinyin: "kuài dào zhàn le zhǔn bèi xià chē",
       en: "We're arriving soon — get ready to get off.",
     },
-    say: null,
   },
   {
     num: 547,
@@ -9022,7 +8476,6 @@ const WORDS = [
       pinyin: "zhè bān chē de zhōng diǎn zhàn shì dàn shuǐ",
       en: "This train's last stop is Tamsui.",
     },
-    say: null,
   },
   {
     num: 548,
@@ -9038,7 +8491,6 @@ const WORDS = [
       pinyin: "rù kǒu zài lìng yì biān",
       en: "The entrance is on the other side.",
     },
-    say: null,
   },
   {
     num: 549,
@@ -9054,7 +8506,6 @@ const WORDS = [
       pinyin: "qǐng zǒu sān hào chū kǒu",
       en: "Please take exit three.",
     },
-    say: null,
   },
   {
     num: 550,
@@ -9070,7 +8521,6 @@ const WORDS = [
       pinyin: "jià rì de bān cì bǐ jiào shǎo",
       en: "There are fewer services on holidays.",
     },
-    say: null,
   },
   {
     num: 551,
@@ -9086,7 +8536,6 @@ const WORDS = [
       pinyin: "qǐng kàn qiáng shàng de shí kè biǎo",
       en: "Please check the timetable on the wall.",
     },
-    say: null,
   },
   {
     num: 552,
@@ -9102,7 +8551,6 @@ const WORDS = [
       pinyin: "yīn wèi tái fēng bān jī yán wù le",
       en: "The flight was delayed because of the typhoon.",
     },
-    say: null,
   },
   {
     num: 553,
@@ -9118,7 +8566,6 @@ const WORDS = [
       pinyin: "zhè jiā shāng diàn wǎn shàng shí diǎn guān mén",
       en: "This shop closes at ten at night.",
     },
-    say: null,
   },
   {
     num: 554,
@@ -9134,7 +8581,6 @@ const WORDS = [
       pinyin: "bǎi huò gōng sī zài zhōu nián qìng dǎ zhé",
       en: "The department store has discounts during its anniversary sale.",
     },
-    say: null,
   },
   {
     num: 555,
@@ -9150,7 +8596,6 @@ const WORDS = [
       pinyin: "wǒ qù chāo shì mǎi cài",
       en: "I'm going to the supermarket for groceries.",
     },
-    say: null,
   },
   {
     num: 556,
@@ -9167,7 +8612,6 @@ const WORDS = [
       pinyin: "tái wān de biàn lì shāng diàn èr shí sì xiǎo shí yíng yè",
       en: "Convenience stores in Taiwan are open 24 hours.",
     },
-    say: null,
   },
   {
     num: 557,
@@ -9183,7 +8627,6 @@ const WORDS = [
       pinyin: "zǎo shàng de shì chǎng hěn rè nào",
       en: "The morning market is lively.",
     },
-    say: null,
   },
   {
     num: 558,
@@ -9199,7 +8642,6 @@ const WORDS = [
       pinyin: "wǒ cháng zài wǎng lù shāng diàn mǎi dōng xi",
       en: "I often buy things from online shops.",
     },
-    say: null,
   },
   {
     num: 559,
@@ -9215,7 +8657,6 @@ const WORDS = [
       pinyin: "wǒ yào qù mǎi yì xiē dōng xi",
       en: "I'm going to buy a few things.",
     },
-    say: null,
   },
   {
     num: 560,
@@ -9231,7 +8672,6 @@ const WORDS = [
       pinyin: "zhè jiàn shāng pǐn zhèng zài tè jià",
       en: "This product is on sale.",
     },
-    say: null,
   },
   {
     num: 561,
@@ -9247,7 +8687,6 @@ const WORDS = [
       pinyin: "wǒ bú zài yì pǐn pái",
       en: "I don't care about brands.",
     },
-    say: null,
   },
   {
     num: 562,
@@ -9263,7 +8702,6 @@ const WORDS = [
       pinyin: "zhè lǐ de jià gé bǐ jiào hé lǐ",
       en: "The prices here are more reasonable.",
     },
-    say: null,
   },
   {
     num: 563,
@@ -9279,7 +8717,6 @@ const WORDS = [
       pinyin: "zhè ge duō shǎo qián",
       en: "How much is this?",
     },
-    say: null,
   },
   {
     num: 564,
@@ -9295,7 +8732,6 @@ const WORDS = [
       pinyin: "kě yǐ suàn pián yi yì diǎn ma",
       en: "Could you make it a bit cheaper?",
     },
-    say: null,
   },
   {
     num: 565,
@@ -9311,7 +8747,6 @@ const WORDS = [
       pinyin: "zhè jiàn wài tào tài guì le",
       en: "This jacket is too expensive.",
     },
-    say: null,
   },
   {
     num: 566,
@@ -9327,7 +8762,6 @@ const WORDS = [
       pinyin: "huì yuán yǒu é wài de zhé kòu",
       en: "Members get an extra discount.",
     },
-    say: null,
   },
   {
     num: 567,
@@ -9343,7 +8777,6 @@ const WORDS = [
       pinyin: "zhè xiē shuǐ guǒ jīn tiān tè jià",
       en: "This fruit is on special today.",
     },
-    say: null,
   },
   {
     num: 568,
@@ -9359,7 +8792,6 @@ const WORDS = [
       pinyin: "yuán jià yì qiān xiàn zài zhǐ yào bā bǎi",
       en: "The original price was one thousand; now it's only eight hundred.",
     },
-    say: null,
   },
   {
     num: 569,
@@ -9375,7 +8807,6 @@ const WORDS = [
       pinyin: "qǐng wèn yǒu bié de chǐ cùn ma",
       en: "Do you have other sizes?",
     },
-    say: null,
   },
   {
     num: 570,
@@ -9391,7 +8822,6 @@ const WORDS = [
       pinyin: "zhè ge dà xiǎo gāng gāng hǎo",
       en: "This size is just right.",
     },
-    say: null,
   },
   {
     num: 571,
@@ -9407,7 +8837,6 @@ const WORDS = [
       pinyin: "wǒ xǐ huān zhè ge yán sè",
       en: "I like this color.",
     },
-    say: null,
   },
   {
     num: 572,
@@ -9423,7 +8852,6 @@ const WORDS = [
       pinyin: "wǒ mǎi le yí jiàn hēi sè de wài tào",
       en: "I bought a black jacket.",
     },
-    say: null,
   },
   {
     num: 573,
@@ -9439,7 +8867,6 @@ const WORDS = [
       pinyin: "bái sè de yī fú róng yì zāng",
       en: "White clothes get dirty easily.",
     },
-    say: null,
   },
   {
     num: 574,
@@ -9455,7 +8882,6 @@ const WORDS = [
       pinyin: "hóng sè zài tái wān dài biǎo xǐ qì",
       en: "Red represents good fortune in Taiwan.",
     },
-    say: null,
   },
   {
     num: 575,
@@ -9471,7 +8897,6 @@ const WORDS = [
       pinyin: "wǒ zuì xǐ huān lán sè",
       en: "Blue is my favorite color.",
     },
-    say: null,
   },
   {
     num: 576,
@@ -9487,7 +8912,6 @@ const WORDS = [
       pinyin: "lǜ sè de dēng liàng le kě yǐ zǒu le",
       en: "The green light is on — we can go.",
     },
-    say: null,
   },
   {
     num: 577,
@@ -9503,7 +8927,6 @@ const WORDS = [
       pinyin: "zhè duǒ huā shì huáng sè de",
       en: "This flower is yellow.",
     },
-    say: null,
   },
   {
     num: 578,
@@ -9519,7 +8942,6 @@ const WORDS = [
       pinyin: "qǐng wèn kě yǐ shì chuān ma",
       en: "May I try this on?",
     },
-    say: null,
   },
   {
     num: 579,
@@ -9535,7 +8957,6 @@ const WORDS = [
       pinyin: "zhè ge yán sè hěn shì hé nǐ",
       en: "This color really suits you.",
     },
-    say: null,
   },
   {
     num: 580,
@@ -9551,7 +8972,6 @@ const WORDS = [
       pinyin: "zhè jiā diàn zhǐ shōu xiàn jīn",
       en: "This shop only takes cash.",
     },
-    say: null,
   },
   {
     num: 581,
@@ -9567,7 +8987,6 @@ const WORDS = [
       pinyin: "kě yǐ shuā xìn yòng kǎ ma",
       en: "Can I pay by credit card?",
     },
-    say: null,
   },
   {
     num: 582,
@@ -9583,7 +9002,6 @@ const WORDS = [
       pinyin: "xiàn zài hěn duō rén yòng xíng dòng zhī fù",
       en: "A lot of people use mobile payment now.",
     },
-    say: null,
   },
   {
     num: 583,
@@ -9599,7 +9017,6 @@ const WORDS = [
       pinyin: "wǒ de qián bāo bú jiàn le",
       en: "My wallet is missing.",
     },
-    say: null,
   },
   {
     num: 584,
@@ -9615,7 +9032,6 @@ const WORDS = [
       pinyin: "wǒ shēn shàng zhǐ yǒu jǐ ge yìng bì",
       en: "I only have a few coins on me.",
     },
-    say: null,
   },
   {
     num: 585,
@@ -9631,7 +9047,6 @@ const WORDS = [
       pinyin: "zhè zhāng chāo piào shì jiǎ de",
       en: "This banknote is fake.",
     },
-    say: null,
   },
   {
     num: 586,
@@ -9648,7 +9063,6 @@ const WORDS = [
       pinyin: "jì de duì fā piào kě néng huì zhòng jiǎng",
       en: "Remember to check your receipt — you might win the lottery.",
     },
-    say: null,
   },
   {
     num: 587,
@@ -9664,7 +9078,6 @@ const WORDS = [
       pinyin: "qǐng gěi wǒ shōu jù",
       en: "Please give me a receipt.",
     },
-    say: null,
   },
   {
     num: 588,
@@ -9680,7 +9093,6 @@ const WORDS = [
       pinyin: "wǒ yào yòng zài jù cún fā piào",
       en: "I want to save the invoice to my carrier.",
     },
-    say: null,
   },
   {
     num: 589,
@@ -9696,7 +9108,6 @@ const WORDS = [
       pinyin: "qǐng dào guì tái fù kuǎn",
       en: "Please pay at the counter.",
     },
-    say: null,
   },
   {
     num: 590,
@@ -9712,7 +9123,6 @@ const WORDS = [
       pinyin: "tuì kuǎn xū yào sān ge gōng zuò tiān",
       en: "A refund takes three business days.",
     },
-    say: null,
   },
   {
     num: 591,
@@ -9728,7 +9138,6 @@ const WORDS = [
       pinyin: "qī tiān nèi kě yǐ tuì huò",
       en: "You can return it within seven days.",
     },
-    say: null,
   },
   {
     num: 592,
@@ -9744,7 +9153,6 @@ const WORDS = [
       pinyin: "chǐ cùn bú duì kě yǐ huàn huò",
       en: "If the size is wrong you can exchange it.",
     },
-    say: null,
   },
   {
     num: 593,
@@ -9760,7 +9168,6 @@ const WORDS = [
       pinyin: "zhè tái diàn nǎo bǎo gù liǎng nián",
       en: "This computer has a two-year warranty.",
     },
-    say: null,
   },
   {
     num: 594,
@@ -9776,7 +9183,6 @@ const WORDS = [
       pinyin: "zhè ge yán sè quē huò le",
       en: "This color is out of stock.",
     },
-    say: null,
   },
   {
     num: 595,
@@ -9792,7 +9198,6 @@ const WORDS = [
       pinyin: "qǐng wèn zhè ge hái yǒu huò ma",
       en: "Do you still have this in stock?",
     },
-    say: null,
   },
   {
     num: 596,
@@ -9808,7 +9213,6 @@ const WORDS = [
       pinyin: "wǒ zì jǐ dài gòu wù dài",
       en: "I bring my own shopping bag.",
     },
-    say: null,
   },
   {
     num: 597,
@@ -9824,7 +9228,6 @@ const WORDS = [
       pinyin: "qǐng sǎo miáo tiáo mǎ",
       en: "Please scan the barcode.",
     },
-    say: null,
   },
   {
     num: 598,
@@ -9840,7 +9243,6 @@ const WORDS = [
       pinyin: "qǐng wèn nín shì huì yuán ma",
       en: "Are you a member?",
     },
-    say: null,
   },
   {
     num: 599,
@@ -9856,7 +9258,6 @@ const WORDS = [
       pinyin: "diǎn shù kě yǐ huàn zèng pǐn",
       en: "Points can be exchanged for gifts.",
     },
-    say: null,
   },
   {
     num: 600,
@@ -9872,7 +9273,6 @@ const WORDS = [
       pinyin: "wǒ men gōng sī yǒu wǔ shí ge yuán gōng",
       en: "Our company has fifty employees.",
     },
-    say: null,
   },
   {
     num: 601,
@@ -9888,7 +9288,6 @@ const WORDS = [
       pinyin: "wǒ de bàn gōng shì zài shí lóu",
       en: "My office is on the tenth floor.",
     },
-    say: null,
   },
   {
     num: 602,
@@ -9904,7 +9303,6 @@ const WORDS = [
       pinyin: "zhè jiàn shì yào wèn qí tā bù mén",
       en: "You need to ask another department about this.",
     },
-    say: null,
   },
   {
     num: 603,
@@ -9920,7 +9318,6 @@ const WORDS = [
       pinyin: "tā shēng shàng le zhǔ guǎn de zhí wèi",
       en: "He was promoted to a supervisor position.",
     },
-    say: null,
   },
   {
     num: 604,
@@ -9936,7 +9333,6 @@ const WORDS = [
       pinyin: "qǐng wèn nín de zhí yè shì shén me",
       en: "What's your occupation?",
     },
-    say: null,
   },
   {
     num: 605,
@@ -9952,7 +9348,6 @@ const WORDS = [
       pinyin: "wǒ měi tiān jiǔ diǎn shàng bān",
       en: "I start work at nine every day.",
     },
-    say: null,
   },
   {
     num: 606,
@@ -9968,7 +9363,6 @@ const WORDS = [
       pinyin: "wǒ jīn tiān kě yǐ zhǔn shí xià bān",
       en: "I can get off work on time today.",
     },
-    say: null,
   },
   {
     num: 607,
@@ -9984,7 +9378,6 @@ const WORDS = [
       pinyin: "zhè ge xīng qí wǒ jiā le sān tiān bān",
       en: "I worked overtime three days this week.",
     },
-    say: null,
   },
   {
     num: 608,
@@ -10000,7 +9393,6 @@ const WORDS = [
       pinyin: "wǒ míng tiān xiǎng qǐng jià",
       en: "I'd like to take tomorrow off.",
     },
-    say: null,
   },
   {
     num: 609,
@@ -10016,7 +9408,6 @@ const WORDS = [
       pinyin: "zhè fèn gōng zuò de xīn shuǐ bú cuò",
       en: "The salary for this job is pretty good.",
     },
-    say: null,
   },
   {
     num: 610,
@@ -10032,7 +9423,6 @@ const WORDS = [
       pinyin: "wǒ bǎ lǚ lì jì guò qù le",
       en: "I sent my résumé over.",
     },
-    say: null,
   },
   {
     num: 611,
@@ -10048,7 +9438,6 @@ const WORDS = [
       pinyin: "wǒ xià wǔ yǒu yì chǎng miàn shì",
       en: "I have an interview this afternoon.",
     },
-    say: null,
   },
   {
     num: 612,
@@ -10064,7 +9453,6 @@ const WORDS = [
       pinyin: "huì yì gǎi dào sān diǎn le",
       en: "The meeting was moved to three o'clock.",
     },
-    say: null,
   },
   {
     num: 613,
@@ -10080,7 +9468,6 @@ const WORDS = [
       pinyin: "zhè ge zhuān àn xià ge yuè wán chéng",
       en: "This project finishes next month.",
     },
-    say: null,
   },
   {
     num: 614,
@@ -10096,7 +9483,6 @@ const WORDS = [
       pinyin: "zhè ge rèn wù bǐ jiào jí",
       en: "This task is rather urgent.",
     },
-    say: null,
   },
   {
     num: 615,
@@ -10112,7 +9498,6 @@ const WORDS = [
       pinyin: "zuì jìn de gōng zuò liàng tài dà le",
       en: "The workload has been too heavy lately.",
     },
-    say: null,
   },
   {
     num: 616,
@@ -10128,7 +9513,6 @@ const WORDS = [
       pinyin: "qǐng wèn jìn dù rú hé",
       en: "How's the progress coming along?",
     },
-    say: null,
   },
   {
     num: 617,
@@ -10144,7 +9528,6 @@ const WORDS = [
       pinyin: "qí xiàn shì zhè ge xīng qí wǔ",
       en: "The deadline is this Friday.",
     },
-    say: null,
   },
   {
     num: 618,
@@ -10160,7 +9543,6 @@ const WORDS = [
       pinyin: "wǒ men xiān què rèn yōu xiān shùn xù",
       en: "Let's confirm the priorities first.",
     },
-    say: null,
   },
   {
     num: 619,
@@ -10176,7 +9558,6 @@ const WORDS = [
       pinyin: "jīn nián de mù biāo hěn qīng chǔ",
       en: "This year's goals are very clear.",
     },
-    say: null,
   },
   {
     num: 620,
@@ -10192,7 +9573,6 @@ const WORDS = [
       pinyin: "wǒ de jì huà yǒu diǎn gǎi biàn",
       en: "My plan has changed a little.",
     },
-    say: null,
   },
   {
     num: 621,
@@ -10208,7 +9588,6 @@ const WORDS = [
       pinyin: "jié guǒ bǐ wǒ xiǎng de hǎo",
       en: "The result was better than I expected.",
     },
-    say: null,
   },
   {
     num: 622,
@@ -10224,7 +9603,6 @@ const WORDS = [
       pinyin: "zhè ge wèn tí hěn nán jiě jué",
       en: "This problem is hard to solve.",
     },
-    say: null,
   },
   {
     num: 623,
@@ -10240,7 +9618,6 @@ const WORDS = [
       pinyin: "wǒ men yì qǐ xiǎng bàn fǎ jiě jué",
       en: "Let's figure out how to solve it together.",
     },
-    say: null,
   },
   {
     num: 624,
@@ -10256,7 +9633,6 @@ const WORDS = [
       pinyin: "zhè jiàn shì wǒ men zài tǎo lùn",
       en: "Let's discuss this again.",
     },
-    say: null,
   },
   {
     num: 625,
@@ -10272,7 +9648,6 @@ const WORDS = [
       pinyin: "hěn gāo xìng gēn nǐ hé zuò",
       en: "It's a pleasure working with you.",
     },
-    say: null,
   },
   {
     num: 626,
@@ -10288,7 +9663,6 @@ const WORDS = [
       pinyin: "zhè ge bù fèn yóu wǒ fù zé",
       en: "I'm responsible for this part.",
     },
-    say: null,
   },
   {
     num: 627,
@@ -10304,7 +9678,6 @@ const WORDS = [
       pinyin: "wǒ lái ān pái shí jiān",
       en: "I'll arrange the time.",
     },
-    say: null,
   },
   {
     num: 628,
@@ -10320,7 +9693,6 @@ const WORDS = [
       pinyin: "yǒu xiāo xí wǒ huì tōng zhī nǐ",
       en: "I'll let you know if there's any news.",
     },
-    say: null,
   },
   {
     num: 629,
@@ -10336,7 +9708,6 @@ const WORDS = [
       pinyin: "bào gào xià xīng qí yào jiāo",
       en: "The report is due next week.",
     },
-    say: null,
   },
   {
     num: 630,
@@ -10352,7 +9723,6 @@ const WORDS = [
       pinyin: "wǒ hái zài zhěng lǐ zī liào",
       en: "I'm still organizing the materials.",
     },
-    say: null,
   },
   {
     num: 631,
@@ -10368,7 +9738,6 @@ const WORDS = [
       pinyin: "zhè fèn wén jiàn qǐng bāng wǒ qiān míng",
       en: "Please sign this document for me.",
     },
-    say: null,
   },
   {
     num: 632,
@@ -10384,7 +9753,6 @@ const WORDS = [
       pinyin: "qǐng tián xiě zhè zhāng biǎo gé",
       en: "Please fill out this form.",
     },
-    say: null,
   },
   {
     num: 633,
@@ -10400,7 +9768,6 @@ const WORDS = [
       pinyin: "dàng àn tài dà jì bù chū qù",
       en: "The file is too big to send.",
     },
-    say: null,
   },
   {
     num: 634,
@@ -10416,7 +9783,6 @@ const WORDS = [
       pinyin: "zī liào jiá lǐ yǒu sān ge dàng àn",
       en: "There are three files in the folder.",
     },
-    say: null,
   },
   {
     num: 635,
@@ -10433,7 +9799,6 @@ const WORDS = [
       pinyin: "wǒ gāng gāng jì le diàn zi yóu jiàn gěi nǐ",
       en: "I just sent you an email.",
     },
-    say: null,
   },
   {
     num: 636,
@@ -10449,7 +9814,6 @@ const WORDS = [
       pinyin: "wǒ shōu dào nǐ de xùn xí le",
       en: "I got your message.",
     },
-    say: null,
   },
   {
     num: 637,
@@ -10465,7 +9829,6 @@ const WORDS = [
       pinyin: "wǒ děng yí xià dǎ diàn huà gěi nǐ",
       en: "I'll call you in a bit.",
     },
-    say: null,
   },
   {
     num: 638,
@@ -10481,7 +9844,6 @@ const WORDS = [
       pinyin: "kè hù duì jià gé bú tài mǎn yì",
       en: "The client isn't very happy with the price.",
     },
-    say: null,
   },
   {
     num: 639,
@@ -10497,7 +9859,6 @@ const WORDS = [
       pinyin: "qǐng xiān què rèn kè hù de xū qiú",
       en: "Please confirm the client's requirements first.",
     },
-    say: null,
   },
   {
     num: 640,
@@ -10513,7 +9874,6 @@ const WORDS = [
       pinyin: "zhè ge gōng néng hái zài kāi fā zhōng",
       en: "This feature is still in development.",
     },
-    say: null,
   },
   {
     num: 641,
@@ -10529,7 +9889,6 @@ const WORDS = [
       pinyin: "cè shì tōng guò le ma",
       en: "Did it pass the test?",
     },
-    say: null,
   },
   {
     num: 642,
@@ -10545,7 +9904,6 @@ const WORDS = [
       pinyin: "zhè shì wǒ de cuò wù wǒ lái gǎi",
       en: "This is my mistake — I'll fix it.",
     },
-    say: null,
   },
   {
     num: 643,
@@ -10561,7 +9919,6 @@ const WORDS = [
       pinyin: "xì tǒng míng tiān yào wéi hù",
       en: "The system will be under maintenance tomorrow.",
     },
-    say: null,
   },
   {
     num: 644,
@@ -10577,7 +9934,6 @@ const WORDS = [
       pinyin: "wǒ méi yǒu zhè ge quán xiàn",
       en: "I don't have this permission.",
     },
-    say: null,
   },
   {
     num: 645,
@@ -10593,7 +9949,6 @@ const WORDS = [
       pinyin: "wǒ wàng jì wǒ de zhàng hào le",
       en: "I forgot my account name.",
     },
-    say: null,
   },
   {
     num: 646,
@@ -10609,7 +9964,6 @@ const WORDS = [
       pinyin: "mì mǎ zhì shǎo yào bā ge zì",
       en: "The password needs at least eight characters.",
     },
-    say: null,
   },
   {
     num: 647,
@@ -10625,7 +9979,6 @@ const WORDS = [
       pinyin: "wǒ de xué xiào lí jiā hěn jìn",
       en: "My school is close to home.",
     },
-    say: null,
   },
   {
     num: 648,
@@ -10641,7 +9994,6 @@ const WORDS = [
       pinyin: "tā zài tái dà niàn dà xué",
       en: "She's studying at National Taiwan University.",
     },
-    say: null,
   },
   {
     num: 649,
@@ -10657,7 +10009,6 @@ const WORDS = [
       pinyin: "wǒ xiǎng kǎo yán jiù suǒ",
       en: "I want to apply for graduate school.",
     },
-    say: null,
   },
   {
     num: 650,
@@ -10673,7 +10024,6 @@ const WORDS = [
       pinyin: "jiào shì zài sān lóu",
       en: "The classroom is on the third floor.",
     },
-    say: null,
   },
   {
     num: 651,
@@ -10689,7 +10039,6 @@ const WORDS = [
       pinyin: "zhè ge kè chéng yào shàng yì nián",
       en: "This course runs for a year.",
     },
-    say: null,
   },
   {
     num: 652,
@@ -10705,7 +10054,6 @@ const WORDS = [
       pinyin: "jīn tiān de kè táng hěn yǒu qù",
       en: "Today's class was interesting.",
     },
-    say: null,
   },
   {
     num: 653,
@@ -10721,7 +10069,6 @@ const WORDS = [
       pinyin: "wǒ hái méi xiě gōng kè",
       en: "I haven't done my homework yet.",
     },
-    say: null,
   },
   {
     num: 654,
@@ -10737,7 +10084,6 @@ const WORDS = [
       pinyin: "zuò yè míng tiān yào jiāo",
       en: "The assignment is due tomorrow.",
     },
-    say: null,
   },
   {
     num: 655,
@@ -10753,7 +10099,6 @@ const WORDS = [
       pinyin: "xià xīng qí yǒu zhōng wén kǎo shì",
       en: "There's a Chinese exam next week.",
     },
-    say: null,
   },
   {
     num: 656,
@@ -10769,7 +10114,6 @@ const WORDS = [
       pinyin: "tā de chéng jī yì zhí hěn hǎo",
       en: "His grades have always been good.",
     },
-    say: null,
   },
   {
     num: 657,
@@ -10785,7 +10129,6 @@ const WORDS = [
       pinyin: "zhè cì de fēn shù bǐ shàng cì gāo",
       en: "This score is higher than last time.",
     },
-    say: null,
   },
   {
     num: 658,
@@ -10801,7 +10144,6 @@ const WORDS = [
       pinyin: "wǒ jīn nián liù yuè bì yè",
       en: "I graduate this June.",
     },
-    say: null,
   },
   {
     num: 659,
@@ -10817,7 +10159,6 @@ const WORDS = [
       pinyin: "zhè ge xué qí wǒ xiū wǔ mén kè",
       en: "I'm taking five courses this semester.",
     },
-    say: null,
   },
   {
     num: 660,
@@ -10833,7 +10174,6 @@ const WORDS = [
       pinyin: "wǒ zuì xǐ huān de kē mù shì lì shǐ",
       en: "My favorite subject is history.",
     },
-    say: null,
   },
   {
     num: 661,
@@ -10849,7 +10189,6 @@ const WORDS = [
       pinyin: "wǒ xué zhōng wén liǎng nián le",
       en: "I've been learning Chinese for two years.",
     },
-    say: null,
   },
   {
     num: 662,
@@ -10865,7 +10204,6 @@ const WORDS = [
       pinyin: "tā de yīng wén shuō de hěn liú lì",
       en: "He speaks English fluently.",
     },
-    say: null,
   },
   {
     num: 663,
@@ -10881,7 +10219,6 @@ const WORDS = [
       pinyin: "xué yǔ yán xū yào shí jiān",
       en: "Learning a language takes time.",
     },
-    say: null,
   },
   {
     num: 664,
@@ -10897,7 +10234,6 @@ const WORDS = [
       pinyin: "wǒ měi tiān bèi shí ge dān zì",
       en: "I memorize ten vocabulary words a day.",
     },
-    say: null,
   },
   {
     num: 665,
@@ -10913,7 +10249,6 @@ const WORDS = [
       pinyin: "zhè ge jù zi wǒ kàn bù dǒng",
       en: "I don't understand this sentence.",
     },
-    say: null,
   },
   {
     num: 666,
@@ -10929,7 +10264,6 @@ const WORDS = [
       pinyin: "zhōng wén de wén fǎ qí shí bù nán",
       en: "Chinese grammar actually isn't hard.",
     },
-    say: null,
   },
   {
     num: 667,
@@ -10945,7 +10279,6 @@ const WORDS = [
       pinyin: "wǒ de fā yīn hái yào zài liàn xí",
       en: "My pronunciation still needs practice.",
     },
-    say: null,
   },
   {
     num: 668,
@@ -10961,7 +10294,6 @@ const WORDS = [
       pinyin: "zhōng wén yǒu sì ge shēng diào",
       en: "Chinese has four tones.",
     },
-    say: null,
   },
   {
     num: 669,
@@ -10977,7 +10309,6 @@ const WORDS = [
       pinyin: "pīn yīn hé zhù yīn dōu kě yǐ xué",
       en: "You can learn either pinyin or zhuyin.",
     },
-    say: null,
   },
   {
     num: 670,
@@ -10993,7 +10324,6 @@ const WORDS = [
       pinyin: "zhè ge hàn zì zěn me xiě",
       en: "How do you write this character?",
     },
-    say: null,
   },
   {
     num: 671,
@@ -11009,7 +10339,6 @@ const WORDS = [
       pinyin: "tái wān yòng fán tǐ zì",
       en: "Taiwan uses traditional characters.",
     },
-    say: null,
   },
   {
     num: 672,
@@ -11025,7 +10354,6 @@ const WORDS = [
       pinyin: "jiǎn tǐ zì de bǐ huà bǐ jiào shǎo",
       en: "Simplified characters have fewer strokes.",
     },
-    say: null,
   },
   {
     num: 673,
@@ -11041,7 +10369,6 @@ const WORDS = [
       pinyin: "zhè ge zì shì shén me yì si",
       en: "What does this character mean?",
     },
-    say: null,
   },
   {
     num: 674,
@@ -11057,7 +10384,6 @@ const WORDS = [
       pinyin: "zhè jù huà de fān yì bú tài duì",
       en: "The translation of this sentence isn't quite right.",
     },
-    say: null,
   },
   {
     num: 675,
@@ -11073,7 +10399,6 @@ const WORDS = [
       pinyin: "lǎo shī jǔ le yí ge lì zi",
       en: "The teacher gave an example.",
     },
-    say: null,
   },
   {
     num: 676,
@@ -11089,7 +10414,6 @@ const WORDS = [
       pinyin: "zhè tí de dá àn shì shén me",
       en: "What's the answer to this question?",
     },
-    say: null,
   },
   {
     num: 677,
@@ -11105,7 +10429,6 @@ const WORDS = [
       pinyin: "shàng kè wǒ dōu huì zuò bǐ jì",
       en: "I always take notes in class.",
     },
-    say: null,
   },
   {
     num: 678,
@@ -11121,7 +10444,6 @@ const WORDS = [
       pinyin: "qǐng bǎ kè běn fān dào dì shí yè",
       en: "Please turn to page ten in the textbook.",
     },
-    say: null,
   },
   {
     num: 679,
@@ -11137,7 +10459,6 @@ const WORDS = [
       pinyin: "wǒ yòng shǒu jī chá zì diǎn",
       en: "I use my phone to look things up in the dictionary.",
     },
-    say: null,
   },
   {
     num: 680,
@@ -11153,7 +10474,6 @@ const WORDS = [
       pinyin: "qǐng jiè wǒ yì zhī qiān bǐ",
       en: "Please lend me a pencil.",
     },
-    say: null,
   },
   {
     num: 681,
@@ -11170,7 +10490,6 @@ const WORDS = [
       pinyin: "kǎo shì bù néng yòng qiān bǐ yào yòng yuán zi bǐ",
       en: "You can't use a pencil on the exam — use a ballpoint pen.",
     },
-    say: null,
   },
   {
     num: 682,
@@ -11186,7 +10505,6 @@ const WORDS = [
       pinyin: "xiàng pí cā jiè wǒ yí xià",
       en: "Lend me your eraser for a second.",
     },
-    say: null,
   },
   {
     num: 683,
@@ -11202,7 +10520,6 @@ const WORDS = [
       pinyin: "qǐng gěi wǒ yì zhāng zhǐ",
       en: "Please give me a piece of paper.",
     },
-    say: null,
   },
   {
     num: 684,
@@ -11218,7 +10535,6 @@ const WORDS = [
       pinyin: "lǎo shī fā le wèn tí dān",
       en: "The teacher handed out the question sheet.",
     },
-    say: null,
   },
   {
     num: 685,
@@ -11234,7 +10550,6 @@ const WORDS = [
       pinyin: "zhè xiē liàn xí tí yǒu diǎn nán",
       en: "These practice questions are a bit hard.",
     },
-    say: null,
   },
   {
     num: 686,
@@ -11250,7 +10565,6 @@ const WORDS = [
       pinyin: "shàng kè qián wǒ huì xiān yù xí",
       en: "I preview the material before class.",
     },
-    say: null,
   },
   {
     num: 687,
@@ -11266,7 +10580,6 @@ const WORDS = [
       pinyin: "kǎo shì qián yào hǎo hǎo fù xí",
       en: "You should review properly before the exam.",
     },
-    say: null,
   },
   {
     num: 688,
@@ -11282,7 +10595,6 @@ const WORDS = [
       pinyin: "wǒ bèi le yì zhěng wǎn de dān zì",
       en: "I memorized vocabulary all night.",
     },
-    say: null,
   },
   {
     num: 689,
@@ -11298,7 +10610,6 @@ const WORDS = [
       pinyin: "lǎo shī jiě shì de hěn qīng chǔ",
       en: "The teacher explained it very clearly.",
     },
-    say: null,
   },
   {
     num: 690,
@@ -11314,7 +10625,6 @@ const WORDS = [
       pinyin: "nǐ de zhōng wén jìn bù hěn duō",
       en: "Your Chinese has improved a lot.",
     },
-    say: null,
   },
   {
     num: 691,
@@ -11330,7 +10640,6 @@ const WORDS = [
       pinyin: "wǒ de zhōng wén hái shì chū jí chéng dù",
       en: "My Chinese is still at a beginner level.",
     },
-    say: null,
   },
   {
     num: 692,
@@ -11346,7 +10655,6 @@ const WORDS = [
       pinyin: "zhè běn shū shì hé chū jí de xué shēng",
       en: "This book is suitable for beginner students.",
     },
-    say: null,
   },
   {
     num: 693,
@@ -11362,7 +10670,6 @@ const WORDS = [
       pinyin: "wǒ xiǎng shàng zhōng jí de kè",
       en: "I'd like to take the intermediate class.",
     },
-    say: null,
   },
   {
     num: 694,
@@ -11378,7 +10685,6 @@ const WORDS = [
       pinyin: "duō yùn dòng duì shēn tǐ hǎo",
       en: "Exercising more is good for your body.",
     },
-    say: null,
   },
   {
     num: 695,
@@ -11394,7 +10700,6 @@ const WORDS = [
       pinyin: "wǒ de tóu yǒu diǎn tòng",
       en: "My head hurts a little.",
     },
-    say: null,
   },
   {
     num: 696,
@@ -11410,7 +10715,6 @@ const WORDS = [
       pinyin: "tā de liǎn shài hóng le",
       en: "His face got sunburned.",
     },
-    say: null,
   },
   {
     num: 697,
@@ -11426,7 +10730,6 @@ const WORDS = [
       pinyin: "kàn tài jiǔ shǒu jī yǎn jīng huì lèi",
       en: "Looking at your phone too long tires your eyes.",
     },
-    say: null,
   },
   {
     num: 698,
@@ -11442,7 +10745,6 @@ const WORDS = [
       pinyin: "tā de ěr duo hěn líng",
       en: "He has sharp ears.",
     },
-    say: null,
   },
   {
     num: 699,
@@ -11458,7 +10760,6 @@ const WORDS = [
       pinyin: "wǒ bí zi guò mǐn yì zhí dǎ pēn tì",
       en: "My nose is allergic — I keep sneezing.",
     },
-    say: null,
   },
   {
     num: 700,
@@ -11474,7 +10775,6 @@ const WORDS = [
       pinyin: "tā zuǐ ba hěn tián hěn huì shuō huà",
       en: "He's sweet-talking — very good with words.",
     },
-    say: null,
   },
   {
     num: 701,
@@ -11490,7 +10790,6 @@ const WORDS = [
       pinyin: "wǒ měi tiān shuā liǎng cì yá chǐ",
       en: "I brush my teeth twice a day.",
     },
-    say: null,
   },
   {
     num: 702,
@@ -11506,7 +10805,6 @@ const WORDS = [
       pinyin: "wǒ de hóu lóng guài guài de",
       en: "My throat feels off.",
     },
-    say: null,
   },
   {
     num: 703,
@@ -11522,7 +10820,6 @@ const WORDS = [
       pinyin: "wǒ de bó zi hěn suān",
       en: "My neck is sore.",
     },
-    say: null,
   },
   {
     num: 704,
@@ -11538,7 +10835,6 @@ const WORDS = [
       pinyin: "tā bāng wǒ àn mó jiān bǎng",
       en: "He massaged my shoulders for me.",
     },
-    say: null,
   },
   {
     num: 705,
@@ -11554,7 +10850,6 @@ const WORDS = [
       pinyin: "chī fàn qián yào xǐ shǒu",
       en: "Wash your hands before eating.",
     },
-    say: null,
   },
   {
     num: 706,
@@ -11570,7 +10865,6 @@ const WORDS = [
       pinyin: "wǒ de shǒu zhǐ bèi mén jiá dào le",
       en: "I caught my finger in the door.",
     },
-    say: null,
   },
   {
     num: 707,
@@ -11586,7 +10880,6 @@ const WORDS = [
       pinyin: "wǒ dù zi hǎo è",
       en: "I'm so hungry.",
     },
-    say: null,
   },
   {
     num: 708,
@@ -11602,7 +10895,6 @@ const WORDS = [
       pinyin: "zuò tài jiǔ bèi bù huì tòng",
       en: "Sitting too long makes your back hurt.",
     },
-    say: null,
   },
   {
     num: 709,
@@ -11618,7 +10910,6 @@ const WORDS = [
       pinyin: "zǒu le yì tiān tuǐ hǎo suān",
       en: "After walking all day, my legs ache.",
     },
-    say: null,
   },
   {
     num: 710,
@@ -11634,7 +10925,6 @@ const WORDS = [
       pinyin: "wǒ de jiǎo yǒu diǎn zhǒng",
       en: "My foot is a bit swollen.",
     },
-    say: null,
   },
   {
     num: 711,
@@ -11650,7 +10940,6 @@ const WORDS = [
       pinyin: "dōng tiān pí fū róng yì gān",
       en: "Skin gets dry easily in winter.",
     },
-    say: null,
   },
   {
     num: 712,
@@ -11666,7 +10955,6 @@ const WORDS = [
       pinyin: "yùn dòng duì xīn zàng hěn hǎo",
       en: "Exercise is good for your heart.",
     },
-    say: null,
   },
   {
     num: 713,
@@ -11682,7 +10970,6 @@ const WORDS = [
       pinyin: "wǒ kàn dào xiě jiù xiǎng yūn",
       en: "I feel faint at the sight of blood.",
     },
-    say: null,
   },
   {
     num: 714,
@@ -11698,7 +10985,6 @@ const WORDS = [
       pinyin: "tā shēng bìng le jīn tiān méi lái",
       en: "He's sick — he didn't come today.",
     },
-    say: null,
   },
   {
     num: 715,
@@ -11714,7 +11000,6 @@ const WORDS = [
       pinyin: "wǒ zuì jìn gǎn mào le",
       en: "I've caught a cold recently.",
     },
-    say: null,
   },
   {
     num: 716,
@@ -11730,7 +11015,6 @@ const WORDS = [
       pinyin: "tā fā shāo dào sān shí jiǔ dù",
       en: "His fever went up to thirty-nine degrees.",
     },
-    say: null,
   },
   {
     num: 717,
@@ -11746,7 +11030,6 @@ const WORDS = [
       pinyin: "wǒ ké sòu le yí ge xīng qí",
       en: "I've been coughing for a week.",
     },
-    say: null,
   },
   {
     num: 718,
@@ -11762,7 +11045,6 @@ const WORDS = [
       pinyin: "wǒ yì zhí liú bí shuǐ",
       en: "My nose keeps running.",
     },
-    say: null,
   },
   {
     num: 719,
@@ -11778,7 +11060,6 @@ const WORDS = [
       pinyin: "wǒ tóu tòng xiǎng zǎo diǎn xiū xí",
       en: "I have a headache — I want to rest early.",
     },
-    say: null,
   },
   {
     num: 720,
@@ -11794,7 +11075,6 @@ const WORDS = [
       pinyin: "wǒ dù zi tòng kě néng chī huài le",
       en: "My stomach hurts — I may have eaten something bad.",
     },
-    say: null,
   },
   {
     num: 721,
@@ -11810,7 +11090,6 @@ const WORDS = [
       pinyin: "wǒ hóu lóng tòng shuō huà hěn nán shòu",
       en: "My throat hurts — talking is uncomfortable.",
     },
-    say: null,
   },
   {
     num: 722,
@@ -11826,7 +11105,6 @@ const WORDS = [
       pinyin: "tā dǎ qiú shòu shāng le",
       en: "He got injured playing ball.",
     },
-    say: null,
   },
   {
     num: 723,
@@ -11842,7 +11120,6 @@ const WORDS = [
       pinyin: "zhè lǐ yā xià qù huì tòng",
       en: "It hurts when you press here.",
     },
-    say: null,
   },
   {
     num: 724,
@@ -11858,7 +11135,6 @@ const WORDS = [
       pinyin: "bèi wén zi yǎo hǎo yǎng",
       en: "I got bitten by a mosquito — it's so itchy.",
     },
-    say: null,
   },
   {
     num: 725,
@@ -11874,7 +11150,6 @@ const WORDS = [
       pinyin: "wǒ de jiǎo huái zhǒng qǐ lái le",
       en: "My ankle has swollen up.",
     },
-    say: null,
   },
   {
     num: 726,
@@ -11890,7 +11165,6 @@ const WORDS = [
       pinyin: "wǒ zuò chē huì yūn",
       en: "I get carsick.",
     },
-    say: null,
   },
   {
     num: 727,
@@ -11906,7 +11180,6 @@ const WORDS = [
       pinyin: "tā chī huài dù zi tù le",
       en: "He ate something bad and threw up.",
     },
-    say: null,
   },
   {
     num: 728,
@@ -11922,7 +11195,6 @@ const WORDS = [
       pinyin: "wǒ zuó tiān lā dù zi",
       en: "I had diarrhea yesterday.",
     },
-    say: null,
   },
   {
     num: 729,
@@ -11938,7 +11210,6 @@ const WORDS = [
       pinyin: "zhè ge yào fàn hòu chī",
       en: "Take this medicine after meals.",
     },
-    say: null,
   },
   {
     num: 730,
@@ -11954,7 +11225,6 @@ const WORDS = [
       pinyin: "yào jú jiù zài zhuǎn jiǎo",
       en: "The pharmacy is just around the corner.",
     },
-    say: null,
   },
   {
     num: 731,
@@ -11970,7 +11240,6 @@ const WORDS = [
       pinyin: "wǒ xiān qù zhěn suǒ kàn kàn",
       en: "I'll go to the clinic and get it checked.",
     },
-    say: null,
   },
   {
     num: 732,
@@ -11986,7 +11255,6 @@ const WORDS = [
       pinyin: "tā bèi sòng dào yī yuàn le",
       en: "He was taken to the hospital.",
     },
-    say: null,
   },
   {
     num: 733,
@@ -12002,7 +11270,6 @@ const WORDS = [
       pinyin: "kàn yī shēng yào xiān guà hào",
       en: "You have to register before seeing the doctor.",
     },
-    say: null,
   },
   {
     num: 734,
@@ -12018,7 +11285,6 @@ const WORDS = [
       pinyin: "bù shū fú jiù qù kàn yī shēng",
       en: "If you feel unwell, go see a doctor.",
     },
-    say: null,
   },
   {
     num: 735,
@@ -12034,7 +11300,6 @@ const WORDS = [
       pinyin: "wǒ yù yuē le míng tiān xià wǔ",
       en: "I made an appointment for tomorrow afternoon.",
     },
-    say: null,
   },
   {
     num: 736,
@@ -12050,7 +11315,6 @@ const WORDS = [
       pinyin: "tái wān de jiàn bǎo hěn fāng biàn",
       en: "Taiwan's National Health Insurance is very convenient.",
     },
-    say: null,
   },
   {
     num: 737,
@@ -12066,7 +11330,6 @@ const WORDS = [
       pinyin: "kàn bìng jì de dài jiàn bǎo kǎ",
       en: "Remember to bring your NHI card when seeing a doctor.",
     },
-    say: null,
   },
   {
     num: 738,
@@ -12082,7 +11345,6 @@ const WORDS = [
       pinyin: "bàn yè tā qù guà jí zhěn",
       en: "He went to the emergency room in the middle of the night.",
     },
-    say: null,
   },
   {
     num: 739,
@@ -12098,7 +11360,6 @@ const WORDS = [
       pinyin: "jiù hù chē hěn kuài jiù dào le",
       en: "The ambulance arrived very quickly.",
     },
-    say: null,
   },
   {
     num: 740,
@@ -12114,7 +11375,6 @@ const WORDS = [
       pinyin: "yī shēng yào tā zài jiā xiū yǎng",
       en: "The doctor told him to recuperate at home.",
     },
-    say: null,
   },
   {
     num: 741,
@@ -12130,7 +11390,6 @@ const WORDS = [
       pinyin: "wǒ duì huā shēng guò mǐn",
       en: "I'm allergic to peanuts.",
     },
-    say: null,
   },
   {
     num: 742,
@@ -12146,7 +11405,6 @@ const WORDS = [
       pinyin: "wǒ de diàn nǎo pǎo de hěn màn",
       en: "My computer runs very slowly.",
     },
-    say: null,
   },
   {
     num: 743,
@@ -12162,7 +11420,6 @@ const WORDS = [
       pinyin: "wǒ chū chāi dōu dài bǐ jì xíng diàn nǎo",
       en: "I bring my laptop on business trips.",
     },
-    say: null,
   },
   {
     num: 744,
@@ -12178,7 +11435,6 @@ const WORDS = [
       pinyin: "wǒ de shǒu jī méi diàn le",
       en: "My phone is out of battery.",
     },
-    say: null,
   },
   {
     num: 745,
@@ -12194,7 +11450,6 @@ const WORDS = [
       pinyin: "wǒ yòng píng bǎn kàn yǐng piàn",
       en: "I watch videos on my tablet.",
     },
-    say: null,
   },
   {
     num: 746,
@@ -12210,7 +11465,6 @@ const WORDS = [
       pinyin: "yíng mù tài liàng le yǎn jīng bù shū fú",
       en: "The screen is too bright — it hurts my eyes.",
     },
-    say: null,
   },
   {
     num: 747,
@@ -12226,7 +11480,6 @@ const WORDS = [
       pinyin: "zhè ge jiàn pán dǎ qǐ lái hěn shū fú",
       en: "This keyboard is comfortable to type on.",
     },
-    say: null,
   },
   {
     num: 748,
@@ -12242,7 +11495,6 @@ const WORDS = [
       pinyin: "huá shǔ hǎo xiàng huài le",
       en: "The mouse seems to be broken.",
     },
-    say: null,
   },
   {
     num: 749,
@@ -12258,7 +11510,6 @@ const WORDS = [
       pinyin: "wǒ dài ěr jī tīng yīn yuè",
       en: "I listen to music with earphones.",
     },
-    say: null,
   },
   {
     num: 750,
@@ -12274,7 +11525,6 @@ const WORDS = [
       pinyin: "nǐ yǒu dài chōng diàn qì ma",
       en: "Did you bring a charger?",
     },
-    say: null,
   },
   {
     num: 751,
@@ -12290,7 +11540,6 @@ const WORDS = [
       pinyin: "zhè zhī shǒu jī de diàn chí hěn nài yòng",
       en: "This phone's battery lasts a long time.",
     },
-    say: null,
   },
   {
     num: 752,
@@ -12306,7 +11555,6 @@ const WORDS = [
       pinyin: "wǒ yòng xiāng jī pāi fēng jǐng",
       en: "I photograph scenery with my camera.",
     },
-    say: null,
   },
   {
     num: 753,
@@ -12322,7 +11570,6 @@ const WORDS = [
       pinyin: "zhè lǐ de wǎng lù hěn kuài",
       en: "The internet here is fast.",
     },
-    say: null,
   },
   {
     num: 754,
@@ -12338,7 +11585,6 @@ const WORDS = [
       pinyin: "qǐng wèn yǒu wú xiàn wǎng lù ma",
       en: "Is there Wi-Fi here?",
     },
-    say: null,
   },
   {
     num: 755,
@@ -12354,7 +11600,6 @@ const WORDS = [
       pinyin: "shān shàng de xùn hào bù hǎo",
       en: "The signal is bad up in the mountains.",
     },
-    say: null,
   },
   {
     num: 756,
@@ -12370,7 +11615,6 @@ const WORDS = [
       pinyin: "zhè ge yìng yòng chéng shì hěn hǎo yòng",
       en: "This app is really useful.",
     },
-    say: null,
   },
   {
     num: 757,
@@ -12386,7 +11630,6 @@ const WORDS = [
       pinyin: "zhè ge wǎng zhàn kě yǐ mǎi piào",
       en: "You can buy tickets on this website.",
     },
-    say: null,
   },
   {
     num: 758,
@@ -12402,7 +11645,6 @@ const WORDS = [
       pinyin: "zhè ge wǎng yè dǎ bù kāi",
       en: "This webpage won't load.",
     },
-    say: null,
   },
   {
     num: 759,
@@ -12418,7 +11660,6 @@ const WORDS = [
       pinyin: "wǒ bǎ lián jié chuán gěi nǐ",
       en: "I'll send you the link.",
     },
-    say: null,
   },
   {
     num: 760,
@@ -12434,7 +11675,6 @@ const WORDS = [
       pinyin: "qǐng yòng bié de liú lǎn qì shì shì",
       en: "Please try a different browser.",
     },
-    say: null,
   },
   {
     num: 761,
@@ -12450,7 +11690,6 @@ const WORDS = [
       pinyin: "wǒ yòng sōu xún yǐn qíng zhǎo zī liào",
       en: "I use a search engine to find information.",
     },
-    say: null,
   },
   {
     num: 762,
@@ -12466,7 +11705,6 @@ const WORDS = [
       pinyin: "tā hěn shǎo yòng shè qún méi tǐ",
       en: "He rarely uses social media.",
     },
-    say: null,
   },
   {
     num: 763,
@@ -12482,7 +11720,6 @@ const WORDS = [
       pinyin: "wǒ pāi le hěn duō zhào piàn",
       en: "I took a lot of photos.",
     },
-    say: null,
   },
   {
     num: 764,
@@ -12498,7 +11735,6 @@ const WORDS = [
       pinyin: "zhè bù yǐng piàn hěn hǎo xiào",
       en: "This video is hilarious.",
     },
-    say: null,
   },
   {
     num: 765,
@@ -12514,7 +11750,6 @@ const WORDS = [
       pinyin: "wǒ yì biān gōng zuò yì biān tīng yīn yuè",
       en: "I listen to music while I work.",
     },
-    say: null,
   },
   {
     num: 766,
@@ -12530,7 +11765,6 @@ const WORDS = [
       pinyin: "diàn shì de shēng yīn tài dà le",
       en: "The TV is too loud.",
     },
-    say: null,
   },
   {
     num: 767,
@@ -12546,7 +11780,6 @@ const WORDS = [
       pinyin: "mài kè fēng hǎo xiàng méi kāi",
       en: "The microphone doesn't seem to be on.",
     },
-    say: null,
   },
   {
     num: 768,
@@ -12562,7 +11795,6 @@ const WORDS = [
       pinyin: "wǒ zǎo shàng bā diǎn jiù kāi jī le",
       en: "I turned the computer on at eight this morning.",
     },
-    say: null,
   },
   {
     num: 769,
@@ -12578,7 +11810,6 @@ const WORDS = [
       pinyin: "xià bān qián jì de guān jī",
       en: "Remember to shut down before leaving work.",
     },
-    say: null,
   },
   {
     num: 770,
@@ -12594,7 +11825,6 @@ const WORDS = [
       pinyin: "chóng xīn qǐ dòng jiù hǎo le",
       en: "Just restart it and it'll be fine.",
     },
-    say: null,
   },
   {
     num: 771,
@@ -12610,7 +11840,6 @@ const WORDS = [
       pinyin: "wǒ de shǒu jī zhèng zài chōng diàn",
       en: "My phone is charging.",
     },
-    say: null,
   },
   {
     num: 772,
@@ -12626,7 +11855,6 @@ const WORDS = [
       pinyin: "diàn nǎo lián xiàn shī bài le",
       en: "The computer failed to connect.",
     },
-    say: null,
   },
   {
     num: 773,
@@ -12642,7 +11870,6 @@ const WORDS = [
       pinyin: "gāng gāng tú rán duàn xiàn le",
       en: "It suddenly disconnected just now.",
     },
-    say: null,
   },
   {
     num: 774,
@@ -12658,7 +11885,6 @@ const WORDS = [
       pinyin: "wǒ bāng nǐ ān zhuāng zhè ge ruǎn tǐ",
       en: "I'll install this software for you.",
     },
-    say: null,
   },
   {
     num: 775,
@@ -12674,7 +11900,6 @@ const WORDS = [
       pinyin: "bú yòng de huà jiù jiě chú ān zhuāng ba",
       en: "If you don't use it, just uninstall it.",
     },
-    say: null,
   },
   {
     num: 776,
@@ -12690,7 +11915,6 @@ const WORDS = [
       pinyin: "nǐ kě yǐ zài shè dìng lǐ gǎi",
       en: "You can change it in the settings.",
     },
-    say: null,
   },
   {
     num: 777,
@@ -12706,7 +11930,6 @@ const WORDS = [
       pinyin: "tōng zhī lán yǒu hěn duō xùn xí",
       en: "There are lots of messages in the notification panel.",
     },
-    say: null,
   },
   {
     num: 778,
@@ -12722,7 +11945,6 @@ const WORDS = [
       pinyin: "wǒ jié tú chuán gěi nǐ kàn",
       en: "I'll screenshot it and send it to you.",
     },
-    say: null,
   },
   {
     num: 779,
@@ -12738,7 +11960,6 @@ const WORDS = [
       pinyin: "qǐng sǎo miáo zhè ge tiáo mǎ",
       en: "Please scan this barcode.",
     },
-    say: null,
   },
   {
     num: 780,
@@ -12754,7 +11975,6 @@ const WORDS = [
       pinyin: "wǒ fù zhì le nǐ de dàng àn",
       en: "I copied your file.",
     },
-    say: null,
   },
   {
     num: 781,
@@ -12770,7 +11990,6 @@ const WORDS = [
       pinyin: "fù zhì zhī hòu tiē shàng jiù hǎo",
       en: "Just copy it and then paste it.",
     },
-    say: null,
   },
   {
     num: 782,
@@ -12786,7 +12005,6 @@ const WORDS = [
       pinyin: "zhè xiē zhào piàn kě yǐ shān chú le",
       en: "These photos can be deleted now.",
     },
-    say: null,
   },
   {
     num: 783,
@@ -12802,7 +12020,6 @@ const WORDS = [
       pinyin: "jì de xiān chǔ cún dàng àn",
       en: "Remember to save the file first.",
     },
-    say: null,
   },
   {
     num: 784,
@@ -12818,7 +12035,6 @@ const WORDS = [
       pinyin: "wǒ bǎ zī liào fēn xiǎng gěi dà jiā",
       en: "I shared the materials with everyone.",
     },
-    say: null,
   },
   {
     num: 785,
@@ -12834,7 +12050,6 @@ const WORDS = [
       pinyin: "shǒu jī de róng liàng bú gòu le",
       en: "My phone doesn't have enough storage.",
     },
-    say: null,
   },
   {
     num: 786,
@@ -12850,7 +12065,6 @@ const WORDS = [
       pinyin: "zhè tái diàn nǎo de jì yì tǐ hěn dà",
       en: "This computer has a lot of memory.",
     },
-    say: null,
   },
   {
     num: 787,
@@ -12866,7 +12080,6 @@ const WORDS = [
       pinyin: "wǒ bǎ dàng àn cún zài yún duān",
       en: "I keep my files in the cloud.",
     },
-    say: null,
   },
   {
     num: 788,
@@ -12882,7 +12095,6 @@ const WORDS = [
       pinyin: "yàn zhèng mǎ jì dào nǐ de shǒu jī le",
       en: "The verification code was sent to your phone.",
     },
-    say: null,
   },
   {
     num: 789,
@@ -12898,7 +12110,6 @@ const WORDS = [
       pinyin: "zhè ge dì fāng hěn ān jìng",
       en: "This place is very quiet.",
     },
-    say: null,
   },
   {
     num: 790,
@@ -12914,7 +12125,6 @@ const WORDS = [
       pinyin: "tái běi shì ge dà chéng shì",
       en: "Taipei is a big city.",
     },
-    say: null,
   },
   {
     num: 791,
@@ -12930,7 +12140,6 @@ const WORDS = [
       pinyin: "xiāng xià de kōng qì bǐ jiào hǎo",
       en: "The air is better in the countryside.",
     },
-    say: null,
   },
   {
     num: 792,
@@ -12946,7 +12155,6 @@ const WORDS = [
       pinyin: "nǐ lái zì nǎ ge guó jiā",
       en: "Which country are you from?",
     },
-    say: null,
   },
   {
     num: 793,
@@ -12962,7 +12170,6 @@ const WORDS = [
       pinyin: "wǒ hěn xǐ huān tái wān",
       en: "I really like Taiwan.",
     },
-    say: null,
   },
   {
     num: 794,
@@ -12978,7 +12185,6 @@ const WORDS = [
       pinyin: "wǒ zhù zài tái běi",
       en: "I live in Taipei.",
     },
-    say: null,
   },
   {
     num: 795,
@@ -12994,7 +12200,6 @@ const WORDS = [
       pinyin: "wǒ cháng qù gōng yuán sàn bù",
       en: "I often go to the park for a walk.",
     },
-    say: null,
   },
   {
     num: 796,
@@ -13010,7 +12215,6 @@ const WORDS = [
       pinyin: "tú shū guǎn hěn ān jìng shì hé niàn shū",
       en: "The library is quiet — good for studying.",
     },
-    say: null,
   },
   {
     num: 797,
@@ -13026,7 +12230,6 @@ const WORDS = [
       pinyin: "wǒ yào qù yín háng bàn shì",
       en: "I need to go to the bank to take care of something.",
     },
-    say: null,
   },
   {
     num: 798,
@@ -13042,7 +12245,6 @@ const WORDS = [
       pinyin: "yóu jú wǔ diǎn jiù guān le",
       en: "The post office closes at five.",
     },
-    say: null,
   },
   {
     num: 799,
@@ -13058,7 +12260,6 @@ const WORDS = [
       pinyin: "yǒu wèn tí kě yǐ qù pài chū suǒ",
       en: "If there's a problem you can go to the police station.",
     },
-    say: null,
   },
   {
     num: 800,
@@ -13074,7 +12275,6 @@ const WORDS = [
       pinyin: "xiāo fáng duì hěn kuài jiù lái le",
       en: "The fire department arrived very quickly.",
     },
-    say: null,
   },
   {
     num: 801,
@@ -13090,7 +12290,6 @@ const WORDS = [
       pinyin: "wǒ qù shì zhèng fǔ bàn shǒu xù",
       en: "I'm going to the city government to do the paperwork.",
     },
-    say: null,
   },
   {
     num: 802,
@@ -13106,7 +12305,6 @@ const WORDS = [
       pinyin: "qiān zhèng de shì yào wèn yí mín shǔ",
       en: "You need to ask the immigration office about visas.",
     },
-    say: null,
   },
   {
     num: 803,
@@ -13122,7 +12320,6 @@ const WORDS = [
       pinyin: "hù zhèng shì wù suǒ kě yǐ bàn dì zhǐ",
       en: "You can register your address at the household registration office.",
     },
-    say: null,
   },
   {
     num: 804,
@@ -13138,7 +12335,6 @@ const WORDS = [
       pinyin: "qū gōng suǒ lí zhè lǐ bù yuǎn",
       en: "The district office isn't far from here.",
     },
-    say: null,
   },
   {
     num: 805,
@@ -13154,7 +12350,6 @@ const WORDS = [
       pinyin: "wǒ men tí zǎo liǎng xiǎo shí dào jī chǎng",
       en: "We got to the airport two hours early.",
     },
-    say: null,
   },
   {
     num: 806,
@@ -13170,7 +12365,6 @@ const WORDS = [
       pinyin: "zhè jiā lǚ guǎn hěn gān jìng",
       en: "This hotel is very clean.",
     },
-    say: null,
   },
   {
     num: 807,
@@ -13186,7 +12380,6 @@ const WORDS = [
       pinyin: "wǒ men zhù zài hǎi biān de mín sù",
       en: "We're staying at a guesthouse by the sea.",
     },
-    say: null,
   },
   {
     num: 808,
@@ -13202,7 +12395,6 @@ const WORDS = [
       pinyin: "wǒ zhù xué xiào de sù shè",
       en: "I live in the school dormitory.",
     },
-    say: null,
   },
   {
     num: 809,
@@ -13218,7 +12410,6 @@ const WORDS = [
       pinyin: "wǒ měi zhōu qù jiàn shēn fáng sān cì",
       en: "I go to the gym three times a week.",
     },
-    say: null,
   },
   {
     num: 810,
@@ -13234,7 +12425,6 @@ const WORDS = [
       pinyin: "xià tiān wǒ cháng qù yóu yǒng chí",
       en: "I often go to the swimming pool in summer.",
     },
-    say: null,
   },
   {
     num: 811,
@@ -13251,7 +12441,6 @@ const WORDS = [
       pinyin: "zhōu mò wǒ men qù diàn yǐng yuàn kàn diàn yǐng",
       en: "We're going to the cinema this weekend.",
     },
-    say: null,
   },
   {
     num: 812,
@@ -13267,7 +12456,6 @@ const WORDS = [
       pinyin: "gù gōng shì yǒu míng de bó wù guǎn",
       en: "The National Palace Museum is a famous museum.",
     },
-    say: null,
   },
   {
     num: 813,
@@ -13283,7 +12471,6 @@ const WORDS = [
       pinyin: "tái wān de yè shì hěn rè nào",
       en: "Taiwan's night markets are lively.",
     },
-    say: null,
   },
   {
     num: 814,
@@ -13299,7 +12486,6 @@ const WORDS = [
       pinyin: "zhè zuò sì miào hěn gǔ lǎo",
       en: "This temple is very old.",
     },
-    say: null,
   },
   {
     num: 815,
@@ -13315,7 +12501,6 @@ const WORDS = [
       pinyin: "tā měi ge xīng qí tiān qù jiào huì",
       en: "He goes to church every Sunday.",
     },
-    say: null,
   },
   {
     num: 816,
@@ -13331,7 +12516,6 @@ const WORDS = [
       pinyin: "miào qián miàn yǒu hěn duō xiǎo chī",
       en: "There are lots of snack stalls in front of the temple.",
     },
-    say: null,
   },
   {
     num: 817,
@@ -13347,7 +12531,6 @@ const WORDS = [
       pinyin: "wǒ men qù hǎi biān kàn rì chū",
       en: "We're going to the seaside to watch the sunrise.",
     },
-    say: null,
   },
   {
     num: 818,
@@ -13363,7 +12546,6 @@ const WORDS = [
       pinyin: "tái wān yǒu hěn duō gāo shān",
       en: "Taiwan has many high mountains.",
     },
-    say: null,
   },
   {
     num: 819,
@@ -13379,7 +12561,6 @@ const WORDS = [
       pinyin: "zhè tiáo hé de shuǐ hěn gān jìng",
       en: "The water in this river is very clean.",
     },
-    say: null,
   },
   {
     num: 820,
@@ -13396,7 +12577,6 @@ const WORDS = [
       pinyin: "rì yuè tán shì tái wān zuì yǒu míng de hú",
       en: "Sun Moon Lake is Taiwan's most famous lake.",
     },
-    say: null,
   },
   {
     num: 821,
@@ -13413,7 +12593,6 @@ const WORDS = [
       pinyin: "bù hǎo yì si qǐng wèn cè suǒ zài nǎ lǐ",
       en: "Excuse me, where is the toilet?",
     },
-    say: null,
   },
   {
     num: 822,
@@ -13429,7 +12608,6 @@ const WORDS = [
       pinyin: "yǒu wèn tí kě yǐ wèn fú wù tái",
       en: "You can ask at the service desk if you have questions.",
     },
-    say: null,
   },
   {
     num: 823,
@@ -13445,7 +12623,6 @@ const WORDS = [
       pinyin: "qǐng dào guì tái bàn lǐ",
       en: "Please go to the counter to take care of it.",
     },
-    say: null,
   },
   {
     num: 824,
@@ -13461,7 +12638,6 @@ const WORDS = [
       pinyin: "qǐng xiān chōu hào mǎ pái",
       en: "Please take a queue number first.",
     },
-    say: null,
   },
   {
     num: 825,
@@ -13477,7 +12653,6 @@ const WORDS = [
       pinyin: "dà jiā dōu zài pái duì",
       en: "Everyone is lining up.",
     },
-    say: null,
   },
   {
     num: 826,
@@ -13493,7 +12668,6 @@ const WORDS = [
       pinyin: "wǒ yào shēn qǐng jū liú zhèng",
       en: "I need to apply for a residence permit.",
     },
-    say: null,
   },
   {
     num: 827,
@@ -13509,7 +12683,6 @@ const WORDS = [
       pinyin: "zhè jiàn shì jīn tiān kě yǐ bàn lǐ",
       en: "This can be taken care of today.",
     },
-    say: null,
   },
   {
     num: 828,
@@ -13525,7 +12698,6 @@ const WORDS = [
       pinyin: "qǐng dài zhèng jiàn lái",
       en: "Please bring your ID.",
     },
-    say: null,
   },
   {
     num: 829,
@@ -13541,7 +12713,6 @@ const WORDS = [
       pinyin: "wǒ de hù zhào kuài guò qí le",
       en: "My passport is about to expire.",
     },
-    say: null,
   },
   {
     num: 830,
@@ -13557,7 +12728,6 @@ const WORDS = [
       pinyin: "wǒ de qiān zhèng xià ge yuè dào qí",
       en: "My visa expires next month.",
     },
-    say: null,
   },
   {
     num: 831,
@@ -13573,7 +12743,6 @@ const WORDS = [
       pinyin: "wài guó rén yào bàn jū liú zhèng",
       en: "Foreigners need to get a residence permit.",
     },
-    say: null,
   },
   {
     num: 832,
@@ -13589,7 +12758,6 @@ const WORDS = [
       pinyin: "dǎ gōng yào xiān yǒu gōng zuò zhèng",
       en: "You need a work permit before taking a job.",
     },
-    say: null,
   },
   {
     num: 833,
@@ -13605,7 +12773,6 @@ const WORDS = [
       pinyin: "qǐng tián zhè zhāng biǎo dān",
       en: "Please fill out this form.",
     },
-    say: null,
   },
   {
     num: 834,
@@ -13621,7 +12788,6 @@ const WORDS = [
       pinyin: "qǐng fù shàng hù zhào de yǐng běn",
       en: "Please attach a photocopy of your passport.",
     },
-    say: null,
   },
   {
     num: 835,
@@ -13637,7 +12803,6 @@ const WORDS = [
       pinyin: "zhèng běn qǐng zì jǐ bǎo liú",
       en: "Please keep the original document yourself.",
     },
-    say: null,
   },
   {
     num: 836,
@@ -13653,7 +12818,6 @@ const WORDS = [
       pinyin: "jīn tiān de tiān qì hěn hǎo",
       en: "The weather is lovely today.",
     },
-    say: null,
   },
   {
     num: 837,
@@ -13669,7 +12833,6 @@ const WORDS = [
       pinyin: "nán dé de qíng tiān chū qù zǒu zǒu ba",
       en: "A rare sunny day — let's go out.",
     },
-    say: null,
   },
   {
     num: 838,
@@ -13685,7 +12848,6 @@ const WORDS = [
       pinyin: "yīn tiān ràng rén xiǎng shuì jiào",
       en: "Cloudy days make you sleepy.",
     },
-    say: null,
   },
   {
     num: 839,
@@ -13701,7 +12863,6 @@ const WORDS = [
       pinyin: "xià yǔ le jì de dài sǎn",
       en: "It's raining — remember your umbrella.",
     },
-    say: null,
   },
   {
     num: 840,
@@ -13717,7 +12878,6 @@ const WORDS = [
       pinyin: "zuó tiān xià le yì chǎng dà yǔ",
       en: "There was a heavy downpour yesterday.",
     },
-    say: null,
   },
   {
     num: 841,
@@ -13733,7 +12893,6 @@ const WORDS = [
       pinyin: "wài miàn xià zhe xiǎo yǔ",
       en: "It's drizzling outside.",
     },
-    say: null,
   },
   {
     num: 842,
@@ -13749,7 +12908,6 @@ const WORDS = [
       pinyin: "tái fēng yào lái le kuài qù mǎi cài",
       en: "A typhoon is coming — go buy groceries.",
     },
-    say: null,
   },
   {
     num: 843,
@@ -13765,7 +12923,6 @@ const WORDS = [
       pinyin: "jīn tiān de fēng hěn dà",
       en: "The wind is strong today.",
     },
-    say: null,
   },
   {
     num: 844,
@@ -13781,7 +12938,6 @@ const WORDS = [
       pinyin: "qiáng fēng bǎ sǎn chuī huài le",
       en: "The strong wind broke my umbrella.",
     },
-    say: null,
   },
   {
     num: 845,
@@ -13797,7 +12953,6 @@ const WORDS = [
       pinyin: "wǒ tīng dào dǎ léi de shēng yīn",
       en: "I heard the sound of thunder.",
     },
-    say: null,
   },
   {
     num: 846,
@@ -13813,7 +12968,6 @@ const WORDS = [
       pinyin: "gāng gāng yǒu yí dào shǎn diàn",
       en: "There was a flash of lightning just now.",
     },
-    say: null,
   },
   {
     num: 847,
@@ -13829,7 +12983,6 @@ const WORDS = [
       pinyin: "tiān shàng de yún hěn bái",
       en: "The clouds in the sky are very white.",
     },
-    say: null,
   },
   {
     num: 848,
@@ -13845,7 +12998,6 @@ const WORDS = [
       pinyin: "jīn tiān de tài yáng hǎo dà",
       en: "The sun is really strong today.",
     },
-    say: null,
   },
   {
     num: 849,
@@ -13861,7 +13013,6 @@ const WORDS = [
       pinyin: "tiān kōng shì lán sè de",
       en: "The sky is blue.",
     },
-    say: null,
   },
   {
     num: 850,
@@ -13877,7 +13028,6 @@ const WORDS = [
       pinyin: "jīn tiān de wēn dù zhǐ yǒu shí dù",
       en: "Today's temperature is only ten degrees.",
     },
-    say: null,
   },
   {
     num: 851,
@@ -13893,7 +13043,6 @@ const WORDS = [
       pinyin: "xiàn zài qì wēn sān shí dù",
       en: "It's thirty degrees right now.",
     },
-    say: null,
   },
   {
     num: 852,
@@ -13909,7 +13058,6 @@ const WORDS = [
       pinyin: "xià tiān de tái wān hěn rè",
       en: "Taiwan is very hot in summer.",
     },
-    say: null,
   },
   {
     num: 853,
@@ -13925,7 +13073,6 @@ const WORDS = [
       pinyin: "jīn tiān tè bié lěng duō chuān yì diǎn",
       en: "It's especially cold today — wear more.",
     },
-    say: null,
   },
   {
     num: 854,
@@ -13941,7 +13088,6 @@ const WORDS = [
       pinyin: "wǎn shàng yǒu diǎn liáng",
       en: "It's a bit cool in the evening.",
     },
-    say: null,
   },
   {
     num: 855,
@@ -13957,7 +13103,6 @@ const WORDS = [
       pinyin: "chūn tiān de tiān qì hěn wēn nuǎn",
       en: "Spring weather is warm.",
     },
-    say: null,
   },
   {
     num: 856,
@@ -13973,7 +13118,6 @@ const WORDS = [
       pinyin: "tái wān de xià tiān hěn cháo shī",
       en: "Taiwan's summers are very humid.",
     },
-    say: null,
   },
   {
     num: 857,
@@ -13989,7 +13133,6 @@ const WORDS = [
       pinyin: "dōng tiān de kōng qì hěn gān zào",
       en: "The air is dry in winter.",
     },
-    say: null,
   },
   {
     num: 858,
@@ -14005,7 +13148,6 @@ const WORDS = [
       pinyin: "xià yǔ qián tè bié mèn rè",
       en: "It's especially muggy before it rains.",
     },
-    say: null,
   },
   {
     num: 859,
@@ -14022,7 +13164,6 @@ const WORDS = [
       pinyin: "wǒ zuì xǐ huān de jì jié shì qiū tiān",
       en: "My favorite season is autumn.",
     },
-    say: null,
   },
   {
     num: 860,
@@ -14038,7 +13179,6 @@ const WORDS = [
       pinyin: "chūn tiān yǒu hěn duō huā",
       en: "There are lots of flowers in spring.",
     },
-    say: null,
   },
   {
     num: 861,
@@ -14054,7 +13194,6 @@ const WORDS = [
       pinyin: "xià tiān wǒ cháng qù hǎi biān",
       en: "I often go to the seaside in summer.",
     },
-    say: null,
   },
   {
     num: 862,
@@ -14070,7 +13209,6 @@ const WORDS = [
       pinyin: "qiū tiān de tiān qì zuì shū fú",
       en: "Autumn weather is the most comfortable.",
     },
-    say: null,
   },
   {
     num: 863,
@@ -14086,7 +13224,6 @@ const WORDS = [
       pinyin: "tái wān de dōng tiān bú huì xià xuě",
       en: "It doesn't snow in Taiwan's winter.",
     },
-    say: null,
   },
   {
     num: 864,
@@ -14102,7 +13239,6 @@ const WORDS = [
       pinyin: "wǒ wàng le dài yǔ sǎn",
       en: "I forgot to bring an umbrella.",
     },
-    say: null,
   },
   {
     num: 865,
@@ -14118,7 +13254,6 @@ const WORDS = [
       pinyin: "qí chē xià yǔ yào chuān yǔ yī",
       en: "Wear a raincoat when riding in the rain.",
     },
-    say: null,
   },
   {
     num: 866,
@@ -14134,7 +13269,6 @@ const WORDS = [
       pinyin: "chū mén jì de cā fáng shài",
       en: "Remember to put on sunscreen before going out.",
     },
-    say: null,
   },
   {
     num: 867,
@@ -14150,7 +13284,6 @@ const WORDS = [
       pinyin: "shān shàng de kōng qì hěn xīn xiān",
       en: "The air in the mountains is fresh.",
     },
-    say: null,
   },
   {
     num: 868,
@@ -14166,7 +13299,6 @@ const WORDS = [
       pinyin: "kōng qì wū rǎn yuè lái yuè yán zhòng",
       en: "Air pollution is getting worse and worse.",
     },
-    say: null,
   },
   {
     num: 869,
@@ -14182,7 +13314,6 @@ const WORDS = [
       pinyin: "tái wān cháng cháng yǒu dì zhèn",
       en: "Taiwan has earthquakes often.",
     },
-    say: null,
   },
   {
     num: 870,
@@ -14198,7 +13329,6 @@ const WORDS = [
       pinyin: "fáng zi yáo huǎng le jǐ miǎo",
       en: "The house shook for a few seconds.",
     },
-    say: null,
   },
   {
     num: 871,
@@ -14214,7 +13344,6 @@ const WORDS = [
       pinyin: "wǒ xǐ huān qīn jìn dà zì rán",
       en: "I like being close to nature.",
     },
-    say: null,
   },
   {
     num: 872,
@@ -14230,7 +13359,6 @@ const WORDS = [
       pinyin: "zhè kē shù yǒu yì bǎi nián le",
       en: "This tree is a hundred years old.",
     },
-    say: null,
   },
   {
     num: 873,
@@ -14246,7 +13374,6 @@ const WORDS = [
       pinyin: "zhè duǒ huā hěn xiāng",
       en: "This flower smells lovely.",
     },
-    say: null,
   },
   {
     num: 874,
@@ -14262,7 +13389,6 @@ const WORDS = [
       pinyin: "gōng yuán de cǎo hěn lǜ",
       en: "The grass in the park is very green.",
     },
-    say: null,
   },
   {
     num: 875,
@@ -14278,7 +13404,6 @@ const WORDS = [
       pinyin: "sēn lín lǐ hěn liáng kuài",
       en: "It's cool in the forest.",
     },
-    say: null,
   },
   {
     num: 876,
@@ -14294,7 +13419,6 @@ const WORDS = [
       pinyin: "tái wān sì miàn dōu shì hǎi",
       en: "Taiwan is surrounded by sea on all sides.",
     },
-    say: null,
   },
   {
     num: 877,
@@ -14310,7 +13434,6 @@ const WORDS = [
       pinyin: "wǒ men zài shā tān shàng sàn bù",
       en: "We took a walk on the beach.",
     },
-    say: null,
   },
   {
     num: 878,
@@ -14326,7 +13449,6 @@ const WORDS = [
       pinyin: "zhè kē shí tóu hěn zhòng",
       en: "This stone is very heavy.",
     },
-    say: null,
   },
   {
     num: 879,
@@ -14342,7 +13464,6 @@ const WORDS = [
       pinyin: "dòng wù yuán lǐ yǒu hěn duō dòng wù",
       en: "There are many animals in the zoo.",
     },
-    say: null,
   },
   {
     num: 880,
@@ -14358,7 +13479,6 @@ const WORDS = [
       pinyin: "wǒ jiā de gǒu hěn cōng míng",
       en: "My dog is very smart.",
     },
-    say: null,
   },
   {
     num: 881,
@@ -14374,7 +13494,6 @@ const WORDS = [
       pinyin: "zhè zhī māo hěn ài shuì jiào",
       en: "This cat loves to sleep.",
     },
-    say: null,
   },
   {
     num: 882,
@@ -14390,7 +13509,6 @@ const WORDS = [
       pinyin: "shù shàng yǒu yì zhī niǎo",
       en: "There's a bird in the tree.",
     },
-    say: null,
   },
   {
     num: 883,
@@ -14406,7 +13524,6 @@ const WORDS = [
       pinyin: "shōu dào lǐ wù wǒ hěn kāi xīn",
       en: "I'm happy to have received the gift.",
     },
-    say: null,
   },
   {
     num: 884,
@@ -14422,7 +13539,6 @@ const WORDS = [
       pinyin: "hěn gāo xìng rèn shì nǐ",
       en: "Nice to meet you.",
     },
-    say: null,
   },
   {
     num: 885,
@@ -14438,7 +13554,6 @@ const WORDS = [
       pinyin: "zhù nǐ shēng rì kuài lè",
       en: "Happy birthday to you.",
     },
-    say: null,
   },
   {
     num: 886,
@@ -14454,7 +13569,6 @@ const WORDS = [
       pinyin: "tīng dào zhè ge xiāo xí wǒ hěn nán guò",
       en: "I'm sad to hear this news.",
     },
-    say: null,
   },
   {
     num: 887,
@@ -14470,7 +13584,6 @@ const WORDS = [
       pinyin: "tā kū de hěn shāng xīn",
       en: "She cried her heart out.",
     },
-    say: null,
   },
   {
     num: 888,
@@ -14486,7 +13599,6 @@ const WORDS = [
       pinyin: "tā hái zài shēng wǒ de qì",
       en: "He's still angry with me.",
     },
-    say: null,
   },
   {
     num: 889,
@@ -14502,7 +13614,6 @@ const WORDS = [
       pinyin: "miàn shì qián wǒ hěn jǐn zhāng",
       en: "I was nervous before the interview.",
     },
-    say: null,
   },
   {
     num: 890,
@@ -14518,7 +13629,6 @@ const WORDS = [
       pinyin: "mā ma hěn dān xīn wǒ",
       en: "My mom worries about me a lot.",
     },
-    say: null,
   },
   {
     num: 891,
@@ -14534,7 +13644,6 @@ const WORDS = [
       pinyin: "wǒ hěn hài pà zhāng láng",
       en: "I'm really scared of cockroaches.",
     },
-    say: null,
   },
   {
     num: 892,
@@ -14550,7 +13659,6 @@ const WORDS = [
       pinyin: "nǐ fàng xīn wǒ huì chǔ lǐ",
       en: "Don't worry — I'll handle it.",
     },
-    say: null,
   },
   {
     num: 893,
@@ -14566,7 +13674,6 @@ const WORDS = [
       pinyin: "jié guǒ ràng wǒ yǒu diǎn shī wàng",
       en: "The result left me a little disappointed.",
     },
-    say: null,
   },
   {
     num: 894,
@@ -14582,7 +13689,6 @@ const WORDS = [
       pinyin: "yào chū guó le wǒ hǎo xìng fèn",
       en: "I'm going abroad — I'm so excited.",
     },
-    say: null,
   },
   {
     num: 895,
@@ -14598,7 +13704,6 @@ const WORDS = [
       pinyin: "zhè ge xiāo xí ràng dà jiā hěn jīng yà",
       en: "This news surprised everyone.",
     },
-    say: null,
   },
   {
     num: 896,
@@ -14614,7 +13719,6 @@ const WORDS = [
       pinyin: "wǒ yě hěn wú nài méi bàn fǎ",
       en: "I feel helpless too — there's nothing to be done.",
     },
-    say: null,
   },
   {
     num: 897,
@@ -14630,7 +13734,6 @@ const WORDS = [
       pinyin: "nà ge chǎng miàn yǒu diǎn gān gà",
       en: "That situation was a bit awkward.",
     },
-    say: null,
   },
   {
     num: 898,
@@ -14646,7 +13749,6 @@ const WORDS = [
       pinyin: "yí ge rén zhù yǒu shí hòu hěn gū dān",
       en: "Living alone is sometimes lonely.",
     },
-    say: null,
   },
   {
     num: 899,
@@ -14662,7 +13764,6 @@ const WORDS = [
       pinyin: "zuì jìn de shì ràng wǒ hěn xīn fán",
       en: "Recent events have been troubling me.",
     },
-    say: null,
   },
   {
     num: 900,
@@ -14678,7 +13779,6 @@ const WORDS = [
       pinyin: "gōng zuò de yā lì hěn dà",
       en: "The pressure at work is heavy.",
     },
-    say: null,
   },
   {
     num: 901,
@@ -14694,7 +13794,6 @@ const WORDS = [
       pinyin: "jīn tiān xīn qíng bú cuò",
       en: "I'm in a good mood today.",
     },
-    say: null,
   },
   {
     num: 902,
@@ -14710,7 +13809,6 @@ const WORDS = [
       pinyin: "zhè zhǒng gǎn jué hěn qí guài",
       en: "This feeling is strange.",
     },
-    say: null,
   },
   {
     num: 903,
@@ -14726,7 +13824,6 @@ const WORDS = [
       pinyin: "kè hù duì jié guǒ hěn mǎn yì",
       en: "The client is very satisfied with the result.",
     },
-    say: null,
   },
   {
     num: 904,
@@ -14743,7 +13840,6 @@ const WORDS = [
       pinyin: "dà jiā duì zhè ge jué dìng hěn bù mǎn",
       en: "Everyone is dissatisfied with this decision.",
     },
-    say: null,
   },
   {
     num: 905,
@@ -14759,7 +13855,6 @@ const WORDS = [
       pinyin: "wǒ yǒu diǎn hòu huǐ méi qù",
       en: "I kind of regret not going.",
     },
-    say: null,
   },
   {
     num: 906,
@@ -14776,7 +13871,6 @@ const WORDS = [
       pinyin: "wǒ hěn xiàn mù nǐ kě yǐ dào chù lǚ xíng",
       en: "I envy that you can travel everywhere.",
     },
-    say: null,
   },
   {
     num: 907,
@@ -14792,7 +13886,6 @@ const WORDS = [
       pinyin: "zhè bù diàn yǐng ràng wǒ hěn gǎn dòng",
       en: "This movie really moved me.",
     },
-    say: null,
   },
   {
     num: 908,
@@ -14808,7 +13901,6 @@ const WORDS = [
       pinyin: "tā shuō huà hěn yǒu zì xìn",
       en: "He speaks with a lot of confidence.",
     },
-    say: null,
   },
   {
     num: 909,
@@ -14824,7 +13916,6 @@ const WORDS = [
       pinyin: "tā zài mò shēng rén miàn qián hěn hài xiū",
       en: "She's shy around strangers.",
     },
-    say: null,
   },
   {
     num: 910,
@@ -14840,7 +13931,6 @@ const WORDS = [
       pinyin: "nǐ yào yǒng gǎn yì diǎn",
       en: "You need to be a bit braver.",
     },
-    say: null,
   },
   {
     num: 911,
@@ -14856,7 +13946,6 @@ const WORDS = [
       pinyin: "lù shàng xiǎo xīn",
       en: "Take care on your way.",
     },
-    say: null,
   },
   {
     num: 912,
@@ -14872,7 +13961,6 @@ const WORDS = [
       pinyin: "tā gōng zuò hěn rèn zhēn",
       en: "He works very conscientiously.",
     },
-    say: null,
   },
   {
     num: 913,
@@ -14888,7 +13976,6 @@ const WORDS = [
       pinyin: "zhǐ yào nǔ lì jiù yǒu jī huì",
       en: "As long as you work hard, there's a chance.",
     },
-    say: null,
   },
   {
     num: 914,
@@ -14904,7 +13991,6 @@ const WORDS = [
       pinyin: "wǒ jīn tiān hǎo lǎn bù xiǎng chū mén",
       en: "I'm so lazy today — I don't want to go out.",
     },
-    say: null,
   },
   {
     num: 915,
@@ -14920,7 +14006,6 @@ const WORDS = [
       pinyin: "tái wān rén hěn yǒu shàn",
       en: "Taiwanese people are very friendly.",
     },
-    say: null,
   },
   {
     num: 916,
@@ -14936,7 +14021,6 @@ const WORDS = [
       pinyin: "nǐ tài kè qì le",
       en: "You're too polite.",
     },
-    say: null,
   },
   {
     num: 917,
@@ -14952,7 +14036,6 @@ const WORDS = [
       pinyin: "chéng shí zuì zhòng yào",
       en: "Honesty matters most.",
     },
-    say: null,
   },
   {
     num: 918,
@@ -14968,7 +14051,6 @@ const WORDS = [
       pinyin: "zhè wèi lǎo shī hěn yǒu nài xīn",
       en: "This teacher is very patient.",
     },
-    say: null,
   },
   {
     num: 919,
@@ -14984,7 +14066,6 @@ const WORDS = [
       pinyin: "zhè ge hái zi hěn cōng míng",
       en: "This child is very clever.",
     },
-    say: null,
   },
   {
     num: 920,
@@ -15000,7 +14081,6 @@ const WORDS = [
       pinyin: "tā hěn yōu mò dà jiā dōu xǐ huān tā",
       en: "He's funny — everyone likes him.",
     },
-    say: null,
   },
   {
     num: 921,
@@ -15016,7 +14096,6 @@ const WORDS = [
       pinyin: "tā shuō huà hěn wēn róu",
       en: "She speaks very gently.",
     },
-    say: null,
   },
   {
     num: 922,
@@ -15032,7 +14111,6 @@ const WORDS = [
       pinyin: "tā shuō huà bǐ jiào zhí jiē",
       en: "He's fairly direct in how he speaks.",
     },
-    say: null,
   },
   {
     num: 923,
@@ -15048,7 +14126,6 @@ const WORDS = [
       pinyin: "lǎo bǎn duì kè rén hěn rè qíng",
       en: "The owner is warm toward customers.",
     },
-    say: null,
   },
   {
     num: 924,
@@ -15064,7 +14141,6 @@ const WORDS = [
       pinyin: "yù dào wèn tí yào lěng jìng",
       en: "Stay calm when you run into problems.",
     },
-    say: null,
   },
   {
     num: 925,
@@ -15080,7 +14156,6 @@ const WORDS = [
       pinyin: "tā cóng xiǎo jiù hěn dú lì",
       en: "She's been independent since she was little.",
     },
-    say: null,
   },
   {
     num: 926,
@@ -15096,7 +14171,6 @@ const WORDS = [
       pinyin: "bú yào xiǎng tài duō fù miàn de shì",
       en: "Don't dwell on negative things.",
     },
-    say: null,
   },
   {
     num: 927,
@@ -15112,7 +14186,6 @@ const WORDS = [
       pinyin: "tā de tài dù hěn zhèng miàn",
       en: "His attitude is very positive.",
     },
-    say: null,
   },
   {
     num: 928,
@@ -15128,7 +14201,6 @@ const WORDS = [
       pinyin: "wǒ men de gè xìng wán quán bù tóng",
       en: "Our personalities are completely different.",
     },
-    say: null,
   },
   {
     num: 929,
@@ -15144,7 +14216,6 @@ const WORDS = [
       pinyin: "zǎo qǐ shì ge hǎo xí guàn",
       en: "Getting up early is a good habit.",
     },
-    say: null,
   },
   {
     num: 930,
@@ -15160,7 +14231,6 @@ const WORDS = [
       pinyin: "nǐ hǎo hěn gāo xìng rèn shì nǐ",
       en: "Hello, nice to meet you.",
     },
-    say: null,
   },
   {
     num: 931,
@@ -15176,7 +14246,6 @@ const WORDS = [
       pinyin: "zǎo ān nǐ jīn tiān hǎo ma",
       en: "Good morning — how are you today?",
     },
-    say: null,
   },
   {
     num: 932,
@@ -15192,7 +14261,6 @@ const WORDS = [
       pinyin: "wǎn ān míng tiān jiàn",
       en: "Good night — see you tomorrow.",
     },
-    say: null,
   },
   {
     num: 933,
@@ -15208,7 +14276,6 @@ const WORDS = [
       pinyin: "wǒ yào zǒu le zài jiàn",
       en: "I'm heading off — goodbye.",
     },
-    say: null,
   },
   {
     num: 934,
@@ -15224,7 +14291,6 @@ const WORDS = [
       pinyin: "xiè xiè nǐ de bāng máng",
       en: "Thank you for your help.",
     },
-    say: null,
   },
   {
     num: 935,
@@ -15240,7 +14306,6 @@ const WORDS = [
       pinyin: "bú kè qì zhè shì wǒ yīng gāi zuò de",
       en: "You're welcome — it's the least I could do.",
     },
-    say: null,
   },
   {
     num: 936,
@@ -15256,7 +14321,6 @@ const WORDS = [
       pinyin: "duì bù qǐ wǒ lái wǎn le",
       en: "Sorry, I'm late.",
     },
-    say: null,
   },
   {
     num: 937,
@@ -15272,7 +14336,6 @@ const WORDS = [
       pinyin: "méi guān xì xià cì zhù yì jiù hǎo",
       en: "It's okay — just be careful next time.",
     },
-    say: null,
   },
   {
     num: 938,
@@ -15288,7 +14351,6 @@ const WORDS = [
       pinyin: "qǐng zuò zhè lǐ",
       en: "Please sit here.",
     },
-    say: null,
   },
   {
     num: 939,
@@ -15304,7 +14366,6 @@ const WORDS = [
       pinyin: "bù hǎo yì si kě yǐ jiè guò yí xià ma",
       en: "Excuse me, may I get past?",
     },
-    say: null,
   },
   {
     num: 940,
@@ -15320,7 +14381,6 @@ const WORDS = [
       pinyin: "qǐng wèn jié yùn zhàn zěn me zǒu",
       en: "Excuse me, how do I get to the MRT station?",
     },
-    say: null,
   },
   {
     num: 941,
@@ -15336,7 +14396,6 @@ const WORDS = [
       pinyin: "huān yíng lái tái wān",
       en: "Welcome to Taiwan.",
     },
-    say: null,
   },
   {
     num: 942,
@@ -15352,7 +14411,6 @@ const WORDS = [
       pinyin: "gōng xǐ nǐ zhǎo dào xīn gōng zuò",
       en: "Congratulations on your new job.",
     },
-    say: null,
   },
   {
     num: 943,
@@ -15368,7 +14426,6 @@ const WORDS = [
       pinyin: "míng tiān yào kǎo shì jiā yóu",
       en: "You have an exam tomorrow — you've got this!",
     },
-    say: null,
   },
   {
     num: 944,
@@ -15384,7 +14441,6 @@ const WORDS = [
       pinyin: "jīn tiān xīn kǔ le zǎo diǎn xiū xí",
       en: "Thanks for your hard work today — rest early.",
     },
-    say: null,
   },
   {
     num: 945,
@@ -15400,7 +14456,6 @@ const WORDS = [
       pinyin: "hǎo jiǔ bú jiàn nǐ zuì jìn hǎo ma",
       en: "Long time no see — how have you been?",
     },
-    say: null,
   },
   {
     num: 946,
@@ -15416,7 +14471,6 @@ const WORDS = [
       pinyin: "yuán lái rú cǐ wǒ xiàn zài dǒng le",
       en: "I see — now I understand.",
     },
-    say: null,
   },
   {
     num: 947,
@@ -15432,7 +14486,6 @@ const WORDS = [
       pinyin: "méi wèn tí wǒ kě yǐ bāng nǐ",
       en: "No problem — I can help you.",
     },
-    say: null,
   },
   {
     num: 948,
@@ -15448,7 +14501,6 @@ const WORDS = [
       pinyin: "zhè lǐ bù xíng tíng chē",
       en: "You can't park here.",
     },
-    say: null,
   },
   {
     num: 949,
@@ -15464,7 +14516,6 @@ const WORDS = [
       pinyin: "wǒ hái bú què dìng yào kàn qíng kuàng",
       en: "I'm not sure yet — it depends.",
     },
-    say: null,
   },
   {
     num: 950,
@@ -15480,7 +14531,6 @@ const WORDS = [
       pinyin: "chī shén me dōu kě yǐ wǒ suí biàn",
       en: "Anything's fine with me.",
     },
-    say: null,
   },
   {
     num: 951,
@@ -15496,7 +14546,6 @@ const WORDS = [
       pinyin: "bú yòng jí màn màn lái",
       en: "No rush — take your time.",
     },
-    say: null,
   },
   {
     num: 952,
@@ -15512,7 +14561,6 @@ const WORDS = [
       pinyin: "bié dān xīn wèn tí huì jiě jué de",
       en: "Don't worry — the problem will get sorted out.",
     },
-    say: null,
   },
   {
     num: 953,
@@ -15528,7 +14576,6 @@ const WORDS = [
       pinyin: "xiè xiè nǐ de bāng zhù",
       en: "Thank you for your help.",
     },
-    say: null,
   },
   {
     num: 954,
@@ -15544,7 +14591,6 @@ const WORDS = [
       pinyin: "jiù mìng yǒu rén diào dào shuǐ lǐ le",
       en: "Help! Someone fell into the water!",
     },
-    say: null,
   },
   {
     num: 955,
@@ -15560,7 +14606,6 @@ const WORDS = [
       pinyin: "xiǎo tōu tōu zǒu le wǒ de qián bāo",
       en: "A thief stole my wallet.",
     },
-    say: null,
   },
   {
     num: 956,
@@ -15576,7 +14621,6 @@ const WORDS = [
       pinyin: "wǒ de jiǎo tà chē bèi tōu le",
       en: "My bicycle was stolen.",
     },
-    say: null,
   },
   {
     num: 957,
@@ -15592,7 +14636,6 @@ const WORDS = [
       pinyin: "wǒ yí shī le wǒ de zhèng jiàn",
       en: "I lost my ID.",
     },
-    say: null,
   },
   {
     num: 958,
@@ -15608,7 +14651,6 @@ const WORDS = [
       pinyin: "wǒ zhōng yú zhǎo dào yào shi le",
       en: "I finally found my keys.",
     },
-    say: null,
   },
   {
     num: 959,
@@ -15624,7 +14666,6 @@ const WORDS = [
       pinyin: "wǒ de shǒu jī huài diào le",
       en: "My phone is broken.",
     },
-    say: null,
   },
   {
     num: 960,
@@ -15640,7 +14681,6 @@ const WORDS = [
       pinyin: "zhè zhāng kǎ bù néng yòng",
       en: "This card doesn't work.",
     },
-    say: null,
   },
   {
     num: 961,
@@ -15656,7 +14696,6 @@ const WORDS = [
       pinyin: "diàn nǎo méi yǒu fǎn yìng",
       en: "The computer isn't responding.",
     },
-    say: null,
   },
   {
     num: 962,
@@ -15672,7 +14711,6 @@ const WORDS = [
       pinyin: "diàn tī kǎ zhù le",
       en: "The elevator is stuck.",
     },
-    say: null,
   },
   {
     num: 963,
@@ -15688,7 +14726,6 @@ const WORDS = [
       pinyin: "zuó tiān wǎn shàng tíng diàn le",
       en: "The power went out last night.",
     },
-    say: null,
   },
   {
     num: 964,
@@ -15704,7 +14741,6 @@ const WORDS = [
       pinyin: "yù shì de tiān huā bǎn zài lòu shuǐ",
       en: "The bathroom ceiling is leaking.",
     },
-    say: null,
   },
   {
     num: 965,
@@ -15720,7 +14756,6 @@ const WORDS = [
       pinyin: "fā shēng huǒ zāi yào zǒu lóu tī",
       en: "In a fire, use the stairs.",
     },
-    say: null,
   },
   {
     num: 966,
@@ -15736,7 +14771,6 @@ const WORDS = [
       pinyin: "chū shì le yào mǎ shàng bào jǐng",
       en: "If something happens, call the police right away.",
     },
-    say: null,
   },
   {
     num: 967,
@@ -15752,7 +14786,6 @@ const WORDS = [
       pinyin: "zhè shì jǐn jí qíng kuàng",
       en: "This is an emergency.",
     },
-    say: null,
   },
   {
     num: 968,
@@ -15768,7 +14801,6 @@ const WORDS = [
       pinyin: "lù shàng fā shēng le yì wài",
       en: "There was an accident on the road.",
     },
-    say: null,
   },
   {
     num: 969,
@@ -15784,7 +14816,6 @@ const WORDS = [
       pinyin: "yīn wèi tái fēng bān jī qǔ xiāo le",
       en: "The flight was cancelled because of the typhoon.",
     },
-    say: null,
   },
   {
     num: 970,
@@ -15800,7 +14831,6 @@ const WORDS = [
       pinyin: "huì yì gǎi qí dào xià xīng qí",
       en: "The meeting was rescheduled to next week.",
     },
-    say: null,
   },
   {
     num: 971,
@@ -15816,7 +14846,6 @@ const WORDS = [
       pinyin: "zài bù zǒu jiù lái bù jí le",
       en: "If we don't leave now, we won't make it.",
     },
-    say: null,
   },
   {
     num: 972,
@@ -15832,7 +14861,6 @@ const WORDS = [
       pinyin: "wǒ gǎn bù shàng zuì hòu yì bān chē",
       en: "I can't catch the last train.",
     },
-    say: null,
   },
   {
     num: 973,
@@ -15848,7 +14876,6 @@ const WORDS = [
       pinyin: "wǒ cuò guò le nà bān chē",
       en: "I missed that train.",
     },
-    say: null,
   },
   {
     num: 974,
@@ -15864,7 +14891,6 @@ const WORDS = [
       pinyin: "huó dòng yán hòu yí ge xīng qí",
       en: "The event was postponed by a week.",
     },
-    say: null,
   },
   {
     num: 975,
@@ -15880,7 +14906,6 @@ const WORDS = [
       pinyin: "wǒ men tí qián dào le",
       en: "We arrived ahead of time.",
     },
-    say: null,
   },
   {
     num: 976,
@@ -15896,7 +14921,6 @@ const WORDS = [
       pinyin: "chí dào de yuán yīn shì sāi chē",
       en: "The reason for being late was traffic.",
     },
-    say: null,
   },
   {
     num: 977,
@@ -15912,7 +14936,6 @@ const WORDS = [
       pinyin: "zhè ge fāng fǎ hěn yǒu xiào",
       en: "This method is very effective.",
     },
-    say: null,
   },
   {
     num: 978,
@@ -15928,7 +14951,6 @@ const WORDS = [
       pinyin: "qíng kuàng yǒu diǎn fù zá",
       en: "The situation is a bit complicated.",
     },
-    say: null,
   },
   {
     num: 979,
@@ -15944,7 +14966,6 @@ const WORDS = [
       pinyin: "zhè shì ge hǎo jī huì",
       en: "This is a good opportunity.",
     },
-    say: null,
   },
   {
     num: 980,
@@ -15960,7 +14981,6 @@ const WORDS = [
       pinyin: "zhè cì de jīng yàn hěn bǎo guì",
       en: "This experience was valuable.",
     },
-    say: null,
   },
   {
     num: 981,
@@ -15976,7 +14996,6 @@ const WORDS = [
       pinyin: "zhè běn shū de nèi róng hěn yǒu qù",
       en: "This book's content is interesting.",
     },
-    say: null,
   },
   {
     num: 982,
@@ -15992,7 +15011,6 @@ const WORDS = [
       pinyin: "zhè bù fèn wǒ bú tài dǒng",
       en: "I don't quite understand this part.",
     },
-    say: null,
   },
   {
     num: 983,
@@ -16008,7 +15026,6 @@ const WORDS = [
       pinyin: "zhè fāng miàn wǒ méi yǒu jīng yàn",
       en: "I have no experience in this area.",
     },
-    say: null,
   },
   {
     num: 984,
@@ -16024,7 +15041,6 @@ const WORDS = [
       pinyin: "zhè jiā diàn de zhǒng lèi hěn duō",
       en: "This shop has a wide variety.",
     },
-    say: null,
   },
   {
     num: 985,
@@ -16040,7 +15056,6 @@ const WORDS = [
       pinyin: "měi ge rén de fāng shì bù yí yàng",
       en: "Everyone's way of doing it is different.",
     },
-    say: null,
   },
   {
     num: 986,
@@ -16056,7 +15071,6 @@ const WORDS = [
       pinyin: "zhè ge gōng zuò de tiáo jiàn bú cuò",
       en: "The terms of this job are pretty good.",
     },
-    say: null,
   },
   {
     num: 987,
@@ -16072,7 +15086,6 @@ const WORDS = [
       pinyin: "qǐng zūn shǒu yóu xì guī zé",
       en: "Please follow the rules of the game.",
     },
-    say: null,
   },
   {
     num: 988,
@@ -16088,7 +15101,6 @@ const WORDS = [
       pinyin: "wǒ men yào zūn shǒu fǎ lǜ",
       en: "We must obey the law.",
     },
-    say: null,
   },
   {
     num: 989,
@@ -16104,7 +15116,6 @@ const WORDS = [
       pinyin: "tái wān de wén huà hěn duō yuán",
       en: "Taiwan's culture is very diverse.",
     },
-    say: null,
   },
   {
     num: 990,
@@ -16120,7 +15131,6 @@ const WORDS = [
       pinyin: "wǒ hěn mǎn yì xiàn zài de shēng huó",
       en: "I'm very satisfied with my life right now.",
     },
-    say: null,
   },
   {
     num: 991,
@@ -16136,7 +15146,6 @@ const WORDS = [
       pinyin: "wǒ duì wèi lái hěn yǒu xìn xīn",
       en: "I'm confident about the future.",
     },
-    say: null,
   },
   {
     num: 992,
@@ -16152,7 +15161,6 @@ const WORDS = [
       pinyin: "guò qù de shì jiù bié xiǎng le",
       en: "Don't dwell on things that are past.",
     },
-    say: null,
   },
   {
     num: 993,
@@ -16168,7 +15176,6 @@ const WORDS = [
       pinyin: "xiè xiè nǐ de jiàn yì",
       en: "Thank you for your suggestion.",
     },
-    say: null,
   },
   {
     num: 994,
@@ -16184,7 +15191,6 @@ const WORDS = [
       pinyin: "wǒ xiǎng tīng tīng nǐ de yì jiàn",
       en: "I'd like to hear your opinion.",
     },
-    say: null,
   },
   {
     num: 995,
@@ -16200,7 +15206,6 @@ const WORDS = [
       pinyin: "wǒ yǒu yí ge xiǎng fǎ",
       en: "I have an idea.",
     },
-    say: null,
   },
   {
     num: 996,
@@ -16216,7 +15221,6 @@ const WORDS = [
       pinyin: "zhè ge gǎi biàn hěn zhòng yào",
       en: "This change is important.",
     },
-    say: null,
   },
   {
     num: 997,
@@ -16233,7 +15237,6 @@ const WORDS = [
       pinyin: "tiān qì yǐng xiǎng le wǒ men de jì huà",
       en: "The weather affected our plans.",
     },
-    say: null,
   },
   {
     num: 998,
@@ -16249,7 +15252,6 @@ const WORDS = [
       pinyin: "tā zhōng yú chéng gōng le",
       en: "He finally succeeded.",
     },
-    say: null,
   },
   {
     num: 999,
@@ -16265,7 +15267,6 @@ const WORDS = [
       pinyin: "shī bài shì chéng gōng zhī mǔ",
       en: "Failure is the mother of success.",
     },
-    say: null,
   },
   {
     num: 1000,
@@ -16282,7 +15283,6 @@ const WORDS = [
       pinyin: "dà jiā dōu zhī dào jiàn kāng de zhòng yào xìng",
       en: "Everyone knows the importance of health.",
     },
-    say: null,
   },
 ];
 

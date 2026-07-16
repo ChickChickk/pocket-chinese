@@ -472,7 +472,6 @@
         zhuyin: w.zhuyin,
         pinyin: w.pinyin,
         meaning: w.meaning,
-        say: w.say, // carry the pronunciation override through to the quiz audio
       };
       if (mode === "mc") {
         var d = shuffle(
@@ -696,7 +695,7 @@
       esc(w.pinyin) +
       "</span>" +
       '</div><div class="word-actions">' +
-      speakBtn(w.say || w.hanzi) +
+      speakBtn(w.hanzi) +
       favBtn(w.num) +
       "</div></div>" +
       '<div class="meaning">' +
@@ -778,7 +777,7 @@
       '<div class="today">' +
       // WOTD
       '<div class="panel"><div class="kicker"><span>Word of the day</span><div class="panel-actions">' +
-      speakBtn(w.say || w.hanzi, 30) +
+      speakBtn(w.hanzi, 30) +
       favBtn(w.num, 30) +
       "</div></div>" +
       '<div class="big" style="font-size:44px">' +
@@ -1015,7 +1014,7 @@
       (state.flashFlipped ? " flipped" : "") +
       '" data-act="flip">' +
       '<div class="face face-front"><div class="corner">' +
-      speakBtn(w.say || w.hanzi, 34) +
+      speakBtn(w.hanzi, 34) +
       favBtn(w.num, 34) +
       "</div>" +
       '<span class="lbl">Character</span><span class="word" style="font-size:64px">' +
@@ -1169,7 +1168,7 @@
       (psub ? '<div class="psub">' + esc(psub) + "</div>" : "") +
       (audio
         ? '<button class="pill-btn" style="margin-top:14px" data-act="speak" data-say="' +
-          attr(cur.say || cur.hanzi) +
+          attr(cur.hanzi) +
           '">' +
           SPEAKER +
           "<span>Listen</span></button>"
@@ -1229,7 +1228,7 @@
           " · " +
           esc(cur.pinyin) +
           "</span></div></div>" +
-          speakBtn(cur.say || cur.hanzi, 38) +
+          speakBtn(cur.hanzi, 38) +
           "</div>";
     }
 
