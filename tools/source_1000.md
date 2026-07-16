@@ -240,7 +240,7 @@
 | 202 | 也許 | ㄧㄝˇ ㄒㄩˇ | yě xǔ | perhaps | 我也許搭捷運上班。 | I perhaps take the MRT to work. | 1 |
 | 203 | 當然 | ㄉㄤ ㄖㄢˊ | dāng rán | of course | 我當然搭捷運上班。 | I of course take the MRT to work. | 1 |
 | 204 | 其實 | ㄑㄧˊ ㄕˊ | qí shí | actually | 我其實搭捷運上班。 | I actually take the MRT to work. | 1 |
-| 205 | 特別地 | ㄊㄜˋ ㄅㄧㄝˊ ㄉㄧˋ | tè bié dì | especially | 我特別地搭捷運上班。 | I especially take the MRT to work. | 1 |
+| 205 | 特別地 | ㄊㄜˋ ㄅㄧㄝˊ ˙ㄉㄜ | tè bié de | especially | 我特別地搭捷運上班。 | I especially take the MRT to work. | 1 |
 | 206 | 主要 | ㄓㄨˇ ㄧㄠˋ | zhǔ yào | mainly | 我主要搭捷運上班。 | I mainly take the MRT to work. | 1 |
 | 207 | 通常 | ㄊㄨㄥ ㄔㄤˊ | tōng cháng | usually | 我通常搭捷運上班。 | I usually take the MRT to work. | 1 |
 | 208 | 常常 | ㄔㄤˊ ㄔㄤˊ | cháng cháng | often | 我常常搭捷運上班。 | I often take the MRT to work. | 1 |

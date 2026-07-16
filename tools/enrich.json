@@ -1511,6 +1511,654 @@
   },
   "measure": null
  },
+ "169": {
+  "example": {
+   "hanzi": "圖書館裡很安靜。",
+   "zhuyin": "ㄊㄨˊ ㄕㄨ ㄍㄨㄢˇ ㄌㄧˇ ㄏㄣˇ ㄢ ㄐㄧㄥˋ",
+   "pinyin": "tú shū guǎn lǐ hěn ān jìng",
+   "en": "It's very quiet in the library."
+  },
+  "measure": null
+ },
+ "170": {
+  "example": {
+   "hanzi": "外面的馬路很吵。",
+   "zhuyin": "ㄨㄞˋ ㄇㄧㄢˋ ㄉㄜ˙ ㄇㄚˇ ㄌㄨˋ ㄏㄣˇ ㄔㄠˇ",
+   "pinyin": "wài miàn de mǎ lù hěn chǎo",
+   "en": "The street outside is noisy."
+  },
+  "measure": null
+ },
+ "171": {
+  "example": {
+   "hanzi": "這道題很簡單。",
+   "zhuyin": "ㄓㄜˋ ㄉㄠˋ ㄊㄧˊ ㄏㄣˇ ㄐㄧㄢˇ ㄉㄢ",
+   "pinyin": "zhè dào tí hěn jiǎn dān",
+   "en": "This question is simple."
+  },
+  "measure": null
+ },
+ "172": {
+  "example": {
+   "hanzi": "中文的發音有點難。",
+   "zhuyin": "ㄓㄨㄥ ㄨㄣˊ ㄉㄜ˙ ㄈㄚ ㄧㄣ ㄧㄡˇ ㄉㄧㄢˇ ㄋㄢˊ",
+   "pinyin": "zhōng wén de fā yīn yǒu diǎn nán",
+   "en": "Chinese pronunciation is a bit hard."
+  },
+  "measure": null
+ },
+ "173": {
+  "example": {
+   "hanzi": "這個字很容易記。",
+   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄗˋ ㄏㄣˇ ㄖㄨㄥˊ ㄧˋ ㄐㄧˋ",
+   "pinyin": "zhè ge zì hěn róng yì jì",
+   "en": "This character is easy to remember."
+  },
+  "measure": null
+ },
+ "174": {
+  "example": {
+   "hanzi": "這件事很重要。",
+   "zhuyin": "ㄓㄜˋ ㄐㄧㄢˋ ㄕˋ ㄏㄣˇ ㄓㄨㄥˋ ㄧㄠˋ",
+   "pinyin": "zhè jiàn shì hěn zhòng yào",
+   "en": "This matter is important."
+  },
+  "measure": null
+ },
+ "175": {
+  "example": {
+   "hanzi": "今天是個特別的日子。",
+   "zhuyin": "ㄐㄧㄣ ㄊㄧㄢ ㄕˋ ㄍㄜ˙ ㄊㄜˋ ㄅㄧㄝˊ ㄉㄜ˙ ㄖˋ ㄗ˙",
+   "pinyin": "jīn tiān shì ge tè bié de rì zi",
+   "en": "Today is a special day."
+  },
+  "measure": null
+ },
+ "176": {
+  "example": {
+   "hanzi": "這兩件衣服顏色一樣。",
+   "zhuyin": "ㄓㄜˋ ㄌㄧㄤˇ ㄐㄧㄢˋ ㄧ ㄈㄨˊ ㄧㄢˊ ㄙㄜˋ ㄧˊ ㄧㄤˋ",
+   "pinyin": "zhè liǎng jiàn yī fú yán sè yí yàng",
+   "en": "These two shirts are the same color."
+  },
+  "measure": null
+ },
+ "177": {
+  "example": {
+   "hanzi": "我們的想法不同。",
+   "zhuyin": "ㄨㄛˇ ㄇㄣ˙ ㄉㄜ˙ ㄒㄧㄤˇ ㄈㄚˇ ㄅㄨˋ ㄊㄨㄥˊ",
+   "pinyin": "wǒ men de xiǎng fǎ bù tóng",
+   "en": "Our ideas are different."
+  },
+  "measure": null
+ },
+ "178": {
+  "example": {
+   "hanzi": "你的答案是對的。",
+   "zhuyin": "ㄋㄧˇ ㄉㄜ˙ ㄉㄚˊ ㄢˋ ㄕˋ ㄉㄨㄟˋ ㄉㄜ˙",
+   "pinyin": "nǐ de dá àn shì duì de",
+   "en": "Your answer is correct."
+  },
+  "measure": null
+ },
+ "179": {
+  "example": {
+   "hanzi": "我寫錯了一個字。",
+   "zhuyin": "ㄨㄛˇ ㄒㄧㄝˇ ㄘㄨㄛˋ ㄌㄜ˙ ㄧˊ ㄍㄜ˙ ㄗˋ",
+   "pinyin": "wǒ xiě cuò le yí ge zì",
+   "en": "I wrote one character wrong."
+  },
+  "measure": null
+ },
+ "180": {
+  "example": {
+   "hanzi": "老師講得很清楚。",
+   "zhuyin": "ㄌㄠˇ ㄕ ㄐㄧㄤˇ ㄉㄜ˙ ㄏㄣˇ ㄑㄧㄥ ㄔㄨˇ",
+   "pinyin": "lǎo shī jiǎng de hěn qīng chǔ",
+   "en": "The teacher explained it clearly."
+  },
+  "measure": null
+ },
+ "181": {
+  "example": {
+   "hanzi": "這張照片有點模糊。",
+   "zhuyin": "ㄓㄜˋ ㄓㄤ ㄓㄠˋ ㄆㄧㄢˋ ㄧㄡˇ ㄉㄧㄢˇ ㄇㄛˊ ㄏㄨˊ",
+   "pinyin": "zhè zhāng zhào piàn yǒu diǎn mó hú",
+   "en": "This photo is a bit blurry."
+  },
+  "measure": null
+ },
+ "182": {
+  "example": {
+   "hanzi": "住在捷運站附近很方便。",
+   "zhuyin": "ㄓㄨˋ ㄗㄞˋ ㄐㄧㄝˊ ㄩㄣˋ ㄓㄢˋ ㄈㄨˋ ㄐㄧㄣˋ ㄏㄣˇ ㄈㄤ ㄅㄧㄢˋ",
+   "pinyin": "zhù zài jié yùn zhàn fù jìn hěn fāng biàn",
+   "en": "It's convenient to live near an MRT station."
+  },
+  "measure": null
+ },
+ "183": {
+  "example": {
+   "hanzi": "這件事有點麻煩。",
+   "zhuyin": "ㄓㄜˋ ㄐㄧㄢˋ ㄕˋ ㄧㄡˇ ㄉㄧㄢˇ ㄇㄚˊ ㄈㄢˊ",
+   "pinyin": "zhè jiàn shì yǒu diǎn má fán",
+   "en": "This is a bit of a hassle."
+  },
+  "measure": null
+ },
+ "184": {
+  "example": {
+   "hanzi": "晚上一個人走路要注意安全。",
+   "zhuyin": "ㄨㄢˇ ㄕㄤˋ ㄧˊ ㄍㄜ˙ ㄖㄣˊ ㄗㄡˇ ㄌㄨˋ ㄧㄠˋ ㄓㄨˋ ㄧˋ ㄢ ㄑㄩㄢˊ",
+   "pinyin": "wǎn shàng yí ge rén zǒu lù yào zhù yì ān quán",
+   "en": "Be careful walking alone at night."
+  },
+  "measure": null
+ },
+ "185": {
+  "example": {
+   "hanzi": "這裡很危險，別靠近。",
+   "zhuyin": "ㄓㄜˋ ㄌㄧˇ ㄏㄣˇ ㄨㄟ ㄒㄧㄢˇ ㄅㄧㄝˊ ㄎㄠˋ ㄐㄧㄣˋ",
+   "pinyin": "zhè lǐ hěn wēi xiǎn bié kào jìn",
+   "en": "It's dangerous here — don't go near."
+  },
+  "measure": null
+ },
+ "186": {
+  "example": {
+   "hanzi": "他的身體很健康。",
+   "zhuyin": "ㄊㄚ ㄉㄜ˙ ㄕㄣ ㄊㄧˇ ㄏㄣˇ ㄐㄧㄢˋ ㄎㄤ",
+   "pinyin": "tā de shēn tǐ hěn jiàn kāng",
+   "en": "He's very healthy."
+  },
+  "measure": null
+ },
+ "187": {
+  "example": {
+   "hanzi": "他的感冒很嚴重。",
+   "zhuyin": "ㄊㄚ ㄉㄜ˙ ㄍㄢˇ ㄇㄠˋ ㄏㄣˇ ㄧㄢˊ ㄓㄨㄥˋ",
+   "pinyin": "tā de gǎn mào hěn yán zhòng",
+   "en": "His cold is serious."
+  },
+  "measure": null
+ },
+ "188": {
+  "example": {
+   "hanzi": "一切都很正常。",
+   "zhuyin": "ㄧˊ ㄑㄧㄝˋ ㄉㄡ ㄏㄣˇ ㄓㄥˋ ㄔㄤˊ",
+   "pinyin": "yí qiè dōu hěn zhèng cháng",
+   "en": "Everything is normal."
+  },
+  "measure": null
+ },
+ "189": {
+  "example": {
+   "hanzi": "這個味道有點奇怪。",
+   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄨㄟˋ ㄉㄠˋ ㄧㄡˇ ㄉㄧㄢˇ ㄑㄧˊ ㄍㄨㄞˋ",
+   "pinyin": "zhè ge wèi dào yǒu diǎn qí guài",
+   "en": "This smell is a bit strange."
+  },
+  "measure": null
+ },
+ "190": {
+  "example": {
+   "hanzi": "這本書很有趣。",
+   "zhuyin": "ㄓㄜˋ ㄅㄣˇ ㄕㄨ ㄏㄣˇ ㄧㄡˇ ㄑㄩˋ",
+   "pinyin": "zhè běn shū hěn yǒu qù",
+   "en": "This book is interesting."
+  },
+  "measure": null
+ },
+ "191": {
+  "example": {
+   "hanzi": "這部電影很無聊。",
+   "zhuyin": "ㄓㄜˋ ㄅㄨˋ ㄉㄧㄢˋ ㄧㄥˇ ㄏㄣˇ ㄨˊ ㄌㄧㄠˊ",
+   "pinyin": "zhè bù diàn yǐng hěn wú liáo",
+   "en": "This movie is boring."
+  },
+  "measure": null
+ },
+ "192": {
+  "example": {
+   "hanzi": "我最近工作很忙。",
+   "zhuyin": "ㄨㄛˇ ㄗㄨㄟˋ ㄐㄧㄣˋ ㄍㄨㄥ ㄗㄨㄛˋ ㄏㄣˇ ㄇㄤˊ",
+   "pinyin": "wǒ zuì jìn gōng zuò hěn máng",
+   "en": "I've been very busy with work lately."
+  },
+  "measure": null
+ },
+ "193": {
+  "example": {
+   "hanzi": "今天非常熱。",
+   "zhuyin": "ㄐㄧㄣ ㄊㄧㄢ ㄈㄟ ㄔㄤˊ ㄖㄜˋ",
+   "pinyin": "jīn tiān fēi cháng rè",
+   "en": "It's extremely hot today."
+  },
+  "measure": null
+ },
+ "194": {
+  "example": {
+   "hanzi": "這家店的東西真的很好吃。",
+   "zhuyin": "ㄓㄜˋ ㄐㄧㄚ ㄉㄧㄢˋ ㄉㄜ˙ ㄉㄨㄥ ㄒㄧ˙ ㄓㄣ ㄉㄜ˙ ㄏㄣˇ ㄏㄠˇ ㄔ",
+   "pinyin": "zhè jiā diàn de dōng xi zhēn de hěn hǎo chī",
+   "en": "This shop's food is really delicious."
+  },
+  "measure": null
+ },
+ "195": {
+  "example": {
+   "hanzi": "我今天有點累。",
+   "zhuyin": "ㄨㄛˇ ㄐㄧㄣ ㄊㄧㄢ ㄧㄡˇ ㄉㄧㄢˇ ㄌㄟˋ",
+   "pinyin": "wǒ jīn tiān yǒu diǎn lèi",
+   "en": "I'm a little tired today."
+  },
+  "measure": null
+ },
+ "196": {
+  "example": {
+   "hanzi": "請給我一點時間。",
+   "zhuyin": "ㄑㄧㄥˇ ㄍㄟˇ ㄨㄛˇ ㄧˋ ㄉㄧㄢˇ ㄕˊ ㄐㄧㄢ",
+   "pinyin": "qǐng gěi wǒ yì diǎn shí jiān",
+   "en": "Please give me a little time."
+  },
+  "measure": null
+ },
+ "197": {
+  "example": {
+   "hanzi": "我完全不懂。",
+   "zhuyin": "ㄨㄛˇ ㄨㄢˊ ㄑㄩㄢˊ ㄅㄨˋ ㄉㄨㄥˇ",
+   "pinyin": "wǒ wán quán bù dǒng",
+   "en": "I completely don't understand."
+  },
+  "measure": null
+ },
+ "198": {
+  "example": {
+   "hanzi": "時間差不多了，我們走吧。",
+   "zhuyin": "ㄕˊ ㄐㄧㄢ ㄔㄚˋ ㄅㄨ˙ ㄉㄨㄛ ㄌㄜ˙ ㄨㄛˇ ㄇㄣ˙ ㄗㄡˇ ㄅㄚ˙",
+   "pinyin": "shí jiān chà bu duō le wǒ men zǒu ba",
+   "en": "It's about time — let's go."
+  },
+  "measure": null
+ },
+ "199": {
+  "example": {
+   "hanzi": "從這裡到車站大概十分鐘。",
+   "zhuyin": "ㄘㄨㄥˊ ㄓㄜˋ ㄌㄧˇ ㄉㄠˋ ㄔㄜ ㄓㄢˋ ㄉㄚˋ ㄍㄞˋ ㄕˊ ㄈㄣ ㄓㄨㄥ",
+   "pinyin": "cóng zhè lǐ dào chē zhàn dà gài shí fēn zhōng",
+   "en": "It's about ten minutes from here to the station."
+  },
+  "measure": null
+ },
+ "200": {
+  "example": {
+   "hanzi": "他今天可能不會來。",
+   "zhuyin": "ㄊㄚ ㄐㄧㄣ ㄊㄧㄢ ㄎㄜˇ ㄋㄥˊ ㄅㄨˊ ㄏㄨㄟˋ ㄌㄞˊ",
+   "pinyin": "tā jīn tiān kě néng bú huì lái",
+   "en": "He might not come today."
+  },
+  "measure": null
+ },
+ "201": {
+  "example": {
+   "hanzi": "我明天一定準時到。",
+   "zhuyin": "ㄨㄛˇ ㄇㄧㄥˊ ㄊㄧㄢ ㄧˊ ㄉㄧㄥˋ ㄓㄨㄣˇ ㄕˊ ㄉㄠˋ",
+   "pinyin": "wǒ míng tiān yí dìng zhǔn shí dào",
+   "en": "I'll definitely arrive on time tomorrow."
+  },
+  "measure": null
+ },
+ "202": {
+  "example": {
+   "hanzi": "也許明天會下雨。",
+   "zhuyin": "ㄧㄝˇ ㄒㄩˇ ㄇㄧㄥˊ ㄊㄧㄢ ㄏㄨㄟˋ ㄒㄧㄚˋ ㄩˇ",
+   "pinyin": "yě xǔ míng tiān huì xià yǔ",
+   "en": "Maybe it'll rain tomorrow."
+  },
+  "measure": null
+ },
+ "203": {
+  "example": {
+   "hanzi": "當然可以，沒問題。",
+   "zhuyin": "ㄉㄤ ㄖㄢˊ ㄎㄜˇ ㄧˇ ㄇㄟˊ ㄨㄣˋ ㄊㄧˊ",
+   "pinyin": "dāng rán kě yǐ méi wèn tí",
+   "en": "Of course, no problem."
+  },
+  "measure": null
+ },
+ "204": {
+  "example": {
+   "hanzi": "其實我不太喜歡咖啡。",
+   "zhuyin": "ㄑㄧˊ ㄕˊ ㄨㄛˇ ㄅㄨˊ ㄊㄞˋ ㄒㄧˇ ㄏㄨㄢ ㄎㄚ ㄈㄟ",
+   "pinyin": "qí shí wǒ bú tài xǐ huān kā fēi",
+   "en": "Actually, I don't really like coffee."
+  },
+  "measure": null
+ },
+ "205": {
+  "example": {
+   "hanzi": "我特別地喜歡這首歌。",
+   "zhuyin": "ㄨㄛˇ ㄊㄜˋ ㄅㄧㄝˊ ㄉㄜ˙ ㄒㄧˇ ㄏㄨㄢ ㄓㄜˋ ㄕㄡˇ ㄍㄜ",
+   "pinyin": "wǒ tè bié de xǐ huān zhè shǒu gē",
+   "en": "I especially like this song."
+  },
+  "measure": null
+ },
+ "206": {
+  "example": {
+   "hanzi": "我主要負責這個部分。",
+   "zhuyin": "ㄨㄛˇ ㄓㄨˇ ㄧㄠˋ ㄈㄨˋ ㄗㄜˊ ㄓㄜˋ ㄍㄜ˙ ㄅㄨˋ ㄈㄣˋ",
+   "pinyin": "wǒ zhǔ yào fù zé zhè ge bù fèn",
+   "en": "I'm mainly responsible for this part."
+  },
+  "measure": null
+ },
+ "207": {
+  "example": {
+   "hanzi": "我通常七點起床。",
+   "zhuyin": "ㄨㄛˇ ㄊㄨㄥ ㄔㄤˊ ㄑㄧ ㄉㄧㄢˇ ㄑㄧˇ ㄔㄨㄤˊ",
+   "pinyin": "wǒ tōng cháng qī diǎn qǐ chuáng",
+   "en": "I usually get up at seven."
+  },
+  "measure": null
+ },
+ "208": {
+  "example": {
+   "hanzi": "我常常在這家店吃飯。",
+   "zhuyin": "ㄨㄛˇ ㄔㄤˊ ㄔㄤˊ ㄗㄞˋ ㄓㄜˋ ㄐㄧㄚ ㄉㄧㄢˋ ㄔ ㄈㄢˋ",
+   "pinyin": "wǒ cháng cháng zài zhè jiā diàn chī fàn",
+   "en": "I often eat at this restaurant."
+  },
+  "measure": null
+ },
+ "209": {
+  "example": {
+   "hanzi": "我有時候會自己煮飯。",
+   "zhuyin": "ㄨㄛˇ ㄧㄡˇ ㄕˊ ㄏㄡˋ ㄏㄨㄟˋ ㄗˋ ㄐㄧˇ ㄓㄨˇ ㄈㄢˋ",
+   "pinyin": "wǒ yǒu shí hòu huì zì jǐ zhǔ fàn",
+   "en": "Sometimes I cook for myself."
+  },
+  "measure": null
+ },
+ "210": {
+  "example": {
+   "hanzi": "我偶爾會去看電影。",
+   "zhuyin": "ㄨㄛˇ ㄡˇ ㄦˇ ㄏㄨㄟˋ ㄑㄩˋ ㄎㄢˋ ㄉㄧㄢˋ ㄧㄥˇ",
+   "pinyin": "wǒ ǒu ěr huì qù kàn diàn yǐng",
+   "en": "I occasionally go to the movies."
+  },
+  "measure": null
+ },
+ "211": {
+  "example": {
+   "hanzi": "我很少喝酒。",
+   "zhuyin": "ㄨㄛˇ ㄏㄣˇ ㄕㄠˇ ㄏㄜ ㄐㄧㄡˇ",
+   "pinyin": "wǒ hěn shǎo hē jiǔ",
+   "en": "I rarely drink alcohol."
+  },
+  "measure": null
+ },
+ "212": {
+  "example": {
+   "hanzi": "他從來不遲到。",
+   "zhuyin": "ㄊㄚ ㄘㄨㄥˊ ㄌㄞˊ ㄅㄨˋ ㄔˊ ㄉㄠˋ",
+   "pinyin": "tā cóng lái bù chí dào",
+   "en": "He is never late."
+  },
+  "measure": null
+ },
+ "213": {
+  "example": {
+   "hanzi": "我每天走路上班。",
+   "zhuyin": "ㄨㄛˇ ㄇㄟˇ ㄊㄧㄢ ㄗㄡˇ ㄌㄨˋ ㄕㄤˋ ㄅㄢ",
+   "pinyin": "wǒ měi tiān zǒu lù shàng bān",
+   "en": "I walk to work every day."
+  },
+  "measure": null
+ },
+ "214": {
+  "example": {
+   "hanzi": "我們每週開一次會。",
+   "zhuyin": "ㄨㄛˇ ㄇㄣ˙ ㄇㄟˇ ㄓㄡ ㄎㄞ ㄧˊ ㄘˋ ㄏㄨㄟˋ",
+   "pinyin": "wǒ men měi zhōu kāi yí cì huì",
+   "en": "We have a meeting once a week."
+  },
+  "measure": null
+ },
+ "215": {
+  "example": {
+   "hanzi": "我每月存一點錢。",
+   "zhuyin": "ㄨㄛˇ ㄇㄟˇ ㄩㄝˋ ㄘㄨㄣˊ ㄧˋ ㄉㄧㄢˇ ㄑㄧㄢˊ",
+   "pinyin": "wǒ měi yuè cún yì diǎn qián",
+   "en": "I save a little money every month."
+  },
+  "measure": null
+ },
+ "216": {
+  "example": {
+   "hanzi": "他一直在講電話。",
+   "zhuyin": "ㄊㄚ ㄧˋ ㄓˊ ㄗㄞˋ ㄐㄧㄤˇ ㄉㄧㄢˋ ㄏㄨㄚˋ",
+   "pinyin": "tā yì zhí zài jiǎng diàn huà",
+   "en": "He's been on the phone the whole time."
+  },
+  "measure": null
+ },
+ "217": {
+  "example": {
+   "hanzi": "我馬上就到。",
+   "zhuyin": "ㄨㄛˇ ㄇㄚˇ ㄕㄤˋ ㄐㄧㄡˋ ㄉㄠˋ",
+   "pinyin": "wǒ mǎ shàng jiù dào",
+   "en": "I'll be there right away."
+  },
+  "measure": null
+ },
+ "218": {
+  "example": {
+   "hanzi": "請立刻離開。",
+   "zhuyin": "ㄑㄧㄥˇ ㄌㄧˋ ㄎㄜˋ ㄌㄧˊ ㄎㄞ",
+   "pinyin": "qǐng lì kè lí kāi",
+   "en": "Please leave immediately."
+  },
+  "measure": null
+ },
+ "219": {
+  "example": {
+   "hanzi": "快遲到了，趕快走吧。",
+   "zhuyin": "ㄎㄨㄞˋ ㄔˊ ㄉㄠˋ ㄌㄜ˙ ㄍㄢˇ ㄎㄨㄞˋ ㄗㄡˇ ㄅㄚ˙",
+   "pinyin": "kuài chí dào le gǎn kuài zǒu ba",
+   "en": "We're about to be late — hurry up."
+  },
+  "measure": null
+ },
+ "220": {
+  "example": {
+   "hanzi": "別急，慢慢來。",
+   "zhuyin": "ㄅㄧㄝˊ ㄐㄧˊ ㄇㄢˋ ㄇㄢˋ ㄌㄞˊ",
+   "pinyin": "bié jí màn màn lái",
+   "en": "Don't rush — take your time."
+  },
+  "measure": null
+ },
+ "221": {
+  "example": {
+   "hanzi": "我們一起去吃午餐吧。",
+   "zhuyin": "ㄨㄛˇ ㄇㄣ˙ ㄧˋ ㄑㄧˇ ㄑㄩˋ ㄔ ㄨˇ ㄘㄢ ㄅㄚ˙",
+   "pinyin": "wǒ men yì qǐ qù chī wǔ cān ba",
+   "en": "Let's go have lunch together."
+  },
+  "measure": null
+ },
+ "222": {
+  "example": {
+   "hanzi": "這件事我自己來就好。",
+   "zhuyin": "ㄓㄜˋ ㄐㄧㄢˋ ㄕˋ ㄨㄛˇ ㄗˋ ㄐㄧˇ ㄌㄞˊ ㄐㄧㄡˋ ㄏㄠˇ",
+   "pinyin": "zhè jiàn shì wǒ zì jǐ lái jiù hǎo",
+   "en": "I'll handle this myself."
+  },
+  "measure": null
+ },
+ "223": {
+  "example": {
+   "hanzi": "我已經吃過了。",
+   "zhuyin": "ㄨㄛˇ ㄧˇ ㄐㄧㄥ ㄔ ㄍㄨㄛˋ ㄌㄜ˙",
+   "pinyin": "wǒ yǐ jīng chī guò le",
+   "en": "I've already eaten."
+  },
+  "measure": null
+ },
+ "224": {
+  "example": {
+   "hanzi": "我還沒決定要去哪裡。",
+   "zhuyin": "ㄨㄛˇ ㄏㄞˊ ㄇㄟˊ ㄐㄩㄝˊ ㄉㄧㄥˋ ㄧㄠˋ ㄑㄩˋ ㄋㄚˇ ㄌㄧˇ",
+   "pinyin": "wǒ hái méi jué dìng yào qù nǎ lǐ",
+   "en": "I haven't decided where to go yet."
+  },
+  "measure": null
+ },
+ "225": {
+  "example": {
+   "hanzi": "剛才有人打電話找你。",
+   "zhuyin": "ㄍㄤ ㄘㄞˊ ㄧㄡˇ ㄖㄣˊ ㄉㄚˇ ㄉㄧㄢˋ ㄏㄨㄚˋ ㄓㄠˇ ㄋㄧˇ",
+   "pinyin": "gāng cái yǒu rén dǎ diàn huà zhǎo nǐ",
+   "en": "Someone called for you just now."
+  },
+  "measure": null
+ },
+ "226": {
+  "example": {
+   "hanzi": "我剛剛才到家。",
+   "zhuyin": "ㄨㄛˇ ㄍㄤ ㄍㄤ ㄘㄞˊ ㄉㄠˋ ㄐㄧㄚ",
+   "pinyin": "wǒ gāng gāng cái dào jiā",
+   "en": "I just got home."
+  },
+  "measure": null
+ },
+ "227": {
+  "example": {
+   "hanzi": "我正在開會。",
+   "zhuyin": "ㄨㄛˇ ㄓㄥˋ ㄗㄞˋ ㄎㄞ ㄏㄨㄟˋ",
+   "pinyin": "wǒ zhèng zài kāi huì",
+   "en": "I'm in a meeting right now."
+  },
+  "measure": null
+ },
+ "228": {
+  "example": {
+   "hanzi": "我終於把工作做完了。",
+   "zhuyin": "ㄨㄛˇ ㄓㄨㄥ ㄩˊ ㄅㄚˇ ㄍㄨㄥ ㄗㄨㄛˋ ㄗㄨㄛˋ ㄨㄢˊ ㄌㄜ˙",
+   "pinyin": "wǒ zhōng yú bǎ gōng zuò zuò wán le",
+   "en": "I finally finished the work."
+  },
+  "measure": null
+ },
+ "229": {
+  "example": {
+   "hanzi": "我先走了，再見。",
+   "zhuyin": "ㄨㄛˇ ㄒㄧㄢ ㄗㄡˇ ㄌㄜ˙ ㄗㄞˋ ㄐㄧㄢˋ",
+   "pinyin": "wǒ xiān zǒu le zài jiàn",
+   "en": "I'll head off first — bye."
+  },
+  "measure": null
+ },
+ "230": {
+  "example": {
+   "hanzi": "我們後來就沒聯絡了。",
+   "zhuyin": "ㄨㄛˇ ㄇㄣ˙ ㄏㄡˋ ㄌㄞˊ ㄐㄧㄡˋ ㄇㄟˊ ㄌㄧㄢˊ ㄌㄨㄛˋ ㄌㄜ˙",
+   "pinyin": "wǒ men hòu lái jiù méi lián luò le",
+   "en": "We lost touch afterwards."
+  },
+  "measure": null
+ },
+ "231": {
+  "example": {
+   "hanzi": "我以前住在台中。",
+   "zhuyin": "ㄨㄛˇ ㄧˇ ㄑㄧㄢˊ ㄓㄨˋ ㄗㄞˋ ㄊㄞˊ ㄓㄨㄥ",
+   "pinyin": "wǒ yǐ qián zhù zài tái zhōng",
+   "en": "I used to live in Taichung."
+  },
+  "measure": null
+ },
+ "232": {
+  "example": {
+   "hanzi": "下班以後我要去運動。",
+   "zhuyin": "ㄒㄧㄚˋ ㄅㄢ ㄧˇ ㄏㄡˋ ㄨㄛˇ ㄧㄠˋ ㄑㄩˋ ㄩㄣˋ ㄉㄨㄥˋ",
+   "pinyin": "xià bān yǐ hòu wǒ yào qù yùn dòng",
+   "en": "After work I'm going to exercise."
+  },
+  "measure": null
+ },
+ "233": {
+  "example": {
+   "hanzi": "我目前住在台北。",
+   "zhuyin": "ㄨㄛˇ ㄇㄨˋ ㄑㄧㄢˊ ㄓㄨˋ ㄗㄞˋ ㄊㄞˊ ㄅㄟˇ",
+   "pinyin": "wǒ mù qián zhù zài tái běi",
+   "en": "I currently live in Taipei."
+  },
+  "measure": null
+ },
+ "234": {
+  "example": {
+   "hanzi": "你最近好嗎？",
+   "zhuyin": "ㄋㄧˇ ㄗㄨㄟˋ ㄐㄧㄣˋ ㄏㄠˇ ㄇㄚ˙",
+   "pinyin": "nǐ zuì jìn hǎo ma",
+   "en": "How have you been lately?"
+  },
+  "measure": null
+ },
+ "235": {
+  "example": {
+   "hanzi": "附近有一家便利商店。",
+   "zhuyin": "ㄈㄨˋ ㄐㄧㄣˋ ㄧㄡˇ ㄧˋ ㄐㄧㄚ ㄅㄧㄢˋ ㄌㄧˋ ㄕㄤ ㄉㄧㄢˋ",
+   "pinyin": "fù jìn yǒu yì jiā biàn lì shāng diàn",
+   "en": "There's a convenience store nearby."
+  },
+  "measure": null
+ },
+ "236": {
+  "example": {
+   "hanzi": "這裡到處都是人。",
+   "zhuyin": "ㄓㄜˋ ㄌㄧˇ ㄉㄠˋ ㄔㄨˋ ㄉㄡ ㄕˋ ㄖㄣˊ",
+   "pinyin": "zhè lǐ dào chù dōu shì rén",
+   "en": "It's crowded everywhere here."
+  },
+  "measure": null
+ },
+ "237": {
+  "example": {
+   "hanzi": "包包裡面有什麼？",
+   "zhuyin": "ㄅㄠ ㄅㄠ ㄌㄧˇ ㄇㄧㄢˋ ㄧㄡˇ ㄕㄣˊ ㄇㄜ˙",
+   "pinyin": "bāo bāo lǐ miàn yǒu shén me",
+   "en": "What's inside the bag?"
+  },
+  "measure": null
+ },
+ "238": {
+  "example": {
+   "hanzi": "外面在下雨。",
+   "zhuyin": "ㄨㄞˋ ㄇㄧㄢˋ ㄗㄞˋ ㄒㄧㄚˋ ㄩˇ",
+   "pinyin": "wài miàn zài xià yǔ",
+   "en": "It's raining outside."
+  },
+  "measure": null
+ },
+ "239": {
+  "example": {
+   "hanzi": "桌子上面有一本書。",
+   "zhuyin": "ㄓㄨㄛ ㄗ˙ ㄕㄤˋ ㄇㄧㄢˋ ㄧㄡˇ ㄧˋ ㄅㄣˇ ㄕㄨ",
+   "pinyin": "zhuō zi shàng miàn yǒu yì běn shū",
+   "en": "There's a book on the table."
+  },
+  "measure": null
+ },
+ "240": {
+  "example": {
+   "hanzi": "椅子下面有一隻貓。",
+   "zhuyin": "ㄧˇ ㄗ˙ ㄒㄧㄚˋ ㄇㄧㄢˋ ㄧㄡˇ ㄧˋ ㄓ ㄇㄠ",
+   "pinyin": "yǐ zi xià miàn yǒu yì zhī māo",
+   "en": "There's a cat under the chair."
+  },
+  "measure": null
+ },
  "741": {
   "example": {
    "hanzi": "我對花生過敏。",
