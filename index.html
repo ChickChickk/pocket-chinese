@@ -1,51 +1,104 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en" data-theme="sepia">
-<head>
-  <meta charset="UTF-8">
-  <script>
-    document.documentElement.setAttribute("data-theme", "sepia");
-  </script>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pocket Chinese — Traditional / Taiwan</title>
-  <meta name="description" content="Pocket Chinese — a friendly pocket guide to Traditional Chinese (Taiwan) words, with zhuyin, pinyin, audio, flashcards and quizzes.">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Mulish:wght@400;600;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
-  <header class="site-header">
-    <div class="bar">
-      <button class="icon-btn menu-btn" id="menu-btn" title="Menu" data-act="menu">
-        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"></path></svg>
-      </button>
-      <button class="brand" data-act="home">
-        <span class="brand-num">繁</span>
-        <span class="brand-name">Pocket Chinese</span>
-      </button>
-      <nav id="nav" class="nav"></nav>
-      <div class="bar-right">
-        <input id="search" class="search" type="text" placeholder="Search..." autocomplete="off">
-        <button id="theme-btn" class="icon-btn" title="Change theme" data-act="theme">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"></circle><path d="M12 3a9 9 0 0 1 0 18z" fill="currentColor" stroke="none"></path></svg>
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      document.documentElement.setAttribute("data-theme", "sepia");
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pocket Chinese — Traditional</title>
+    <meta
+      name="description"
+      content="Pocket Chinese — a friendly pocket guide to Traditional Chinese words, with zhuyin, pinyin, audio, flashcards and quizzes."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Mulish:wght@400;600;700;800&family=Space+Mono:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="bar">
+        <button
+          class="icon-btn menu-btn"
+          id="menu-btn"
+          title="Menu"
+          data-act="menu"
+        >
+          <svg
+            width="17"
+            height="17"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+          >
+            <path d="M3 6h18M3 12h18M3 18h18"></path>
+          </svg>
         </button>
-        <button id="progress-chip" class="chip" title="Your progress" data-act="progress"></button>
+        <button class="brand" data-act="home">
+          <span class="brand-num">繁</span>
+          <span class="brand-name">Pocket Chinese</span>
+        </button>
+        <nav id="nav" class="nav"></nav>
+        <div class="bar-right">
+          <input
+            id="search"
+            class="search"
+            type="text"
+            placeholder="Search..."
+            autocomplete="off"
+          />
+          <button
+            id="theme-btn"
+            class="icon-btn"
+            title="Change theme"
+            data-act="theme"
+          >
+            <svg
+              width="16"
+              height="16"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+            >
+              <circle cx="12" cy="12" r="9"></circle>
+              <path
+                d="M12 3a9 9 0 0 1 0 18z"
+                fill="currentColor"
+                stroke="none"
+              ></path>
+            </svg>
+          </button>
+          <button
+            id="progress-chip"
+            class="chip"
+            title="Your progress"
+            data-act="progress"
+          ></button>
+        </div>
       </div>
-    </div>
-  </header>
+    </header>
 
-  <main id="app" class="app"></main>
+    <main id="app" class="app"></main>
 
-  <footer class="site-footer">
-    <span>Pocket Chinese — Traditional Chinese (Taiwan), a friendly pocket guide.</span>
-    <span class="credit">© 2026 Celia Ho</span>
-  </footer>
+    <footer class="site-footer">
+      <span
+        >Pocket Chinese — Traditional Chinese, a friendly pocket guide.</span
+      >
+      <span class="credit">© 2026 Celia Ho</span>
+    </footer>
 
-  <!-- Printable book (built on demand) -->
-  <div id="print-book" class="print-book" aria-hidden="true"></div>
+    <!-- Printable book (built on demand) -->
+    <div id="print-book" class="print-book" aria-hidden="true"></div>
 
-  <script src="js/data.js"></script>
-  <script src="js/grammar.js"></script>
-  <script src="js/app.js"></script>
-</body>
+    <script src="js/data.js"></script>
+    <script src="js/grammar.js"></script>
+    <script src="js/app.js"></script>
+  </body>
 </html>
