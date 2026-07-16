@@ -1,0 +1,7 @@
+# Large source fonts (provide locally; only the small subset in fonts/ ships)
+*.ttf
+*.ttc
+*.otf
+tools/charset.txt
+node_modules/
+.DS_Store
