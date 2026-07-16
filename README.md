@@ -28,8 +28,9 @@ quiz, progress, theming) with a Chinese-specific content and rendering layer.
   - **Practice** — an interactive fill-in-the-blank exercise with instant feedback.
 - **Audio** — Taiwanese Mandarin (`zh-TW`) text-to-speech, preferring a female voice
   (Mei-Jia / Google 國語（臺灣）), at a gentle learning pace.
-- **Typeface** — Chinese renders in **Kai (楷體)**, the style used to teach characters in Taiwan
-  (system Kai fallback now; optional bundled TW-Kai subset — see below).
+- **Typeface** — Chinese renders in **TW-Kai (全字庫正楷體)**, Taiwan's official standard-glyph
+  Kai font, **bundled as a subset** (`fonts/tw-kai-subset.woff2`) so it looks identical on every
+  device. System Kai fonts are only a last-resort fallback.
 - **Progress** tracking, daily streak + goal, word of the day, favorites, and search
   (漢字 / zhuyin / pinyin / meaning). All saved locally in the browser (namespaced `hua_`).
 - **Print / Save as PDF** produces a clean linear book.
@@ -60,17 +61,25 @@ The word and grammar data is generated from source Markdown, so it's reproducibl
 - `batch_*.js` — author natural example sentences → generate zhuyin → merge into `enrich.json`.
 - `make_font_subset.sh` + `build_charset.js` — subset TW-Kai to only the characters used.
 
-## Bundling the TW-Kai font (optional)
+## The bundled TW-Kai font (required)
 
-Chinese already renders in Kai on any device that has a system Kai font. To guarantee the
-**TW-Kai (全字庫正楷體)** look for *every* visitor (e.g. on phones), bundle a subset:
+`fonts/tw-kai-subset.woff2` (~555 KB) **must be committed and deployed.** Relying on system
+Kai fonts does *not* work: a Mac has Kaiti/BiauKai and looks right, but phones have no Kai at
+all and silently fall back to generic serif — so the site looks different per device.
+
+Rebuild whenever new characters appear (e.g. after enriching more examples), or the new glyphs
+fall back and the look breaks again:
 
 ```
-tools/make_font_subset.sh /path/to/TW-Kai.ttf   # → fonts/tw-kai-subset.woff2
+tools/make_font_subset.sh /path/to/TW-Kai-98_1.ttf   # → fonts/tw-kai-subset.woff2
 ```
 
-TW-Kai is a free, openly-redistributable Taiwan government font
-(https://www.cns11643.gov.tw → 字型下載 → 全字庫正楷體). Re-run after adding new characters.
+It regenerates the charset from `js/data.js`, `js/grammar.js`, `js/app.js` and `index.html`,
+then verifies every character is covered and fails loudly if not.
+
+Get TW-Kai from https://data.gov.tw/dataset/5961 — use the BMP file `TW-Kai-98_1.ttf`.
+⚠️ Not `ebas927.ttf` / 全字庫說文解字 (EBAS): that one is ancient **seal script**, not 楷體.
+See [fonts/README.md](fonts/README.md) for details.
 
 ## Status / roadmap
 
@@ -84,3 +93,6 @@ TW-Kai is a free, openly-redistributable Taiwan government font
 ## Credits
 
 Content & code: Celia Ho. Engine adapted from Pocket Indonesian.
+
+Typeface: **全字庫正楷體 (TW-Kai)** — 國家發展委員會「全字庫」, used under 政府資料開放授權條款
+第1版 (Open Government Data License v1). https://www.cns11643.gov.tw
