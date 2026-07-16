@@ -4792,6 +4792,1332 @@
    "pinyin": "tái"
   }
  },
+ "482": {
+  "example": {
+   "hanzi": "台灣很潮濕，烘衣機很實用。",
+   "zhuyin": "ㄊㄞˊ ㄨㄢ ㄏㄣˇ ㄔㄠˊ ㄕ ㄏㄨㄥ ㄧ ㄐㄧ ㄏㄣˇ ㄕˊ ㄩㄥˋ",
+   "pinyin": "tái wān hěn cháo shī hōng yī jī hěn shí yòng",
+   "en": "Taiwan is humid, so a dryer is very practical."
+  },
+  "measure": {
+   "hanzi": "台",
+   "zhuyin": "ㄊㄞˊ",
+   "pinyin": "tái"
+  }
+ },
+ "483": {
+  "example": {
+   "hanzi": "我很少看電視。",
+   "zhuyin": "ㄨㄛˇ ㄏㄣˇ ㄕㄠˇ ㄎㄢˋ ㄉㄧㄢˋ ㄕˋ",
+   "pinyin": "wǒ hěn shǎo kàn diàn shì",
+   "en": "I rarely watch TV."
+  },
+  "measure": {
+   "hanzi": "台",
+   "zhuyin": "ㄊㄞˊ",
+   "pinyin": "tái"
+  }
+ },
+ "484": {
+  "example": {
+   "hanzi": "遙控器不見了。",
+   "zhuyin": "ㄧㄠˊ ㄎㄨㄥˋ ㄑㄧˋ ㄅㄨˊ ㄐㄧㄢˋ ㄌㄜ˙",
+   "pinyin": "yáo kòng qì bú jiàn le",
+   "en": "The remote control is missing."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "485": {
+  "example": {
+   "hanzi": "我把鑰匙忘在家裡了。",
+   "zhuyin": "ㄨㄛˇ ㄅㄚˇ ㄧㄠˋ ㄕ˙ ㄨㄤˋ ㄗㄞˋ ㄐㄧㄚ ㄌㄧˇ ㄌㄜ˙",
+   "pinyin": "wǒ bǎ yào shi wàng zài jiā lǐ le",
+   "en": "I left my keys at home."
+  },
+  "measure": {
+   "hanzi": "把",
+   "zhuyin": "ㄅㄚˇ",
+   "pinyin": "bǎ"
+  }
+ },
+ "486": {
+  "example": {
+   "hanzi": "門鎖壞了，打不開。",
+   "zhuyin": "ㄇㄣˊ ㄙㄨㄛˇ ㄏㄨㄞˋ ㄌㄜ˙ ㄉㄚˇ ㄅㄨˋ ㄎㄞ",
+   "pinyin": "mén suǒ huài le dǎ bù kāi",
+   "en": "The lock is broken — it won't open."
+  },
+  "measure": {
+   "hanzi": "把",
+   "zhuyin": "ㄅㄚˇ",
+   "pinyin": "bǎ"
+  }
+ },
+ "487": {
+  "example": {
+   "hanzi": "請幫我把垃圾拿出去。",
+   "zhuyin": "ㄑㄧㄥˇ ㄅㄤ ㄨㄛˇ ㄅㄚˇ ㄌㄜˋ ㄙㄜˋ ㄋㄚˊ ㄔㄨ ㄑㄩˋ",
+   "pinyin": "qǐng bāng wǒ bǎ lè sè ná chū qù",
+   "en": "Please take the trash out for me."
+  },
+  "measure": null
+ },
+ "488": {
+  "example": {
+   "hanzi": "垃圾袋要去便利商店買。",
+   "zhuyin": "ㄌㄜˋ ㄙㄜˋ ㄉㄞˋ ㄧㄠˋ ㄑㄩˋ ㄅㄧㄢˋ ㄌㄧˋ ㄕㄤ ㄉㄧㄢˋ ㄇㄞˇ",
+   "pinyin": "lè sè dài yào qù biàn lì shāng diàn mǎi",
+   "en": "You buy trash bags at the convenience store."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "489": {
+  "example": {
+   "hanzi": "垃圾車每天晚上七點來。",
+   "zhuyin": "ㄌㄜˋ ㄙㄜˋ ㄔㄜ ㄇㄟˇ ㄊㄧㄢ ㄨㄢˇ ㄕㄤˋ ㄑㄧ ㄉㄧㄢˇ ㄌㄞˊ",
+   "pinyin": "lè sè chē měi tiān wǎn shàng qī diǎn lái",
+   "en": "The garbage truck comes at seven every evening."
+  },
+  "measure": {
+   "hanzi": "台",
+   "zhuyin": "ㄊㄞˊ",
+   "pinyin": "tái"
+  }
+ },
+ "490": {
+  "example": {
+   "hanzi": "我要去洗衣服。",
+   "zhuyin": "ㄨㄛˇ ㄧㄠˋ ㄑㄩˋ ㄒㄧˇ ㄧ ㄈㄨˊ",
+   "pinyin": "wǒ yào qù xǐ yī fú",
+   "en": "I'm going to do the laundry."
+  },
+  "measure": {
+   "hanzi": "件",
+   "zhuyin": "ㄐㄧㄢˋ",
+   "pinyin": "jiàn"
+  }
+ },
+ "491": {
+  "example": {
+   "hanzi": "這條褲子有點緊。",
+   "zhuyin": "ㄓㄜˋ ㄊㄧㄠˊ ㄎㄨˋ ㄗ˙ ㄧㄡˇ ㄉㄧㄢˇ ㄐㄧㄣˇ",
+   "pinyin": "zhè tiáo kù zi yǒu diǎn jǐn",
+   "en": "These pants are a bit tight."
+  },
+  "measure": {
+   "hanzi": "條",
+   "zhuyin": "ㄊㄧㄠˊ",
+   "pinyin": "tiáo"
+  }
+ },
+ "492": {
+  "example": {
+   "hanzi": "這件裙子很適合你。",
+   "zhuyin": "ㄓㄜˋ ㄐㄧㄢˋ ㄑㄩㄣˊ ㄗ˙ ㄏㄣˇ ㄕˋ ㄏㄜˊ ㄋㄧˇ",
+   "pinyin": "zhè jiàn qún zi hěn shì hé nǐ",
+   "en": "This skirt suits you well."
+  },
+  "measure": {
+   "hanzi": "件",
+   "zhuyin": "ㄐㄧㄢˋ",
+   "pinyin": "jiàn"
+  }
+ },
+ "493": {
+  "example": {
+   "hanzi": "外面很冷，記得穿外套。",
+   "zhuyin": "ㄨㄞˋ ㄇㄧㄢˋ ㄏㄣˇ ㄌㄥˇ ㄐㄧˋ ㄉㄜ˙ ㄔㄨㄢ ㄨㄞˋ ㄊㄠˋ",
+   "pinyin": "wài miàn hěn lěng jì de chuān wài tào",
+   "en": "It's cold out — remember to wear a jacket."
+  },
+  "measure": {
+   "hanzi": "件",
+   "zhuyin": "ㄐㄧㄢˋ",
+   "pinyin": "jiàn"
+  }
+ },
+ "494": {
+  "example": {
+   "hanzi": "進門前請脫鞋子。",
+   "zhuyin": "ㄐㄧㄣˋ ㄇㄣˊ ㄑㄧㄢˊ ㄑㄧㄥˇ ㄊㄨㄛ ㄒㄧㄝˊ ㄗ˙",
+   "pinyin": "jìn mén qián qǐng tuō xié zi",
+   "en": "Please take off your shoes before coming in."
+  },
+  "measure": {
+   "hanzi": "雙",
+   "zhuyin": "ㄕㄨㄤ",
+   "pinyin": "shuāng"
+  }
+ },
+ "495": {
+  "example": {
+   "hanzi": "我少了一隻襪子。",
+   "zhuyin": "ㄨㄛˇ ㄕㄠˇ ㄌㄜ˙ ㄧˋ ㄓ ㄨㄚˋ ㄗ˙",
+   "pinyin": "wǒ shǎo le yì zhī wà zi",
+   "en": "I'm missing one sock."
+  },
+  "measure": {
+   "hanzi": "雙",
+   "zhuyin": "ㄕㄨㄤ",
+   "pinyin": "shuāng"
+  }
+ },
+ "496": {
+  "example": {
+   "hanzi": "太陽很大，戴帽子吧。",
+   "zhuyin": "ㄊㄞˋ ㄧㄤˊ ㄏㄣˇ ㄉㄚˋ ㄉㄞˋ ㄇㄠˋ ㄗ˙ ㄅㄚ˙",
+   "pinyin": "tài yáng hěn dà dài mào zi ba",
+   "en": "The sun is strong — put on a hat."
+  },
+  "measure": {
+   "hanzi": "頂",
+   "zhuyin": "ㄉㄧㄥˇ",
+   "pinyin": "dǐng"
+  }
+ },
+ "497": {
+  "example": {
+   "hanzi": "這條毛巾是乾淨的。",
+   "zhuyin": "ㄓㄜˋ ㄊㄧㄠˊ ㄇㄠˊ ㄐㄧㄣ ㄕˋ ㄍㄢ ㄐㄧㄥˋ ㄉㄜ˙",
+   "pinyin": "zhè tiáo máo jīn shì gān jìng de",
+   "en": "This towel is clean."
+  },
+  "measure": {
+   "hanzi": "條",
+   "zhuyin": "ㄊㄧㄠˊ",
+   "pinyin": "tiáo"
+  }
+ },
+ "498": {
+  "example": {
+   "hanzi": "請用肥皂洗手。",
+   "zhuyin": "ㄑㄧㄥˇ ㄩㄥˋ ㄈㄟˊ ㄗㄠˋ ㄒㄧˇ ㄕㄡˇ",
+   "pinyin": "qǐng yòng féi zào xǐ shǒu",
+   "en": "Please wash your hands with soap."
+  },
+  "measure": {
+   "hanzi": "塊",
+   "zhuyin": "ㄎㄨㄞˋ",
+   "pinyin": "kuài"
+  }
+ },
+ "499": {
+  "example": {
+   "hanzi": "洗髮精用完了。",
+   "zhuyin": "ㄒㄧˇ ㄈㄚˇ ㄐㄧㄥ ㄩㄥˋ ㄨㄢˊ ㄌㄜ˙",
+   "pinyin": "xǐ fǎ jīng yòng wán le",
+   "en": "The shampoo has run out."
+  },
+  "measure": {
+   "hanzi": "瓶",
+   "zhuyin": "ㄆㄧㄥˊ",
+   "pinyin": "píng"
+  }
+ },
+ "500": {
+  "example": {
+   "hanzi": "牙刷應該三個月換一次。",
+   "zhuyin": "ㄧㄚˊ ㄕㄨㄚ ㄧㄥ ㄍㄞ ㄙㄢ ㄍㄜ˙ ㄩㄝˋ ㄏㄨㄢˋ ㄧˊ ㄘˋ",
+   "pinyin": "yá shuā yīng gāi sān ge yuè huàn yí cì",
+   "en": "A toothbrush should be replaced every three months."
+  },
+  "measure": {
+   "hanzi": "支",
+   "zhuyin": "ㄓ",
+   "pinyin": "zhī"
+  }
+ },
+ "501": {
+  "example": {
+   "hanzi": "我擠了一點牙膏。",
+   "zhuyin": "ㄨㄛˇ ㄐㄧˇ ㄌㄜ˙ ㄧˋ ㄉㄧㄢˇ ㄧㄚˊ ㄍㄠ",
+   "pinyin": "wǒ jǐ le yì diǎn yá gāo",
+   "en": "I squeezed out a little toothpaste."
+  },
+  "measure": {
+   "hanzi": "條",
+   "zhuyin": "ㄊㄧㄠˊ",
+   "pinyin": "tiáo"
+  }
+ },
+ "502": {
+  "example": {
+   "hanzi": "冬天要蓋厚棉被。",
+   "zhuyin": "ㄉㄨㄥ ㄊㄧㄢ ㄧㄠˋ ㄍㄞˋ ㄏㄡˋ ㄇㄧㄢˊ ㄅㄟˋ",
+   "pinyin": "dōng tiān yào gài hòu mián bèi",
+   "en": "In winter you need a thick quilt."
+  },
+  "measure": {
+   "hanzi": "床",
+   "zhuyin": "ㄔㄨㄤˊ",
+   "pinyin": "chuáng"
+  }
+ },
+ "503": {
+  "example": {
+   "hanzi": "這個枕頭太軟了。",
+   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄓㄣˇ ㄊㄡˊ ㄊㄞˋ ㄖㄨㄢˇ ㄌㄜ˙",
+   "pinyin": "zhè ge zhěn tóu tài ruǎn le",
+   "en": "This pillow is too soft."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "504": {
+  "example": {
+   "hanzi": "台北的租金很貴。",
+   "zhuyin": "ㄊㄞˊ ㄅㄟˇ ㄉㄜ˙ ㄗㄨ ㄐㄧㄣ ㄏㄣˇ ㄍㄨㄟˋ",
+   "pinyin": "tái běi de zū jīn hěn guì",
+   "en": "Rent in Taipei is expensive."
+  },
+  "measure": null
+ },
+ "505": {
+  "example": {
+   "hanzi": "押金會在退租時退還。",
+   "zhuyin": "ㄧㄚ ㄐㄧㄣ ㄏㄨㄟˋ ㄗㄞˋ ㄊㄨㄟˋ ㄗㄨ ㄕˊ ㄊㄨㄟˋ ㄏㄨㄢˊ",
+   "pinyin": "yā jīn huì zài tuì zū shí tuì huán",
+   "en": "The deposit is returned when you move out."
+  },
+  "measure": null
+ },
+ "506": {
+  "example": {
+   "hanzi": "台北的大眾交通很方便。",
+   "zhuyin": "ㄊㄞˊ ㄅㄟˇ ㄉㄜ˙ ㄉㄚˋ ㄓㄨㄥˋ ㄐㄧㄠ ㄊㄨㄥ ㄏㄣˇ ㄈㄤ ㄅㄧㄢˋ",
+   "pinyin": "tái běi de dà zhòng jiāo tōng hěn fāng biàn",
+   "en": "Taipei's public transportation is very convenient."
+  },
+  "measure": null
+ },
+ "507": {
+  "example": {
+   "hanzi": "這條路很窄。",
+   "zhuyin": "ㄓㄜˋ ㄊㄧㄠˊ ㄌㄨˋ ㄏㄣˇ ㄓㄞˇ",
+   "pinyin": "zhè tiáo lù hěn zhǎi",
+   "en": "This road is narrow."
+  },
+  "measure": {
+   "hanzi": "條",
+   "zhuyin": "ㄊㄧㄠˊ",
+   "pinyin": "tiáo"
+  }
+ },
+ "508": {
+  "example": {
+   "hanzi": "這條街上有很多小吃。",
+   "zhuyin": "ㄓㄜˋ ㄊㄧㄠˊ ㄐㄧㄝ ㄕㄤˋ ㄧㄡˇ ㄏㄣˇ ㄉㄨㄛ ㄒㄧㄠˇ ㄔ",
+   "pinyin": "zhè tiáo jiē shàng yǒu hěn duō xiǎo chī",
+   "en": "There are lots of snack shops on this street."
+  },
+  "measure": {
+   "hanzi": "條",
+   "zhuyin": "ㄊㄧㄠˊ",
+   "pinyin": "tiáo"
+  }
+ },
+ "509": {
+  "example": {
+   "hanzi": "在下一個十字路口右轉。",
+   "zhuyin": "ㄗㄞˋ ㄒㄧㄚˋ ㄧˊ ㄍㄜ˙ ㄕˊ ㄗˋ ㄌㄨˋ ㄎㄡˇ ㄧㄡˋ ㄓㄨㄢˇ",
+   "pinyin": "zài xià yí ge shí zì lù kǒu yòu zhuǎn",
+   "en": "Turn right at the next intersection."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "510": {
+  "example": {
+   "hanzi": "前面有紅綠燈，請慢一點。",
+   "zhuyin": "ㄑㄧㄢˊ ㄇㄧㄢˋ ㄧㄡˇ ㄏㄨㄥˊ ㄌㄩˋ ㄉㄥ ㄑㄧㄥˇ ㄇㄢˋ ㄧˋ ㄉㄧㄢˇ",
+   "pinyin": "qián miàn yǒu hóng lǜ dēng qǐng màn yì diǎn",
+   "en": "There's a traffic light ahead — please slow down."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "511": {
+  "example": {
+   "hanzi": "機車不能停在人行道上。",
+   "zhuyin": "ㄐㄧ ㄔㄜ ㄅㄨˋ ㄋㄥˊ ㄊㄧㄥˊ ㄗㄞˋ ㄖㄣˊ ㄒㄧㄥˊ ㄉㄠˋ ㄕㄤˋ",
+   "pinyin": "jī chē bù néng tíng zài rén xíng dào shàng",
+   "en": "Scooters can't park on the sidewalk."
+  },
+  "measure": {
+   "hanzi": "條",
+   "zhuyin": "ㄊㄧㄠˊ",
+   "pinyin": "tiáo"
+  }
+ },
+ "512": {
+  "example": {
+   "hanzi": "請走斑馬線過馬路。",
+   "zhuyin": "ㄑㄧㄥˇ ㄗㄡˇ ㄅㄢ ㄇㄚˇ ㄒㄧㄢˋ ㄍㄨㄛˋ ㄇㄚˇ ㄌㄨˋ",
+   "pinyin": "qǐng zǒu bān mǎ xiàn guò mǎ lù",
+   "en": "Please use the crosswalk."
+  },
+  "measure": {
+   "hanzi": "條",
+   "zhuyin": "ㄊㄧㄠˊ",
+   "pinyin": "tiáo"
+  }
+ },
+ "513": {
+  "example": {
+   "hanzi": "我好像走錯方向了。",
+   "zhuyin": "ㄨㄛˇ ㄏㄠˇ ㄒㄧㄤˋ ㄗㄡˇ ㄘㄨㄛˋ ㄈㄤ ㄒㄧㄤˋ ㄌㄜ˙",
+   "pinyin": "wǒ hǎo xiàng zǒu cuò fāng xiàng le",
+   "en": "I think I went the wrong way."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "514": {
+  "example": {
+   "hanzi": "郵局在銀行的左邊。",
+   "zhuyin": "ㄧㄡˊ ㄐㄩˊ ㄗㄞˋ ㄧㄣˊ ㄏㄤˊ ㄉㄜ˙ ㄗㄨㄛˇ ㄅㄧㄢ",
+   "pinyin": "yóu jú zài yín háng de zuǒ biān",
+   "en": "The post office is to the left of the bank."
+  },
+  "measure": null
+ },
+ "515": {
+  "example": {
+   "hanzi": "便利商店在右邊。",
+   "zhuyin": "ㄅㄧㄢˋ ㄌㄧˋ ㄕㄤ ㄉㄧㄢˋ ㄗㄞˋ ㄧㄡˋ ㄅㄧㄢ",
+   "pinyin": "biàn lì shāng diàn zài yòu biān",
+   "en": "The convenience store is on the right."
+  },
+  "measure": null
+ },
+ "516": {
+  "example": {
+   "hanzi": "車站就在前面。",
+   "zhuyin": "ㄔㄜ ㄓㄢˋ ㄐㄧㄡˋ ㄗㄞˋ ㄑㄧㄢˊ ㄇㄧㄢˋ",
+   "pinyin": "chē zhàn jiù zài qián miàn",
+   "en": "The station is just ahead."
+  },
+  "measure": null
+ },
+ "517": {
+  "example": {
+   "hanzi": "廁所在餐廳後面。",
+   "zhuyin": "ㄘㄜˋ ㄙㄨㄛˇ ㄗㄞˋ ㄘㄢ ㄊㄧㄥ ㄏㄡˋ ㄇㄧㄢˋ",
+   "pinyin": "cè suǒ zài cān tīng hòu miàn",
+   "en": "The toilet is behind the restaurant."
+  },
+  "measure": null
+ },
+ "518": {
+  "example": {
+   "hanzi": "直走大概五分鐘就到了。",
+   "zhuyin": "ㄓˊ ㄗㄡˇ ㄉㄚˋ ㄍㄞˋ ㄨˇ ㄈㄣ ㄓㄨㄥ ㄐㄧㄡˋ ㄉㄠˋ ㄌㄜ˙",
+   "pinyin": "zhí zǒu dà gài wǔ fēn zhōng jiù dào le",
+   "en": "Go straight for about five minutes and you're there."
+  },
+  "measure": null
+ },
+ "519": {
+  "example": {
+   "hanzi": "在第二個路口左轉。",
+   "zhuyin": "ㄗㄞˋ ㄉㄧˋ ㄦˋ ㄍㄜ˙ ㄌㄨˋ ㄎㄡˇ ㄗㄨㄛˇ ㄓㄨㄢˇ",
+   "pinyin": "zài dì èr ge lù kǒu zuǒ zhuǎn",
+   "en": "Turn left at the second intersection."
+  },
+  "measure": null
+ },
+ "520": {
+  "example": {
+   "hanzi": "看到郵局就右轉。",
+   "zhuyin": "ㄎㄢˋ ㄉㄠˋ ㄧㄡˊ ㄐㄩˊ ㄐㄧㄡˋ ㄧㄡˋ ㄓㄨㄢˇ",
+   "pinyin": "kàn dào yóu jú jiù yòu zhuǎn",
+   "en": "Turn right when you see the post office."
+  },
+  "measure": null
+ },
+ "521": {
+  "example": {
+   "hanzi": "過馬路要小心。",
+   "zhuyin": "ㄍㄨㄛˋ ㄇㄚˇ ㄌㄨˋ ㄧㄠˋ ㄒㄧㄠˇ ㄒㄧㄣ",
+   "pinyin": "guò mǎ lù yào xiǎo xīn",
+   "en": "Be careful crossing the road."
+  },
+  "measure": null
+ },
+ "522": {
+  "example": {
+   "hanzi": "我用手機看地圖。",
+   "zhuyin": "ㄨㄛˇ ㄩㄥˋ ㄕㄡˇ ㄐㄧ ㄎㄢˋ ㄉㄧˋ ㄊㄨˊ",
+   "pinyin": "wǒ yòng shǒu jī kàn dì tú",
+   "en": "I use my phone to look at the map."
+  },
+  "measure": {
+   "hanzi": "張",
+   "zhuyin": "ㄓㄤ",
+   "pinyin": "zhāng"
+  }
+ },
+ "523": {
+  "example": {
+   "hanzi": "請給我你的地址。",
+   "zhuyin": "ㄑㄧㄥˇ ㄍㄟˇ ㄨㄛˇ ㄋㄧˇ ㄉㄜ˙ ㄉㄧˋ ㄓˇ",
+   "pinyin": "qǐng gěi wǒ nǐ de dì zhǐ",
+   "en": "Please give me your address."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "524": {
+  "example": {
+   "hanzi": "車站前面有很多計程車。",
+   "zhuyin": "ㄔㄜ ㄓㄢˋ ㄑㄧㄢˊ ㄇㄧㄢˋ ㄧㄡˇ ㄏㄣˇ ㄉㄨㄛ ㄐㄧˋ ㄔㄥˊ ㄔㄜ",
+   "pinyin": "chē zhàn qián miàn yǒu hěn duō jì chéng chē",
+   "en": "There are lots of taxis in front of the station."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "525": {
+  "example": {
+   "hanzi": "這班公車會到台北車站嗎？",
+   "zhuyin": "ㄓㄜˋ ㄅㄢ ㄍㄨㄥ ㄔㄜ ㄏㄨㄟˋ ㄉㄠˋ ㄊㄞˊ ㄅㄟˇ ㄔㄜ ㄓㄢˋ ㄇㄚ˙",
+   "pinyin": "zhè bān gōng chē huì dào tái běi chē zhàn ma",
+   "en": "Does this bus go to Taipei Main Station?"
+  },
+  "measure": {
+   "hanzi": "台",
+   "zhuyin": "ㄊㄞˊ",
+   "pinyin": "tái"
+  }
+ },
+ "526": {
+  "example": {
+   "hanzi": "搭捷運比開車快。",
+   "zhuyin": "ㄉㄚ ㄐㄧㄝˊ ㄩㄣˋ ㄅㄧˇ ㄎㄞ ㄔㄜ ㄎㄨㄞˋ",
+   "pinyin": "dā jié yùn bǐ kāi chē kuài",
+   "en": "The MRT is faster than driving."
+  },
+  "measure": null
+ },
+ "527": {
+  "example": {
+   "hanzi": "火車誤點了半小時。",
+   "zhuyin": "ㄏㄨㄛˇ ㄔㄜ ㄨˋ ㄉㄧㄢˇ ㄌㄜ˙ ㄅㄢˋ ㄒㄧㄠˇ ㄕˊ",
+   "pinyin": "huǒ chē wù diǎn le bàn xiǎo shí",
+   "en": "The train was half an hour late."
+  },
+  "measure": {
+   "hanzi": "班",
+   "zhuyin": "ㄅㄢ",
+   "pinyin": "bān"
+  }
+ },
+ "528": {
+  "example": {
+   "hanzi": "坐高鐵到高雄只要兩個小時。",
+   "zhuyin": "ㄗㄨㄛˋ ㄍㄠ ㄊㄧㄝˇ ㄉㄠˋ ㄍㄠ ㄒㄩㄥˊ ㄓˇ ㄧㄠˋ ㄌㄧㄤˇ ㄍㄜ˙ ㄒㄧㄠˇ ㄕˊ",
+   "pinyin": "zuò gāo tiě dào gāo xióng zhǐ yào liǎng ge xiǎo shí",
+   "en": "The high-speed rail to Kaohsiung takes only two hours."
+  },
+  "measure": null
+ },
+ "529": {
+  "example": {
+   "hanzi": "我們叫一台計程車吧。",
+   "zhuyin": "ㄨㄛˇ ㄇㄣ˙ ㄐㄧㄠˋ ㄧˋ ㄊㄞˊ ㄐㄧˋ ㄔㄥˊ ㄔㄜ ㄅㄚ˙",
+   "pinyin": "wǒ men jiào yì tái jì chéng chē ba",
+   "en": "Let's call a taxi."
+  },
+  "measure": {
+   "hanzi": "台",
+   "zhuyin": "ㄊㄞˊ",
+   "pinyin": "tái"
+  }
+ },
+ "530": {
+  "example": {
+   "hanzi": "台灣的機車非常多。",
+   "zhuyin": "ㄊㄞˊ ㄨㄢ ㄉㄜ˙ ㄐㄧ ㄔㄜ ㄈㄟ ㄔㄤˊ ㄉㄨㄛ",
+   "pinyin": "tái wān de jī chē fēi cháng duō",
+   "en": "There are a huge number of scooters in Taiwan."
+  },
+  "measure": {
+   "hanzi": "台",
+   "zhuyin": "ㄊㄞˊ",
+   "pinyin": "tái"
+  }
+ },
+ "531": {
+  "example": {
+   "hanzi": "我騎腳踏車上學。",
+   "zhuyin": "ㄨㄛˇ ㄑㄧˊ ㄐㄧㄠˇ ㄊㄚˋ ㄔㄜ ㄕㄤˋ ㄒㄩㄝˊ",
+   "pinyin": "wǒ qí jiǎo tà chē shàng xué",
+   "en": "I ride a bicycle to school."
+  },
+  "measure": {
+   "hanzi": "台",
+   "zhuyin": "ㄊㄞˊ",
+   "pinyin": "tái"
+  }
+ },
+ "532": {
+  "example": {
+   "hanzi": "我還沒買汽車。",
+   "zhuyin": "ㄨㄛˇ ㄏㄞˊ ㄇㄟˊ ㄇㄞˇ ㄑㄧˋ ㄔㄜ",
+   "pinyin": "wǒ hái méi mǎi qì chē",
+   "en": "I haven't bought a car yet."
+  },
+  "measure": {
+   "hanzi": "台",
+   "zhuyin": "ㄊㄞˊ",
+   "pinyin": "tái"
+  }
+ },
+ "533": {
+  "example": {
+   "hanzi": "飛機準時起飛了。",
+   "zhuyin": "ㄈㄟ ㄐㄧ ㄓㄨㄣˇ ㄕˊ ㄑㄧˇ ㄈㄟ ㄌㄜ˙",
+   "pinyin": "fēi jī zhǔn shí qǐ fēi le",
+   "en": "The plane took off on time."
+  },
+  "measure": {
+   "hanzi": "架",
+   "zhuyin": "ㄐㄧㄚˋ",
+   "pinyin": "jià"
+  }
+ },
+ "534": {
+  "example": {
+   "hanzi": "我們坐船去綠島。",
+   "zhuyin": "ㄨㄛˇ ㄇㄣ˙ ㄗㄨㄛˋ ㄔㄨㄢˊ ㄑㄩˋ ㄌㄩˋ ㄉㄠˇ",
+   "pinyin": "wǒ men zuò chuán qù lǜ dǎo",
+   "en": "We're taking a boat to Green Island."
+  },
+  "measure": {
+   "hanzi": "艘",
+   "zhuyin": "ㄙㄡ",
+   "pinyin": "sōu"
+  }
+ },
+ "535": {
+  "example": {
+   "hanzi": "火車在第三月台。",
+   "zhuyin": "ㄏㄨㄛˇ ㄔㄜ ㄗㄞˋ ㄉㄧˋ ㄙㄢ ㄩㄝˋ ㄊㄞˊ",
+   "pinyin": "huǒ chē zài dì sān yuè tái",
+   "en": "The train is at platform three."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "536": {
+  "example": {
+   "hanzi": "我買了兩張車票。",
+   "zhuyin": "ㄨㄛˇ ㄇㄞˇ ㄌㄜ˙ ㄌㄧㄤˇ ㄓㄤ ㄔㄜ ㄆㄧㄠˋ",
+   "pinyin": "wǒ mǎi le liǎng zhāng chē piào",
+   "en": "I bought two tickets."
+  },
+  "measure": {
+   "hanzi": "張",
+   "zhuyin": "ㄓㄤ",
+   "pinyin": "zhāng"
+  }
+ },
+ "537": {
+  "example": {
+   "hanzi": "用悠遊卡搭捷運有折扣。",
+   "zhuyin": "ㄩㄥˋ ㄧㄡ ㄧㄡˊ ㄎㄚˇ ㄉㄚ ㄐㄧㄝˊ ㄩㄣˋ ㄧㄡˇ ㄓㄜˊ ㄎㄡˋ",
+   "pinyin": "yòng yōu yóu kǎ dā jié yùn yǒu zhé kòu",
+   "en": "You get a discount using an EasyCard on the MRT."
+  },
+  "measure": {
+   "hanzi": "張",
+   "zhuyin": "ㄓㄤ",
+   "pinyin": "zhāng"
+  }
+ },
+ "538": {
+  "example": {
+   "hanzi": "請從前門上車。",
+   "zhuyin": "ㄑㄧㄥˇ ㄘㄨㄥˊ ㄑㄧㄢˊ ㄇㄣˊ ㄕㄤˋ ㄔㄜ",
+   "pinyin": "qǐng cóng qián mén shàng chē",
+   "en": "Please board through the front door."
+  },
+  "measure": null
+ },
+ "539": {
+  "example": {
+   "hanzi": "我下一站下車。",
+   "zhuyin": "ㄨㄛˇ ㄒㄧㄚˋ ㄧˊ ㄓㄢˋ ㄒㄧㄚˋ ㄔㄜ",
+   "pinyin": "wǒ xià yí zhàn xià chē",
+   "en": "I'm getting off at the next stop."
+  },
+  "measure": null
+ },
+ "540": {
+  "example": {
+   "hanzi": "你要在台北車站轉車。",
+   "zhuyin": "ㄋㄧˇ ㄧㄠˋ ㄗㄞˋ ㄊㄞˊ ㄅㄟˇ ㄔㄜ ㄓㄢˋ ㄓㄨㄢˇ ㄔㄜ",
+   "pinyin": "nǐ yào zài tái běi chē zhàn zhuǎn chē",
+   "en": "You need to transfer at Taipei Main Station."
+  },
+  "measure": null
+ },
+ "541": {
+  "example": {
+   "hanzi": "我每天搭車上班。",
+   "zhuyin": "ㄨㄛˇ ㄇㄟˇ ㄊㄧㄢ ㄉㄚ ㄔㄜ ㄕㄤˋ ㄅㄢ",
+   "pinyin": "wǒ měi tiān dā chē shàng bān",
+   "en": "I commute by public transport every day."
+  },
+  "measure": null
+ },
+ "542": {
+  "example": {
+   "hanzi": "喝酒不開車。",
+   "zhuyin": "ㄏㄜ ㄐㄧㄡˇ ㄅㄨˋ ㄎㄞ ㄔㄜ",
+   "pinyin": "hē jiǔ bù kāi chē",
+   "en": "Don't drink and drive."
+  },
+  "measure": null
+ },
+ "543": {
+  "example": {
+   "hanzi": "騎車一定要戴安全帽。",
+   "zhuyin": "ㄑㄧˊ ㄔㄜ ㄧˊ ㄉㄧㄥˋ ㄧㄠˋ ㄉㄞˋ ㄢ ㄑㄩㄢˊ ㄇㄠˋ",
+   "pinyin": "qí chē yí dìng yào dài ān quán mào",
+   "en": "You must wear a helmet when riding."
+  },
+  "measure": null
+ },
+ "544": {
+  "example": {
+   "hanzi": "這裡不能停車。",
+   "zhuyin": "ㄓㄜˋ ㄌㄧˇ ㄅㄨˋ ㄋㄥˊ ㄊㄧㄥˊ ㄔㄜ",
+   "pinyin": "zhè lǐ bù néng tíng chē",
+   "en": "You can't park here."
+  },
+  "measure": null
+ },
+ "545": {
+  "example": {
+   "hanzi": "下班時間很容易塞車。",
+   "zhuyin": "ㄒㄧㄚˋ ㄅㄢ ㄕˊ ㄐㄧㄢ ㄏㄣˇ ㄖㄨㄥˊ ㄧˋ ㄙㄞ ㄔㄜ",
+   "pinyin": "xià bān shí jiān hěn róng yì sāi chē",
+   "en": "It gets jammed easily at rush hour."
+  },
+  "measure": null
+ },
+ "546": {
+  "example": {
+   "hanzi": "快到站了，準備下車。",
+   "zhuyin": "ㄎㄨㄞˋ ㄉㄠˋ ㄓㄢˋ ㄌㄜ˙ ㄓㄨㄣˇ ㄅㄟˋ ㄒㄧㄚˋ ㄔㄜ",
+   "pinyin": "kuài dào zhàn le zhǔn bèi xià chē",
+   "en": "We're arriving soon — get ready to get off."
+  },
+  "measure": null
+ },
+ "547": {
+  "example": {
+   "hanzi": "這班車的終點站是淡水。",
+   "zhuyin": "ㄓㄜˋ ㄅㄢ ㄔㄜ ㄉㄜ˙ ㄓㄨㄥ ㄉㄧㄢˇ ㄓㄢˋ ㄕˋ ㄉㄢˋ ㄕㄨㄟˇ",
+   "pinyin": "zhè bān chē de zhōng diǎn zhàn shì dàn shuǐ",
+   "en": "This train's last stop is Tamsui."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "548": {
+  "example": {
+   "hanzi": "入口在另一邊。",
+   "zhuyin": "ㄖㄨˋ ㄎㄡˇ ㄗㄞˋ ㄌㄧㄥˋ ㄧˋ ㄅㄧㄢ",
+   "pinyin": "rù kǒu zài lìng yì biān",
+   "en": "The entrance is on the other side."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "549": {
+  "example": {
+   "hanzi": "請走三號出口。",
+   "zhuyin": "ㄑㄧㄥˇ ㄗㄡˇ ㄙㄢ ㄏㄠˋ ㄔㄨ ㄎㄡˇ",
+   "pinyin": "qǐng zǒu sān hào chū kǒu",
+   "en": "Please take exit three."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "550": {
+  "example": {
+   "hanzi": "假日的班次比較少。",
+   "zhuyin": "ㄐㄧㄚˋ ㄖˋ ㄉㄜ˙ ㄅㄢ ㄘˋ ㄅㄧˇ ㄐㄧㄠˋ ㄕㄠˇ",
+   "pinyin": "jià rì de bān cì bǐ jiào shǎo",
+   "en": "There are fewer services on holidays."
+  },
+  "measure": null
+ },
+ "551": {
+  "example": {
+   "hanzi": "請看牆上的時刻表。",
+   "zhuyin": "ㄑㄧㄥˇ ㄎㄢˋ ㄑㄧㄤˊ ㄕㄤˋ ㄉㄜ˙ ㄕˊ ㄎㄜˋ ㄅㄧㄠˇ",
+   "pinyin": "qǐng kàn qiáng shàng de shí kè biǎo",
+   "en": "Please check the timetable on the wall."
+  },
+  "measure": {
+   "hanzi": "張",
+   "zhuyin": "ㄓㄤ",
+   "pinyin": "zhāng"
+  }
+ },
+ "552": {
+  "example": {
+   "hanzi": "因為颱風，班機延誤了。",
+   "zhuyin": "ㄧㄣ ㄨㄟˋ ㄊㄞˊ ㄈㄥ ㄅㄢ ㄐㄧ ㄧㄢˊ ㄨˋ ㄌㄜ˙",
+   "pinyin": "yīn wèi tái fēng bān jī yán wù le",
+   "en": "The flight was delayed because of the typhoon."
+  },
+  "measure": null
+ },
+ "553": {
+  "example": {
+   "hanzi": "這家商店晚上十點關門。",
+   "zhuyin": "ㄓㄜˋ ㄐㄧㄚ ㄕㄤ ㄉㄧㄢˋ ㄨㄢˇ ㄕㄤˋ ㄕˊ ㄉㄧㄢˇ ㄍㄨㄢ ㄇㄣˊ",
+   "pinyin": "zhè jiā shāng diàn wǎn shàng shí diǎn guān mén",
+   "en": "This shop closes at ten at night."
+  },
+  "measure": {
+   "hanzi": "家",
+   "zhuyin": "ㄐㄧㄚ",
+   "pinyin": "jiā"
+  }
+ },
+ "554": {
+  "example": {
+   "hanzi": "百貨公司在週年慶打折。",
+   "zhuyin": "ㄅㄞˇ ㄏㄨㄛˋ ㄍㄨㄥ ㄙ ㄗㄞˋ ㄓㄡ ㄋㄧㄢˊ ㄑㄧㄥˋ ㄉㄚˇ ㄓㄜˊ",
+   "pinyin": "bǎi huò gōng sī zài zhōu nián qìng dǎ zhé",
+   "en": "The department store has discounts during its anniversary sale."
+  },
+  "measure": {
+   "hanzi": "家",
+   "zhuyin": "ㄐㄧㄚ",
+   "pinyin": "jiā"
+  }
+ },
+ "555": {
+  "example": {
+   "hanzi": "我去超市買菜。",
+   "zhuyin": "ㄨㄛˇ ㄑㄩˋ ㄔㄠ ㄕˋ ㄇㄞˇ ㄘㄞˋ",
+   "pinyin": "wǒ qù chāo shì mǎi cài",
+   "en": "I'm going to the supermarket for groceries."
+  },
+  "measure": {
+   "hanzi": "家",
+   "zhuyin": "ㄐㄧㄚ",
+   "pinyin": "jiā"
+  }
+ },
+ "556": {
+  "example": {
+   "hanzi": "台灣的便利商店二十四小時營業。",
+   "zhuyin": "ㄊㄞˊ ㄨㄢ ㄉㄜ˙ ㄅㄧㄢˋ ㄌㄧˋ ㄕㄤ ㄉㄧㄢˋ ㄦˋ ㄕˊ ㄙˋ ㄒㄧㄠˇ ㄕˊ ㄧㄥˊ ㄧㄝˋ",
+   "pinyin": "tái wān de biàn lì shāng diàn èr shí sì xiǎo shí yíng yè",
+   "en": "Convenience stores in Taiwan are open 24 hours."
+  },
+  "measure": {
+   "hanzi": "家",
+   "zhuyin": "ㄐㄧㄚ",
+   "pinyin": "jiā"
+  }
+ },
+ "557": {
+  "example": {
+   "hanzi": "早上的市場很熱鬧。",
+   "zhuyin": "ㄗㄠˇ ㄕㄤˋ ㄉㄜ˙ ㄕˋ ㄔㄤˇ ㄏㄣˇ ㄖㄜˋ ㄋㄠˋ",
+   "pinyin": "zǎo shàng de shì chǎng hěn rè nào",
+   "en": "The morning market is lively."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "558": {
+  "example": {
+   "hanzi": "我常在網路商店買東西。",
+   "zhuyin": "ㄨㄛˇ ㄔㄤˊ ㄗㄞˋ ㄨㄤˇ ㄌㄨˋ ㄕㄤ ㄉㄧㄢˋ ㄇㄞˇ ㄉㄨㄥ ㄒㄧ˙",
+   "pinyin": "wǒ cháng zài wǎng lù shāng diàn mǎi dōng xi",
+   "en": "I often buy things from online shops."
+  },
+  "measure": {
+   "hanzi": "家",
+   "zhuyin": "ㄐㄧㄚ",
+   "pinyin": "jiā"
+  }
+ },
+ "559": {
+  "example": {
+   "hanzi": "我要去買一些東西。",
+   "zhuyin": "ㄨㄛˇ ㄧㄠˋ ㄑㄩˋ ㄇㄞˇ ㄧˋ ㄒㄧㄝ ㄉㄨㄥ ㄒㄧ˙",
+   "pinyin": "wǒ yào qù mǎi yì xiē dōng xi",
+   "en": "I'm going to buy a few things."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "560": {
+  "example": {
+   "hanzi": "這件商品正在特價。",
+   "zhuyin": "ㄓㄜˋ ㄐㄧㄢˋ ㄕㄤ ㄆㄧㄣˇ ㄓㄥˋ ㄗㄞˋ ㄊㄜˋ ㄐㄧㄚˋ",
+   "pinyin": "zhè jiàn shāng pǐn zhèng zài tè jià",
+   "en": "This product is on sale."
+  },
+  "measure": {
+   "hanzi": "件",
+   "zhuyin": "ㄐㄧㄢˋ",
+   "pinyin": "jiàn"
+  }
+ },
+ "561": {
+  "example": {
+   "hanzi": "我不在意品牌。",
+   "zhuyin": "ㄨㄛˇ ㄅㄨˊ ㄗㄞˋ ㄧˋ ㄆㄧㄣˇ ㄆㄞˊ",
+   "pinyin": "wǒ bú zài yì pǐn pái",
+   "en": "I don't care about brands."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "562": {
+  "example": {
+   "hanzi": "這裡的價格比較合理。",
+   "zhuyin": "ㄓㄜˋ ㄌㄧˇ ㄉㄜ˙ ㄐㄧㄚˋ ㄍㄜˊ ㄅㄧˇ ㄐㄧㄠˋ ㄏㄜˊ ㄌㄧˇ",
+   "pinyin": "zhè lǐ de jià gé bǐ jiào hé lǐ",
+   "en": "The prices here are more reasonable."
+  },
+  "measure": null
+ },
+ "563": {
+  "example": {
+   "hanzi": "這個多少錢？",
+   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄉㄨㄛ ㄕㄠˇ ㄑㄧㄢˊ",
+   "pinyin": "zhè ge duō shǎo qián",
+   "en": "How much is this?"
+  },
+  "measure": null
+ },
+ "564": {
+  "example": {
+   "hanzi": "可以算便宜一點嗎？",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄙㄨㄢˋ ㄆㄧㄢˊ ㄧ˙ ㄧˋ ㄉㄧㄢˇ ㄇㄚ˙",
+   "pinyin": "kě yǐ suàn pián yi yì diǎn ma",
+   "en": "Could you make it a bit cheaper?"
+  },
+  "measure": null
+ },
+ "565": {
+  "example": {
+   "hanzi": "這件外套太貴了。",
+   "zhuyin": "ㄓㄜˋ ㄐㄧㄢˋ ㄨㄞˋ ㄊㄠˋ ㄊㄞˋ ㄍㄨㄟˋ ㄌㄜ˙",
+   "pinyin": "zhè jiàn wài tào tài guì le",
+   "en": "This jacket is too expensive."
+  },
+  "measure": null
+ },
+ "566": {
+  "example": {
+   "hanzi": "會員有額外的折扣。",
+   "zhuyin": "ㄏㄨㄟˋ ㄩㄢˊ ㄧㄡˇ ㄜˊ ㄨㄞˋ ㄉㄜ˙ ㄓㄜˊ ㄎㄡˋ",
+   "pinyin": "huì yuán yǒu é wài de zhé kòu",
+   "en": "Members get an extra discount."
+  },
+  "measure": null
+ },
+ "567": {
+  "example": {
+   "hanzi": "這些水果今天特價。",
+   "zhuyin": "ㄓㄜˋ ㄒㄧㄝ ㄕㄨㄟˇ ㄍㄨㄛˇ ㄐㄧㄣ ㄊㄧㄢ ㄊㄜˋ ㄐㄧㄚˋ",
+   "pinyin": "zhè xiē shuǐ guǒ jīn tiān tè jià",
+   "en": "This fruit is on special today."
+  },
+  "measure": null
+ },
+ "568": {
+  "example": {
+   "hanzi": "原價一千，現在只要八百。",
+   "zhuyin": "ㄩㄢˊ ㄐㄧㄚˋ ㄧˋ ㄑㄧㄢ ㄒㄧㄢˋ ㄗㄞˋ ㄓˇ ㄧㄠˋ ㄅㄚ ㄅㄞˇ",
+   "pinyin": "yuán jià yì qiān xiàn zài zhǐ yào bā bǎi",
+   "en": "The original price was one thousand; now it's only eight hundred."
+  },
+  "measure": null
+ },
+ "569": {
+  "example": {
+   "hanzi": "請問有別的尺寸嗎？",
+   "zhuyin": "ㄑㄧㄥˇ ㄨㄣˋ ㄧㄡˇ ㄅㄧㄝˊ ㄉㄜ˙ ㄔˇ ㄘㄨㄣˋ ㄇㄚ˙",
+   "pinyin": "qǐng wèn yǒu bié de chǐ cùn ma",
+   "en": "Do you have other sizes?"
+  },
+  "measure": null
+ },
+ "570": {
+  "example": {
+   "hanzi": "這個大小剛剛好。",
+   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄉㄚˋ ㄒㄧㄠˇ ㄍㄤ ㄍㄤ ㄏㄠˇ",
+   "pinyin": "zhè ge dà xiǎo gāng gāng hǎo",
+   "en": "This size is just right."
+  },
+  "measure": null
+ },
+ "571": {
+  "example": {
+   "hanzi": "我喜歡這個顏色。",
+   "zhuyin": "ㄨㄛˇ ㄒㄧˇ ㄏㄨㄢ ㄓㄜˋ ㄍㄜ˙ ㄧㄢˊ ㄙㄜˋ",
+   "pinyin": "wǒ xǐ huān zhè ge yán sè",
+   "en": "I like this color."
+  },
+  "measure": {
+   "hanzi": "種",
+   "zhuyin": "ㄓㄨㄥˇ",
+   "pinyin": "zhǒng"
+  }
+ },
+ "572": {
+  "example": {
+   "hanzi": "我買了一件黑色的外套。",
+   "zhuyin": "ㄨㄛˇ ㄇㄞˇ ㄌㄜ˙ ㄧˊ ㄐㄧㄢˋ ㄏㄟ ㄙㄜˋ ㄉㄜ˙ ㄨㄞˋ ㄊㄠˋ",
+   "pinyin": "wǒ mǎi le yí jiàn hēi sè de wài tào",
+   "en": "I bought a black jacket."
+  },
+  "measure": null
+ },
+ "573": {
+  "example": {
+   "hanzi": "白色的衣服容易髒。",
+   "zhuyin": "ㄅㄞˊ ㄙㄜˋ ㄉㄜ˙ ㄧ ㄈㄨˊ ㄖㄨㄥˊ ㄧˋ ㄗㄤ",
+   "pinyin": "bái sè de yī fú róng yì zāng",
+   "en": "White clothes get dirty easily."
+  },
+  "measure": null
+ },
+ "574": {
+  "example": {
+   "hanzi": "紅色在台灣代表喜氣。",
+   "zhuyin": "ㄏㄨㄥˊ ㄙㄜˋ ㄗㄞˋ ㄊㄞˊ ㄨㄢ ㄉㄞˋ ㄅㄧㄠˇ ㄒㄧˇ ㄑㄧˋ",
+   "pinyin": "hóng sè zài tái wān dài biǎo xǐ qì",
+   "en": "Red represents good fortune in Taiwan."
+  },
+  "measure": null
+ },
+ "575": {
+  "example": {
+   "hanzi": "我最喜歡藍色。",
+   "zhuyin": "ㄨㄛˇ ㄗㄨㄟˋ ㄒㄧˇ ㄏㄨㄢ ㄌㄢˊ ㄙㄜˋ",
+   "pinyin": "wǒ zuì xǐ huān lán sè",
+   "en": "Blue is my favorite color."
+  },
+  "measure": null
+ },
+ "576": {
+  "example": {
+   "hanzi": "綠色的燈亮了，可以走了。",
+   "zhuyin": "ㄌㄩˋ ㄙㄜˋ ㄉㄜ˙ ㄉㄥ ㄌㄧㄤˋ ㄌㄜ˙ ㄎㄜˇ ㄧˇ ㄗㄡˇ ㄌㄜ˙",
+   "pinyin": "lǜ sè de dēng liàng le kě yǐ zǒu le",
+   "en": "The green light is on — we can go."
+  },
+  "measure": null
+ },
+ "577": {
+  "example": {
+   "hanzi": "這朵花是黃色的。",
+   "zhuyin": "ㄓㄜˋ ㄉㄨㄛˇ ㄏㄨㄚ ㄕˋ ㄏㄨㄤˊ ㄙㄜˋ ㄉㄜ˙",
+   "pinyin": "zhè duǒ huā shì huáng sè de",
+   "en": "This flower is yellow."
+  },
+  "measure": null
+ },
+ "578": {
+  "example": {
+   "hanzi": "請問可以試穿嗎？",
+   "zhuyin": "ㄑㄧㄥˇ ㄨㄣˋ ㄎㄜˇ ㄧˇ ㄕˋ ㄔㄨㄢ ㄇㄚ˙",
+   "pinyin": "qǐng wèn kě yǐ shì chuān ma",
+   "en": "May I try this on?"
+  },
+  "measure": null
+ },
+ "579": {
+  "example": {
+   "hanzi": "這個顏色很適合你。",
+   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄧㄢˊ ㄙㄜˋ ㄏㄣˇ ㄕˋ ㄏㄜˊ ㄋㄧˇ",
+   "pinyin": "zhè ge yán sè hěn shì hé nǐ",
+   "en": "This color really suits you."
+  },
+  "measure": null
+ },
+ "580": {
+  "example": {
+   "hanzi": "這家店只收現金。",
+   "zhuyin": "ㄓㄜˋ ㄐㄧㄚ ㄉㄧㄢˋ ㄓˇ ㄕㄡ ㄒㄧㄢˋ ㄐㄧㄣ",
+   "pinyin": "zhè jiā diàn zhǐ shōu xiàn jīn",
+   "en": "This shop only takes cash."
+  },
+  "measure": null
+ },
+ "581": {
+  "example": {
+   "hanzi": "可以刷信用卡嗎？",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄕㄨㄚ ㄒㄧㄣˋ ㄩㄥˋ ㄎㄚˇ ㄇㄚ˙",
+   "pinyin": "kě yǐ shuā xìn yòng kǎ ma",
+   "en": "Can I pay by credit card?"
+  },
+  "measure": {
+   "hanzi": "張",
+   "zhuyin": "ㄓㄤ",
+   "pinyin": "zhāng"
+  }
+ },
+ "582": {
+  "example": {
+   "hanzi": "現在很多人用行動支付。",
+   "zhuyin": "ㄒㄧㄢˋ ㄗㄞˋ ㄏㄣˇ ㄉㄨㄛ ㄖㄣˊ ㄩㄥˋ ㄒㄧㄥˊ ㄉㄨㄥˋ ㄓ ㄈㄨˋ",
+   "pinyin": "xiàn zài hěn duō rén yòng xíng dòng zhī fù",
+   "en": "A lot of people use mobile payment now."
+  },
+  "measure": null
+ },
+ "583": {
+  "example": {
+   "hanzi": "我的錢包不見了。",
+   "zhuyin": "ㄨㄛˇ ㄉㄜ˙ ㄑㄧㄢˊ ㄅㄠ ㄅㄨˊ ㄐㄧㄢˋ ㄌㄜ˙",
+   "pinyin": "wǒ de qián bāo bú jiàn le",
+   "en": "My wallet is missing."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "584": {
+  "example": {
+   "hanzi": "我身上只有幾個硬幣。",
+   "zhuyin": "ㄨㄛˇ ㄕㄣ ㄕㄤˋ ㄓˇ ㄧㄡˇ ㄐㄧˇ ㄍㄜ˙ ㄧㄥˋ ㄅㄧˋ",
+   "pinyin": "wǒ shēn shàng zhǐ yǒu jǐ ge yìng bì",
+   "en": "I only have a few coins on me."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "585": {
+  "example": {
+   "hanzi": "這張鈔票是假的。",
+   "zhuyin": "ㄓㄜˋ ㄓㄤ ㄔㄠ ㄆㄧㄠˋ ㄕˋ ㄐㄧㄚˇ ㄉㄜ˙",
+   "pinyin": "zhè zhāng chāo piào shì jiǎ de",
+   "en": "This banknote is fake."
+  },
+  "measure": {
+   "hanzi": "張",
+   "zhuyin": "ㄓㄤ",
+   "pinyin": "zhāng"
+  }
+ },
+ "586": {
+  "example": {
+   "hanzi": "記得對發票，可能會中獎。",
+   "zhuyin": "ㄐㄧˋ ㄉㄜ˙ ㄉㄨㄟˋ ㄈㄚ ㄆㄧㄠˋ ㄎㄜˇ ㄋㄥˊ ㄏㄨㄟˋ ㄓㄨㄥˋ ㄐㄧㄤˇ",
+   "pinyin": "jì de duì fā piào kě néng huì zhòng jiǎng",
+   "en": "Remember to check your receipt — you might win the lottery."
+  },
+  "measure": {
+   "hanzi": "張",
+   "zhuyin": "ㄓㄤ",
+   "pinyin": "zhāng"
+  }
+ },
+ "587": {
+  "example": {
+   "hanzi": "請給我收據。",
+   "zhuyin": "ㄑㄧㄥˇ ㄍㄟˇ ㄨㄛˇ ㄕㄡ ㄐㄩˋ",
+   "pinyin": "qǐng gěi wǒ shōu jù",
+   "en": "Please give me a receipt."
+  },
+  "measure": {
+   "hanzi": "張",
+   "zhuyin": "ㄓㄤ",
+   "pinyin": "zhāng"
+  }
+ },
+ "588": {
+  "example": {
+   "hanzi": "我要用載具存發票。",
+   "zhuyin": "ㄨㄛˇ ㄧㄠˋ ㄩㄥˋ ㄗㄞˋ ㄐㄩˋ ㄘㄨㄣˊ ㄈㄚ ㄆㄧㄠˋ",
+   "pinyin": "wǒ yào yòng zài jù cún fā piào",
+   "en": "I want to save the invoice to my carrier."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "589": {
+  "example": {
+   "hanzi": "請到櫃檯付款。",
+   "zhuyin": "ㄑㄧㄥˇ ㄉㄠˋ ㄍㄨㄟˋ ㄊㄞˊ ㄈㄨˋ ㄎㄨㄢˇ",
+   "pinyin": "qǐng dào guì tái fù kuǎn",
+   "en": "Please pay at the counter."
+  },
+  "measure": null
+ },
+ "590": {
+  "example": {
+   "hanzi": "退款需要三個工作天。",
+   "zhuyin": "ㄊㄨㄟˋ ㄎㄨㄢˇ ㄒㄩ ㄧㄠˋ ㄙㄢ ㄍㄜ˙ ㄍㄨㄥ ㄗㄨㄛˋ ㄊㄧㄢ",
+   "pinyin": "tuì kuǎn xū yào sān ge gōng zuò tiān",
+   "en": "A refund takes three business days."
+  },
+  "measure": null
+ },
+ "591": {
+  "example": {
+   "hanzi": "七天內可以退貨。",
+   "zhuyin": "ㄑㄧ ㄊㄧㄢ ㄋㄟˋ ㄎㄜˇ ㄧˇ ㄊㄨㄟˋ ㄏㄨㄛˋ",
+   "pinyin": "qī tiān nèi kě yǐ tuì huò",
+   "en": "You can return it within seven days."
+  },
+  "measure": null
+ },
+ "592": {
+  "example": {
+   "hanzi": "尺寸不對可以換貨。",
+   "zhuyin": "ㄔˇ ㄘㄨㄣˋ ㄅㄨˊ ㄉㄨㄟˋ ㄎㄜˇ ㄧˇ ㄏㄨㄢˋ ㄏㄨㄛˋ",
+   "pinyin": "chǐ cùn bú duì kě yǐ huàn huò",
+   "en": "If the size is wrong you can exchange it."
+  },
+  "measure": null
+ },
+ "593": {
+  "example": {
+   "hanzi": "這台電腦保固兩年。",
+   "zhuyin": "ㄓㄜˋ ㄊㄞˊ ㄉㄧㄢˋ ㄋㄠˇ ㄅㄠˇ ㄍㄨˋ ㄌㄧㄤˇ ㄋㄧㄢˊ",
+   "pinyin": "zhè tái diàn nǎo bǎo gù liǎng nián",
+   "en": "This computer has a two-year warranty."
+  },
+  "measure": null
+ },
+ "594": {
+  "example": {
+   "hanzi": "這個顏色缺貨了。",
+   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄧㄢˊ ㄙㄜˋ ㄑㄩㄝ ㄏㄨㄛˋ ㄌㄜ˙",
+   "pinyin": "zhè ge yán sè quē huò le",
+   "en": "This color is out of stock."
+  },
+  "measure": null
+ },
+ "595": {
+  "example": {
+   "hanzi": "請問這個還有貨嗎？",
+   "zhuyin": "ㄑㄧㄥˇ ㄨㄣˋ ㄓㄜˋ ㄍㄜ˙ ㄏㄞˊ ㄧㄡˇ ㄏㄨㄛˋ ㄇㄚ˙",
+   "pinyin": "qǐng wèn zhè ge hái yǒu huò ma",
+   "en": "Do you still have this in stock?"
+  },
+  "measure": null
+ },
+ "596": {
+  "example": {
+   "hanzi": "我自己帶購物袋。",
+   "zhuyin": "ㄨㄛˇ ㄗˋ ㄐㄧˇ ㄉㄞˋ ㄍㄡˋ ㄨˋ ㄉㄞˋ",
+   "pinyin": "wǒ zì jǐ dài gòu wù dài",
+   "en": "I bring my own shopping bag."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "597": {
+  "example": {
+   "hanzi": "請掃描條碼。",
+   "zhuyin": "ㄑㄧㄥˇ ㄙㄠˇ ㄇㄧㄠˊ ㄊㄧㄠˊ ㄇㄚˇ",
+   "pinyin": "qǐng sǎo miáo tiáo mǎ",
+   "en": "Please scan the barcode."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "598": {
+  "example": {
+   "hanzi": "請問您是會員嗎？",
+   "zhuyin": "ㄑㄧㄥˇ ㄨㄣˋ ㄋㄧㄣˊ ㄕˋ ㄏㄨㄟˋ ㄩㄢˊ ㄇㄚ˙",
+   "pinyin": "qǐng wèn nín shì huì yuán ma",
+   "en": "Are you a member?"
+  },
+  "measure": {
+   "hanzi": "位",
+   "zhuyin": "ㄨㄟˋ",
+   "pinyin": "wèi"
+  }
+ },
+ "599": {
+  "example": {
+   "hanzi": "點數可以換贈品。",
+   "zhuyin": "ㄉㄧㄢˇ ㄕㄨˋ ㄎㄜˇ ㄧˇ ㄏㄨㄢˋ ㄗㄥˋ ㄆㄧㄣˇ",
+   "pinyin": "diǎn shù kě yǐ huàn zèng pǐn",
+   "en": "Points can be exchanged for gifts."
+  },
+  "measure": null
+ },
  "741": {
   "example": {
    "hanzi": "我對花生過敏。",

@@ -552,9 +552,9 @@
 | 485 | 遙控器 | ㄧㄠˊ ㄎㄨㄥˋ ㄑㄧˋ | yáo kòng qì | remote control | 家裡有遙控器。 | There is remote control at home. | 2 |
 | 486 | 鑰匙 | ㄧㄠˋ ㄕ˙ | yào shi | key | 家裡有鑰匙。 | There is key at home. | 2 |
 | 487 | 鎖 | ㄙㄨㄛˇ | suǒ | lock | 家裡有鎖。 | There is lock at home. | 2 |
-| 488 | 垃圾 | ㄌㄚ ㄐㄧ | lā jī | trash | 家裡有垃圾。 | There is trash at home. | 2 |
-| 489 | 垃圾袋 | ㄌㄚ ㄐㄧ ㄉㄞˋ | lā jī dài | trash bag | 家裡有垃圾袋。 | There is trash bag at home. | 2 |
-| 490 | 垃圾車 | ㄌㄚ ㄐㄧ ㄔㄜ | lā jī chē | garbage truck | 家裡有垃圾車。 | There is garbage truck at home. | 2 |
+| 488 | 垃圾 | ㄌㄜˋ ㄙㄜˋ | lè sè | trash | 家裡有垃圾。 | There is trash at home. | 2 |
+| 489 | 垃圾袋 | ㄌㄜˋ ㄙㄜˋ ㄉㄞˋ | lè sè dài | trash bag | 家裡有垃圾袋。 | There is trash bag at home. | 2 |
+| 490 | 垃圾車 | ㄌㄜˋ ㄙㄜˋ ㄔㄜ | lè sè chē | garbage truck | 家裡有垃圾車。 | There is garbage truck at home. | 2 |
 | 491 | 衣服 | ㄧ ㄈㄨˊ | yī fú | clothes | 家裡有衣服。 | There is clothes at home. | 2 |
 | 492 | 褲子 | ㄎㄨˋ ㄗ˙ | kù zi | pants | 家裡有褲子。 | There is pants at home. | 2 |
 | 493 | 裙子 | ㄑㄩㄣˊ ㄗ˙ | qún zi | skirt | 家裡有裙子。 | There is skirt at home. | 2 |
@@ -564,7 +564,7 @@
 | 497 | 帽子 | ㄇㄠˋ ㄗ˙ | mào zi | hat | 家裡有帽子。 | There is hat at home. | 2 |
 | 498 | 毛巾 | ㄇㄠˊ ㄐㄧㄣ | máo jīn | towel | 家裡有毛巾。 | There is towel at home. | 2 |
 | 499 | 肥皂 | ㄈㄟˊ ㄗㄠˋ | féi zào | soap | 家裡有肥皂。 | There is soap at home. | 2 |
-| 500 | 洗髮精 | ㄒㄧˇ ㄈㄚˋ ㄐㄧㄥ | xǐ fà jīng | shampoo | 家裡有洗髮精。 | There is shampoo at home. | 2 |
+| 500 | 洗髮精 | ㄒㄧˇ ㄈㄚˇ ㄐㄧㄥ | xǐ fǎ jīng | shampoo | 家裡有洗髮精。 | There is shampoo at home. | 2 |
 | 501 | 牙刷 | ㄧㄚˊ ㄕㄨㄚ | yá shuā | toothbrush | 家裡有牙刷。 | There is toothbrush at home. | 2 |
 | 502 | 牙膏 | ㄧㄚˊ ㄍㄠ | yá gāo | toothpaste | 家裡有牙膏。 | There is toothpaste at home. | 2 |
 | 503 | 棉被 | ㄇㄧㄢˊ ㄅㄟˋ | mián bèi | quilt | 家裡有棉被。 | There is quilt at home. | 2 |
@@ -634,7 +634,7 @@
 | 557 | 便利商店 | ㄅㄧㄢˋ ㄌㄧˋ ㄕㄤ ㄉㄧㄢˋ | biàn lì shāng diàn | convenience store | 請問便利商店怎麼處理？ | How should I handle the convenience store? | 2 |
 | 558 | 市場 | ㄕˋ ㄔㄤˇ | shì chǎng | market | 請問市場怎麼處理？ | How should I handle the market? | 2 |
 | 559 | 網路商店 | ㄨㄤˇ ㄌㄨˋ ㄕㄤ ㄉㄧㄢˋ | wǎng lù shāng diàn | online shop | 請問網路商店怎麼處理？ | How should I handle the online shop? | 2 |
-| 560 | 東西 | ㄉㄨㄥ ㄒㄧ | dōng xī | thing/item | 請問東西怎麼處理？ | How should I handle the thing/item? | 2 |
+| 560 | 東西 | ㄉㄨㄥ ㄒㄧ˙ | dōng xi | thing/item | 請問東西怎麼處理？ | How should I handle the thing/item? | 2 |
 | 561 | 商品 | ㄕㄤ ㄆㄧㄣˇ | shāng pǐn | product | 請問商品怎麼處理？ | How should I handle the product? | 2 |
 | 562 | 品牌 | ㄆㄧㄣˇ ㄆㄞˊ | pǐn pái | brand | 請問品牌怎麼處理？ | How should I handle the brand? | 2 |
 | 563 | 價格 | ㄐㄧㄚˋ ㄍㄜˊ | jià gé | price | 請問價格怎麼處理？ | How should I handle the price? | 2 |
