@@ -26,8 +26,12 @@ quiz, progress, theming) with a Chinese-specific content and rendering layer.
   - **125 essential patterns** in 7 groups — function, structure formula, example, and a common warning.
   - **Contrasts** — side-by-side comparison of easily-confused patterns (才/就, 會/能/可以, 了/過/著…).
   - **Practice** — an interactive fill-in-the-blank exercise with instant feedback.
-- **Audio** — Taiwanese Mandarin (`zh-TW`) text-to-speech, preferring a female voice
-  (Mei-Jia / Google 國語（臺灣）), at a gentle learning pace.
+- **Audio** — Taiwanese Mandarin (`zh-TW`) text-to-speech, auto-picking a Taiwan voice
+  (Mei-Jia / Google 國語（臺灣）). Sentences read slowly (0.72) for following along; single
+  syllables in the zhuyin chart read near-normal (0.95), since a compact voice slowed that
+  far smears the vowel. **Voice picker** in Grammar → 注音 Zhuyin lets you audition every
+  Chinese voice your device has and keep the one that sounds right (saved locally) —
+  TTS quality varies far too much between devices to hard-code one choice.
 - **Typeface** — Chinese renders in **TW-Kai (全字庫正楷體)**, Taiwan's official standard-glyph
   Kai font, **bundled as a subset** (`fonts/tw-kai-subset.woff2`) so it looks identical on every
   device. System Kai fonts are only a last-resort fallback.
