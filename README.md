@@ -18,8 +18,9 @@ quiz, progress, theming) with a Chinese-specific content and rendering layer.
 - **Flashcards** with spaced repetition — front = 漢字 only (recognition); tap to reveal
   zhuyin + pinyin + meaning + example. Rate *Again* / *Got it*; tricky cards resurface sooner.
 - **Quiz** in three reading modes: multiple choice (漢字 → meaning), pick-the-word
-  (meaning → 漢字), and type-it (**type the pinyin** — toneless accepted, ü/v/u interchangeable —
-  and the 漢字 is revealed).
+  (meaning → 漢字), and type-it (meaning → **type the 漢字**, the way Chinese is really typed:
+  pinyin into your IME, which commits characters. Needs a Chinese keyboard/輸入法; spaces and
+  any punctuation the IME commits are ignored).
 - **Grammar** — a reference section with:
   - **注音 Zhuyin chart** — all initials 聲母 + finals 韻母 + tones 聲調, each with pinyin, an
     [IPA] sound, and **tap-to-hear audio** (aspirated pairs like ㄅ/ㄆ are marked 送氣 · puff).

@@ -230,6 +230,7 @@ a:hover { color: var(--accent2); }
 .opt.wrong { background: var(--nobg); border-color: var(--nobd); }
 .opt.dim { color: var(--muted2); }
 .type-input { width: 100%; border: 2px solid var(--chipbd); background: var(--card); border-radius: 13px; padding: 15px 18px; font-family: 'Newsreader', var(--cjk); font-size: 22px; color: var(--ink); outline: none; }
+.type-hint { font-size: 12.5px; color: var(--muted); margin: 8px 2px 0; }
 .type-input.ok { border-color: var(--okbd); }
 .type-input.bad { border-color: var(--nobd); }
 .answer-reveal { margin-top: 14px; background: var(--card2); border: 1px solid var(--line2); border-radius: 13px; padding: 16px 18px; display: flex; align-items: center; justify-content: space-between; gap: 12px; }

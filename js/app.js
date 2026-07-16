@@ -452,9 +452,15 @@
   }
 
   // ---------- quiz ----------
+  // Type-it wants the characters, typed the way Chinese is actually typed: pinyin into an
+  // IME, which commits 漢字. So the answer is compared as 漢字, not pinyin.
+  function normHanzi(s) {
+    // Keep only CJK characters, dropping spaces, latin, and any punctuation the IME might
+    // commit (。，！？ and halfwidth forms) so a stray keystroke can't fail a right answer.
+    return String(s || "").replace(/[^㐀-鿿]/g, "");
+  }
   function acceptable(w) {
-    // Type-it accepts the toneless pinyin (nihao, ni hao, nǐ hǎo all normalize the same).
-    return [normPinyin(w.pinyin)].filter(Boolean);
+    return [normHanzi(w.hanzi)].filter(Boolean);
   }
   function buildQuiz(scope, mode) {
     var pool = shuffle(poolFor(scope));
@@ -548,7 +554,7 @@
     var q = state.quiz;
     if (!q || q.answered) return;
     var cur = q.questions[q.idx];
-    var inp = normPinyin(
+    var inp = normHanzi(
       (document.getElementById("type-input") || {}).value || "",
     );
     var correct = inp.length > 0 && cur.accept.indexOf(inp) >= 0;
@@ -1150,7 +1156,7 @@
       qlabel = "Which character(s) mean this?";
       promptMain = cur.meaning;
     } else {
-      qlabel = "Type the pinyin for:";
+      qlabel = "Type the characters for:";
       promptMain = cur.meaning;
     }
     body +=
@@ -1206,9 +1212,10 @@
       body +=
         '<input class="' +
         icls +
-        '" id="type-input" type="text" placeholder="Type pinyin (tones optional)..." autocomplete="off" autocapitalize="off" spellcheck="false"' +
+        '" id="type-input" type="text" lang="zh-TW" placeholder="用中文輸入法打出漢字…" autocomplete="off" autocapitalize="off" spellcheck="false"' +
         (q.answered ? " disabled" : "") +
-        ">";
+        ">" +
+        '<div class="type-hint">Type it in Chinese — pinyin into your IME, same as you would normally. Needs a Chinese keyboard/輸入法.</div>';
       if (!q.answered)
         body +=
           '<button class="btn btn-primary" style="width:100%;margin-top:12px;border-radius:13px" data-act="submitType">Check answer</button>';
