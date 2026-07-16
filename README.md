@@ -83,8 +83,8 @@ See [fonts/README.md](fonts/README.md) for details.
 
 ## Status / roadmap
 
-- **Words:** all 1,000 are in. **Natural example sentences** are being added in reviewable
-  batches (the rest show 漢字 + zhuyin + pinyin + meaning until their example is written).
+- **Words: complete.** All 1,000 have a natural example sentence with pinyin (every one
+  unique), and all 370 countable nouns carry their measure word.
 - **Grammar example pinyin** — the 125 pattern examples currently show 漢字 + English;
   pinyin annotation is pending.
 - **Speaking quiz** (planned 4th mode) — read a character aloud; browser speech recognition

@@ -962,7 +962,7 @@
 | 854 | 涼 | ㄌㄧㄤˊ | liáng | cool | 今天的天氣很涼。 | The weather is cool today. | 3 |
 | 855 | 溫暖 | ㄨㄣ ㄋㄨㄢˇ | wēn nuǎn | warm | 今天的天氣很溫暖。 | The weather is warm today. | 3 |
 | 856 | 潮濕 | ㄔㄠˊ ㄕ | cháo shī | humid | 今天的天氣很潮濕。 | The weather is humid today. | 3 |
-| 857 | 乾燥 | ㄑㄧㄢˊ ㄗㄠˋ | qián zào | dry | 今天的天氣很乾燥。 | The weather is dry today. | 3 |
+| 857 | 乾燥 | ㄍㄢ ㄗㄠˋ | gān zào | dry | 今天的天氣很乾燥。 | The weather is dry today. | 3 |
 | 858 | 悶熱 | ㄇㄣˋ ㄖㄜˋ | mèn rè | muggy | 今天的天氣很悶熱。 | The weather is muggy today. | 3 |
 | 859 | 季節 | ㄐㄧˋ ㄐㄧㄝˊ | jì jié | season | 公園裡可以看到季節。 | You can see season in the park. | 3 |
 | 860 | 春天 | ㄔㄨㄣ ㄊㄧㄢ | chūn tiān | spring | 公園裡可以看到春天。 | You can see spring in the park. | 3 |
@@ -1050,17 +1050,17 @@
 | 932 | 晚安 | ㄨㄢˇ ㄢ | wǎn ān | good night | 晚安，明天見。 | Good night; see you tomorrow. | 3 |
 | 933 | 再見 | ㄗㄞˋ ㄐㄧㄢˋ | zài jiàn | goodbye | 我要走了，再見。 | I have to leave; goodbye. | 3 |
 | 934 | 謝謝 | ㄒㄧㄝˋ ㄒㄧㄝˋ | xiè xiè | thank you | 謝謝你的幫忙。 | Thank you for your help. | 3 |
-| 935 | 不客氣 | ㄅㄨˋ ㄎㄜˋ ㄑㄧˋ | bù kè qì | you are welcome | 不客氣，這是我應該做的。 | You are welcome; it is what I should do. | 3 |
+| 935 | 不客氣 | ㄅㄨˊ ㄎㄜˋ ㄑㄧˋ | bú kè qì | you are welcome | 不客氣，這是我應該做的。 | You are welcome; it is what I should do. | 3 |
 | 936 | 對不起 | ㄉㄨㄟˋ ㄅㄨˋ ㄑㄧˇ | duì bù qǐ | sorry | 對不起，我來晚了。 | Sorry, I arrived late. | 3 |
 | 937 | 沒關係 | ㄇㄟˊ ㄍㄨㄢ ㄒㄧˋ | méi guān xì | it is okay | 沒關係，下次注意就好。 | It is okay; just be more careful next time. | 3 |
 | 938 | 請 | ㄑㄧㄥˇ | qǐng | please | 請坐這裡。 | Please sit here. | 3 |
-| 939 | 不好意思 | ㄅㄨˋ ㄏㄠˇ ㄧˋ ㄙ | bù hǎo yì sī | excuse me/sorry | 不好意思，可以借過一下嗎？ | Excuse me, may I pass? | 3 |
+| 939 | 不好意思 | ㄅㄨˋ ㄏㄠˇ ㄧˋ ㄙ˙ | bù hǎo yì si | excuse me/sorry | 不好意思，可以借過一下嗎？ | Excuse me, may I pass? | 3 |
 | 940 | 請問 | ㄑㄧㄥˇ ㄨㄣˋ | qǐng wèn | may I ask | 請問，捷運站怎麼走？ | Excuse me, how do I get to the MRT station? | 3 |
 | 941 | 歡迎 | ㄏㄨㄢ ㄧㄥˊ | huān yíng | welcome | 歡迎來台灣。 | Welcome to Taiwan. | 3 |
 | 942 | 恭喜 | ㄍㄨㄥ ㄒㄧˇ | gōng xǐ | congratulations | 恭喜你找到新工作。 | Congratulations on finding a new job. | 3 |
 | 943 | 加油 | ㄐㄧㄚ ㄧㄡˊ | jiā yóu | keep it up | 明天要考試，加油！ | You have an exam tomorrow—good luck! | 3 |
 | 944 | 辛苦了 | ㄒㄧㄣ ㄎㄨˇ ㄌㄜ˙ | xīn kǔ le | thanks for your hard work | 今天辛苦了，早點休息。 | Thanks for your hard work today; rest early. | 3 |
-| 945 | 好久不見 | ㄏㄠˇ ㄐㄧㄡˇ ㄅㄨˋ ㄐㄧㄢˋ | hǎo jiǔ bù jiàn | long time no see | 好久不見，你最近好嗎？ | Long time no see; how have you been? | 3 |
+| 945 | 好久不見 | ㄏㄠˇ ㄐㄧㄡˇ ㄅㄨˊ ㄐㄧㄢˋ | hǎo jiǔ bú jiàn | long time no see | 好久不見，你最近好嗎？ | Long time no see; how have you been? | 3 |
 | 946 | 原來如此 | ㄩㄢˊ ㄌㄞˊ ㄖㄨˊ ㄘˇ | yuán lái rú cǐ | I see | 原來如此，我現在懂了。 | I see; now I understand. | 3 |
 | 947 | 沒問題 | ㄇㄟˊ ㄨㄣˋ ㄊㄧˊ | méi wèn tí | no problem | 沒問題，我可以幫你。 | No problem; I can help you. | 3 |
 | 948 | 不行 | ㄅㄨˋ ㄒㄧㄥˊ | bù xíng | cannot/not okay | 這裡不行停車。 | Parking is not allowed here. | 3 |

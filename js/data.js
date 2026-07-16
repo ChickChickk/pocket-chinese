@@ -4685,10 +4685,10 @@ const WORDS = [
     meaning: "cups of drinks",
     measure: null,
     example: {
-      hanzi: "我想喝一杯咖啡。",
-      zhuyin: "ㄨㄛˇ ㄒㄧㄤˇ ㄏㄜ ㄧˋ ㄅㄟ ㄎㄚ ㄈㄟ",
-      pinyin: "wǒ xiǎng hē yì bēi kā fēi",
-      en: "I'd like a cup of coffee.",
+      hanzi: "我每天喝兩杯水。",
+      zhuyin: "ㄨㄛˇ ㄇㄟˇ ㄊㄧㄢ ㄏㄜ ㄌㄧㄤˇ ㄅㄟ ㄕㄨㄟˇ",
+      pinyin: "wǒ měi tiān hē liǎng bēi shuǐ",
+      en: "I drink two cups of water every day.",
     },
   },
   {
@@ -12812,7 +12812,12 @@ const WORDS = [
     pinyin: "tiān qì",
     meaning: "weather",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "今天的天氣很好。",
+      zhuyin: "ㄐㄧㄣ ㄊㄧㄢ ㄉㄜ˙ ㄊㄧㄢ ㄑㄧˋ ㄏㄣˇ ㄏㄠˇ",
+      pinyin: "jīn tiān de tiān qì hěn hǎo",
+      en: "The weather is lovely today.",
+    },
   },
   {
     num: 837,
@@ -12822,7 +12827,12 @@ const WORDS = [
     pinyin: "qíng tiān",
     meaning: "sunny day",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "難得的晴天，出去走走吧。",
+      zhuyin: "ㄋㄢˊ ㄉㄜˊ ㄉㄜ˙ ㄑㄧㄥˊ ㄊㄧㄢ ㄔㄨ ㄑㄩˋ ㄗㄡˇ ㄗㄡˇ ㄅㄚ˙",
+      pinyin: "nán dé de qíng tiān chū qù zǒu zǒu ba",
+      en: "A rare sunny day — let's go out.",
+    },
   },
   {
     num: 838,
@@ -12832,7 +12842,12 @@ const WORDS = [
     pinyin: "yīn tiān",
     meaning: "cloudy day",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "陰天讓人想睡覺。",
+      zhuyin: "ㄧㄣ ㄊㄧㄢ ㄖㄤˋ ㄖㄣˊ ㄒㄧㄤˇ ㄕㄨㄟˋ ㄐㄧㄠˋ",
+      pinyin: "yīn tiān ràng rén xiǎng shuì jiào",
+      en: "Cloudy days make you sleepy.",
+    },
   },
   {
     num: 839,
@@ -12842,7 +12857,12 @@ const WORDS = [
     pinyin: "xià yǔ",
     meaning: "rain",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "下雨了，記得帶傘。",
+      zhuyin: "ㄒㄧㄚˋ ㄩˇ ㄌㄜ˙ ㄐㄧˋ ㄉㄜ˙ ㄉㄞˋ ㄙㄢˇ",
+      pinyin: "xià yǔ le jì de dài sǎn",
+      en: "It's raining — remember your umbrella.",
+    },
   },
   {
     num: 840,
@@ -12851,8 +12871,13 @@ const WORDS = [
     zhuyin: "ㄉㄚˋ ㄩˇ",
     pinyin: "dà yǔ",
     meaning: "heavy rain",
-    measure: null,
-    example: null,
+    measure: { hanzi: "場", zhuyin: "ㄔㄤˇ", pinyin: "chǎng" },
+    example: {
+      hanzi: "昨天下了一場大雨。",
+      zhuyin: "ㄗㄨㄛˊ ㄊㄧㄢ ㄒㄧㄚˋ ㄌㄜ˙ ㄧˋ ㄔㄤˇ ㄉㄚˋ ㄩˇ",
+      pinyin: "zuó tiān xià le yì chǎng dà yǔ",
+      en: "There was a heavy downpour yesterday.",
+    },
   },
   {
     num: 841,
@@ -12861,8 +12886,13 @@ const WORDS = [
     zhuyin: "ㄒㄧㄠˇ ㄩˇ",
     pinyin: "xiǎo yǔ",
     meaning: "light rain",
-    measure: null,
-    example: null,
+    measure: { hanzi: "場", zhuyin: "ㄔㄤˇ", pinyin: "chǎng" },
+    example: {
+      hanzi: "外面下著小雨。",
+      zhuyin: "ㄨㄞˋ ㄇㄧㄢˋ ㄒㄧㄚˋ ㄓㄜ˙ ㄒㄧㄠˇ ㄩˇ",
+      pinyin: "wài miàn xià zhe xiǎo yǔ",
+      en: "It's drizzling outside.",
+    },
   },
   {
     num: 842,
@@ -12871,8 +12901,13 @@ const WORDS = [
     zhuyin: "ㄊㄞˊ ㄈㄥ",
     pinyin: "tái fēng",
     meaning: "typhoon",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "颱風要來了，快去買菜。",
+      zhuyin: "ㄊㄞˊ ㄈㄥ ㄧㄠˋ ㄌㄞˊ ㄌㄜ˙ ㄎㄨㄞˋ ㄑㄩˋ ㄇㄞˇ ㄘㄞˋ",
+      pinyin: "tái fēng yào lái le kuài qù mǎi cài",
+      en: "A typhoon is coming — go buy groceries.",
+    },
   },
   {
     num: 843,
@@ -12881,8 +12916,13 @@ const WORDS = [
     zhuyin: "ㄈㄥ",
     pinyin: "fēng",
     meaning: "wind",
-    measure: null,
-    example: null,
+    measure: { hanzi: "陣", zhuyin: "ㄓㄣˋ", pinyin: "zhèn" },
+    example: {
+      hanzi: "今天的風很大。",
+      zhuyin: "ㄐㄧㄣ ㄊㄧㄢ ㄉㄜ˙ ㄈㄥ ㄏㄣˇ ㄉㄚˋ",
+      pinyin: "jīn tiān de fēng hěn dà",
+      en: "The wind is strong today.",
+    },
   },
   {
     num: 844,
@@ -12891,8 +12931,13 @@ const WORDS = [
     zhuyin: "ㄑㄧㄤˊ ㄈㄥ",
     pinyin: "qiáng fēng",
     meaning: "strong wind",
-    measure: null,
-    example: null,
+    measure: { hanzi: "陣", zhuyin: "ㄓㄣˋ", pinyin: "zhèn" },
+    example: {
+      hanzi: "強風把傘吹壞了。",
+      zhuyin: "ㄑㄧㄤˊ ㄈㄥ ㄅㄚˇ ㄙㄢˇ ㄔㄨㄟ ㄏㄨㄞˋ ㄌㄜ˙",
+      pinyin: "qiáng fēng bǎ sǎn chuī huài le",
+      en: "The strong wind broke my umbrella.",
+    },
   },
   {
     num: 845,
@@ -12902,7 +12947,12 @@ const WORDS = [
     pinyin: "léi",
     meaning: "thunder",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我聽到打雷的聲音。",
+      zhuyin: "ㄨㄛˇ ㄊㄧㄥ ㄉㄠˋ ㄉㄚˇ ㄌㄟˊ ㄉㄜ˙ ㄕㄥ ㄧㄣ",
+      pinyin: "wǒ tīng dào dǎ léi de shēng yīn",
+      en: "I heard the sound of thunder.",
+    },
   },
   {
     num: 846,
@@ -12911,8 +12961,13 @@ const WORDS = [
     zhuyin: "ㄕㄢˇ ㄉㄧㄢˋ",
     pinyin: "shǎn diàn",
     meaning: "lightning",
-    measure: null,
-    example: null,
+    measure: { hanzi: "道", zhuyin: "ㄉㄠˋ", pinyin: "dào" },
+    example: {
+      hanzi: "剛剛有一道閃電。",
+      zhuyin: "ㄍㄤ ㄍㄤ ㄧㄡˇ ㄧˊ ㄉㄠˋ ㄕㄢˇ ㄉㄧㄢˋ",
+      pinyin: "gāng gāng yǒu yí dào shǎn diàn",
+      en: "There was a flash of lightning just now.",
+    },
   },
   {
     num: 847,
@@ -12921,8 +12976,13 @@ const WORDS = [
     zhuyin: "ㄩㄣˊ",
     pinyin: "yún",
     meaning: "cloud",
-    measure: null,
-    example: null,
+    measure: { hanzi: "朵", zhuyin: "ㄉㄨㄛˇ", pinyin: "duǒ" },
+    example: {
+      hanzi: "天上的雲很白。",
+      zhuyin: "ㄊㄧㄢ ㄕㄤˋ ㄉㄜ˙ ㄩㄣˊ ㄏㄣˇ ㄅㄞˊ",
+      pinyin: "tiān shàng de yún hěn bái",
+      en: "The clouds in the sky are very white.",
+    },
   },
   {
     num: 848,
@@ -12931,8 +12991,13 @@ const WORDS = [
     zhuyin: "ㄊㄞˋ ㄧㄤˊ",
     pinyin: "tài yáng",
     meaning: "sun",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "今天的太陽好大。",
+      zhuyin: "ㄐㄧㄣ ㄊㄧㄢ ㄉㄜ˙ ㄊㄞˋ ㄧㄤˊ ㄏㄠˇ ㄉㄚˋ",
+      pinyin: "jīn tiān de tài yáng hǎo dà",
+      en: "The sun is really strong today.",
+    },
   },
   {
     num: 849,
@@ -12941,8 +13006,13 @@ const WORDS = [
     zhuyin: "ㄊㄧㄢ ㄎㄨㄥ",
     pinyin: "tiān kōng",
     meaning: "sky",
-    measure: null,
-    example: null,
+    measure: { hanzi: "片", zhuyin: "ㄆㄧㄢˋ", pinyin: "piàn" },
+    example: {
+      hanzi: "天空是藍色的。",
+      zhuyin: "ㄊㄧㄢ ㄎㄨㄥ ㄕˋ ㄌㄢˊ ㄙㄜˋ ㄉㄜ˙",
+      pinyin: "tiān kōng shì lán sè de",
+      en: "The sky is blue.",
+    },
   },
   {
     num: 850,
@@ -12952,7 +13022,12 @@ const WORDS = [
     pinyin: "wēn dù",
     meaning: "temperature",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "今天的溫度只有十度。",
+      zhuyin: "ㄐㄧㄣ ㄊㄧㄢ ㄉㄜ˙ ㄨㄣ ㄉㄨˋ ㄓˇ ㄧㄡˇ ㄕˊ ㄉㄨˋ",
+      pinyin: "jīn tiān de wēn dù zhǐ yǒu shí dù",
+      en: "Today's temperature is only ten degrees.",
+    },
   },
   {
     num: 851,
@@ -12962,7 +13037,12 @@ const WORDS = [
     pinyin: "dù",
     meaning: "degree",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "現在氣溫三十度。",
+      zhuyin: "ㄒㄧㄢˋ ㄗㄞˋ ㄑㄧˋ ㄨㄣ ㄙㄢ ㄕˊ ㄉㄨˋ",
+      pinyin: "xiàn zài qì wēn sān shí dù",
+      en: "It's thirty degrees right now.",
+    },
   },
   {
     num: 852,
@@ -12972,7 +13052,12 @@ const WORDS = [
     pinyin: "rè",
     meaning: "hot",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "夏天的台灣很熱。",
+      zhuyin: "ㄒㄧㄚˋ ㄊㄧㄢ ㄉㄜ˙ ㄊㄞˊ ㄨㄢ ㄏㄣˇ ㄖㄜˋ",
+      pinyin: "xià tiān de tái wān hěn rè",
+      en: "Taiwan is very hot in summer.",
+    },
   },
   {
     num: 853,
@@ -12982,7 +13067,12 @@ const WORDS = [
     pinyin: "lěng",
     meaning: "cold",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "今天特別冷，多穿一點。",
+      zhuyin: "ㄐㄧㄣ ㄊㄧㄢ ㄊㄜˋ ㄅㄧㄝˊ ㄌㄥˇ ㄉㄨㄛ ㄔㄨㄢ ㄧˋ ㄉㄧㄢˇ",
+      pinyin: "jīn tiān tè bié lěng duō chuān yì diǎn",
+      en: "It's especially cold today — wear more.",
+    },
   },
   {
     num: 854,
@@ -12992,7 +13082,12 @@ const WORDS = [
     pinyin: "liáng",
     meaning: "cool",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "晚上有點涼。",
+      zhuyin: "ㄨㄢˇ ㄕㄤˋ ㄧㄡˇ ㄉㄧㄢˇ ㄌㄧㄤˊ",
+      pinyin: "wǎn shàng yǒu diǎn liáng",
+      en: "It's a bit cool in the evening.",
+    },
   },
   {
     num: 855,
@@ -13002,7 +13097,12 @@ const WORDS = [
     pinyin: "wēn nuǎn",
     meaning: "warm",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "春天的天氣很溫暖。",
+      zhuyin: "ㄔㄨㄣ ㄊㄧㄢ ㄉㄜ˙ ㄊㄧㄢ ㄑㄧˋ ㄏㄣˇ ㄨㄣ ㄋㄨㄢˇ",
+      pinyin: "chūn tiān de tiān qì hěn wēn nuǎn",
+      en: "Spring weather is warm.",
+    },
   },
   {
     num: 856,
@@ -13012,17 +13112,27 @@ const WORDS = [
     pinyin: "cháo shī",
     meaning: "humid",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "台灣的夏天很潮濕。",
+      zhuyin: "ㄊㄞˊ ㄨㄢ ㄉㄜ˙ ㄒㄧㄚˋ ㄊㄧㄢ ㄏㄣˇ ㄔㄠˊ ㄕ",
+      pinyin: "tái wān de xià tiān hěn cháo shī",
+      en: "Taiwan's summers are very humid.",
+    },
   },
   {
     num: 857,
     cat: 35,
     hanzi: "乾燥",
-    zhuyin: "ㄑㄧㄢˊ ㄗㄠˋ",
-    pinyin: "qián zào",
+    zhuyin: "ㄍㄢ ㄗㄠˋ",
+    pinyin: "gān zào",
     meaning: "dry",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "冬天的空氣很乾燥。",
+      zhuyin: "ㄉㄨㄥ ㄊㄧㄢ ㄉㄜ˙ ㄎㄨㄥ ㄑㄧˋ ㄏㄣˇ ㄍㄢ ㄗㄠˋ",
+      pinyin: "dōng tiān de kōng qì hěn gān zào",
+      en: "The air is dry in winter.",
+    },
   },
   {
     num: 858,
@@ -13032,7 +13142,12 @@ const WORDS = [
     pinyin: "mèn rè",
     meaning: "muggy",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "下雨前特別悶熱。",
+      zhuyin: "ㄒㄧㄚˋ ㄩˇ ㄑㄧㄢˊ ㄊㄜˋ ㄅㄧㄝˊ ㄇㄣˋ ㄖㄜˋ",
+      pinyin: "xià yǔ qián tè bié mèn rè",
+      en: "It's especially muggy before it rains.",
+    },
   },
   {
     num: 859,
@@ -13041,8 +13156,14 @@ const WORDS = [
     zhuyin: "ㄐㄧˋ ㄐㄧㄝˊ",
     pinyin: "jì jié",
     meaning: "season",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "我最喜歡的季節是秋天。",
+      zhuyin:
+        "ㄨㄛˇ ㄗㄨㄟˋ ㄒㄧˇ ㄏㄨㄢ ㄉㄜ˙ ㄐㄧˋ ㄐㄧㄝˊ ㄕˋ ㄑㄧㄡ ㄊㄧㄢ",
+      pinyin: "wǒ zuì xǐ huān de jì jié shì qiū tiān",
+      en: "My favorite season is autumn.",
+    },
   },
   {
     num: 860,
@@ -13052,7 +13173,12 @@ const WORDS = [
     pinyin: "chūn tiān",
     meaning: "spring",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "春天有很多花。",
+      zhuyin: "ㄔㄨㄣ ㄊㄧㄢ ㄧㄡˇ ㄏㄣˇ ㄉㄨㄛ ㄏㄨㄚ",
+      pinyin: "chūn tiān yǒu hěn duō huā",
+      en: "There are lots of flowers in spring.",
+    },
   },
   {
     num: 861,
@@ -13062,7 +13188,12 @@ const WORDS = [
     pinyin: "xià tiān",
     meaning: "summer",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "夏天我常去海邊。",
+      zhuyin: "ㄒㄧㄚˋ ㄊㄧㄢ ㄨㄛˇ ㄔㄤˊ ㄑㄩˋ ㄏㄞˇ ㄅㄧㄢ",
+      pinyin: "xià tiān wǒ cháng qù hǎi biān",
+      en: "I often go to the seaside in summer.",
+    },
   },
   {
     num: 862,
@@ -13072,7 +13203,12 @@ const WORDS = [
     pinyin: "qiū tiān",
     meaning: "autumn",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "秋天的天氣最舒服。",
+      zhuyin: "ㄑㄧㄡ ㄊㄧㄢ ㄉㄜ˙ ㄊㄧㄢ ㄑㄧˋ ㄗㄨㄟˋ ㄕㄨ ㄈㄨˊ",
+      pinyin: "qiū tiān de tiān qì zuì shū fú",
+      en: "Autumn weather is the most comfortable.",
+    },
   },
   {
     num: 863,
@@ -13082,7 +13218,12 @@ const WORDS = [
     pinyin: "dōng tiān",
     meaning: "winter",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "台灣的冬天不會下雪。",
+      zhuyin: "ㄊㄞˊ ㄨㄢ ㄉㄜ˙ ㄉㄨㄥ ㄊㄧㄢ ㄅㄨˊ ㄏㄨㄟˋ ㄒㄧㄚˋ ㄒㄩㄝˇ",
+      pinyin: "tái wān de dōng tiān bú huì xià xuě",
+      en: "It doesn't snow in Taiwan's winter.",
+    },
   },
   {
     num: 864,
@@ -13091,8 +13232,13 @@ const WORDS = [
     zhuyin: "ㄩˇ ㄙㄢˇ",
     pinyin: "yǔ sǎn",
     meaning: "umbrella",
-    measure: null,
-    example: null,
+    measure: { hanzi: "把", zhuyin: "ㄅㄚˇ", pinyin: "bǎ" },
+    example: {
+      hanzi: "我忘了帶雨傘。",
+      zhuyin: "ㄨㄛˇ ㄨㄤˋ ㄌㄜ˙ ㄉㄞˋ ㄩˇ ㄙㄢˇ",
+      pinyin: "wǒ wàng le dài yǔ sǎn",
+      en: "I forgot to bring an umbrella.",
+    },
   },
   {
     num: 865,
@@ -13101,8 +13247,13 @@ const WORDS = [
     zhuyin: "ㄩˇ ㄧ",
     pinyin: "yǔ yī",
     meaning: "raincoat",
-    measure: null,
-    example: null,
+    measure: { hanzi: "件", zhuyin: "ㄐㄧㄢˋ", pinyin: "jiàn" },
+    example: {
+      hanzi: "騎車下雨要穿雨衣。",
+      zhuyin: "ㄑㄧˊ ㄔㄜ ㄒㄧㄚˋ ㄩˇ ㄧㄠˋ ㄔㄨㄢ ㄩˇ ㄧ",
+      pinyin: "qí chē xià yǔ yào chuān yǔ yī",
+      en: "Wear a raincoat when riding in the rain.",
+    },
   },
   {
     num: 866,
@@ -13112,7 +13263,12 @@ const WORDS = [
     pinyin: "fáng shài",
     meaning: "sun protection",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "出門記得擦防曬。",
+      zhuyin: "ㄔㄨ ㄇㄣˊ ㄐㄧˋ ㄉㄜ˙ ㄘㄚ ㄈㄤˊ ㄕㄞˋ",
+      pinyin: "chū mén jì de cā fáng shài",
+      en: "Remember to put on sunscreen before going out.",
+    },
   },
   {
     num: 867,
@@ -13122,7 +13278,12 @@ const WORDS = [
     pinyin: "kōng qì",
     meaning: "air",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "山上的空氣很新鮮。",
+      zhuyin: "ㄕㄢ ㄕㄤˋ ㄉㄜ˙ ㄎㄨㄥ ㄑㄧˋ ㄏㄣˇ ㄒㄧㄣ ㄒㄧㄢ",
+      pinyin: "shān shàng de kōng qì hěn xīn xiān",
+      en: "The air in the mountains is fresh.",
+    },
   },
   {
     num: 868,
@@ -13132,7 +13293,12 @@ const WORDS = [
     pinyin: "wū rǎn",
     meaning: "pollution",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "空氣污染越來越嚴重。",
+      zhuyin: "ㄎㄨㄥ ㄑㄧˋ ㄨ ㄖㄢˇ ㄩㄝˋ ㄌㄞˊ ㄩㄝˋ ㄧㄢˊ ㄓㄨㄥˋ",
+      pinyin: "kōng qì wū rǎn yuè lái yuè yán zhòng",
+      en: "Air pollution is getting worse and worse.",
+    },
   },
   {
     num: 869,
@@ -13141,8 +13307,13 @@ const WORDS = [
     zhuyin: "ㄉㄧˋ ㄓㄣˋ",
     pinyin: "dì zhèn",
     meaning: "earthquake",
-    measure: null,
-    example: null,
+    measure: { hanzi: "次", zhuyin: "ㄘˋ", pinyin: "cì" },
+    example: {
+      hanzi: "台灣常常有地震。",
+      zhuyin: "ㄊㄞˊ ㄨㄢ ㄔㄤˊ ㄔㄤˊ ㄧㄡˇ ㄉㄧˋ ㄓㄣˋ",
+      pinyin: "tái wān cháng cháng yǒu dì zhèn",
+      en: "Taiwan has earthquakes often.",
+    },
   },
   {
     num: 870,
@@ -13152,7 +13323,12 @@ const WORDS = [
     pinyin: "yáo huǎng",
     meaning: "shake",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "房子搖晃了幾秒。",
+      zhuyin: "ㄈㄤˊ ㄗ˙ ㄧㄠˊ ㄏㄨㄤˇ ㄌㄜ˙ ㄐㄧˇ ㄇㄧㄠˇ",
+      pinyin: "fáng zi yáo huǎng le jǐ miǎo",
+      en: "The house shook for a few seconds.",
+    },
   },
   {
     num: 871,
@@ -13162,7 +13338,12 @@ const WORDS = [
     pinyin: "zì rán",
     meaning: "nature",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我喜歡親近大自然。",
+      zhuyin: "ㄨㄛˇ ㄒㄧˇ ㄏㄨㄢ ㄑㄧㄣ ㄐㄧㄣˋ ㄉㄚˋ ㄗˋ ㄖㄢˊ",
+      pinyin: "wǒ xǐ huān qīn jìn dà zì rán",
+      en: "I like being close to nature.",
+    },
   },
   {
     num: 872,
@@ -13171,8 +13352,13 @@ const WORDS = [
     zhuyin: "ㄕㄨˋ",
     pinyin: "shù",
     meaning: "tree",
-    measure: null,
-    example: null,
+    measure: { hanzi: "棵", zhuyin: "ㄎㄜ", pinyin: "kē" },
+    example: {
+      hanzi: "這棵樹有一百年了。",
+      zhuyin: "ㄓㄜˋ ㄎㄜ ㄕㄨˋ ㄧㄡˇ ㄧˋ ㄅㄞˇ ㄋㄧㄢˊ ㄌㄜ˙",
+      pinyin: "zhè kē shù yǒu yì bǎi nián le",
+      en: "This tree is a hundred years old.",
+    },
   },
   {
     num: 873,
@@ -13181,8 +13367,13 @@ const WORDS = [
     zhuyin: "ㄏㄨㄚ",
     pinyin: "huā",
     meaning: "flower",
-    measure: null,
-    example: null,
+    measure: { hanzi: "朵", zhuyin: "ㄉㄨㄛˇ", pinyin: "duǒ" },
+    example: {
+      hanzi: "這朵花很香。",
+      zhuyin: "ㄓㄜˋ ㄉㄨㄛˇ ㄏㄨㄚ ㄏㄣˇ ㄒㄧㄤ",
+      pinyin: "zhè duǒ huā hěn xiāng",
+      en: "This flower smells lovely.",
+    },
   },
   {
     num: 874,
@@ -13192,7 +13383,12 @@ const WORDS = [
     pinyin: "cǎo",
     meaning: "grass",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "公園的草很綠。",
+      zhuyin: "ㄍㄨㄥ ㄩㄢˊ ㄉㄜ˙ ㄘㄠˇ ㄏㄣˇ ㄌㄩˋ",
+      pinyin: "gōng yuán de cǎo hěn lǜ",
+      en: "The grass in the park is very green.",
+    },
   },
   {
     num: 875,
@@ -13201,8 +13397,13 @@ const WORDS = [
     zhuyin: "ㄙㄣ ㄌㄧㄣˊ",
     pinyin: "sēn lín",
     meaning: "forest",
-    measure: null,
-    example: null,
+    measure: { hanzi: "片", zhuyin: "ㄆㄧㄢˋ", pinyin: "piàn" },
+    example: {
+      hanzi: "森林裡很涼快。",
+      zhuyin: "ㄙㄣ ㄌㄧㄣˊ ㄌㄧˇ ㄏㄣˇ ㄌㄧㄤˊ ㄎㄨㄞˋ",
+      pinyin: "sēn lín lǐ hěn liáng kuài",
+      en: "It's cool in the forest.",
+    },
   },
   {
     num: 876,
@@ -13211,8 +13412,13 @@ const WORDS = [
     zhuyin: "ㄏㄞˇ",
     pinyin: "hǎi",
     meaning: "sea",
-    measure: null,
-    example: null,
+    measure: { hanzi: "片", zhuyin: "ㄆㄧㄢˋ", pinyin: "piàn" },
+    example: {
+      hanzi: "台灣四面都是海。",
+      zhuyin: "ㄊㄞˊ ㄨㄢ ㄙˋ ㄇㄧㄢˋ ㄉㄡ ㄕˋ ㄏㄞˇ",
+      pinyin: "tái wān sì miàn dōu shì hǎi",
+      en: "Taiwan is surrounded by sea on all sides.",
+    },
   },
   {
     num: 877,
@@ -13221,8 +13427,13 @@ const WORDS = [
     zhuyin: "ㄕㄚ ㄊㄢ",
     pinyin: "shā tān",
     meaning: "beach",
-    measure: null,
-    example: null,
+    measure: { hanzi: "片", zhuyin: "ㄆㄧㄢˋ", pinyin: "piàn" },
+    example: {
+      hanzi: "我們在沙灘上散步。",
+      zhuyin: "ㄨㄛˇ ㄇㄣ˙ ㄗㄞˋ ㄕㄚ ㄊㄢ ㄕㄤˋ ㄙㄢˋ ㄅㄨˋ",
+      pinyin: "wǒ men zài shā tān shàng sàn bù",
+      en: "We took a walk on the beach.",
+    },
   },
   {
     num: 878,
@@ -13231,8 +13442,13 @@ const WORDS = [
     zhuyin: "ㄕˊ ㄊㄡˊ",
     pinyin: "shí tóu",
     meaning: "stone",
-    measure: null,
-    example: null,
+    measure: { hanzi: "顆", zhuyin: "ㄎㄜ", pinyin: "kē" },
+    example: {
+      hanzi: "這顆石頭很重。",
+      zhuyin: "ㄓㄜˋ ㄎㄜ ㄕˊ ㄊㄡˊ ㄏㄣˇ ㄓㄨㄥˋ",
+      pinyin: "zhè kē shí tóu hěn zhòng",
+      en: "This stone is very heavy.",
+    },
   },
   {
     num: 879,
@@ -13241,8 +13457,13 @@ const WORDS = [
     zhuyin: "ㄉㄨㄥˋ ㄨˋ",
     pinyin: "dòng wù",
     meaning: "animal",
-    measure: null,
-    example: null,
+    measure: { hanzi: "隻", zhuyin: "ㄓ", pinyin: "zhī" },
+    example: {
+      hanzi: "動物園裡有很多動物。",
+      zhuyin: "ㄉㄨㄥˋ ㄨˋ ㄩㄢˊ ㄌㄧˇ ㄧㄡˇ ㄏㄣˇ ㄉㄨㄛ ㄉㄨㄥˋ ㄨˋ",
+      pinyin: "dòng wù yuán lǐ yǒu hěn duō dòng wù",
+      en: "There are many animals in the zoo.",
+    },
   },
   {
     num: 880,
@@ -13251,8 +13472,13 @@ const WORDS = [
     zhuyin: "ㄍㄡˇ",
     pinyin: "gǒu",
     meaning: "dog",
-    measure: null,
-    example: null,
+    measure: { hanzi: "隻", zhuyin: "ㄓ", pinyin: "zhī" },
+    example: {
+      hanzi: "我家的狗很聰明。",
+      zhuyin: "ㄨㄛˇ ㄐㄧㄚ ㄉㄜ˙ ㄍㄡˇ ㄏㄣˇ ㄘㄨㄥ ㄇㄧㄥˊ",
+      pinyin: "wǒ jiā de gǒu hěn cōng míng",
+      en: "My dog is very smart.",
+    },
   },
   {
     num: 881,
@@ -13261,8 +13487,13 @@ const WORDS = [
     zhuyin: "ㄇㄠ",
     pinyin: "māo",
     meaning: "cat",
-    measure: null,
-    example: null,
+    measure: { hanzi: "隻", zhuyin: "ㄓ", pinyin: "zhī" },
+    example: {
+      hanzi: "這隻貓很愛睡覺。",
+      zhuyin: "ㄓㄜˋ ㄓ ㄇㄠ ㄏㄣˇ ㄞˋ ㄕㄨㄟˋ ㄐㄧㄠˋ",
+      pinyin: "zhè zhī māo hěn ài shuì jiào",
+      en: "This cat loves to sleep.",
+    },
   },
   {
     num: 882,
@@ -13271,8 +13502,13 @@ const WORDS = [
     zhuyin: "ㄋㄧㄠˇ",
     pinyin: "niǎo",
     meaning: "bird",
-    measure: null,
-    example: null,
+    measure: { hanzi: "隻", zhuyin: "ㄓ", pinyin: "zhī" },
+    example: {
+      hanzi: "樹上有一隻鳥。",
+      zhuyin: "ㄕㄨˋ ㄕㄤˋ ㄧㄡˇ ㄧˋ ㄓ ㄋㄧㄠˇ",
+      pinyin: "shù shàng yǒu yì zhī niǎo",
+      en: "There's a bird in the tree.",
+    },
   },
   {
     num: 883,
@@ -13282,7 +13518,12 @@ const WORDS = [
     pinyin: "kāi xīn",
     meaning: "happy",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "收到禮物我很開心。",
+      zhuyin: "ㄕㄡ ㄉㄠˋ ㄌㄧˇ ㄨˋ ㄨㄛˇ ㄏㄣˇ ㄎㄞ ㄒㄧㄣ",
+      pinyin: "shōu dào lǐ wù wǒ hěn kāi xīn",
+      en: "I'm happy to have received the gift.",
+    },
   },
   {
     num: 884,
@@ -13292,7 +13533,12 @@ const WORDS = [
     pinyin: "gāo xìng",
     meaning: "glad",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "很高興認識你。",
+      zhuyin: "ㄏㄣˇ ㄍㄠ ㄒㄧㄥˋ ㄖㄣˋ ㄕˋ ㄋㄧˇ",
+      pinyin: "hěn gāo xìng rèn shì nǐ",
+      en: "Nice to meet you.",
+    },
   },
   {
     num: 885,
@@ -13302,7 +13548,12 @@ const WORDS = [
     pinyin: "kuài lè",
     meaning: "joyful",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "祝你生日快樂。",
+      zhuyin: "ㄓㄨˋ ㄋㄧˇ ㄕㄥ ㄖˋ ㄎㄨㄞˋ ㄌㄜˋ",
+      pinyin: "zhù nǐ shēng rì kuài lè",
+      en: "Happy birthday to you.",
+    },
   },
   {
     num: 886,
@@ -13312,7 +13563,12 @@ const WORDS = [
     pinyin: "nán guò",
     meaning: "sad",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "聽到這個消息我很難過。",
+      zhuyin: "ㄊㄧㄥ ㄉㄠˋ ㄓㄜˋ ㄍㄜ˙ ㄒㄧㄠ ㄒㄧˊ ㄨㄛˇ ㄏㄣˇ ㄋㄢˊ ㄍㄨㄛˋ",
+      pinyin: "tīng dào zhè ge xiāo xí wǒ hěn nán guò",
+      en: "I'm sad to hear this news.",
+    },
   },
   {
     num: 887,
@@ -13322,7 +13578,12 @@ const WORDS = [
     pinyin: "shāng xīn",
     meaning: "heartbroken",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "她哭得很傷心。",
+      zhuyin: "ㄊㄚ ㄎㄨ ㄉㄜ˙ ㄏㄣˇ ㄕㄤ ㄒㄧㄣ",
+      pinyin: "tā kū de hěn shāng xīn",
+      en: "She cried her heart out.",
+    },
   },
   {
     num: 888,
@@ -13332,7 +13593,12 @@ const WORDS = [
     pinyin: "shēng qì",
     meaning: "angry",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "他還在生我的氣。",
+      zhuyin: "ㄊㄚ ㄏㄞˊ ㄗㄞˋ ㄕㄥ ㄨㄛˇ ㄉㄜ˙ ㄑㄧˋ",
+      pinyin: "tā hái zài shēng wǒ de qì",
+      en: "He's still angry with me.",
+    },
   },
   {
     num: 889,
@@ -13342,7 +13608,12 @@ const WORDS = [
     pinyin: "jǐn zhāng",
     meaning: "nervous",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "面試前我很緊張。",
+      zhuyin: "ㄇㄧㄢˋ ㄕˋ ㄑㄧㄢˊ ㄨㄛˇ ㄏㄣˇ ㄐㄧㄣˇ ㄓㄤ",
+      pinyin: "miàn shì qián wǒ hěn jǐn zhāng",
+      en: "I was nervous before the interview.",
+    },
   },
   {
     num: 890,
@@ -13352,7 +13623,12 @@ const WORDS = [
     pinyin: "dān xīn",
     meaning: "worried",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "媽媽很擔心我。",
+      zhuyin: "ㄇㄚ ㄇㄚ˙ ㄏㄣˇ ㄉㄢ ㄒㄧㄣ ㄨㄛˇ",
+      pinyin: "mā ma hěn dān xīn wǒ",
+      en: "My mom worries about me a lot.",
+    },
   },
   {
     num: 891,
@@ -13362,7 +13638,12 @@ const WORDS = [
     pinyin: "hài pà",
     meaning: "afraid",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我很害怕蟑螂。",
+      zhuyin: "ㄨㄛˇ ㄏㄣˇ ㄏㄞˋ ㄆㄚˋ ㄓㄤ ㄌㄤˊ",
+      pinyin: "wǒ hěn hài pà zhāng láng",
+      en: "I'm really scared of cockroaches.",
+    },
   },
   {
     num: 892,
@@ -13372,7 +13653,12 @@ const WORDS = [
     pinyin: "fàng xīn",
     meaning: "feel relieved",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "你放心，我會處理。",
+      zhuyin: "ㄋㄧˇ ㄈㄤˋ ㄒㄧㄣ ㄨㄛˇ ㄏㄨㄟˋ ㄔㄨˇ ㄌㄧˇ",
+      pinyin: "nǐ fàng xīn wǒ huì chǔ lǐ",
+      en: "Don't worry — I'll handle it.",
+    },
   },
   {
     num: 893,
@@ -13382,7 +13668,12 @@ const WORDS = [
     pinyin: "shī wàng",
     meaning: "disappointed",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "結果讓我有點失望。",
+      zhuyin: "ㄐㄧㄝˊ ㄍㄨㄛˇ ㄖㄤˋ ㄨㄛˇ ㄧㄡˇ ㄉㄧㄢˇ ㄕ ㄨㄤˋ",
+      pinyin: "jié guǒ ràng wǒ yǒu diǎn shī wàng",
+      en: "The result left me a little disappointed.",
+    },
   },
   {
     num: 894,
@@ -13392,7 +13683,12 @@ const WORDS = [
     pinyin: "xìng fèn",
     meaning: "excited",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "要出國了，我好興奮。",
+      zhuyin: "ㄧㄠˋ ㄔㄨ ㄍㄨㄛˊ ㄌㄜ˙ ㄨㄛˇ ㄏㄠˇ ㄒㄧㄥˋ ㄈㄣˋ",
+      pinyin: "yào chū guó le wǒ hǎo xìng fèn",
+      en: "I'm going abroad — I'm so excited.",
+    },
   },
   {
     num: 895,
@@ -13402,7 +13698,12 @@ const WORDS = [
     pinyin: "jīng yà",
     meaning: "surprised",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "這個消息讓大家很驚訝。",
+      zhuyin: "ㄓㄜˋ ㄍㄜ˙ ㄒㄧㄠ ㄒㄧˊ ㄖㄤˋ ㄉㄚˋ ㄐㄧㄚ ㄏㄣˇ ㄐㄧㄥ ㄧㄚˋ",
+      pinyin: "zhè ge xiāo xí ràng dà jiā hěn jīng yà",
+      en: "This news surprised everyone.",
+    },
   },
   {
     num: 896,
@@ -13412,7 +13713,12 @@ const WORDS = [
     pinyin: "wú nài",
     meaning: "helpless/resigned",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我也很無奈，沒辦法。",
+      zhuyin: "ㄨㄛˇ ㄧㄝˇ ㄏㄣˇ ㄨˊ ㄋㄞˋ ㄇㄟˊ ㄅㄢˋ ㄈㄚˇ",
+      pinyin: "wǒ yě hěn wú nài méi bàn fǎ",
+      en: "I feel helpless too — there's nothing to be done.",
+    },
   },
   {
     num: 897,
@@ -13422,7 +13728,12 @@ const WORDS = [
     pinyin: "gān gà",
     meaning: "awkward",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "那個場面有點尷尬。",
+      zhuyin: "ㄋㄚˋ ㄍㄜ˙ ㄔㄤˇ ㄇㄧㄢˋ ㄧㄡˇ ㄉㄧㄢˇ ㄍㄢ ㄍㄚˋ",
+      pinyin: "nà ge chǎng miàn yǒu diǎn gān gà",
+      en: "That situation was a bit awkward.",
+    },
   },
   {
     num: 898,
@@ -13432,7 +13743,12 @@ const WORDS = [
     pinyin: "gū dān",
     meaning: "lonely",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "一個人住有時候很孤單。",
+      zhuyin: "ㄧˊ ㄍㄜ˙ ㄖㄣˊ ㄓㄨˋ ㄧㄡˇ ㄕˊ ㄏㄡˋ ㄏㄣˇ ㄍㄨ ㄉㄢ",
+      pinyin: "yí ge rén zhù yǒu shí hòu hěn gū dān",
+      en: "Living alone is sometimes lonely.",
+    },
   },
   {
     num: 899,
@@ -13442,7 +13758,12 @@ const WORDS = [
     pinyin: "xīn fán",
     meaning: "annoyed",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "最近的事讓我很心煩。",
+      zhuyin: "ㄗㄨㄟˋ ㄐㄧㄣˋ ㄉㄜ˙ ㄕˋ ㄖㄤˋ ㄨㄛˇ ㄏㄣˇ ㄒㄧㄣ ㄈㄢˊ",
+      pinyin: "zuì jìn de shì ràng wǒ hěn xīn fán",
+      en: "Recent events have been troubling me.",
+    },
   },
   {
     num: 900,
@@ -13452,7 +13773,12 @@ const WORDS = [
     pinyin: "yā lì",
     meaning: "pressure",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "工作的壓力很大。",
+      zhuyin: "ㄍㄨㄥ ㄗㄨㄛˋ ㄉㄜ˙ ㄧㄚ ㄌㄧˋ ㄏㄣˇ ㄉㄚˋ",
+      pinyin: "gōng zuò de yā lì hěn dà",
+      en: "The pressure at work is heavy.",
+    },
   },
   {
     num: 901,
@@ -13462,7 +13788,12 @@ const WORDS = [
     pinyin: "xīn qíng",
     meaning: "mood",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "今天心情不錯。",
+      zhuyin: "ㄐㄧㄣ ㄊㄧㄢ ㄒㄧㄣ ㄑㄧㄥˊ ㄅㄨˊ ㄘㄨㄛˋ",
+      pinyin: "jīn tiān xīn qíng bú cuò",
+      en: "I'm in a good mood today.",
+    },
   },
   {
     num: 902,
@@ -13471,8 +13802,13 @@ const WORDS = [
     zhuyin: "ㄍㄢˇ ㄐㄩㄝˊ",
     pinyin: "gǎn jué",
     meaning: "feeling",
-    measure: null,
-    example: null,
+    measure: { hanzi: "種", zhuyin: "ㄓㄨㄥˇ", pinyin: "zhǒng" },
+    example: {
+      hanzi: "這種感覺很奇怪。",
+      zhuyin: "ㄓㄜˋ ㄓㄨㄥˇ ㄍㄢˇ ㄐㄩㄝˊ ㄏㄣˇ ㄑㄧˊ ㄍㄨㄞˋ",
+      pinyin: "zhè zhǒng gǎn jué hěn qí guài",
+      en: "This feeling is strange.",
+    },
   },
   {
     num: 903,
@@ -13482,7 +13818,12 @@ const WORDS = [
     pinyin: "mǎn yì",
     meaning: "satisfied",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "客戶對結果很滿意。",
+      zhuyin: "ㄎㄜˋ ㄏㄨˋ ㄉㄨㄟˋ ㄐㄧㄝˊ ㄍㄨㄛˇ ㄏㄣˇ ㄇㄢˇ ㄧˋ",
+      pinyin: "kè hù duì jié guǒ hěn mǎn yì",
+      en: "The client is very satisfied with the result.",
+    },
   },
   {
     num: 904,
@@ -13492,7 +13833,13 @@ const WORDS = [
     pinyin: "bù mǎn",
     meaning: "dissatisfied",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "大家對這個決定很不滿。",
+      zhuyin:
+        "ㄉㄚˋ ㄐㄧㄚ ㄉㄨㄟˋ ㄓㄜˋ ㄍㄜ˙ ㄐㄩㄝˊ ㄉㄧㄥˋ ㄏㄣˇ ㄅㄨˋ ㄇㄢˇ",
+      pinyin: "dà jiā duì zhè ge jué dìng hěn bù mǎn",
+      en: "Everyone is dissatisfied with this decision.",
+    },
   },
   {
     num: 905,
@@ -13502,7 +13849,12 @@ const WORDS = [
     pinyin: "hòu huǐ",
     meaning: "regret",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我有點後悔沒去。",
+      zhuyin: "ㄨㄛˇ ㄧㄡˇ ㄉㄧㄢˇ ㄏㄡˋ ㄏㄨㄟˇ ㄇㄟˊ ㄑㄩˋ",
+      pinyin: "wǒ yǒu diǎn hòu huǐ méi qù",
+      en: "I kind of regret not going.",
+    },
   },
   {
     num: 906,
@@ -13512,7 +13864,13 @@ const WORDS = [
     pinyin: "xiàn mù",
     meaning: "envy",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我很羨慕你可以到處旅行。",
+      zhuyin:
+        "ㄨㄛˇ ㄏㄣˇ ㄒㄧㄢˋ ㄇㄨˋ ㄋㄧˇ ㄎㄜˇ ㄧˇ ㄉㄠˋ ㄔㄨˋ ㄌㄩˇ ㄒㄧㄥˊ",
+      pinyin: "wǒ hěn xiàn mù nǐ kě yǐ dào chù lǚ xíng",
+      en: "I envy that you can travel everywhere.",
+    },
   },
   {
     num: 907,
@@ -13522,7 +13880,12 @@ const WORDS = [
     pinyin: "gǎn dòng",
     meaning: "moved",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "這部電影讓我很感動。",
+      zhuyin: "ㄓㄜˋ ㄅㄨˋ ㄉㄧㄢˋ ㄧㄥˇ ㄖㄤˋ ㄨㄛˇ ㄏㄣˇ ㄍㄢˇ ㄉㄨㄥˋ",
+      pinyin: "zhè bù diàn yǐng ràng wǒ hěn gǎn dòng",
+      en: "This movie really moved me.",
+    },
   },
   {
     num: 908,
@@ -13532,7 +13895,12 @@ const WORDS = [
     pinyin: "zì xìn",
     meaning: "confident",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "他說話很有自信。",
+      zhuyin: "ㄊㄚ ㄕㄨㄛ ㄏㄨㄚˋ ㄏㄣˇ ㄧㄡˇ ㄗˋ ㄒㄧㄣˋ",
+      pinyin: "tā shuō huà hěn yǒu zì xìn",
+      en: "He speaks with a lot of confidence.",
+    },
   },
   {
     num: 909,
@@ -13542,7 +13910,12 @@ const WORDS = [
     pinyin: "hài xiū",
     meaning: "shy",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "她在陌生人面前很害羞。",
+      zhuyin: "ㄊㄚ ㄗㄞˋ ㄇㄛˋ ㄕㄥ ㄖㄣˊ ㄇㄧㄢˋ ㄑㄧㄢˊ ㄏㄣˇ ㄏㄞˋ ㄒㄧㄡ",
+      pinyin: "tā zài mò shēng rén miàn qián hěn hài xiū",
+      en: "She's shy around strangers.",
+    },
   },
   {
     num: 910,
@@ -13552,7 +13925,12 @@ const WORDS = [
     pinyin: "yǒng gǎn",
     meaning: "brave",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "你要勇敢一點。",
+      zhuyin: "ㄋㄧˇ ㄧㄠˋ ㄩㄥˇ ㄍㄢˇ ㄧˋ ㄉㄧㄢˇ",
+      pinyin: "nǐ yào yǒng gǎn yì diǎn",
+      en: "You need to be a bit braver.",
+    },
   },
   {
     num: 911,
@@ -13562,7 +13940,12 @@ const WORDS = [
     pinyin: "xiǎo xīn",
     meaning: "careful",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "路上小心。",
+      zhuyin: "ㄌㄨˋ ㄕㄤˋ ㄒㄧㄠˇ ㄒㄧㄣ",
+      pinyin: "lù shàng xiǎo xīn",
+      en: "Take care on your way.",
+    },
   },
   {
     num: 912,
@@ -13572,7 +13955,12 @@ const WORDS = [
     pinyin: "rèn zhēn",
     meaning: "serious/diligent",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "他工作很認真。",
+      zhuyin: "ㄊㄚ ㄍㄨㄥ ㄗㄨㄛˋ ㄏㄣˇ ㄖㄣˋ ㄓㄣ",
+      pinyin: "tā gōng zuò hěn rèn zhēn",
+      en: "He works very conscientiously.",
+    },
   },
   {
     num: 913,
@@ -13582,7 +13970,12 @@ const WORDS = [
     pinyin: "nǔ lì",
     meaning: "hardworking",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "只要努力就有機會。",
+      zhuyin: "ㄓˇ ㄧㄠˋ ㄋㄨˇ ㄌㄧˋ ㄐㄧㄡˋ ㄧㄡˇ ㄐㄧ ㄏㄨㄟˋ",
+      pinyin: "zhǐ yào nǔ lì jiù yǒu jī huì",
+      en: "As long as you work hard, there's a chance.",
+    },
   },
   {
     num: 914,
@@ -13592,7 +13985,12 @@ const WORDS = [
     pinyin: "lǎn",
     meaning: "lazy",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我今天好懶，不想出門。",
+      zhuyin: "ㄨㄛˇ ㄐㄧㄣ ㄊㄧㄢ ㄏㄠˇ ㄌㄢˇ ㄅㄨˋ ㄒㄧㄤˇ ㄔㄨ ㄇㄣˊ",
+      pinyin: "wǒ jīn tiān hǎo lǎn bù xiǎng chū mén",
+      en: "I'm so lazy today — I don't want to go out.",
+    },
   },
   {
     num: 915,
@@ -13602,7 +14000,12 @@ const WORDS = [
     pinyin: "yǒu shàn",
     meaning: "friendly",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "台灣人很友善。",
+      zhuyin: "ㄊㄞˊ ㄨㄢ ㄖㄣˊ ㄏㄣˇ ㄧㄡˇ ㄕㄢˋ",
+      pinyin: "tái wān rén hěn yǒu shàn",
+      en: "Taiwanese people are very friendly.",
+    },
   },
   {
     num: 916,
@@ -13612,7 +14015,12 @@ const WORDS = [
     pinyin: "kè qì",
     meaning: "polite",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "你太客氣了。",
+      zhuyin: "ㄋㄧˇ ㄊㄞˋ ㄎㄜˋ ㄑㄧˋ ㄌㄜ˙",
+      pinyin: "nǐ tài kè qì le",
+      en: "You're too polite.",
+    },
   },
   {
     num: 917,
@@ -13622,7 +14030,12 @@ const WORDS = [
     pinyin: "chéng shí",
     meaning: "honest",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "誠實最重要。",
+      zhuyin: "ㄔㄥˊ ㄕˊ ㄗㄨㄟˋ ㄓㄨㄥˋ ㄧㄠˋ",
+      pinyin: "chéng shí zuì zhòng yào",
+      en: "Honesty matters most.",
+    },
   },
   {
     num: 918,
@@ -13632,7 +14045,12 @@ const WORDS = [
     pinyin: "yǒu nài xīn",
     meaning: "patient",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "這位老師很有耐心。",
+      zhuyin: "ㄓㄜˋ ㄨㄟˋ ㄌㄠˇ ㄕ ㄏㄣˇ ㄧㄡˇ ㄋㄞˋ ㄒㄧㄣ",
+      pinyin: "zhè wèi lǎo shī hěn yǒu nài xīn",
+      en: "This teacher is very patient.",
+    },
   },
   {
     num: 919,
@@ -13642,7 +14060,12 @@ const WORDS = [
     pinyin: "cōng míng",
     meaning: "smart",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "這個孩子很聰明。",
+      zhuyin: "ㄓㄜˋ ㄍㄜ˙ ㄏㄞˊ ㄗ˙ ㄏㄣˇ ㄘㄨㄥ ㄇㄧㄥˊ",
+      pinyin: "zhè ge hái zi hěn cōng míng",
+      en: "This child is very clever.",
+    },
   },
   {
     num: 920,
@@ -13652,7 +14075,12 @@ const WORDS = [
     pinyin: "yōu mò",
     meaning: "humorous",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "他很幽默，大家都喜歡他。",
+      zhuyin: "ㄊㄚ ㄏㄣˇ ㄧㄡ ㄇㄛˋ ㄉㄚˋ ㄐㄧㄚ ㄉㄡ ㄒㄧˇ ㄏㄨㄢ ㄊㄚ",
+      pinyin: "tā hěn yōu mò dà jiā dōu xǐ huān tā",
+      en: "He's funny — everyone likes him.",
+    },
   },
   {
     num: 921,
@@ -13662,7 +14090,12 @@ const WORDS = [
     pinyin: "wēn róu",
     meaning: "gentle",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "她說話很溫柔。",
+      zhuyin: "ㄊㄚ ㄕㄨㄛ ㄏㄨㄚˋ ㄏㄣˇ ㄨㄣ ㄖㄡˊ",
+      pinyin: "tā shuō huà hěn wēn róu",
+      en: "She speaks very gently.",
+    },
   },
   {
     num: 922,
@@ -13672,7 +14105,12 @@ const WORDS = [
     pinyin: "zhí jiē",
     meaning: "direct",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "他說話比較直接。",
+      zhuyin: "ㄊㄚ ㄕㄨㄛ ㄏㄨㄚˋ ㄅㄧˇ ㄐㄧㄠˋ ㄓˊ ㄐㄧㄝ",
+      pinyin: "tā shuō huà bǐ jiào zhí jiē",
+      en: "He's fairly direct in how he speaks.",
+    },
   },
   {
     num: 923,
@@ -13682,7 +14120,12 @@ const WORDS = [
     pinyin: "rè qíng",
     meaning: "enthusiastic",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "老闆對客人很熱情。",
+      zhuyin: "ㄌㄠˇ ㄅㄢˇ ㄉㄨㄟˋ ㄎㄜˋ ㄖㄣˊ ㄏㄣˇ ㄖㄜˋ ㄑㄧㄥˊ",
+      pinyin: "lǎo bǎn duì kè rén hěn rè qíng",
+      en: "The owner is warm toward customers.",
+    },
   },
   {
     num: 924,
@@ -13692,7 +14135,12 @@ const WORDS = [
     pinyin: "lěng jìng",
     meaning: "calm",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "遇到問題要冷靜。",
+      zhuyin: "ㄩˋ ㄉㄠˋ ㄨㄣˋ ㄊㄧˊ ㄧㄠˋ ㄌㄥˇ ㄐㄧㄥˋ",
+      pinyin: "yù dào wèn tí yào lěng jìng",
+      en: "Stay calm when you run into problems.",
+    },
   },
   {
     num: 925,
@@ -13702,7 +14150,12 @@ const WORDS = [
     pinyin: "dú lì",
     meaning: "independent",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "她從小就很獨立。",
+      zhuyin: "ㄊㄚ ㄘㄨㄥˊ ㄒㄧㄠˇ ㄐㄧㄡˋ ㄏㄣˇ ㄉㄨˊ ㄌㄧˋ",
+      pinyin: "tā cóng xiǎo jiù hěn dú lì",
+      en: "She's been independent since she was little.",
+    },
   },
   {
     num: 926,
@@ -13712,7 +14165,12 @@ const WORDS = [
     pinyin: "fù miàn",
     meaning: "negative",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "不要想太多負面的事。",
+      zhuyin: "ㄅㄨˊ ㄧㄠˋ ㄒㄧㄤˇ ㄊㄞˋ ㄉㄨㄛ ㄈㄨˋ ㄇㄧㄢˋ ㄉㄜ˙ ㄕˋ",
+      pinyin: "bú yào xiǎng tài duō fù miàn de shì",
+      en: "Don't dwell on negative things.",
+    },
   },
   {
     num: 927,
@@ -13722,7 +14180,12 @@ const WORDS = [
     pinyin: "zhèng miàn",
     meaning: "positive",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "他的態度很正面。",
+      zhuyin: "ㄊㄚ ㄉㄜ˙ ㄊㄞˋ ㄉㄨˋ ㄏㄣˇ ㄓㄥˋ ㄇㄧㄢˋ",
+      pinyin: "tā de tài dù hěn zhèng miàn",
+      en: "His attitude is very positive.",
+    },
   },
   {
     num: 928,
@@ -13731,8 +14194,13 @@ const WORDS = [
     zhuyin: "ㄍㄜˋ ㄒㄧㄥˋ",
     pinyin: "gè xìng",
     meaning: "personality",
-    measure: null,
-    example: null,
+    measure: { hanzi: "種", zhuyin: "ㄓㄨㄥˇ", pinyin: "zhǒng" },
+    example: {
+      hanzi: "我們的個性完全不同。",
+      zhuyin: "ㄨㄛˇ ㄇㄣ˙ ㄉㄜ˙ ㄍㄜˋ ㄒㄧㄥˋ ㄨㄢˊ ㄑㄩㄢˊ ㄅㄨˋ ㄊㄨㄥˊ",
+      pinyin: "wǒ men de gè xìng wán quán bù tóng",
+      en: "Our personalities are completely different.",
+    },
   },
   {
     num: 929,
@@ -13741,8 +14209,13 @@ const WORDS = [
     zhuyin: "ㄒㄧˊ ㄍㄨㄢˋ",
     pinyin: "xí guàn",
     meaning: "habit",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "早起是個好習慣。",
+      zhuyin: "ㄗㄠˇ ㄑㄧˇ ㄕˋ ㄍㄜ˙ ㄏㄠˇ ㄒㄧˊ ㄍㄨㄢˋ",
+      pinyin: "zǎo qǐ shì ge hǎo xí guàn",
+      en: "Getting up early is a good habit.",
+    },
   },
   {
     num: 930,
@@ -13752,7 +14225,12 @@ const WORDS = [
     pinyin: "nǐ hǎo",
     meaning: "hello",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "你好，很高興認識你。",
+      zhuyin: "ㄋㄧˇ ㄏㄠˇ ㄏㄣˇ ㄍㄠ ㄒㄧㄥˋ ㄖㄣˋ ㄕˋ ㄋㄧˇ",
+      pinyin: "nǐ hǎo hěn gāo xìng rèn shì nǐ",
+      en: "Hello, nice to meet you.",
+    },
   },
   {
     num: 931,
@@ -13762,7 +14240,12 @@ const WORDS = [
     pinyin: "zǎo ān",
     meaning: "good morning",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "早安，你今天好嗎？",
+      zhuyin: "ㄗㄠˇ ㄢ ㄋㄧˇ ㄐㄧㄣ ㄊㄧㄢ ㄏㄠˇ ㄇㄚ˙",
+      pinyin: "zǎo ān nǐ jīn tiān hǎo ma",
+      en: "Good morning — how are you today?",
+    },
   },
   {
     num: 932,
@@ -13772,7 +14255,12 @@ const WORDS = [
     pinyin: "wǎn ān",
     meaning: "good night",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "晚安，明天見。",
+      zhuyin: "ㄨㄢˇ ㄢ ㄇㄧㄥˊ ㄊㄧㄢ ㄐㄧㄢˋ",
+      pinyin: "wǎn ān míng tiān jiàn",
+      en: "Good night — see you tomorrow.",
+    },
   },
   {
     num: 933,
@@ -13782,7 +14270,12 @@ const WORDS = [
     pinyin: "zài jiàn",
     meaning: "goodbye",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我要走了，再見。",
+      zhuyin: "ㄨㄛˇ ㄧㄠˋ ㄗㄡˇ ㄌㄜ˙ ㄗㄞˋ ㄐㄧㄢˋ",
+      pinyin: "wǒ yào zǒu le zài jiàn",
+      en: "I'm heading off — goodbye.",
+    },
   },
   {
     num: 934,
@@ -13792,17 +14285,27 @@ const WORDS = [
     pinyin: "xiè xiè",
     meaning: "thank you",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "謝謝你的幫忙。",
+      zhuyin: "ㄒㄧㄝˋ ㄒㄧㄝˋ ㄋㄧˇ ㄉㄜ˙ ㄅㄤ ㄇㄤˊ",
+      pinyin: "xiè xiè nǐ de bāng máng",
+      en: "Thank you for your help.",
+    },
   },
   {
     num: 935,
     cat: 39,
     hanzi: "不客氣",
-    zhuyin: "ㄅㄨˋ ㄎㄜˋ ㄑㄧˋ",
-    pinyin: "bù kè qì",
+    zhuyin: "ㄅㄨˊ ㄎㄜˋ ㄑㄧˋ",
+    pinyin: "bú kè qì",
     meaning: "you are welcome",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "不客氣，這是我應該做的。",
+      zhuyin: "ㄅㄨˊ ㄎㄜˋ ㄑㄧˋ ㄓㄜˋ ㄕˋ ㄨㄛˇ ㄧㄥ ㄍㄞ ㄗㄨㄛˋ ㄉㄜ˙",
+      pinyin: "bú kè qì zhè shì wǒ yīng gāi zuò de",
+      en: "You're welcome — it's the least I could do.",
+    },
   },
   {
     num: 936,
@@ -13812,7 +14315,12 @@ const WORDS = [
     pinyin: "duì bù qǐ",
     meaning: "sorry",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "對不起，我來晚了。",
+      zhuyin: "ㄉㄨㄟˋ ㄅㄨˋ ㄑㄧˇ ㄨㄛˇ ㄌㄞˊ ㄨㄢˇ ㄌㄜ˙",
+      pinyin: "duì bù qǐ wǒ lái wǎn le",
+      en: "Sorry, I'm late.",
+    },
   },
   {
     num: 937,
@@ -13822,7 +14330,12 @@ const WORDS = [
     pinyin: "méi guān xì",
     meaning: "it is okay",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "沒關係，下次注意就好。",
+      zhuyin: "ㄇㄟˊ ㄍㄨㄢ ㄒㄧˋ ㄒㄧㄚˋ ㄘˋ ㄓㄨˋ ㄧˋ ㄐㄧㄡˋ ㄏㄠˇ",
+      pinyin: "méi guān xì xià cì zhù yì jiù hǎo",
+      en: "It's okay — just be careful next time.",
+    },
   },
   {
     num: 938,
@@ -13832,17 +14345,27 @@ const WORDS = [
     pinyin: "qǐng",
     meaning: "please",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "請坐這裡。",
+      zhuyin: "ㄑㄧㄥˇ ㄗㄨㄛˋ ㄓㄜˋ ㄌㄧˇ",
+      pinyin: "qǐng zuò zhè lǐ",
+      en: "Please sit here.",
+    },
   },
   {
     num: 939,
     cat: 39,
     hanzi: "不好意思",
-    zhuyin: "ㄅㄨˋ ㄏㄠˇ ㄧˋ ㄙ",
-    pinyin: "bù hǎo yì sī",
+    zhuyin: "ㄅㄨˋ ㄏㄠˇ ㄧˋ ㄙ˙",
+    pinyin: "bù hǎo yì si",
     meaning: "excuse me/sorry",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "不好意思，可以借過一下嗎？",
+      zhuyin: "ㄅㄨˋ ㄏㄠˇ ㄧˋ ㄙ˙ ㄎㄜˇ ㄧˇ ㄐㄧㄝˋ ㄍㄨㄛˋ ㄧˊ ㄒㄧㄚˋ ㄇㄚ˙",
+      pinyin: "bù hǎo yì si kě yǐ jiè guò yí xià ma",
+      en: "Excuse me, may I get past?",
+    },
   },
   {
     num: 940,
@@ -13852,7 +14375,12 @@ const WORDS = [
     pinyin: "qǐng wèn",
     meaning: "may I ask",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "請問，捷運站怎麼走？",
+      zhuyin: "ㄑㄧㄥˇ ㄨㄣˋ ㄐㄧㄝˊ ㄩㄣˋ ㄓㄢˋ ㄗㄣˇ ㄇㄜ˙ ㄗㄡˇ",
+      pinyin: "qǐng wèn jié yùn zhàn zěn me zǒu",
+      en: "Excuse me, how do I get to the MRT station?",
+    },
   },
   {
     num: 941,
@@ -13862,7 +14390,12 @@ const WORDS = [
     pinyin: "huān yíng",
     meaning: "welcome",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "歡迎來台灣。",
+      zhuyin: "ㄏㄨㄢ ㄧㄥˊ ㄌㄞˊ ㄊㄞˊ ㄨㄢ",
+      pinyin: "huān yíng lái tái wān",
+      en: "Welcome to Taiwan.",
+    },
   },
   {
     num: 942,
@@ -13872,7 +14405,12 @@ const WORDS = [
     pinyin: "gōng xǐ",
     meaning: "congratulations",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "恭喜你找到新工作。",
+      zhuyin: "ㄍㄨㄥ ㄒㄧˇ ㄋㄧˇ ㄓㄠˇ ㄉㄠˋ ㄒㄧㄣ ㄍㄨㄥ ㄗㄨㄛˋ",
+      pinyin: "gōng xǐ nǐ zhǎo dào xīn gōng zuò",
+      en: "Congratulations on your new job.",
+    },
   },
   {
     num: 943,
@@ -13882,7 +14420,12 @@ const WORDS = [
     pinyin: "jiā yóu",
     meaning: "keep it up",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "明天要考試，加油！",
+      zhuyin: "ㄇㄧㄥˊ ㄊㄧㄢ ㄧㄠˋ ㄎㄠˇ ㄕˋ ㄐㄧㄚ ㄧㄡˊ",
+      pinyin: "míng tiān yào kǎo shì jiā yóu",
+      en: "You have an exam tomorrow — you've got this!",
+    },
   },
   {
     num: 944,
@@ -13892,17 +14435,27 @@ const WORDS = [
     pinyin: "xīn kǔ le",
     meaning: "thanks for your hard work",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "今天辛苦了，早點休息。",
+      zhuyin: "ㄐㄧㄣ ㄊㄧㄢ ㄒㄧㄣ ㄎㄨˇ ㄌㄜ˙ ㄗㄠˇ ㄉㄧㄢˇ ㄒㄧㄡ ㄒㄧˊ",
+      pinyin: "jīn tiān xīn kǔ le zǎo diǎn xiū xí",
+      en: "Thanks for your hard work today — rest early.",
+    },
   },
   {
     num: 945,
     cat: 39,
     hanzi: "好久不見",
-    zhuyin: "ㄏㄠˇ ㄐㄧㄡˇ ㄅㄨˋ ㄐㄧㄢˋ",
-    pinyin: "hǎo jiǔ bù jiàn",
+    zhuyin: "ㄏㄠˇ ㄐㄧㄡˇ ㄅㄨˊ ㄐㄧㄢˋ",
+    pinyin: "hǎo jiǔ bú jiàn",
     meaning: "long time no see",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "好久不見，你最近好嗎？",
+      zhuyin: "ㄏㄠˇ ㄐㄧㄡˇ ㄅㄨˊ ㄐㄧㄢˋ ㄋㄧˇ ㄗㄨㄟˋ ㄐㄧㄣˋ ㄏㄠˇ ㄇㄚ˙",
+      pinyin: "hǎo jiǔ bú jiàn nǐ zuì jìn hǎo ma",
+      en: "Long time no see — how have you been?",
+    },
   },
   {
     num: 946,
@@ -13912,7 +14465,12 @@ const WORDS = [
     pinyin: "yuán lái rú cǐ",
     meaning: "I see",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "原來如此，我現在懂了。",
+      zhuyin: "ㄩㄢˊ ㄌㄞˊ ㄖㄨˊ ㄘˇ ㄨㄛˇ ㄒㄧㄢˋ ㄗㄞˋ ㄉㄨㄥˇ ㄌㄜ˙",
+      pinyin: "yuán lái rú cǐ wǒ xiàn zài dǒng le",
+      en: "I see — now I understand.",
+    },
   },
   {
     num: 947,
@@ -13922,7 +14480,12 @@ const WORDS = [
     pinyin: "méi wèn tí",
     meaning: "no problem",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "沒問題，我可以幫你。",
+      zhuyin: "ㄇㄟˊ ㄨㄣˋ ㄊㄧˊ ㄨㄛˇ ㄎㄜˇ ㄧˇ ㄅㄤ ㄋㄧˇ",
+      pinyin: "méi wèn tí wǒ kě yǐ bāng nǐ",
+      en: "No problem — I can help you.",
+    },
   },
   {
     num: 948,
@@ -13932,7 +14495,12 @@ const WORDS = [
     pinyin: "bù xíng",
     meaning: "cannot/not okay",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "這裡不行停車。",
+      zhuyin: "ㄓㄜˋ ㄌㄧˇ ㄅㄨˋ ㄒㄧㄥˊ ㄊㄧㄥˊ ㄔㄜ",
+      pinyin: "zhè lǐ bù xíng tíng chē",
+      en: "You can't park here.",
+    },
   },
   {
     num: 949,
@@ -13942,7 +14510,12 @@ const WORDS = [
     pinyin: "kàn qíng kuàng",
     meaning: "it depends",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我還不確定，要看情況。",
+      zhuyin: "ㄨㄛˇ ㄏㄞˊ ㄅㄨˊ ㄑㄩㄝˋ ㄉㄧㄥˋ ㄧㄠˋ ㄎㄢˋ ㄑㄧㄥˊ ㄎㄨㄤˋ",
+      pinyin: "wǒ hái bú què dìng yào kàn qíng kuàng",
+      en: "I'm not sure yet — it depends.",
+    },
   },
   {
     num: 950,
@@ -13952,7 +14525,12 @@ const WORDS = [
     pinyin: "suí biàn",
     meaning: "anything is fine",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "吃什麼都可以，我隨便。",
+      zhuyin: "ㄔ ㄕㄣˊ ㄇㄜ˙ ㄉㄡ ㄎㄜˇ ㄧˇ ㄨㄛˇ ㄙㄨㄟˊ ㄅㄧㄢˋ",
+      pinyin: "chī shén me dōu kě yǐ wǒ suí biàn",
+      en: "Anything's fine with me.",
+    },
   },
   {
     num: 951,
@@ -13962,7 +14540,12 @@ const WORDS = [
     pinyin: "màn màn lái",
     meaning: "take your time",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "不用急，慢慢來。",
+      zhuyin: "ㄅㄨˊ ㄩㄥˋ ㄐㄧˊ ㄇㄢˋ ㄇㄢˋ ㄌㄞˊ",
+      pinyin: "bú yòng jí màn màn lái",
+      en: "No rush — take your time.",
+    },
   },
   {
     num: 952,
@@ -13972,7 +14555,12 @@ const WORDS = [
     pinyin: "bié dān xīn",
     meaning: "do not worry",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "別擔心，問題會解決的。",
+      zhuyin: "ㄅㄧㄝˊ ㄉㄢ ㄒㄧㄣ ㄨㄣˋ ㄊㄧˊ ㄏㄨㄟˋ ㄐㄧㄝˇ ㄐㄩㄝˊ ㄉㄜ˙",
+      pinyin: "bié dān xīn wèn tí huì jiě jué de",
+      en: "Don't worry — the problem will get sorted out.",
+    },
   },
   {
     num: 953,
@@ -13982,7 +14570,12 @@ const WORDS = [
     pinyin: "bāng zhù",
     meaning: "help",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "謝謝你的幫助。",
+      zhuyin: "ㄒㄧㄝˋ ㄒㄧㄝˋ ㄋㄧˇ ㄉㄜ˙ ㄅㄤ ㄓㄨˋ",
+      pinyin: "xiè xiè nǐ de bāng zhù",
+      en: "Thank you for your help.",
+    },
   },
   {
     num: 954,
@@ -13992,7 +14585,12 @@ const WORDS = [
     pinyin: "jiù mìng",
     meaning: "help/save me",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "救命！有人掉到水裡了！",
+      zhuyin: "ㄐㄧㄡˋ ㄇㄧㄥˋ ㄧㄡˇ ㄖㄣˊ ㄉㄧㄠˋ ㄉㄠˋ ㄕㄨㄟˇ ㄌㄧˇ ㄌㄜ˙",
+      pinyin: "jiù mìng yǒu rén diào dào shuǐ lǐ le",
+      en: "Help! Someone fell into the water!",
+    },
   },
   {
     num: 955,
@@ -14001,8 +14599,13 @@ const WORDS = [
     zhuyin: "ㄒㄧㄠˇ ㄊㄡ",
     pinyin: "xiǎo tōu",
     meaning: "thief",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "小偷偷走了我的錢包。",
+      zhuyin: "ㄒㄧㄠˇ ㄊㄡ ㄊㄡ ㄗㄡˇ ㄌㄜ˙ ㄨㄛˇ ㄉㄜ˙ ㄑㄧㄢˊ ㄅㄠ",
+      pinyin: "xiǎo tōu tōu zǒu le wǒ de qián bāo",
+      en: "A thief stole my wallet.",
+    },
   },
   {
     num: 956,
@@ -14012,7 +14615,12 @@ const WORDS = [
     pinyin: "tōu",
     meaning: "steal",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我的腳踏車被偷了。",
+      zhuyin: "ㄨㄛˇ ㄉㄜ˙ ㄐㄧㄠˇ ㄊㄚˋ ㄔㄜ ㄅㄟˋ ㄊㄡ ㄌㄜ˙",
+      pinyin: "wǒ de jiǎo tà chē bèi tōu le",
+      en: "My bicycle was stolen.",
+    },
   },
   {
     num: 957,
@@ -14022,7 +14630,12 @@ const WORDS = [
     pinyin: "yí shī",
     meaning: "lose",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我遺失了我的證件。",
+      zhuyin: "ㄨㄛˇ ㄧˊ ㄕ ㄌㄜ˙ ㄨㄛˇ ㄉㄜ˙ ㄓㄥˋ ㄐㄧㄢˋ",
+      pinyin: "wǒ yí shī le wǒ de zhèng jiàn",
+      en: "I lost my ID.",
+    },
   },
   {
     num: 958,
@@ -14032,7 +14645,12 @@ const WORDS = [
     pinyin: "zhǎo dào",
     meaning: "find",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我終於找到鑰匙了。",
+      zhuyin: "ㄨㄛˇ ㄓㄨㄥ ㄩˊ ㄓㄠˇ ㄉㄠˋ ㄧㄠˋ ㄕ˙ ㄌㄜ˙",
+      pinyin: "wǒ zhōng yú zhǎo dào yào shi le",
+      en: "I finally found my keys.",
+    },
   },
   {
     num: 959,
@@ -14042,7 +14660,12 @@ const WORDS = [
     pinyin: "huài diào",
     meaning: "broken",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我的手機壞掉了。",
+      zhuyin: "ㄨㄛˇ ㄉㄜ˙ ㄕㄡˇ ㄐㄧ ㄏㄨㄞˋ ㄉㄧㄠˋ ㄌㄜ˙",
+      pinyin: "wǒ de shǒu jī huài diào le",
+      en: "My phone is broken.",
+    },
   },
   {
     num: 960,
@@ -14052,7 +14675,12 @@ const WORDS = [
     pinyin: "bù néng yòng",
     meaning: "cannot be used",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "這張卡不能用。",
+      zhuyin: "ㄓㄜˋ ㄓㄤ ㄎㄚˇ ㄅㄨˋ ㄋㄥˊ ㄩㄥˋ",
+      pinyin: "zhè zhāng kǎ bù néng yòng",
+      en: "This card doesn't work.",
+    },
   },
   {
     num: 961,
@@ -14062,7 +14690,12 @@ const WORDS = [
     pinyin: "méi yǒu fǎn yīng",
     meaning: "no response",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "電腦沒有反應。",
+      zhuyin: "ㄉㄧㄢˋ ㄋㄠˇ ㄇㄟˊ ㄧㄡˇ ㄈㄢˇ ㄧㄥ",
+      pinyin: "diàn nǎo méi yǒu fǎn yīng",
+      en: "The computer isn't responding.",
+    },
   },
   {
     num: 962,
@@ -14072,7 +14705,12 @@ const WORDS = [
     pinyin: "kǎ zhù",
     meaning: "stuck",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "電梯卡住了。",
+      zhuyin: "ㄉㄧㄢˋ ㄊㄧ ㄎㄚˇ ㄓㄨˋ ㄌㄜ˙",
+      pinyin: "diàn tī kǎ zhù le",
+      en: "The elevator is stuck.",
+    },
   },
   {
     num: 963,
@@ -14082,7 +14720,12 @@ const WORDS = [
     pinyin: "tíng diàn",
     meaning: "power outage",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "昨天晚上停電了。",
+      zhuyin: "ㄗㄨㄛˊ ㄊㄧㄢ ㄨㄢˇ ㄕㄤˋ ㄊㄧㄥˊ ㄉㄧㄢˋ ㄌㄜ˙",
+      pinyin: "zuó tiān wǎn shàng tíng diàn le",
+      en: "The power went out last night.",
+    },
   },
   {
     num: 964,
@@ -14092,7 +14735,12 @@ const WORDS = [
     pinyin: "lòu shuǐ",
     meaning: "water leak",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "浴室的天花板在漏水。",
+      zhuyin: "ㄩˋ ㄕˋ ㄉㄜ˙ ㄊㄧㄢ ㄏㄨㄚ ㄅㄢˇ ㄗㄞˋ ㄌㄡˋ ㄕㄨㄟˇ",
+      pinyin: "yù shì de tiān huā bǎn zài lòu shuǐ",
+      en: "The bathroom ceiling is leaking.",
+    },
   },
   {
     num: 965,
@@ -14101,8 +14749,13 @@ const WORDS = [
     zhuyin: "ㄏㄨㄛˇ ㄗㄞ",
     pinyin: "huǒ zāi",
     meaning: "fire",
-    measure: null,
-    example: null,
+    measure: { hanzi: "場", zhuyin: "ㄔㄤˇ", pinyin: "chǎng" },
+    example: {
+      hanzi: "發生火災要走樓梯。",
+      zhuyin: "ㄈㄚ ㄕㄥ ㄏㄨㄛˇ ㄗㄞ ㄧㄠˋ ㄗㄡˇ ㄌㄡˊ ㄊㄧ",
+      pinyin: "fā shēng huǒ zāi yào zǒu lóu tī",
+      en: "In a fire, use the stairs.",
+    },
   },
   {
     num: 966,
@@ -14112,7 +14765,12 @@ const WORDS = [
     pinyin: "bào jǐng",
     meaning: "call the police",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "出事了要馬上報警。",
+      zhuyin: "ㄔㄨ ㄕˋ ㄌㄜ˙ ㄧㄠˋ ㄇㄚˇ ㄕㄤˋ ㄅㄠˋ ㄐㄧㄥˇ",
+      pinyin: "chū shì le yào mǎ shàng bào jǐng",
+      en: "If something happens, call the police right away.",
+    },
   },
   {
     num: 967,
@@ -14122,7 +14780,12 @@ const WORDS = [
     pinyin: "jǐn jí",
     meaning: "urgent/emergency",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "這是緊急情況。",
+      zhuyin: "ㄓㄜˋ ㄕˋ ㄐㄧㄣˇ ㄐㄧˊ ㄑㄧㄥˊ ㄎㄨㄤˋ",
+      pinyin: "zhè shì jǐn jí qíng kuàng",
+      en: "This is an emergency.",
+    },
   },
   {
     num: 968,
@@ -14131,8 +14794,13 @@ const WORDS = [
     zhuyin: "ㄧˋ ㄨㄞˋ",
     pinyin: "yì wài",
     meaning: "accident",
-    measure: null,
-    example: null,
+    measure: { hanzi: "場", zhuyin: "ㄔㄤˇ", pinyin: "chǎng" },
+    example: {
+      hanzi: "路上發生了意外。",
+      zhuyin: "ㄌㄨˋ ㄕㄤˋ ㄈㄚ ㄕㄥ ㄌㄜ˙ ㄧˋ ㄨㄞˋ",
+      pinyin: "lù shàng fā shēng le yì wài",
+      en: "There was an accident on the road.",
+    },
   },
   {
     num: 969,
@@ -14142,7 +14810,12 @@ const WORDS = [
     pinyin: "qǔ xiāo",
     meaning: "cancel",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "因為颱風，班機取消了。",
+      zhuyin: "ㄧㄣ ㄨㄟˋ ㄊㄞˊ ㄈㄥ ㄅㄢ ㄐㄧ ㄑㄩˇ ㄒㄧㄠ ㄌㄜ˙",
+      pinyin: "yīn wèi tái fēng bān jī qǔ xiāo le",
+      en: "The flight was cancelled because of the typhoon.",
+    },
   },
   {
     num: 970,
@@ -14152,7 +14825,12 @@ const WORDS = [
     pinyin: "gǎi qí",
     meaning: "reschedule",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "會議改期到下星期。",
+      zhuyin: "ㄏㄨㄟˋ ㄧˋ ㄍㄞˇ ㄑㄧˊ ㄉㄠˋ ㄒㄧㄚˋ ㄒㄧㄥ ㄑㄧˊ",
+      pinyin: "huì yì gǎi qí dào xià xīng qí",
+      en: "The meeting was rescheduled to next week.",
+    },
   },
   {
     num: 971,
@@ -14162,7 +14840,12 @@ const WORDS = [
     pinyin: "lái bù jí",
     meaning: "not enough time",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "再不走就來不及了。",
+      zhuyin: "ㄗㄞˋ ㄅㄨˋ ㄗㄡˇ ㄐㄧㄡˋ ㄌㄞˊ ㄅㄨˋ ㄐㄧˊ ㄌㄜ˙",
+      pinyin: "zài bù zǒu jiù lái bù jí le",
+      en: "If we don't leave now, we won't make it.",
+    },
   },
   {
     num: 972,
@@ -14172,7 +14855,12 @@ const WORDS = [
     pinyin: "gǎn bù shàng",
     meaning: "cannot catch up/miss",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我趕不上最後一班車。",
+      zhuyin: "ㄨㄛˇ ㄍㄢˇ ㄅㄨˋ ㄕㄤˋ ㄗㄨㄟˋ ㄏㄡˋ ㄧˋ ㄅㄢ ㄔㄜ",
+      pinyin: "wǒ gǎn bù shàng zuì hòu yì bān chē",
+      en: "I can't catch the last train.",
+    },
   },
   {
     num: 973,
@@ -14182,7 +14870,12 @@ const WORDS = [
     pinyin: "cuò guò",
     meaning: "miss",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我錯過了那班車。",
+      zhuyin: "ㄨㄛˇ ㄘㄨㄛˋ ㄍㄨㄛˋ ㄌㄜ˙ ㄋㄚˋ ㄅㄢ ㄔㄜ",
+      pinyin: "wǒ cuò guò le nà bān chē",
+      en: "I missed that train.",
+    },
   },
   {
     num: 974,
@@ -14192,7 +14885,12 @@ const WORDS = [
     pinyin: "yán hòu",
     meaning: "postpone",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "活動延後一個星期。",
+      zhuyin: "ㄏㄨㄛˊ ㄉㄨㄥˋ ㄧㄢˊ ㄏㄡˋ ㄧˊ ㄍㄜ˙ ㄒㄧㄥ ㄑㄧˊ",
+      pinyin: "huó dòng yán hòu yí ge xīng qí",
+      en: "The event was postponed by a week.",
+    },
   },
   {
     num: 975,
@@ -14202,7 +14900,12 @@ const WORDS = [
     pinyin: "tí qián",
     meaning: "move earlier",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我們提前到了。",
+      zhuyin: "ㄨㄛˇ ㄇㄣ˙ ㄊㄧˊ ㄑㄧㄢˊ ㄉㄠˋ ㄌㄜ˙",
+      pinyin: "wǒ men tí qián dào le",
+      en: "We arrived ahead of time.",
+    },
   },
   {
     num: 976,
@@ -14211,8 +14914,13 @@ const WORDS = [
     zhuyin: "ㄩㄢˊ ㄧㄣ",
     pinyin: "yuán yīn",
     meaning: "reason",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "遲到的原因是塞車。",
+      zhuyin: "ㄔˊ ㄉㄠˋ ㄉㄜ˙ ㄩㄢˊ ㄧㄣ ㄕˋ ㄙㄞ ㄔㄜ",
+      pinyin: "chí dào de yuán yīn shì sāi chē",
+      en: "The reason for being late was traffic.",
+    },
   },
   {
     num: 977,
@@ -14221,8 +14929,13 @@ const WORDS = [
     zhuyin: "ㄈㄤ ㄈㄚˇ",
     pinyin: "fāng fǎ",
     meaning: "method",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "這個方法很有效。",
+      zhuyin: "ㄓㄜˋ ㄍㄜ˙ ㄈㄤ ㄈㄚˇ ㄏㄣˇ ㄧㄡˇ ㄒㄧㄠˋ",
+      pinyin: "zhè ge fāng fǎ hěn yǒu xiào",
+      en: "This method is very effective.",
+    },
   },
   {
     num: 978,
@@ -14231,8 +14944,13 @@ const WORDS = [
     zhuyin: "ㄑㄧㄥˊ ㄎㄨㄤˋ",
     pinyin: "qíng kuàng",
     meaning: "situation",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "情況有點複雜。",
+      zhuyin: "ㄑㄧㄥˊ ㄎㄨㄤˋ ㄧㄡˇ ㄉㄧㄢˇ ㄈㄨˋ ㄗㄚˊ",
+      pinyin: "qíng kuàng yǒu diǎn fù zá",
+      en: "The situation is a bit complicated.",
+    },
   },
   {
     num: 979,
@@ -14241,8 +14959,13 @@ const WORDS = [
     zhuyin: "ㄐㄧ ㄏㄨㄟˋ",
     pinyin: "jī huì",
     meaning: "opportunity",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "這是個好機會。",
+      zhuyin: "ㄓㄜˋ ㄕˋ ㄍㄜ˙ ㄏㄠˇ ㄐㄧ ㄏㄨㄟˋ",
+      pinyin: "zhè shì ge hǎo jī huì",
+      en: "This is a good opportunity.",
+    },
   },
   {
     num: 980,
@@ -14251,8 +14974,13 @@ const WORDS = [
     zhuyin: "ㄐㄧㄥ ㄧㄢˋ",
     pinyin: "jīng yàn",
     meaning: "experience",
-    measure: null,
-    example: null,
+    measure: { hanzi: "次", zhuyin: "ㄘˋ", pinyin: "cì" },
+    example: {
+      hanzi: "這次的經驗很寶貴。",
+      zhuyin: "ㄓㄜˋ ㄘˋ ㄉㄜ˙ ㄐㄧㄥ ㄧㄢˋ ㄏㄣˇ ㄅㄠˇ ㄍㄨㄟˋ",
+      pinyin: "zhè cì de jīng yàn hěn bǎo guì",
+      en: "This experience was valuable.",
+    },
   },
   {
     num: 981,
@@ -14262,7 +14990,12 @@ const WORDS = [
     pinyin: "nèi róng",
     meaning: "content",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "這本書的內容很有趣。",
+      zhuyin: "ㄓㄜˋ ㄅㄣˇ ㄕㄨ ㄉㄜ˙ ㄋㄟˋ ㄖㄨㄥˊ ㄏㄣˇ ㄧㄡˇ ㄑㄩˋ",
+      pinyin: "zhè běn shū de nèi róng hěn yǒu qù",
+      en: "This book's content is interesting.",
+    },
   },
   {
     num: 982,
@@ -14271,8 +15004,13 @@ const WORDS = [
     zhuyin: "ㄅㄨˋ ㄈㄣˋ",
     pinyin: "bù fèn",
     meaning: "part",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "這部分我不太懂。",
+      zhuyin: "ㄓㄜˋ ㄅㄨˋ ㄈㄣˋ ㄨㄛˇ ㄅㄨˊ ㄊㄞˋ ㄉㄨㄥˇ",
+      pinyin: "zhè bù fèn wǒ bú tài dǒng",
+      en: "I don't quite understand this part.",
+    },
   },
   {
     num: 983,
@@ -14281,8 +15019,13 @@ const WORDS = [
     zhuyin: "ㄈㄤ ㄇㄧㄢˋ",
     pinyin: "fāng miàn",
     meaning: "aspect",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "這方面我沒有經驗。",
+      zhuyin: "ㄓㄜˋ ㄈㄤ ㄇㄧㄢˋ ㄨㄛˇ ㄇㄟˊ ㄧㄡˇ ㄐㄧㄥ ㄧㄢˋ",
+      pinyin: "zhè fāng miàn wǒ méi yǒu jīng yàn",
+      en: "I have no experience in this area.",
+    },
   },
   {
     num: 984,
@@ -14291,8 +15034,13 @@ const WORDS = [
     zhuyin: "ㄓㄨㄥˇ ㄌㄟˋ",
     pinyin: "zhǒng lèi",
     meaning: "type",
-    measure: null,
-    example: null,
+    measure: { hanzi: "種", zhuyin: "ㄓㄨㄥˇ", pinyin: "zhǒng" },
+    example: {
+      hanzi: "這家店的種類很多。",
+      zhuyin: "ㄓㄜˋ ㄐㄧㄚ ㄉㄧㄢˋ ㄉㄜ˙ ㄓㄨㄥˇ ㄌㄟˋ ㄏㄣˇ ㄉㄨㄛ",
+      pinyin: "zhè jiā diàn de zhǒng lèi hěn duō",
+      en: "This shop has a wide variety.",
+    },
   },
   {
     num: 985,
@@ -14301,8 +15049,13 @@ const WORDS = [
     zhuyin: "ㄈㄤ ㄕˋ",
     pinyin: "fāng shì",
     meaning: "way/manner",
-    measure: null,
-    example: null,
+    measure: { hanzi: "種", zhuyin: "ㄓㄨㄥˇ", pinyin: "zhǒng" },
+    example: {
+      hanzi: "每個人的方式不一樣。",
+      zhuyin: "ㄇㄟˇ ㄍㄜ˙ ㄖㄣˊ ㄉㄜ˙ ㄈㄤ ㄕˋ ㄅㄨˋ ㄧˊ ㄧㄤˋ",
+      pinyin: "měi ge rén de fāng shì bù yí yàng",
+      en: "Everyone's way of doing it is different.",
+    },
   },
   {
     num: 986,
@@ -14311,8 +15064,13 @@ const WORDS = [
     zhuyin: "ㄊㄧㄠˊ ㄐㄧㄢˋ",
     pinyin: "tiáo jiàn",
     meaning: "condition",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "這個工作的條件不錯。",
+      zhuyin: "ㄓㄜˋ ㄍㄜ˙ ㄍㄨㄥ ㄗㄨㄛˋ ㄉㄜ˙ ㄊㄧㄠˊ ㄐㄧㄢˋ ㄅㄨˊ ㄘㄨㄛˋ",
+      pinyin: "zhè ge gōng zuò de tiáo jiàn bú cuò",
+      en: "The terms of this job are pretty good.",
+    },
   },
   {
     num: 987,
@@ -14321,8 +15079,13 @@ const WORDS = [
     zhuyin: "ㄍㄨㄟ ㄗㄜˊ",
     pinyin: "guī zé",
     meaning: "rule",
-    measure: null,
-    example: null,
+    measure: { hanzi: "條", zhuyin: "ㄊㄧㄠˊ", pinyin: "tiáo" },
+    example: {
+      hanzi: "請遵守遊戲規則。",
+      zhuyin: "ㄑㄧㄥˇ ㄗㄨㄣ ㄕㄡˇ ㄧㄡˊ ㄒㄧˋ ㄍㄨㄟ ㄗㄜˊ",
+      pinyin: "qǐng zūn shǒu yóu xì guī zé",
+      en: "Please follow the rules of the game.",
+    },
   },
   {
     num: 988,
@@ -14331,8 +15094,13 @@ const WORDS = [
     zhuyin: "ㄈㄚˇ ㄌㄩˋ",
     pinyin: "fǎ lǜ",
     meaning: "law",
-    measure: null,
-    example: null,
+    measure: { hanzi: "條", zhuyin: "ㄊㄧㄠˊ", pinyin: "tiáo" },
+    example: {
+      hanzi: "我們要遵守法律。",
+      zhuyin: "ㄨㄛˇ ㄇㄣ˙ ㄧㄠˋ ㄗㄨㄣ ㄕㄡˇ ㄈㄚˇ ㄌㄩˋ",
+      pinyin: "wǒ men yào zūn shǒu fǎ lǜ",
+      en: "We must obey the law.",
+    },
   },
   {
     num: 989,
@@ -14341,8 +15109,13 @@ const WORDS = [
     zhuyin: "ㄨㄣˊ ㄏㄨㄚˋ",
     pinyin: "wén huà",
     meaning: "culture",
-    measure: null,
-    example: null,
+    measure: { hanzi: "種", zhuyin: "ㄓㄨㄥˇ", pinyin: "zhǒng" },
+    example: {
+      hanzi: "台灣的文化很多元。",
+      zhuyin: "ㄊㄞˊ ㄨㄢ ㄉㄜ˙ ㄨㄣˊ ㄏㄨㄚˋ ㄏㄣˇ ㄉㄨㄛ ㄩㄢˊ",
+      pinyin: "tái wān de wén huà hěn duō yuán",
+      en: "Taiwan's culture is very diverse.",
+    },
   },
   {
     num: 990,
@@ -14351,8 +15124,13 @@ const WORDS = [
     zhuyin: "ㄕㄥ ㄏㄨㄛˊ",
     pinyin: "shēng huó",
     meaning: "life",
-    measure: null,
-    example: null,
+    measure: { hanzi: "種", zhuyin: "ㄓㄨㄥˇ", pinyin: "zhǒng" },
+    example: {
+      hanzi: "我很滿意現在的生活。",
+      zhuyin: "ㄨㄛˇ ㄏㄣˇ ㄇㄢˇ ㄧˋ ㄒㄧㄢˋ ㄗㄞˋ ㄉㄜ˙ ㄕㄥ ㄏㄨㄛˊ",
+      pinyin: "wǒ hěn mǎn yì xiàn zài de shēng huó",
+      en: "I'm very satisfied with my life right now.",
+    },
   },
   {
     num: 991,
@@ -14362,7 +15140,12 @@ const WORDS = [
     pinyin: "wèi lái",
     meaning: "future",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "我對未來很有信心。",
+      zhuyin: "ㄨㄛˇ ㄉㄨㄟˋ ㄨㄟˋ ㄌㄞˊ ㄏㄣˇ ㄧㄡˇ ㄒㄧㄣˋ ㄒㄧㄣ",
+      pinyin: "wǒ duì wèi lái hěn yǒu xìn xīn",
+      en: "I'm confident about the future.",
+    },
   },
   {
     num: 992,
@@ -14372,7 +15155,12 @@ const WORDS = [
     pinyin: "guò qù",
     meaning: "past",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "過去的事就別想了。",
+      zhuyin: "ㄍㄨㄛˋ ㄑㄩˋ ㄉㄜ˙ ㄕˋ ㄐㄧㄡˋ ㄅㄧㄝˊ ㄒㄧㄤˇ ㄌㄜ˙",
+      pinyin: "guò qù de shì jiù bié xiǎng le",
+      en: "Don't dwell on things that are past.",
+    },
   },
   {
     num: 993,
@@ -14381,8 +15169,13 @@ const WORDS = [
     zhuyin: "ㄐㄧㄢˋ ㄧˋ",
     pinyin: "jiàn yì",
     meaning: "suggestion",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "謝謝你的建議。",
+      zhuyin: "ㄒㄧㄝˋ ㄒㄧㄝˋ ㄋㄧˇ ㄉㄜ˙ ㄐㄧㄢˋ ㄧˋ",
+      pinyin: "xiè xiè nǐ de jiàn yì",
+      en: "Thank you for your suggestion.",
+    },
   },
   {
     num: 994,
@@ -14391,8 +15184,13 @@ const WORDS = [
     zhuyin: "ㄧˋ ㄐㄧㄢˋ",
     pinyin: "yì jiàn",
     meaning: "opinion",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "我想聽聽你的意見。",
+      zhuyin: "ㄨㄛˇ ㄒㄧㄤˇ ㄊㄧㄥ ㄊㄧㄥ ㄋㄧˇ ㄉㄜ˙ ㄧˋ ㄐㄧㄢˋ",
+      pinyin: "wǒ xiǎng tīng tīng nǐ de yì jiàn",
+      en: "I'd like to hear your opinion.",
+    },
   },
   {
     num: 995,
@@ -14401,8 +15199,13 @@ const WORDS = [
     zhuyin: "ㄒㄧㄤˇ ㄈㄚˇ",
     pinyin: "xiǎng fǎ",
     meaning: "idea",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "我有一個想法。",
+      zhuyin: "ㄨㄛˇ ㄧㄡˇ ㄧˊ ㄍㄜ˙ ㄒㄧㄤˇ ㄈㄚˇ",
+      pinyin: "wǒ yǒu yí ge xiǎng fǎ",
+      en: "I have an idea.",
+    },
   },
   {
     num: 996,
@@ -14411,8 +15214,13 @@ const WORDS = [
     zhuyin: "ㄍㄞˇ ㄅㄧㄢˋ",
     pinyin: "gǎi biàn",
     meaning: "change",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "這個改變很重要。",
+      zhuyin: "ㄓㄜˋ ㄍㄜ˙ ㄍㄞˇ ㄅㄧㄢˋ ㄏㄣˇ ㄓㄨㄥˋ ㄧㄠˋ",
+      pinyin: "zhè ge gǎi biàn hěn zhòng yào",
+      en: "This change is important.",
+    },
   },
   {
     num: 997,
@@ -14421,8 +15229,14 @@ const WORDS = [
     zhuyin: "ㄧㄥˇ ㄒㄧㄤˇ",
     pinyin: "yǐng xiǎng",
     meaning: "influence",
-    measure: null,
-    example: null,
+    measure: { hanzi: "個", zhuyin: "ㄍㄜˋ", pinyin: "gè" },
+    example: {
+      hanzi: "天氣影響了我們的計畫。",
+      zhuyin:
+        "ㄊㄧㄢ ㄑㄧˋ ㄧㄥˇ ㄒㄧㄤˇ ㄌㄜ˙ ㄨㄛˇ ㄇㄣ˙ ㄉㄜ˙ ㄐㄧˋ ㄏㄨㄚˋ",
+      pinyin: "tiān qì yǐng xiǎng le wǒ men de jì huà",
+      en: "The weather affected our plans.",
+    },
   },
   {
     num: 998,
@@ -14432,7 +15246,12 @@ const WORDS = [
     pinyin: "chéng gōng",
     meaning: "success",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "他終於成功了。",
+      zhuyin: "ㄊㄚ ㄓㄨㄥ ㄩˊ ㄔㄥˊ ㄍㄨㄥ ㄌㄜ˙",
+      pinyin: "tā zhōng yú chéng gōng le",
+      en: "He finally succeeded.",
+    },
   },
   {
     num: 999,
@@ -14441,8 +15260,13 @@ const WORDS = [
     zhuyin: "ㄕ ㄅㄞˋ",
     pinyin: "shī bài",
     meaning: "failure",
-    measure: null,
-    example: null,
+    measure: { hanzi: "次", zhuyin: "ㄘˋ", pinyin: "cì" },
+    example: {
+      hanzi: "失敗是成功之母。",
+      zhuyin: "ㄕ ㄅㄞˋ ㄕˋ ㄔㄥˊ ㄍㄨㄥ ㄓ ㄇㄨˇ",
+      pinyin: "shī bài shì chéng gōng zhī mǔ",
+      en: "Failure is the mother of success.",
+    },
   },
   {
     num: 1000,
@@ -14452,7 +15276,13 @@ const WORDS = [
     pinyin: "zhòng yào xìng",
     meaning: "importance",
     measure: null,
-    example: null,
+    example: {
+      hanzi: "大家都知道健康的重要性。",
+      zhuyin:
+        "ㄉㄚˋ ㄐㄧㄚ ㄉㄡ ㄓ ㄉㄠˋ ㄐㄧㄢˋ ㄎㄤ ㄉㄜ˙ ㄓㄨㄥˋ ㄧㄠˋ ㄒㄧㄥˋ",
+      pinyin: "dà jiā dōu zhī dào jiàn kāng de zhòng yào xìng",
+      en: "Everyone knows the importance of health.",
+    },
   },
 ];
 
