@@ -544,7 +544,7 @@ const WORDS = [
       pinyin: "zhè shì wǒ de shū",
       en: "This is my book.",
     },
-    say: "我的書",
+    say: "我的",
   },
   {
     num: 19,
@@ -560,7 +560,7 @@ const WORDS = [
       pinyin: "wǒ chī guò wǎn cān le",
       en: "I've eaten dinner.",
     },
-    say: "我吃飽了",
+    say: "好了",
   },
   {
     num: 20,
@@ -576,7 +576,7 @@ const WORDS = [
       pinyin: "wǒ qù guò tái nán",
       en: "I've been to Tainan.",
     },
-    say: "我去過台南",
+    say: null,
   },
   {
     num: 21,
@@ -592,7 +592,7 @@ const WORDS = [
       pinyin: "mén yì zhí kāi zhe",
       en: "The door is standing open.",
     },
-    say: "門開著",
+    say: "開著",
   },
   {
     num: 22,
@@ -2324,7 +2324,7 @@ const WORDS = [
       pinyin: "lǎo shī jiāo wǒ men zhōng wén",
       en: "The teacher teaches us Chinese.",
     },
-    say: "教中文",
+    say: null,
   },
   {
     num: 130,
@@ -11906,7 +11906,7 @@ const WORDS = [
       pinyin: "tā chī huài dù zi tù le",
       en: "He ate something bad and threw up.",
     },
-    say: "我想吐",
+    say: null,
   },
   {
     num: 728,
