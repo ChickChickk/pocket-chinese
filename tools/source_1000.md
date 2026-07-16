@@ -128,7 +128,7 @@
 | 100 | 帶 | ㄉㄞˋ | dài | to bring/carry | 出門記得帶手機。 | Remember to bring your phone when going out. | 1 |
 | 101 | 送 | ㄙㄨㄥˋ | sòng | to send/give | 我今天需要送。 | I need to send/give today. | 1 |
 | 102 | 借 | ㄐㄧㄝˋ | jiè | to borrow/lend | 我今天需要借。 | I need to borrow/lend today. | 1 |
-| 103 | 還給 | ㄏㄞˊ ㄍㄟˇ | hái gěi | to return something | 我今天需要還給。 | I need to return something today. | 1 |
+| 103 | 還給 | ㄏㄨㄢˊ ㄍㄟˇ | huán gěi | to return something | 我今天需要還給。 | I need to return something today. | 1 |
 | 104 | 買 | ㄇㄞˇ | mǎi | to buy | 我今天需要買。 | I need to buy today. | 1 |
 | 105 | 賣 | ㄇㄞˋ | mài | to sell | 我今天需要賣。 | I need to sell today. | 1 |
 | 106 | 付 | ㄈㄨˋ | fù | to pay | 我今天需要付。 | I need to pay today. | 1 |
@@ -145,7 +145,7 @@
 | 117 | 吃 | ㄔ | chī | to eat | 我今天需要吃。 | I need to eat today. | 1 |
 | 118 | 喝 | ㄏㄜ | hē | to drink | 我今天需要喝。 | I need to drink today. | 1 |
 | 119 | 煮 | ㄓㄨˇ | zhǔ | to cook | 我今天需要煮。 | I need to cook today. | 1 |
-| 120 | 切 | ㄑㄧㄝˋ | qiè | to cut | 我今天需要切。 | I need to cut today. | 1 |
+| 120 | 切 | ㄑㄧㄝ | qiē | to cut | 我今天需要切。 | I need to cut today. | 1 |
 | 121 | 點 | ㄉㄧㄢˇ | diǎn | to order/select | 我今天需要點。 | I need to order/select today. | 1 |
 | 122 | 睡 | ㄕㄨㄟˋ | shuì | to sleep | 我今天需要睡。 | I need to sleep today. | 1 |
 | 123 | 起床 | ㄑㄧˇ ㄔㄨㄤˊ | qǐ chuáng | to get up | 我今天需要起床。 | I need to get up today. | 1 |
@@ -154,7 +154,7 @@
 | 126 | 刷牙 | ㄕㄨㄚ ㄧㄚˊ | shuā yá | to brush teeth | 我今天需要刷牙。 | I need to brush teeth today. | 1 |
 | 127 | 工作 | ㄍㄨㄥ ㄗㄨㄛˋ | gōng zuò | to work | 我今天需要工作。 | I need to work today. | 1 |
 | 128 | 學習 | ㄒㄩㄝˊ ㄒㄧˊ | xué xí | to study | 我今天需要學習。 | I need to study today. | 1 |
-| 129 | 教 | ㄐㄧㄠˋ | jiào | to teach | 我今天需要教。 | I need to teach today. | 1 |
+| 129 | 教 | ㄐㄧㄠ | jiāo | to teach | 我今天需要教。 | I need to teach today. | 1 |
 | 130 | 練習 | ㄌㄧㄢˋ ㄒㄧˊ | liàn xí | to practice | 我今天需要練習。 | I need to practice today. | 1 |
 | 131 | 寫 | ㄒㄧㄝˇ | xiě | to write | 我今天需要寫。 | I need to write today. | 1 |
 | 132 | 讀 | ㄉㄨˊ | dú | to read | 我今天需要讀。 | I need to read today. | 1 |
@@ -181,7 +181,7 @@
 | 148 | 小 | ㄒㄧㄠˇ | xiǎo | small | 這個看起來很小。 | This looks small. | 1 |
 | 149 | 高 | ㄍㄠ | gāo | tall/high | 這個看起來很高。 | This looks tall/high. | 1 |
 | 150 | 矮 | ㄞˇ | ǎi | short | 這個看起來很矮。 | This looks short. | 1 |
-| 151 | 長 | ㄓㄤˇ | zhǎng | long | 這個看起來很長。 | This looks long. | 1 |
+| 151 | 長 | ㄔㄤˊ | cháng | long | 這個看起來很長。 | This looks long. | 1 |
 | 152 | 短 | ㄉㄨㄢˇ | duǎn | short | 這個看起來很短。 | This looks short. | 1 |
 | 153 | 多 | ㄉㄨㄛ | duō | many | 這個看起來很多。 | This looks many. | 1 |
 | 154 | 少 | ㄕㄠˇ | shǎo | few | 這個看起來很少。 | This looks few. | 1 |
@@ -197,7 +197,7 @@
 | 164 | 帥 | ㄕㄨㄞˋ | shuài | handsome | 這個看起來很帥。 | This looks handsome. | 1 |
 | 165 | 可愛 | ㄎㄜˇ ㄞˋ | kě ài | cute | 這個看起來很可愛。 | This looks cute. | 1 |
 | 166 | 醜 | ㄔㄡˇ | chǒu | ugly | 這個看起來很醜。 | This looks ugly. | 1 |
-| 167 | 乾淨 | ㄑㄧㄢˊ ㄐㄧㄥˋ | qián jìng | clean | 這個看起來很乾淨。 | This looks clean. | 1 |
+| 167 | 乾淨 | ㄍㄢ ㄐㄧㄥˋ | gān jìng | clean | 這個看起來很乾淨。 | This looks clean. | 1 |
 | 168 | 髒 | ㄗㄤ | zāng | dirty | 這個看起來很髒。 | This looks dirty. | 1 |
 | 169 | 安靜 | ㄢ ㄐㄧㄥˋ | ān jìng | quiet | 這個看起來很安靜。 | This looks quiet. | 1 |
 | 170 | 吵 | ㄔㄠˇ | chǎo | noisy | 這個看起來很吵。 | This looks noisy. | 1 |
@@ -497,7 +497,6 @@
 | 434 | 飲料 | ㄧㄣˇ ㄌㄧㄠˋ | yǐn liào | beverage | 我想喝飲料。 | I would like to drink beverage. | 2 |
 | 435 | 配料 | ㄆㄟˋ ㄌㄧㄠˋ | pèi liào | topping/ingredient | 我想吃配料。 | I would like to eat topping/ingredient. | 2 |
 | 436 | 醬料 | ㄐㄧㄤˋ ㄌㄧㄠˋ | jiàng liào | sauce | 我想吃醬料。 | I would like to eat sauce. | 2 |
-| 437 | 過敏 | ㄍㄨㄛˋ ㄇㄧㄣˇ | guò mǐn | allergic | 我想吃過敏。 | I would like to eat allergic. | 2 |
 | 438 | 素食 | ㄙㄨˋ ㄕˊ | sù shí | vegetarian food | 我想吃素食。 | I would like to eat vegetarian food. | 2 |
 | 439 | 葷食 | ㄏㄨㄣ ㄕˊ | hūn shí | non-vegetarian food | 我想吃葷食。 | I would like to eat non-vegetarian food. | 2 |
 | 440 | 不辣 | ㄅㄨˋ ㄌㄚˋ | bù là | not spicy | 這個味道很不辣。 | This tastes not spicy. | 2 |
@@ -832,6 +831,7 @@
 | 739 | 急診 | ㄐㄧˊ ㄓㄣˇ | jí zhěn | emergency room | 醫生檢查了我的急診。 | The doctor examined my emergency room. | 3 |
 | 740 | 救護車 | ㄐㄧㄡˋ ㄏㄨˋ ㄔㄜ | jiù hù chē | ambulance | 醫生檢查了我的救護車。 | The doctor examined my ambulance. | 3 |
 | 741 | 休養 | ㄒㄧㄡ ㄧㄤˇ | xiū yǎng | recuperate | 醫生檢查了我的休養。 | The doctor examined my recuperate. | 3 |
+| 742 | 過敏 | ㄍㄨㄛˋ ㄇㄧㄣˇ | guò mǐn | allergy | 我對花生過敏。 | I am allergic to peanuts. | 3 |
 
 ## Technology & internet
 
