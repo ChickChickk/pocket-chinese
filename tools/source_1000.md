@@ -376,23 +376,23 @@
 | 323 | 陌生人 | ㄇㄛˋ ㄕㄥ ㄖㄣˊ | mò shēng rén | stranger | 我的陌生人今天會來。 | My stranger is coming today. | 1 |
 | 324 | 家人 | ㄐㄧㄚ ㄖㄣˊ | jiā rén | family | 我的家人今天會來。 | My family is coming today. | 1 |
 | 325 | 家庭 | ㄐㄧㄚ ㄊㄧㄥˊ | jiā tíng | family/household | 我的家庭今天會來。 | My family/household is coming today. | 1 |
-| 326 | 爸爸 | ㄅㄚˋ ㄅㄚˋ | bà bà | father | 我的爸爸今天會來。 | My father is coming today. | 1 |
-| 327 | 媽媽 | ㄇㄚ ㄇㄚ | mā mā | mother | 我的媽媽今天會來。 | My mother is coming today. | 2 |
+| 326 | 爸爸 | ㄅㄚˋ ˙ㄅㄚ | bà ba | father | 我的爸爸今天會來。 | My father is coming today. | 1 |
+| 327 | 媽媽 | ㄇㄚ ˙ㄇㄚ | mā ma | mother | 我的媽媽今天會來。 | My mother is coming today. | 2 |
 | 328 | 父母 | ㄈㄨˋ ㄇㄨˇ | fù mǔ | parents | 我的父母今天會來。 | My parents is coming today. | 2 |
 | 329 | 兒子 | ㄦˊ ㄗ˙ | ér zi | son | 我的兒子今天會來。 | My son is coming today. | 2 |
 | 330 | 女兒 | ㄋㄩˇ ㄦˊ | nǚ ér | daughter | 我的女兒今天會來。 | My daughter is coming today. | 2 |
-| 331 | 哥哥 | ㄍㄜ ㄍㄜ | gē gē | older brother | 我的哥哥今天會來。 | My older brother is coming today. | 2 |
+| 331 | 哥哥 | ㄍㄜ ˙ㄍㄜ | gē ge | older brother | 我的哥哥今天會來。 | My older brother is coming today. | 2 |
 | 332 | 弟弟 | ㄉㄧˋ ㄉㄧ˙ | dì di | younger brother | 我的弟弟今天會來。 | My younger brother is coming today. | 2 |
-| 333 | 姊姊 | ㄗˇ ㄗˇ | zǐ zǐ | older sister | 我的姊姊今天會來。 | My older sister is coming today. | 2 |
-| 334 | 妹妹 | ㄇㄟˋ ㄇㄟˋ | mèi mèi | younger sister | 我的妹妹今天會來。 | My younger sister is coming today. | 2 |
+| 333 | 姊姊 | ㄐㄧㄝˇ ˙ㄐㄧㄝ | jiě jie | older sister | 我的姊姊今天會來。 | My older sister is coming today. | 2 |
+| 334 | 妹妹 | ㄇㄟˋ ˙ㄇㄟ | mèi mei | younger sister | 我的妹妹今天會來。 | My younger sister is coming today. | 2 |
 | 335 | 丈夫 | ㄓㄤˋ ㄈㄨ | zhàng fū | husband | 我的丈夫今天會來。 | My husband is coming today. | 2 |
-| 336 | 太太 | ㄊㄞˋ ㄊㄞˋ | tài tài | wife | 我的太太今天會來。 | My wife is coming today. | 2 |
+| 336 | 太太 | ㄊㄞˋ ˙ㄊㄞ | tài tai | wife | 我的太太今天會來。 | My wife is coming today. | 2 |
 | 337 | 男朋友 | ㄋㄢˊ ㄆㄥˊ ㄧㄡˇ | nán péng yǒu | boyfriend | 我的男朋友今天會來。 | My boyfriend is coming today. | 2 |
 | 338 | 女朋友 | ㄋㄩˇ ㄆㄥˊ ㄧㄡˇ | nǚ péng yǒu | girlfriend | 我的女朋友今天會來。 | My girlfriend is coming today. | 2 |
 | 339 | 伴侶 | ㄅㄢˋ ㄌㄩˇ | bàn lǚ | partner | 我的伴侶今天會來。 | My partner is coming today. | 2 |
 | 340 | 親戚 | ㄑㄧㄣ ㄑㄧ | qīn qī | relative | 我的親戚今天會來。 | My relative is coming today. | 2 |
-| 341 | 爺爺 | ㄧㄝˊ ㄧㄝˊ | yé yé | grandfather | 我的爺爺今天會來。 | My grandfather is coming today. | 2 |
-| 342 | 奶奶 | ㄋㄞˇ ㄋㄞˇ | nǎi nǎi | grandmother | 我的奶奶今天會來。 | My grandmother is coming today. | 2 |
+| 341 | 爺爺 | ㄧㄝˊ ˙ㄧㄝ | yé ye | grandfather | 我的爺爺今天會來。 | My grandfather is coming today. | 2 |
+| 342 | 奶奶 | ㄋㄞˇ ˙ㄋㄞ | nǎi nai | grandmother | 我的奶奶今天會來。 | My grandmother is coming today. | 2 |
 | 343 | 外公 | ㄨㄞˋ ㄍㄨㄥ | wài gōng | maternal grandfather | 我的外公今天會來。 | My maternal grandfather is coming today. | 2 |
 | 344 | 外婆 | ㄨㄞˋ ㄆㄛˊ | wài pó | maternal grandmother | 我的外婆今天會來。 | My maternal grandmother is coming today. | 2 |
 | 345 | 老師 | ㄌㄠˇ ㄕ | lǎo shī | teacher | 我的老師今天會來。 | My teacher is coming today. | 2 |
