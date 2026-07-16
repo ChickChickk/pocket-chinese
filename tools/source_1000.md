@@ -26,7 +26,7 @@
 | 8 | 這 | ㄓㄜˋ | zhè | this | 這是我的手機。 | This is my phone. | 1 |
 | 9 | 那 | ㄋㄚˋ | nà | that | 那家店很好吃。 | That restaurant is very good. | 1 |
 | 10 | 哪 | ㄋㄚˇ | nǎ | which | 你要哪一個？ | Which one do you want? | 1 |
-| 11 | 誰 | ㄕㄨㄟˊ | shuí | who | 門口的人是誰？ | Who is the person at the door? | 1 |
+| 11 | 誰 | ㄕㄟˊ | shéi | who | 門口的人是誰？ | Who is the person at the door? | 1 |
 | 12 | 什麼 | ㄕㄣˊ ㄇㄜ˙ | shén me | what | 你想吃什麼？ | What do you want to eat? | 1 |
 | 13 | 哪裡 | ㄋㄚˇ ㄌㄧˇ | nǎ lǐ | where | 最近的捷運站在哪裡？ | Where is the nearest MRT station? | 1 |
 | 14 | 怎麼 | ㄗㄣˇ ㄇㄜ˙ | zěn me | how | 這個字怎麼念？ | How is this character pronounced? | 1 |
@@ -36,7 +36,7 @@
 | 18 | 的 | ㄉㄜ˙ | de | possessive particle | 這是我的書。 | This is my book. | 1 |
 | 19 | 了 | ㄌㄜ˙ | le | completed-action particle | 我吃過晚餐了。 | I have eaten dinner. | 1 |
 | 20 | 過 | ㄍㄨㄛˋ | guò | experiential particle | 我去過台南。 | I have been to Tainan. | 1 |
-| 21 | 著 | ㄓㄨˋ | zhù | continuous-state particle | 門一直開著。 | The door remains open. | 1 |
+| 21 | 著 | ㄓㄜ˙ | zhe | continuous-state particle | 門一直開著。 | The door remains open. | 1 |
 | 22 | 嗎 | ㄇㄚ˙ | ma | question particle | 你會說中文嗎？ | Can you speak Chinese? | 1 |
 | 23 | 呢 | ㄋㄜ˙ | ne | question/topic particle | 我很好，你呢？ | I am fine; how about you? | 1 |
 | 24 | 吧 | ㄅㄚ˙ | ba | suggestion particle | 我們先休息一下吧。 | Let’s take a break first. | 1 |
@@ -92,7 +92,7 @@
 | 69 | 問 | ㄨㄣˋ | wèn | to ask | 我想問一個問題。 | I want to ask a question. | 1 |
 | 70 | 回答 | ㄏㄨㄟˊ ㄉㄚˊ | huí dá | to answer | 請用中文回答。 | Please answer in Chinese. | 1 |
 | 71 | 知道 | ㄓ ㄉㄠˋ | zhī dào | to know | 我知道那家店在哪裡。 | I know where that store is. | 1 |
-| 72 | 認識 | ㄖㄣˋ ㄕˊ | rèn shí | to know someone | 我在大學認識她。 | I met her at university. | 1 |
+| 72 | 認識 | ㄖㄣˋ ㄕˋ | rèn shì | to know someone | 我在大學認識她。 | I met her at university. | 1 |
 | 73 | 了解 | ㄌㄧㄠˇ ㄐㄧㄝˇ | liǎo jiě | to understand | 我想先了解工作內容。 | I want to understand the job duties first. | 1 |
 | 74 | 懂 | ㄉㄨㄥˇ | dǒng | to understand | 這個文法我不太懂。 | I do not really understand this grammar. | 1 |
 | 75 | 想 | ㄒㄧㄤˇ | xiǎng | to think/want | 我想喝一杯咖啡。 | I want to drink a cup of coffee. | 1 |
@@ -149,7 +149,7 @@
 | 121 | 點 | ㄉㄧㄢˇ | diǎn | to order/select | 我今天需要點。 | I need to order/select today. | 1 |
 | 122 | 睡 | ㄕㄨㄟˋ | shuì | to sleep | 我今天需要睡。 | I need to sleep today. | 1 |
 | 123 | 起床 | ㄑㄧˇ ㄔㄨㄤˊ | qǐ chuáng | to get up | 我今天需要起床。 | I need to get up today. | 1 |
-| 124 | 休息 | ㄒㄧㄡ ㄒㄧ | xiū xī | to rest | 我今天需要休息。 | I need to rest today. | 1 |
+| 124 | 休息 | ㄒㄧㄡ ㄒㄧˊ | xiū xí | to rest | 我今天需要休息。 | I need to rest today. | 1 |
 | 125 | 洗澡 | ㄒㄧˇ ㄗㄠˇ | xǐ zǎo | to shower | 我今天需要洗澡。 | I need to shower today. | 1 |
 | 126 | 刷牙 | ㄕㄨㄚ ㄧㄚˊ | shuā yá | to brush teeth | 我今天需要刷牙。 | I need to brush teeth today. | 1 |
 | 127 | 工作 | ㄍㄨㄥ ㄗㄨㄛˋ | gōng zuò | to work | 我今天需要工作。 | I need to work today. | 1 |
@@ -215,7 +215,7 @@
 | 182 | 方便 | ㄈㄤ ㄅㄧㄢˋ | fāng biàn | convenient | 這個看起來很方便。 | This looks convenient. | 1 |
 | 183 | 麻煩 | ㄇㄚˊ ㄈㄢˊ | má fán | troublesome | 這個看起來很麻煩。 | This looks troublesome. | 1 |
 | 184 | 安全 | ㄢ ㄑㄩㄢˊ | ān quán | safe | 這個看起來很安全。 | This looks safe. | 1 |
-| 185 | 危險 | ㄨㄟ ㄒㄧㄢˇ | wēi xiǎn | dangerous | 這個看起來很危險。 | This looks dangerous. | 1 |
+| 185 | 危險 | ㄨㄟˊ ㄒㄧㄢˇ | wéi xiǎn | dangerous | 這個看起來很危險。 | This looks dangerous. | 1 |
 | 186 | 健康 | ㄐㄧㄢˋ ㄎㄤ | jiàn kāng | healthy | 這個看起來很健康。 | This looks healthy. | 1 |
 | 187 | 嚴重 | ㄧㄢˊ ㄓㄨㄥˋ | yán zhòng | serious | 這個看起來很嚴重。 | This looks serious. | 1 |
 | 188 | 正常 | ㄓㄥˋ ㄔㄤˊ | zhèng cháng | normal | 這個看起來很正常。 | This looks normal. | 1 |
@@ -714,7 +714,7 @@
 | 632 | 文件 | ㄨㄣˊ ㄐㄧㄢˋ | wén jiàn | document | 我們今天要討論文件。 | We need to discuss the document today. | 2 |
 | 633 | 表格 | ㄅㄧㄠˇ ㄍㄜˊ | biǎo gé | form/table | 我們今天要討論表格。 | We need to discuss the form/table today. | 2 |
 | 634 | 檔案 | ㄉㄤˋ ㄢˋ | dàng àn | file | 我們今天要討論檔案。 | We need to discuss the file today. | 2 |
-| 635 | 資料夾 | ㄗ ㄌㄧㄠˋ ㄐㄧㄚ | zī liào jiā | folder | 我們今天要討論資料夾。 | We need to discuss the folder today. | 2 |
+| 635 | 資料夾 | ㄗ ㄌㄧㄠˋ ㄐㄧㄚˊ | zī liào jiá | folder | 我們今天要討論資料夾。 | We need to discuss the folder today. | 2 |
 | 636 | 電子郵件 | ㄉㄧㄢˋ ㄗ˙ ㄧㄡˊ ㄐㄧㄢˋ | diàn zi yóu jiàn | email | 我們今天要討論電子郵件。 | We need to discuss the email today. | 2 |
 | 637 | 訊息 | ㄒㄩㄣˋ ㄒㄧˊ | xùn xí | message | 我們今天要討論訊息。 | We need to discuss the message today. | 2 |
 | 638 | 電話 | ㄉㄧㄢˋ ㄏㄨㄚˋ | diàn huà | phone call | 我們今天要討論電話。 | We need to discuss the phone call today. | 2 |
@@ -803,7 +803,7 @@
 | 711 | 腳 | ㄐㄧㄠˇ | jiǎo | foot | 醫生檢查了我的腳。 | The doctor examined my foot. | 2 |
 | 712 | 皮膚 | ㄆㄧˊ ㄈㄨ | pí fū | skin | 醫生檢查了我的皮膚。 | The doctor examined my skin. | 2 |
 | 713 | 心臟 | ㄒㄧㄣ ㄗㄤˋ | xīn zàng | heart | 醫生檢查了我的心臟。 | The doctor examined my heart. | 2 |
-| 714 | 血 | ㄒㄩㄝˋ | xuè | blood | 醫生檢查了我的血。 | The doctor examined my blood. | 2 |
+| 714 | 血 | ㄒㄧㄝˇ | xiě | blood | 醫生檢查了我的血。 | The doctor examined my blood. | 2 |
 | 715 | 生病 | ㄕㄥ ㄅㄧㄥˋ | shēng bìng | be sick | 我今天需要生病。 | I need to be sick today. | 2 |
 | 716 | 感冒 | ㄍㄢˇ ㄇㄠˋ | gǎn mào | cold | 我今天有點感冒。 | I have cold today. | 2 |
 | 717 | 發燒 | ㄈㄚ ㄕㄠ | fā shāo | fever | 我今天有點發燒。 | I have fever today. | 2 |
@@ -851,7 +851,7 @@
 | 753 | 網路 | ㄨㄤˇ ㄌㄨˋ | wǎng lù | internet | 我每天都會使用網路。 | I use internet every day. | 3 |
 | 754 | 無線網路 | ㄨˊ ㄒㄧㄢˋ ㄨㄤˇ ㄌㄨˋ | wú xiàn wǎng lù | Wi-Fi | 我每天都會使用無線網路。 | I use Wi-Fi every day. | 3 |
 | 755 | 訊號 | ㄒㄩㄣˋ ㄏㄠˋ | xùn hào | signal | 我每天都會使用訊號。 | I use signal every day. | 3 |
-| 756 | 應用程式 | ㄧㄥ ㄩㄥˋ ㄔㄥˊ ㄕˋ | yīng yòng chéng shì | app | 我每天都會使用應用程式。 | I use app every day. | 3 |
+| 756 | 應用程式 | ㄧㄥˋ ㄩㄥˋ ㄔㄥˊ ㄕˋ | yìng yòng chéng shì | app | 我每天都會使用應用程式。 | I use app every day. | 3 |
 | 757 | 網站 | ㄨㄤˇ ㄓㄢˋ | wǎng zhàn | website | 我每天都會使用網站。 | I use website every day. | 3 |
 | 758 | 網頁 | ㄨㄤˇ ㄧㄝˋ | wǎng yè | webpage | 我每天都會使用網頁。 | I use webpage every day. | 3 |
 | 759 | 連結 | ㄌㄧㄢˊ ㄐㄧㄝˊ | lián jié | link | 我每天都會使用連結。 | I use link every day. | 3 |
@@ -1081,7 +1081,7 @@
 | 958 | 找到 | ㄓㄠˇ ㄉㄠˋ | zhǎo dào | find | 發生找到時，請先保持冷靜。 | Stay calm when find happens. | 3 |
 | 959 | 壞掉 | ㄏㄨㄞˋ ㄉㄧㄠˋ | huài diào | broken | 發生壞掉時，請先保持冷靜。 | Stay calm when broken happens. | 3 |
 | 960 | 不能用 | ㄅㄨˋ ㄋㄥˊ ㄩㄥˋ | bù néng yòng | cannot be used | 發生不能用時，請先保持冷靜。 | Stay calm when cannot be used happens. | 3 |
-| 961 | 沒有反應 | ㄇㄟˊ ㄧㄡˇ ㄈㄢˇ ㄧㄥ | méi yǒu fǎn yīng | no response | 發生沒有反應時，請先保持冷靜。 | Stay calm when no response happens. | 3 |
+| 961 | 沒有反應 | ㄇㄟˊ ㄧㄡˇ ㄈㄢˇ ㄧㄥˋ | méi yǒu fǎn yìng | no response | 發生沒有反應時，請先保持冷靜。 | Stay calm when no response happens. | 3 |
 | 962 | 卡住 | ㄎㄚˇ ㄓㄨˋ | kǎ zhù | stuck | 發生卡住時，請先保持冷靜。 | Stay calm when stuck happens. | 3 |
 | 963 | 停電 | ㄊㄧㄥˊ ㄉㄧㄢˋ | tíng diàn | power outage | 發生停電時，請先保持冷靜。 | Stay calm when power outage happens. | 3 |
 | 964 | 漏水 | ㄌㄡˋ ㄕㄨㄟˇ | lòu shuǐ | water leak | 發生漏水時，請先保持冷靜。 | Stay calm when water leak happens. | 3 |

@@ -261,7 +261,7 @@
     // check is only a safety net for unpunctuated text. It sits above the longest headword
     // (5 chars, e.g. 筆記型電腦) so genuine words are never dragged to sentence speed.
     if (/[。！？，、；：]/.test(t)) return RATE_SENTENCE;
-    var hanzi = (t.match(/[㐀-鿿]/g) || []).length;
+    var hanzi = (t.match(/[\u3400-\u9fff]/g) || []).length;
     return hanzi > 5 ? RATE_SENTENCE : RATE_SYLLABLE;
   }
   function speak(text) {
@@ -457,7 +457,7 @@
   function normHanzi(s) {
     // Keep only CJK characters, dropping spaces, latin, and any punctuation the IME might
     // commit (。，！？ and halfwidth forms) so a stray keystroke can't fail a right answer.
-    return String(s || "").replace(/[^㐀-鿿]/g, "");
+    return String(s || "").replace(/[^\u3400-\u9fff]/g, "");
   }
   function acceptable(w) {
     return [normHanzi(w.hanzi)].filter(Boolean);

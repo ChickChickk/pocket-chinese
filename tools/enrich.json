@@ -92,8 +92,8 @@
  "11": {
   "example": {
    "hanzi": "門口的人是誰？",
-   "zhuyin": "ㄇㄣˊ ㄎㄡˇ ㄉㄜ˙ ㄖㄣˊ ㄕˋ ㄕㄨㄟˊ",
-   "pinyin": "mén kǒu de rén shì shuí",
+   "zhuyin": "ㄇㄣˊ ㄎㄡˇ ㄉㄜ˙ ㄖㄣˊ ㄕˋ ㄕㄟˊ",
+   "pinyin": "mén kǒu de rén shì shéi",
    "en": "Who is the person at the door?"
   },
   "measure": null
@@ -1658,8 +1658,8 @@
  "185": {
   "example": {
    "hanzi": "這裡很危險，別靠近。",
-   "zhuyin": "ㄓㄜˋ ㄌㄧˇ ㄏㄣˇ ㄨㄟ ㄒㄧㄢˇ ㄅㄧㄝˊ ㄎㄠˋ ㄐㄧㄣˋ",
-   "pinyin": "zhè lǐ hěn wēi xiǎn bié kào jìn",
+   "zhuyin": "ㄓㄜˋ ㄌㄧˇ ㄏㄣˇ ㄨㄟˊ ㄒㄧㄢˇ ㄅㄧㄝˊ ㄎㄠˋ ㄐㄧㄣˋ",
+   "pinyin": "zhè lǐ hěn wéi xiǎn bié kào jìn",
    "en": "It's dangerous here — don't go near."
   },
   "measure": null
@@ -6503,8 +6503,8 @@
  "634": {
   "example": {
    "hanzi": "資料夾裡有三個檔案。",
-   "zhuyin": "ㄗ ㄌㄧㄠˋ ㄐㄧㄚ ㄌㄧˇ ㄧㄡˇ ㄙㄢ ㄍㄜ˙ ㄉㄤˋ ㄢˋ",
-   "pinyin": "zī liào jiā lǐ yǒu sān ge dàng àn",
+   "zhuyin": "ㄗ ㄌㄧㄠˋ ㄐㄧㄚˊ ㄌㄧˇ ㄧㄡˇ ㄙㄢ ㄍㄜ˙ ㄉㄤˋ ㄢˋ",
+   "pinyin": "zī liào jiá lǐ yǒu sān ge dàng àn",
    "en": "There are three files in the folder."
   },
   "measure": {
@@ -7430,8 +7430,8 @@
  "713": {
   "example": {
    "hanzi": "我看到血就想暈。",
-   "zhuyin": "ㄨㄛˇ ㄎㄢˋ ㄉㄠˋ ㄒㄩㄝˋ ㄐㄧㄡˋ ㄒㄧㄤˇ ㄩㄣ",
-   "pinyin": "wǒ kàn dào xuè jiù xiǎng yūn",
+   "zhuyin": "ㄨㄛˇ ㄎㄢˋ ㄉㄠˋ ㄒㄧㄝˇ ㄐㄧㄡˋ ㄒㄧㄤˇ ㄩㄣ",
+   "pinyin": "wǒ kàn dào xiě jiù xiǎng yūn",
    "en": "I feel faint at the sight of blood."
   },
   "measure": null
@@ -7889,8 +7889,8 @@
  "756": {
   "example": {
    "hanzi": "這個應用程式很好用。",
-   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄧㄥ ㄩㄥˋ ㄔㄥˊ ㄕˋ ㄏㄣˇ ㄏㄠˇ ㄩㄥˋ",
-   "pinyin": "zhè ge yīng yòng chéng shì hěn hǎo yòng",
+   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄧㄥˋ ㄩㄥˋ ㄔㄥˊ ㄕˋ ㄏㄣˇ ㄏㄠˇ ㄩㄥˋ",
+   "pinyin": "zhè ge yìng yòng chéng shì hěn hǎo yòng",
    "en": "This app is really useful."
   },
   "measure": {
@@ -10034,8 +10034,8 @@
  "961": {
   "example": {
    "hanzi": "電腦沒有反應。",
-   "zhuyin": "ㄉㄧㄢˋ ㄋㄠˇ ㄇㄟˊ ㄧㄡˇ ㄈㄢˇ ㄧㄥ",
-   "pinyin": "diàn nǎo méi yǒu fǎn yīng",
+   "zhuyin": "ㄉㄧㄢˋ ㄋㄠˇ ㄇㄟˊ ㄧㄡˇ ㄈㄢˇ ㄧㄥˋ",
+   "pinyin": "diàn nǎo méi yǒu fǎn yìng",
    "en": "The computer isn't responding."
   },
   "measure": null
