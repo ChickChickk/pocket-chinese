@@ -106,5 +106,17 @@ const body =
 fs.writeFileSync(OUT_DATA, header + body);
 fs.writeFileSync(OUT_RAW, JSON.stringify(RAW, null, 0));
 
+// js/data.js is committed pretty-printed (see commit "Format JavaScript data files"). This
+// generator emits compact JSON, so format it here — otherwise every regen reverts the repo's
+// formatting and produces a useless 12k-line diff.
+try {
+  require("child_process").execSync('npx --no-install prettier --write "' + OUT_DATA + '"', { stdio: "pipe" });
+  console.log("formatted js/data.js with prettier");
+} catch (e) {
+  console.warn("WARNING: prettier not available — js/data.js left unformatted, which will\n" +
+               "         produce a huge diff against the committed pretty-printed version.\n" +
+               "         Run: npx prettier --write js/data.js");
+}
+
 console.log("words:", WORDS.length, "chapters:", CATEGORIES.length);
 console.log("per-chapter counts:", CATEGORIES.map((c, i) => WORDS.filter((w) => w.cat === i).length).join(","));

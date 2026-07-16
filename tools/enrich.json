@@ -3425,6 +3425,1373 @@
   },
   "measure": null
  },
+ "363": {
+  "example": {
+   "hanzi": "冰箱裡沒有食物了。",
+   "zhuyin": "ㄅㄧㄥ ㄒㄧㄤ ㄌㄧˇ ㄇㄟˊ ㄧㄡˇ ㄕˊ ㄨˋ ㄌㄜ˙",
+   "pinyin": "bīng xiāng lǐ méi yǒu shí wù le",
+   "en": "There's no food left in the fridge."
+  },
+  "measure": null
+ },
+ "364": {
+  "example": {
+   "hanzi": "我每天都吃早餐。",
+   "zhuyin": "ㄨㄛˇ ㄇㄟˇ ㄊㄧㄢ ㄉㄡ ㄔ ㄗㄠˇ ㄘㄢ",
+   "pinyin": "wǒ měi tiān dōu chī zǎo cān",
+   "en": "I eat breakfast every day."
+  },
+  "measure": {
+   "hanzi": "頓",
+   "zhuyin": "ㄉㄨㄣˋ",
+   "pinyin": "dùn"
+  }
+ },
+ "365": {
+  "example": {
+   "hanzi": "我們中午一起吃午餐吧。",
+   "zhuyin": "ㄨㄛˇ ㄇㄣ˙ ㄓㄨㄥ ㄨˇ ㄧˋ ㄑㄧˇ ㄔ ㄨˇ ㄘㄢ ㄅㄚ˙",
+   "pinyin": "wǒ men zhōng wǔ yì qǐ chī wǔ cān ba",
+   "en": "Let's have lunch together at noon."
+  },
+  "measure": {
+   "hanzi": "頓",
+   "zhuyin": "ㄉㄨㄣˋ",
+   "pinyin": "dùn"
+  }
+ },
+ "366": {
+  "example": {
+   "hanzi": "今天的晚餐我請客。",
+   "zhuyin": "ㄐㄧㄣ ㄊㄧㄢ ㄉㄜ˙ ㄨㄢˇ ㄘㄢ ㄨㄛˇ ㄑㄧㄥˇ ㄎㄜˋ",
+   "pinyin": "jīn tiān de wǎn cān wǒ qǐng kè",
+   "en": "Dinner's on me today."
+  },
+  "measure": {
+   "hanzi": "頓",
+   "zhuyin": "ㄉㄨㄣˋ",
+   "pinyin": "dùn"
+  }
+ },
+ "367": {
+  "example": {
+   "hanzi": "你吃飯了嗎？",
+   "zhuyin": "ㄋㄧˇ ㄔ ㄈㄢˋ ㄌㄜ˙ ㄇㄚ˙",
+   "pinyin": "nǐ chī fàn le ma",
+   "en": "Have you eaten?"
+  },
+  "measure": {
+   "hanzi": "碗",
+   "zhuyin": "ㄨㄢˇ",
+   "pinyin": "wǎn"
+  }
+ },
+ "368": {
+  "example": {
+   "hanzi": "這家的牛肉麵很有名。",
+   "zhuyin": "ㄓㄜˋ ㄐㄧㄚ ㄉㄜ˙ ㄋㄧㄡˊ ㄖㄡˋ ㄇㄧㄢˋ ㄏㄣˇ ㄧㄡˇ ㄇㄧㄥˊ",
+   "pinyin": "zhè jiā de niú ròu miàn hěn yǒu míng",
+   "en": "This place's beef noodles are famous."
+  },
+  "measure": {
+   "hanzi": "碗",
+   "zhuyin": "ㄨㄢˇ",
+   "pinyin": "wǎn"
+  }
+ },
+ "369": {
+  "example": {
+   "hanzi": "我買了一個麵包當早餐。",
+   "zhuyin": "ㄨㄛˇ ㄇㄞˇ ㄌㄜ˙ ㄧˊ ㄍㄜ˙ ㄇㄧㄢˋ ㄅㄠ ㄉㄤ ㄗㄠˇ ㄘㄢ",
+   "pinyin": "wǒ mǎi le yí ge miàn bāo dāng zǎo cān",
+   "en": "I bought a bread roll for breakfast."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "370": {
+  "example": {
+   "hanzi": "生病的時候我只想喝粥。",
+   "zhuyin": "ㄕㄥ ㄅㄧㄥˋ ㄉㄜ˙ ㄕˊ ㄏㄡˋ ㄨㄛˇ ㄓˇ ㄒㄧㄤˇ ㄏㄜ ㄓㄡ",
+   "pinyin": "shēng bìng de shí hòu wǒ zhǐ xiǎng hē zhōu",
+   "en": "When I'm sick I only want congee."
+  },
+  "measure": {
+   "hanzi": "碗",
+   "zhuyin": "ㄨㄢˇ",
+   "pinyin": "wǎn"
+  }
+ },
+ "371": {
+  "example": {
+   "hanzi": "這碗湯有點燙。",
+   "zhuyin": "ㄓㄜˋ ㄨㄢˇ ㄊㄤ ㄧㄡˇ ㄉㄧㄢˇ ㄊㄤˋ",
+   "pinyin": "zhè wǎn tāng yǒu diǎn tàng",
+   "en": "This soup is a bit too hot."
+  },
+  "measure": {
+   "hanzi": "碗",
+   "zhuyin": "ㄨㄢˇ",
+   "pinyin": "wǎn"
+  }
+ },
+ "372": {
+  "example": {
+   "hanzi": "記得多喝水。",
+   "zhuyin": "ㄐㄧˋ ㄉㄜ˙ ㄉㄨㄛ ㄏㄜ ㄕㄨㄟˇ",
+   "pinyin": "jì de duō hē shuǐ",
+   "en": "Remember to drink more water."
+  },
+  "measure": {
+   "hanzi": "杯",
+   "zhuyin": "ㄅㄟ",
+   "pinyin": "bēi"
+  }
+ },
+ "373": {
+  "example": {
+   "hanzi": "你要喝茶還是咖啡？",
+   "zhuyin": "ㄋㄧˇ ㄧㄠˋ ㄏㄜ ㄔㄚˊ ㄏㄞˊ ㄕˋ ㄎㄚ ㄈㄟ",
+   "pinyin": "nǐ yào hē chá hái shì kā fēi",
+   "en": "Would you like tea or coffee?"
+  },
+  "measure": {
+   "hanzi": "杯",
+   "zhuyin": "ㄅㄟ",
+   "pinyin": "bēi"
+  }
+ },
+ "374": {
+  "example": {
+   "hanzi": "我需要一杯咖啡提神。",
+   "zhuyin": "ㄨㄛˇ ㄒㄩ ㄧㄠˋ ㄧˋ ㄅㄟ ㄎㄚ ㄈㄟ ㄊㄧˊ ㄕㄣˊ",
+   "pinyin": "wǒ xū yào yì bēi kā fēi tí shén",
+   "en": "I need a cup of coffee to wake up."
+  },
+  "measure": {
+   "hanzi": "杯",
+   "zhuyin": "ㄅㄟ",
+   "pinyin": "bēi"
+  }
+ },
+ "375": {
+  "example": {
+   "hanzi": "冰箱裡還有牛奶嗎？",
+   "zhuyin": "ㄅㄧㄥ ㄒㄧㄤ ㄌㄧˇ ㄏㄞˊ ㄧㄡˇ ㄋㄧㄡˊ ㄋㄞˇ ㄇㄚ˙",
+   "pinyin": "bīng xiāng lǐ hái yǒu niú nǎi ma",
+   "en": "Is there still milk in the fridge?"
+  },
+  "measure": {
+   "hanzi": "杯",
+   "zhuyin": "ㄅㄟ",
+   "pinyin": "bēi"
+  }
+ },
+ "376": {
+  "example": {
+   "hanzi": "這杯果汁是現榨的。",
+   "zhuyin": "ㄓㄜˋ ㄅㄟ ㄍㄨㄛˇ ㄓ ㄕˋ ㄒㄧㄢˋ ㄓㄚˋ ㄉㄜ˙",
+   "pinyin": "zhè bēi guǒ zhī shì xiàn zhà de",
+   "en": "This juice is freshly squeezed."
+  },
+  "measure": {
+   "hanzi": "杯",
+   "zhuyin": "ㄅㄟ",
+   "pinyin": "bēi"
+  }
+ },
+ "377": {
+  "example": {
+   "hanzi": "天氣熱，來一瓶啤酒吧。",
+   "zhuyin": "ㄊㄧㄢ ㄑㄧˋ ㄖㄜˋ ㄌㄞˊ ㄧˋ ㄆㄧㄥˊ ㄆㄧˊ ㄐㄧㄡˇ ㄅㄚ˙",
+   "pinyin": "tiān qì rè lái yì píng pí jiǔ ba",
+   "en": "It's hot — let's have a beer."
+  },
+  "measure": {
+   "hanzi": "瓶",
+   "zhuyin": "ㄆㄧㄥˊ",
+   "pinyin": "píng"
+  }
+ },
+ "378": {
+  "example": {
+   "hanzi": "我比較喜歡吃雞肉。",
+   "zhuyin": "ㄨㄛˇ ㄅㄧˇ ㄐㄧㄠˋ ㄒㄧˇ ㄏㄨㄢ ㄔ ㄐㄧ ㄖㄡˋ",
+   "pinyin": "wǒ bǐ jiào xǐ huān chī jī ròu",
+   "en": "I prefer chicken."
+  },
+  "measure": {
+   "hanzi": "塊",
+   "zhuyin": "ㄎㄨㄞˋ",
+   "pinyin": "kuài"
+  }
+ },
+ "379": {
+  "example": {
+   "hanzi": "這道菜用的是豬肉。",
+   "zhuyin": "ㄓㄜˋ ㄉㄠˋ ㄘㄞˋ ㄩㄥˋ ㄉㄜ˙ ㄕˋ ㄓㄨ ㄖㄡˋ",
+   "pinyin": "zhè dào cài yòng de shì zhū ròu",
+   "en": "This dish is made with pork."
+  },
+  "measure": {
+   "hanzi": "塊",
+   "zhuyin": "ㄎㄨㄞˋ",
+   "pinyin": "kuài"
+  }
+ },
+ "380": {
+  "example": {
+   "hanzi": "牛肉麵是台灣的代表美食。",
+   "zhuyin": "ㄋㄧㄡˊ ㄖㄡˋ ㄇㄧㄢˋ ㄕˋ ㄊㄞˊ ㄨㄢ ㄉㄜ˙ ㄉㄞˋ ㄅㄧㄠˇ ㄇㄟˇ ㄕˊ",
+   "pinyin": "niú ròu miàn shì tái wān de dài biǎo měi shí",
+   "en": "Beef noodle soup is Taiwan's signature dish."
+  },
+  "measure": {
+   "hanzi": "塊",
+   "zhuyin": "ㄎㄨㄞˋ",
+   "pinyin": "kuài"
+  }
+ },
+ "381": {
+  "example": {
+   "hanzi": "這條魚很新鮮。",
+   "zhuyin": "ㄓㄜˋ ㄊㄧㄠˊ ㄩˊ ㄏㄣˇ ㄒㄧㄣ ㄒㄧㄢ",
+   "pinyin": "zhè tiáo yú hěn xīn xiān",
+   "en": "This fish is very fresh."
+  },
+  "measure": {
+   "hanzi": "條",
+   "zhuyin": "ㄊㄧㄠˊ",
+   "pinyin": "tiáo"
+  }
+ },
+ "382": {
+  "example": {
+   "hanzi": "我早餐吃了兩顆蛋。",
+   "zhuyin": "ㄨㄛˇ ㄗㄠˇ ㄘㄢ ㄔ ㄌㄜ˙ ㄌㄧㄤˇ ㄎㄜ ㄉㄢˋ",
+   "pinyin": "wǒ zǎo cān chī le liǎng kē dàn",
+   "en": "I ate two eggs for breakfast."
+  },
+  "measure": {
+   "hanzi": "顆",
+   "zhuyin": "ㄎㄜ",
+   "pinyin": "kē"
+  }
+ },
+ "383": {
+  "example": {
+   "hanzi": "臭豆腐是台灣有名的小吃。",
+   "zhuyin": "ㄔㄡˋ ㄉㄡˋ ㄈㄨˇ ㄕˋ ㄊㄞˊ ㄨㄢ ㄧㄡˇ ㄇㄧㄥˊ ㄉㄜ˙ ㄒㄧㄠˇ ㄔ",
+   "pinyin": "chòu dòu fǔ shì tái wān yǒu míng de xiǎo chī",
+   "en": "Stinky tofu is a famous Taiwanese snack."
+  },
+  "measure": {
+   "hanzi": "塊",
+   "zhuyin": "ㄎㄨㄞˋ",
+   "pinyin": "kuài"
+  }
+ },
+ "384": {
+  "example": {
+   "hanzi": "多吃蔬菜對身體好。",
+   "zhuyin": "ㄉㄨㄛ ㄔ ㄕㄨ ㄘㄞˋ ㄉㄨㄟˋ ㄕㄣ ㄊㄧˇ ㄏㄠˇ",
+   "pinyin": "duō chī shū cài duì shēn tǐ hǎo",
+   "en": "Eating more vegetables is good for you."
+  },
+  "measure": null
+ },
+ "385": {
+  "example": {
+   "hanzi": "我每天都吃水果。",
+   "zhuyin": "ㄨㄛˇ ㄇㄟˇ ㄊㄧㄢ ㄉㄡ ㄔ ㄕㄨㄟˇ ㄍㄨㄛˇ",
+   "pinyin": "wǒ měi tiān dōu chī shuǐ guǒ",
+   "en": "I eat fruit every day."
+  },
+  "measure": null
+ },
+ "386": {
+  "example": {
+   "hanzi": "我買了三顆蘋果。",
+   "zhuyin": "ㄨㄛˇ ㄇㄞˇ ㄌㄜ˙ ㄙㄢ ㄎㄜ ㄆㄧㄥˊ ㄍㄨㄛˇ",
+   "pinyin": "wǒ mǎi le sān kē píng guǒ",
+   "en": "I bought three apples."
+  },
+  "measure": {
+   "hanzi": "顆",
+   "zhuyin": "ㄎㄜ",
+   "pinyin": "kē"
+  }
+ },
+ "387": {
+  "example": {
+   "hanzi": "台灣的香蕉又香又甜。",
+   "zhuyin": "ㄊㄞˊ ㄨㄢ ㄉㄜ˙ ㄒㄧㄤ ㄐㄧㄠ ㄧㄡˋ ㄒㄧㄤ ㄧㄡˋ ㄊㄧㄢˊ",
+   "pinyin": "tái wān de xiāng jiāo yòu xiāng yòu tián",
+   "en": "Taiwanese bananas are fragrant and sweet."
+  },
+  "measure": {
+   "hanzi": "根",
+   "zhuyin": "ㄍㄣ",
+   "pinyin": "gēn"
+  }
+ },
+ "388": {
+  "example": {
+   "hanzi": "冬天的橘子特別甜。",
+   "zhuyin": "ㄉㄨㄥ ㄊㄧㄢ ㄉㄜ˙ ㄐㄩˊ ㄗ˙ ㄊㄜˋ ㄅㄧㄝˊ ㄊㄧㄢˊ",
+   "pinyin": "dōng tiān de jú zi tè bié tián",
+   "en": "Winter oranges are especially sweet."
+  },
+  "measure": {
+   "hanzi": "顆",
+   "zhuyin": "ㄎㄜ",
+   "pinyin": "kē"
+  }
+ },
+ "389": {
+  "example": {
+   "hanzi": "夏天吃西瓜最消暑。",
+   "zhuyin": "ㄒㄧㄚˋ ㄊㄧㄢ ㄔ ㄒㄧ ㄍㄨㄚ ㄗㄨㄟˋ ㄒㄧㄠ ㄕㄨˇ",
+   "pinyin": "xià tiān chī xī guā zuì xiāo shǔ",
+   "en": "Eating watermelon in summer is the best way to cool off."
+  },
+  "measure": {
+   "hanzi": "顆",
+   "zhuyin": "ㄎㄜ",
+   "pinyin": "kē"
+  }
+ },
+ "390": {
+  "example": {
+   "hanzi": "我用馬鈴薯煮了濃湯。",
+   "zhuyin": "ㄨㄛˇ ㄩㄥˋ ㄇㄚˇ ㄌㄧㄥˊ ㄕㄨˇ ㄓㄨˇ ㄌㄜ˙ ㄋㄨㄥˊ ㄊㄤ",
+   "pinyin": "wǒ yòng mǎ líng shǔ zhǔ le nóng tāng",
+   "en": "I made soup with potatoes."
+  },
+  "measure": {
+   "hanzi": "顆",
+   "zhuyin": "ㄎㄜ",
+   "pinyin": "kē"
+  }
+ },
+ "391": {
+  "example": {
+   "hanzi": "番茄炒蛋是家常菜。",
+   "zhuyin": "ㄈㄢ ㄑㄧㄝˊ ㄔㄠˇ ㄉㄢˋ ㄕˋ ㄐㄧㄚ ㄔㄤˊ ㄘㄞˋ",
+   "pinyin": "fān qié chǎo dàn shì jiā cháng cài",
+   "en": "Tomato and egg is a home-style dish."
+  },
+  "measure": {
+   "hanzi": "顆",
+   "zhuyin": "ㄎㄜ",
+   "pinyin": "kē"
+  }
+ },
+ "392": {
+  "example": {
+   "hanzi": "切洋蔥讓我流眼淚。",
+   "zhuyin": "ㄑㄧㄝ ㄧㄤˊ ㄘㄨㄥ ㄖㄤˋ ㄨㄛˇ ㄌㄧㄡˊ ㄧㄢˇ ㄌㄟˋ",
+   "pinyin": "qiē yáng cōng ràng wǒ liú yǎn lèi",
+   "en": "Cutting onions makes me cry."
+  },
+  "measure": {
+   "hanzi": "顆",
+   "zhuyin": "ㄎㄜ",
+   "pinyin": "kē"
+  }
+ },
+ "393": {
+  "example": {
+   "hanzi": "我早上買了一個飯糰。",
+   "zhuyin": "ㄨㄛˇ ㄗㄠˇ ㄕㄤˋ ㄇㄞˇ ㄌㄜ˙ ㄧˊ ㄍㄜ˙ ㄈㄢˋ ㄊㄨㄢˊ",
+   "pinyin": "wǒ zǎo shàng mǎi le yí ge fàn tuán",
+   "en": "I bought a rice ball this morning."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "394": {
+  "example": {
+   "hanzi": "我一次可以吃二十顆水餃。",
+   "zhuyin": "ㄨㄛˇ ㄧˊ ㄘˋ ㄎㄜˇ ㄧˇ ㄔ ㄦˋ ㄕˊ ㄎㄜ ㄕㄨㄟˇ ㄐㄧㄠˇ",
+   "pinyin": "wǒ yí cì kě yǐ chī èr shí kē shuǐ jiǎo",
+   "en": "I can eat twenty dumplings in one sitting."
+  },
+  "measure": {
+   "hanzi": "顆",
+   "zhuyin": "ㄎㄜ",
+   "pinyin": "kē"
+  }
+ },
+ "395": {
+  "example": {
+   "hanzi": "中午我通常買便當。",
+   "zhuyin": "ㄓㄨㄥ ㄨˇ ㄨㄛˇ ㄊㄨㄥ ㄔㄤˊ ㄇㄞˇ ㄅㄧㄢˋ ㄉㄤ",
+   "pinyin": "zhōng wǔ wǒ tōng cháng mǎi biàn dāng",
+   "en": "I usually buy a lunchbox at noon."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "396": {
+  "example": {
+   "hanzi": "冬天最適合吃火鍋。",
+   "zhuyin": "ㄉㄨㄥ ㄊㄧㄢ ㄗㄨㄟˋ ㄕˋ ㄏㄜˊ ㄔ ㄏㄨㄛˇ ㄍㄨㄛ",
+   "pinyin": "dōng tiān zuì shì hé chī huǒ guō",
+   "en": "Winter is the best time for hot pot."
+  },
+  "measure": {
+   "hanzi": "鍋",
+   "zhuyin": "ㄍㄨㄛ",
+   "pinyin": "guō"
+  }
+ },
+ "397": {
+  "example": {
+   "hanzi": "台灣的夜市有很多小吃。",
+   "zhuyin": "ㄊㄞˊ ㄨㄢ ㄉㄜ˙ ㄧㄝˋ ㄕˋ ㄧㄡˇ ㄏㄣˇ ㄉㄨㄛ ㄒㄧㄠˇ ㄔ",
+   "pinyin": "tái wān de yè shì yǒu hěn duō xiǎo chī",
+   "en": "Taiwan's night markets have lots of snacks."
+  },
+  "measure": {
+   "hanzi": "種",
+   "zhuyin": "ㄓㄨㄥˇ",
+   "pinyin": "zhǒng"
+  }
+ },
+ "398": {
+  "example": {
+   "hanzi": "吃完飯我想來份甜點。",
+   "zhuyin": "ㄔ ㄨㄢˊ ㄈㄢˋ ㄨㄛˇ ㄒㄧㄤˇ ㄌㄞˊ ㄈㄣˋ ㄊㄧㄢˊ ㄉㄧㄢˇ",
+   "pinyin": "chī wán fàn wǒ xiǎng lái fèn tián diǎn",
+   "en": "After the meal I'd like a dessert."
+  },
+  "measure": {
+   "hanzi": "份",
+   "zhuyin": "ㄈㄣˋ",
+   "pinyin": "fèn"
+  }
+ },
+ "399": {
+  "example": {
+   "hanzi": "我的咖啡不加糖。",
+   "zhuyin": "ㄨㄛˇ ㄉㄜ˙ ㄎㄚ ㄈㄟ ㄅㄨˋ ㄐㄧㄚ ㄊㄤˊ",
+   "pinyin": "wǒ de kā fēi bù jiā táng",
+   "en": "I don't take sugar in my coffee."
+  },
+  "measure": null
+ },
+ "400": {
+  "example": {
+   "hanzi": "這道菜要再加一點鹽。",
+   "zhuyin": "ㄓㄜˋ ㄉㄠˋ ㄘㄞˋ ㄧㄠˋ ㄗㄞˋ ㄐㄧㄚ ㄧˋ ㄉㄧㄢˇ ㄧㄢˊ",
+   "pinyin": "zhè dào cài yào zài jiā yì diǎn yán",
+   "en": "This dish needs a bit more salt."
+  },
+  "measure": null
+ },
+ "401": {
+  "example": {
+   "hanzi": "我不敢吃太辣的東西。",
+   "zhuyin": "ㄨㄛˇ ㄅㄨˋ ㄍㄢˇ ㄔ ㄊㄞˋ ㄌㄚˋ ㄉㄜ˙ ㄉㄨㄥ ㄒㄧ˙",
+   "pinyin": "wǒ bù gǎn chī tài là de dōng xi",
+   "en": "I can't handle very spicy food."
+  },
+  "measure": null
+ },
+ "402": {
+  "example": {
+   "hanzi": "這個蛋糕太甜了。",
+   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄉㄢˋ ㄍㄠ ㄊㄞˋ ㄊㄧㄢˊ ㄌㄜ˙",
+   "pinyin": "zhè ge dàn gāo tài tián le",
+   "en": "This cake is too sweet."
+  },
+  "measure": null
+ },
+ "403": {
+  "example": {
+   "hanzi": "這個檸檬很酸。",
+   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄋㄧㄥˊ ㄇㄥˊ ㄏㄣˇ ㄙㄨㄢ",
+   "pinyin": "zhè ge níng méng hěn suān",
+   "en": "This lemon is very sour."
+  },
+  "measure": null
+ },
+ "404": {
+  "example": {
+   "hanzi": "這杯咖啡有點苦。",
+   "zhuyin": "ㄓㄜˋ ㄅㄟ ㄎㄚ ㄈㄟ ㄧㄡˇ ㄉㄧㄢˇ ㄎㄨˇ",
+   "pinyin": "zhè bēi kā fēi yǒu diǎn kǔ",
+   "en": "This coffee is a little bitter."
+  },
+  "measure": null
+ },
+ "405": {
+  "example": {
+   "hanzi": "湯太鹹了，加點水吧。",
+   "zhuyin": "ㄊㄤ ㄊㄞˋ ㄒㄧㄢˊ ㄌㄜ˙ ㄐㄧㄚ ㄉㄧㄢˇ ㄕㄨㄟˇ ㄅㄚ˙",
+   "pinyin": "tāng tài xián le jiā diǎn shuǐ ba",
+   "en": "The soup is too salty — add some water."
+  },
+  "measure": null
+ },
+ "406": {
+  "example": {
+   "hanzi": "這家的滷肉飯真好吃。",
+   "zhuyin": "ㄓㄜˋ ㄐㄧㄚ ㄉㄜ˙ ㄌㄨˇ ㄖㄡˋ ㄈㄢˋ ㄓㄣ ㄏㄠˇ ㄔ",
+   "pinyin": "zhè jiā de lǔ ròu fàn zhēn hǎo chī",
+   "en": "This place's braised pork rice is really delicious."
+  },
+  "measure": null
+ },
+ "407": {
+  "example": {
+   "hanzi": "這個便當有點難吃。",
+   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄅㄧㄢˋ ㄉㄤ ㄧㄡˇ ㄉㄧㄢˇ ㄋㄢˊ ㄔ",
+   "pinyin": "zhè ge biàn dāng yǒu diǎn nán chī",
+   "en": "This lunchbox doesn't taste very good."
+  },
+  "measure": null
+ },
+ "408": {
+  "example": {
+   "hanzi": "我還沒吃飯，好餓。",
+   "zhuyin": "ㄨㄛˇ ㄏㄞˊ ㄇㄟˊ ㄔ ㄈㄢˋ ㄏㄠˇ ㄜˋ",
+   "pinyin": "wǒ hái méi chī fàn hǎo è",
+   "en": "I haven't eaten yet — I'm so hungry."
+  },
+  "measure": null
+ },
+ "409": {
+  "example": {
+   "hanzi": "運動完我覺得很渴。",
+   "zhuyin": "ㄩㄣˋ ㄉㄨㄥˋ ㄨㄢˊ ㄨㄛˇ ㄐㄩㄝˊ ㄉㄜ˙ ㄏㄣˇ ㄎㄜˇ",
+   "pinyin": "yùn dòng wán wǒ jué de hěn kě",
+   "en": "After exercising I feel thirsty."
+  },
+  "measure": null
+ },
+ "410": {
+  "example": {
+   "hanzi": "我吃飽了，謝謝。",
+   "zhuyin": "ㄨㄛˇ ㄔ ㄅㄠˇ ㄌㄜ˙ ㄒㄧㄝˋ ㄒㄧㄝˋ",
+   "pinyin": "wǒ chī bǎo le xiè xiè",
+   "en": "I'm full, thank you."
+  },
+  "measure": null
+ },
+ "411": {
+  "example": {
+   "hanzi": "請問內用還是外帶？",
+   "zhuyin": "ㄑㄧㄥˇ ㄨㄣˋ ㄋㄟˋ ㄩㄥˋ ㄏㄞˊ ㄕˋ ㄨㄞˋ ㄉㄞˋ",
+   "pinyin": "qǐng wèn nèi yòng hái shì wài dài",
+   "en": "For here or to go?"
+  },
+  "measure": null
+ },
+ "412": {
+  "example": {
+   "hanzi": "我要外帶一杯咖啡。",
+   "zhuyin": "ㄨㄛˇ ㄧㄠˋ ㄨㄞˋ ㄉㄞˋ ㄧˋ ㄅㄟ ㄎㄚ ㄈㄟ",
+   "pinyin": "wǒ yào wài dài yì bēi kā fēi",
+   "en": "I'd like a coffee to go."
+  },
+  "measure": null
+ },
+ "413": {
+  "example": {
+   "hanzi": "我要訂位，兩個人。",
+   "zhuyin": "ㄨㄛˇ ㄧㄠˋ ㄉㄧㄥˋ ㄨㄟˋ ㄌㄧㄤˇ ㄍㄜ˙ ㄖㄣˊ",
+   "pinyin": "wǒ yào dìng wèi liǎng ge rén",
+   "en": "I'd like to reserve a table for two."
+  },
+  "measure": null
+ },
+ "414": {
+  "example": {
+   "hanzi": "請問可以點餐了嗎？",
+   "zhuyin": "ㄑㄧㄥˇ ㄨㄣˋ ㄎㄜˇ ㄧˇ ㄉㄧㄢˇ ㄘㄢ ㄌㄜ˙ ㄇㄚ˙",
+   "pinyin": "qǐng wèn kě yǐ diǎn cān le ma",
+   "en": "May we order now?"
+  },
+  "measure": null
+ },
+ "415": {
+  "example": {
+   "hanzi": "我們再加點一份甜點。",
+   "zhuyin": "ㄨㄛˇ ㄇㄣ˙ ㄗㄞˋ ㄐㄧㄚ ㄉㄧㄢˇ ㄧˊ ㄈㄣˋ ㄊㄧㄢˊ ㄉㄧㄢˇ",
+   "pinyin": "wǒ men zài jiā diǎn yí fèn tián diǎn",
+   "en": "Let's order one more dessert."
+  },
+  "measure": null
+ },
+ "416": {
+  "example": {
+   "hanzi": "麻煩幫我結帳。",
+   "zhuyin": "ㄇㄚˊ ㄈㄢˊ ㄅㄤ ㄨㄛˇ ㄐㄧㄝˊ ㄓㄤˋ",
+   "pinyin": "má fán bāng wǒ jié zhàng",
+   "en": "Could I have the bill, please."
+  },
+  "measure": null
+ },
+ "417": {
+  "example": {
+   "hanzi": "吃不完可以打包嗎？",
+   "zhuyin": "ㄔ ㄅㄨˋ ㄨㄢˊ ㄎㄜˇ ㄧˇ ㄉㄚˇ ㄅㄠ ㄇㄚ˙",
+   "pinyin": "chī bù wán kě yǐ dǎ bāo ma",
+   "en": "Can I take the leftovers to go?"
+  },
+  "measure": null
+ },
+ "418": {
+  "example": {
+   "hanzi": "請給我一套餐具。",
+   "zhuyin": "ㄑㄧㄥˇ ㄍㄟˇ ㄨㄛˇ ㄧˊ ㄊㄠˋ ㄘㄢ ㄐㄩˋ",
+   "pinyin": "qǐng gěi wǒ yí tào cān jù",
+   "en": "Please give me a set of utensils."
+  },
+  "measure": {
+   "hanzi": "套",
+   "zhuyin": "ㄊㄠˋ",
+   "pinyin": "tào"
+  }
+ },
+ "419": {
+  "example": {
+   "hanzi": "我不太會用筷子。",
+   "zhuyin": "ㄨㄛˇ ㄅㄨˊ ㄊㄞˋ ㄏㄨㄟˋ ㄩㄥˋ ㄎㄨㄞˋ ㄗ˙",
+   "pinyin": "wǒ bú tài huì yòng kuài zi",
+   "en": "I'm not very good with chopsticks."
+  },
+  "measure": {
+   "hanzi": "雙",
+   "zhuyin": "ㄕㄨㄤ",
+   "pinyin": "shuāng"
+  }
+ },
+ "420": {
+  "example": {
+   "hanzi": "請再給我一支湯匙。",
+   "zhuyin": "ㄑㄧㄥˇ ㄗㄞˋ ㄍㄟˇ ㄨㄛˇ ㄧˋ ㄓ ㄊㄤ ㄕ˙",
+   "pinyin": "qǐng zài gěi wǒ yì zhī tāng shi",
+   "en": "Please give me another spoon."
+  },
+  "measure": {
+   "hanzi": "支",
+   "zhuyin": "ㄓ",
+   "pinyin": "zhī"
+  }
+ },
+ "421": {
+  "example": {
+   "hanzi": "小孩子用叉子比較安全。",
+   "zhuyin": "ㄒㄧㄠˇ ㄏㄞˊ ㄗ˙ ㄩㄥˋ ㄔㄚ ㄗ˙ ㄅㄧˇ ㄐㄧㄠˋ ㄢ ㄑㄩㄢˊ",
+   "pinyin": "xiǎo hái zi yòng chā zi bǐ jiào ān quán",
+   "en": "It's safer for children to use a fork."
+  },
+  "measure": {
+   "hanzi": "支",
+   "zhuyin": "ㄓ",
+   "pinyin": "zhī"
+  }
+ },
+ "422": {
+  "example": {
+   "hanzi": "這把刀子很利。",
+   "zhuyin": "ㄓㄜˋ ㄅㄚˇ ㄉㄠ ㄗ˙ ㄏㄣˇ ㄌㄧˋ",
+   "pinyin": "zhè bǎ dāo zi hěn lì",
+   "en": "This knife is very sharp."
+  },
+  "measure": {
+   "hanzi": "把",
+   "zhuyin": "ㄅㄚˇ",
+   "pinyin": "bǎ"
+  }
+ },
+ "423": {
+  "example": {
+   "hanzi": "請幫我拿一個碗。",
+   "zhuyin": "ㄑㄧㄥˇ ㄅㄤ ㄨㄛˇ ㄋㄚˊ ㄧˊ ㄍㄜ˙ ㄨㄢˇ",
+   "pinyin": "qǐng bāng wǒ ná yí ge wǎn",
+   "en": "Please get me a bowl."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "424": {
+  "example": {
+   "hanzi": "這個盤子破了。",
+   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄆㄢˊ ㄗ˙ ㄆㄛˋ ㄌㄜ˙",
+   "pinyin": "zhè ge pán zi pò le",
+   "en": "This plate is broken."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "425": {
+  "example": {
+   "hanzi": "這個杯子是我的。",
+   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄅㄟ ㄗ˙ ㄕˋ ㄨㄛˇ ㄉㄜ˙",
+   "pinyin": "zhè ge bēi zi shì wǒ de",
+   "en": "This cup is mine."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "426": {
+  "example": {
+   "hanzi": "我不需要吸管，謝謝。",
+   "zhuyin": "ㄨㄛˇ ㄅㄨˋ ㄒㄩ ㄧㄠˋ ㄒㄧ ㄍㄨㄢˇ ㄒㄧㄝˋ ㄒㄧㄝˋ",
+   "pinyin": "wǒ bù xū yào xī guǎn xiè xiè",
+   "en": "I don't need a straw, thanks."
+  },
+  "measure": {
+   "hanzi": "支",
+   "zhuyin": "ㄓ",
+   "pinyin": "zhī"
+  }
+ },
+ "427": {
+  "example": {
+   "hanzi": "可以給我一張紙巾嗎？",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄍㄟˇ ㄨㄛˇ ㄧˋ ㄓㄤ ㄓˇ ㄐㄧㄣ ㄇㄚ˙",
+   "pinyin": "kě yǐ gěi wǒ yì zhāng zhǐ jīn ma",
+   "en": "Could I get a napkin?"
+  },
+  "measure": {
+   "hanzi": "張",
+   "zhuyin": "ㄓㄤ",
+   "pinyin": "zhāng"
+  }
+ },
+ "428": {
+  "example": {
+   "hanzi": "飲料裡的冰塊太多了。",
+   "zhuyin": "ㄧㄣˇ ㄌㄧㄠˋ ㄌㄧˇ ㄉㄜ˙ ㄅㄧㄥ ㄎㄨㄞˋ ㄊㄞˋ ㄉㄨㄛ ㄌㄜ˙",
+   "pinyin": "yǐn liào lǐ de bīng kuài tài duō le",
+   "en": "There's too much ice in the drink."
+  },
+  "measure": {
+   "hanzi": "塊",
+   "zhuyin": "ㄎㄨㄞˋ",
+   "pinyin": "kuài"
+  }
+ },
+ "429": {
+  "example": {
+   "hanzi": "請給我一杯溫水。",
+   "zhuyin": "ㄑㄧㄥˇ ㄍㄟˇ ㄨㄛˇ ㄧˋ ㄅㄟ ㄨㄣ ㄕㄨㄟˇ",
+   "pinyin": "qǐng gěi wǒ yì bēi wēn shuǐ",
+   "en": "Please give me a glass of warm water."
+  },
+  "measure": {
+   "hanzi": "杯",
+   "zhuyin": "ㄅㄟ",
+   "pinyin": "bēi"
+  }
+ },
+ "430": {
+  "example": {
+   "hanzi": "多喝開水對身體好。",
+   "zhuyin": "ㄉㄨㄛ ㄏㄜ ㄎㄞ ㄕㄨㄟˇ ㄉㄨㄟˋ ㄕㄣ ㄊㄧˇ ㄏㄠˇ",
+   "pinyin": "duō hē kāi shuǐ duì shēn tǐ hǎo",
+   "en": "Drinking plenty of water is good for you."
+  },
+  "measure": {
+   "hanzi": "杯",
+   "zhuyin": "ㄅㄟ",
+   "pinyin": "bēi"
+  }
+ },
+ "431": {
+  "example": {
+   "hanzi": "我要一份雞排。",
+   "zhuyin": "ㄨㄛˇ ㄧㄠˋ ㄧˊ ㄈㄣˋ ㄐㄧ ㄆㄞˊ",
+   "pinyin": "wǒ yào yí fèn jī pái",
+   "en": "I'd like one fried chicken cutlet."
+  },
+  "measure": null
+ },
+ "432": {
+  "example": {
+   "hanzi": "我一餐吃兩碗飯。",
+   "zhuyin": "ㄨㄛˇ ㄧˋ ㄘㄢ ㄔ ㄌㄧㄤˇ ㄨㄢˇ ㄈㄢˋ",
+   "pinyin": "wǒ yì cān chī liǎng wǎn fàn",
+   "en": "I eat two bowls of rice per meal."
+  },
+  "measure": null
+ },
+ "433": {
+  "example": {
+   "hanzi": "這個套餐比較划算。",
+   "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄊㄠˋ ㄘㄢ ㄅㄧˇ ㄐㄧㄠˋ ㄏㄨㄚˊ ㄙㄨㄢˋ",
+   "pinyin": "zhè ge tào cān bǐ jiào huá suàn",
+   "en": "This set meal is better value."
+  },
+  "measure": {
+   "hanzi": "份",
+   "zhuyin": "ㄈㄣˋ",
+   "pinyin": "fèn"
+  }
+ },
+ "434": {
+  "example": {
+   "hanzi": "你想喝什麼飲料？",
+   "zhuyin": "ㄋㄧˇ ㄒㄧㄤˇ ㄏㄜ ㄕㄣˊ ㄇㄜ˙ ㄧㄣˇ ㄌㄧㄠˋ",
+   "pinyin": "nǐ xiǎng hē shén me yǐn liào",
+   "en": "What would you like to drink?"
+  },
+  "measure": {
+   "hanzi": "杯",
+   "zhuyin": "ㄅㄟ",
+   "pinyin": "bēi"
+  }
+ },
+ "435": {
+  "example": {
+   "hanzi": "珍珠是我最愛的配料。",
+   "zhuyin": "ㄓㄣ ㄓㄨ ㄕˋ ㄨㄛˇ ㄗㄨㄟˋ ㄞˋ ㄉㄜ˙ ㄆㄟˋ ㄌㄧㄠˋ",
+   "pinyin": "zhēn zhū shì wǒ zuì ài de pèi liào",
+   "en": "Pearls are my favorite topping."
+  },
+  "measure": {
+   "hanzi": "種",
+   "zhuyin": "ㄓㄨㄥˇ",
+   "pinyin": "zhǒng"
+  }
+ },
+ "436": {
+  "example": {
+   "hanzi": "這種醬料有點辣。",
+   "zhuyin": "ㄓㄜˋ ㄓㄨㄥˇ ㄐㄧㄤˋ ㄌㄧㄠˋ ㄧㄡˇ ㄉㄧㄢˇ ㄌㄚˋ",
+   "pinyin": "zhè zhǒng jiàng liào yǒu diǎn là",
+   "en": "This sauce is a bit spicy."
+  },
+  "measure": {
+   "hanzi": "種",
+   "zhuyin": "ㄓㄨㄥˇ",
+   "pinyin": "zhǒng"
+  }
+ },
+ "437": {
+  "example": {
+   "hanzi": "我吃素食，請不要加肉。",
+   "zhuyin": "ㄨㄛˇ ㄔ ㄙㄨˋ ㄕˊ ㄑㄧㄥˇ ㄅㄨˊ ㄧㄠˋ ㄐㄧㄚ ㄖㄡˋ",
+   "pinyin": "wǒ chī sù shí qǐng bú yào jiā ròu",
+   "en": "I'm vegetarian — please don't add meat."
+  },
+  "measure": null
+ },
+ "438": {
+  "example": {
+   "hanzi": "這家店葷食素食都有。",
+   "zhuyin": "ㄓㄜˋ ㄐㄧㄚ ㄉㄧㄢˋ ㄏㄨㄣ ㄕˊ ㄙㄨˋ ㄕˊ ㄉㄡ ㄧㄡˇ",
+   "pinyin": "zhè jiā diàn hūn shí sù shí dōu yǒu",
+   "en": "This shop has both meat and vegetarian options."
+  },
+  "measure": null
+ },
+ "439": {
+  "example": {
+   "hanzi": "我的餐點要不辣的。",
+   "zhuyin": "ㄨㄛˇ ㄉㄜ˙ ㄘㄢ ㄉㄧㄢˇ ㄧㄠˋ ㄅㄨˊ ㄌㄚˋ ㄉㄜ˙",
+   "pinyin": "wǒ de cān diǎn yào bú là de",
+   "en": "I'd like my meal not spicy."
+  },
+  "measure": null
+ },
+ "440": {
+  "example": {
+   "hanzi": "我的珍奶要少冰。",
+   "zhuyin": "ㄨㄛˇ ㄉㄜ˙ ㄓㄣ ㄋㄞˇ ㄧㄠˋ ㄕㄠˇ ㄅㄧㄥ",
+   "pinyin": "wǒ de zhēn nǎi yào shǎo bīng",
+   "en": "I'd like less ice in my bubble tea."
+  },
+  "measure": null
+ },
+ "441": {
+  "example": {
+   "hanzi": "天氣冷，我要去冰。",
+   "zhuyin": "ㄊㄧㄢ ㄑㄧˋ ㄌㄥˇ ㄨㄛˇ ㄧㄠˋ ㄑㄩˋ ㄅㄧㄥ",
+   "pinyin": "tiān qì lěng wǒ yào qù bīng",
+   "en": "It's cold — I'll have it without ice."
+  },
+  "measure": null
+ },
+ "442": {
+  "example": {
+   "hanzi": "這杯我要半糖。",
+   "zhuyin": "ㄓㄜˋ ㄅㄟ ㄨㄛˇ ㄧㄠˋ ㄅㄢˋ ㄊㄤˊ",
+   "pinyin": "zhè bēi wǒ yào bàn táng",
+   "en": "I'd like this one with half sugar."
+  },
+  "measure": null
+ },
+ "443": {
+  "example": {
+   "hanzi": "我通常都點無糖。",
+   "zhuyin": "ㄨㄛˇ ㄊㄨㄥ ㄔㄤˊ ㄉㄡ ㄉㄧㄢˇ ㄨˊ ㄊㄤˊ",
+   "pinyin": "wǒ tōng cháng dōu diǎn wú táng",
+   "en": "I usually order it sugar-free."
+  },
+  "measure": null
+ },
+ "444": {
+  "example": {
+   "hanzi": "請幫我加熱便當。",
+   "zhuyin": "ㄑㄧㄥˇ ㄅㄤ ㄨㄛˇ ㄐㄧㄚ ㄖㄜˋ ㄅㄧㄢˋ ㄉㄤ",
+   "pinyin": "qǐng bāng wǒ jiā rè biàn dāng",
+   "en": "Please heat up my lunchbox."
+  },
+  "measure": null
+ },
+ "445": {
+  "example": {
+   "hanzi": "開封後請冷藏。",
+   "zhuyin": "ㄎㄞ ㄈㄥ ㄏㄡˋ ㄑㄧㄥˇ ㄌㄥˇ ㄘㄤˊ",
+   "pinyin": "kāi fēng hòu qǐng lěng cáng",
+   "en": "Refrigerate after opening."
+  },
+  "measure": null
+ },
+ "446": {
+  "example": {
+   "hanzi": "這些水餃要冷凍保存。",
+   "zhuyin": "ㄓㄜˋ ㄒㄧㄝ ㄕㄨㄟˇ ㄐㄧㄠˇ ㄧㄠˋ ㄌㄥˇ ㄉㄨㄥˋ ㄅㄠˇ ㄘㄨㄣˊ",
+   "pinyin": "zhè xiē shuǐ jiǎo yào lěng dòng bǎo cún",
+   "en": "These dumplings need to be kept frozen."
+  },
+  "measure": null
+ },
+ "447": {
+  "example": {
+   "hanzi": "我今天烤了一個蛋糕。",
+   "zhuyin": "ㄨㄛˇ ㄐㄧㄣ ㄊㄧㄢ ㄎㄠˇ ㄌㄜ˙ ㄧˊ ㄍㄜ˙ ㄉㄢˋ ㄍㄠ",
+   "pinyin": "wǒ jīn tiān kǎo le yí ge dàn gāo",
+   "en": "I baked a cake today."
+  },
+  "measure": null
+ },
+ "448": {
+  "example": {
+   "hanzi": "炸的東西吃多了不健康。",
+   "zhuyin": "ㄓㄚˋ ㄉㄜ˙ ㄉㄨㄥ ㄒㄧ˙ ㄔ ㄉㄨㄛ ㄌㄜ˙ ㄅㄨˊ ㄐㄧㄢˋ ㄎㄤ",
+   "pinyin": "zhà de dōng xi chī duō le bú jiàn kāng",
+   "en": "Eating too much fried food isn't healthy."
+  },
+  "measure": null
+ },
+ "449": {
+  "example": {
+   "hanzi": "我炒了一盤青菜。",
+   "zhuyin": "ㄨㄛˇ ㄔㄠˇ ㄌㄜ˙ ㄧˋ ㄆㄢˊ ㄑㄧㄥ ㄘㄞˋ",
+   "pinyin": "wǒ chǎo le yì pán qīng cài",
+   "en": "I stir-fried a plate of greens."
+  },
+  "measure": null
+ },
+ "450": {
+  "example": {
+   "hanzi": "這條魚用蒸的比較好吃。",
+   "zhuyin": "ㄓㄜˋ ㄊㄧㄠˊ ㄩˊ ㄩㄥˋ ㄓㄥ ㄉㄜ˙ ㄅㄧˇ ㄐㄧㄠˋ ㄏㄠˇ ㄔ",
+   "pinyin": "zhè tiáo yú yòng zhēng de bǐ jiào hǎo chī",
+   "en": "This fish tastes better steamed."
+  },
+  "measure": null
+ },
+ "451": {
+  "example": {
+   "hanzi": "請把醬料攪拌均勻。",
+   "zhuyin": "ㄑㄧㄥˇ ㄅㄚˇ ㄐㄧㄤˋ ㄌㄧㄠˋ ㄐㄧㄠˇ ㄅㄢˋ ㄐㄩㄣ ㄩㄣˊ",
+   "pinyin": "qǐng bǎ jiàng liào jiǎo bàn jūn yún",
+   "en": "Please stir the sauce evenly."
+  },
+  "measure": null
+ },
+ "452": {
+  "example": {
+   "hanzi": "這道菜的味道很特別。",
+   "zhuyin": "ㄓㄜˋ ㄉㄠˋ ㄘㄞˋ ㄉㄜ˙ ㄨㄟˋ ㄉㄠˋ ㄏㄣˇ ㄊㄜˋ ㄅㄧㄝˊ",
+   "pinyin": "zhè dào cài de wèi dào hěn tè bié",
+   "en": "This dish has a very distinctive flavor."
+  },
+  "measure": {
+   "hanzi": "種",
+   "zhuyin": "ㄓㄨㄥˇ",
+   "pinyin": "zhǒng"
+  }
+ },
+ "453": {
+  "example": {
+   "hanzi": "這些蔬菜很新鮮。",
+   "zhuyin": "ㄓㄜˋ ㄒㄧㄝ ㄕㄨ ㄘㄞˋ ㄏㄣˇ ㄒㄧㄣ ㄒㄧㄢ",
+   "pinyin": "zhè xiē shū cài hěn xīn xiān",
+   "en": "These vegetables are very fresh."
+  },
+  "measure": null
+ },
+ "454": {
+  "example": {
+   "hanzi": "這瓶牛奶已經過期了。",
+   "zhuyin": "ㄓㄜˋ ㄆㄧㄥˊ ㄋㄧㄡˊ ㄋㄞˇ ㄧˇ ㄐㄧㄥ ㄍㄨㄛˋ ㄑㄧ ㄌㄜ˙",
+   "pinyin": "zhè píng niú nǎi yǐ jīng guò qī le",
+   "en": "This milk has already expired."
+  },
+  "measure": null
+ },
+ "455": {
+  "example": {
+   "hanzi": "這塊肉還沒熟。",
+   "zhuyin": "ㄓㄜˋ ㄎㄨㄞˋ ㄖㄡˋ ㄏㄞˊ ㄇㄟˊ ㄕㄨˊ",
+   "pinyin": "zhè kuài ròu hái méi shú",
+   "en": "This piece of meat isn't cooked yet."
+  },
+  "measure": null
+ },
+ "456": {
+  "example": {
+   "hanzi": "我不敢吃生的魚。",
+   "zhuyin": "ㄨㄛˇ ㄅㄨˋ ㄍㄢˇ ㄔ ㄕㄥ ㄉㄜ˙ ㄩˊ",
+   "pinyin": "wǒ bù gǎn chī shēng de yú",
+   "en": "I don't dare eat raw fish."
+  },
+  "measure": null
+ },
+ "457": {
+  "example": {
+   "hanzi": "我在廚房煮飯。",
+   "zhuyin": "ㄨㄛˇ ㄗㄞˋ ㄔㄨˊ ㄈㄤˊ ㄓㄨˇ ㄈㄢˋ",
+   "pinyin": "wǒ zài chú fáng zhǔ fàn",
+   "en": "I'm cooking in the kitchen."
+  },
+  "measure": {
+   "hanzi": "間",
+   "zhuyin": "ㄐㄧㄢ",
+   "pinyin": "jiān"
+  }
+ },
+ "458": {
+  "example": {
+   "hanzi": "我的家離公司很近。",
+   "zhuyin": "ㄨㄛˇ ㄉㄜ˙ ㄐㄧㄚ ㄌㄧˊ ㄍㄨㄥ ㄙ ㄏㄣˇ ㄐㄧㄣˋ",
+   "pinyin": "wǒ de jiā lí gōng sī hěn jìn",
+   "en": "My home is close to the office."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "459": {
+  "example": {
+   "hanzi": "這間房子很舊了。",
+   "zhuyin": "ㄓㄜˋ ㄐㄧㄢ ㄈㄤˊ ㄗ˙ ㄏㄣˇ ㄐㄧㄡˋ ㄌㄜ˙",
+   "pinyin": "zhè jiān fáng zi hěn jiù le",
+   "en": "This house is quite old."
+  },
+  "measure": {
+   "hanzi": "間",
+   "zhuyin": "ㄐㄧㄢ",
+   "pinyin": "jiān"
+  }
+ },
+ "460": {
+  "example": {
+   "hanzi": "我住在一間小公寓。",
+   "zhuyin": "ㄨㄛˇ ㄓㄨˋ ㄗㄞˋ ㄧˋ ㄐㄧㄢ ㄒㄧㄠˇ ㄍㄨㄥ ㄩˋ",
+   "pinyin": "wǒ zhù zài yì jiān xiǎo gōng yù",
+   "en": "I live in a small apartment."
+  },
+  "measure": {
+   "hanzi": "間",
+   "zhuyin": "ㄐㄧㄢ",
+   "pinyin": "jiān"
+  }
+ },
+ "461": {
+  "example": {
+   "hanzi": "我的房間在二樓。",
+   "zhuyin": "ㄨㄛˇ ㄉㄜ˙ ㄈㄤˊ ㄐㄧㄢ ㄗㄞˋ ㄦˋ ㄌㄡˊ",
+   "pinyin": "wǒ de fáng jiān zài èr lóu",
+   "en": "My room is on the second floor."
+  },
+  "measure": {
+   "hanzi": "間",
+   "zhuyin": "ㄐㄧㄢ",
+   "pinyin": "jiān"
+  }
+ },
+ "462": {
+  "example": {
+   "hanzi": "我們在客廳看電視。",
+   "zhuyin": "ㄨㄛˇ ㄇㄣ˙ ㄗㄞˋ ㄎㄜˋ ㄊㄧㄥ ㄎㄢˋ ㄉㄧㄢˋ ㄕˋ",
+   "pinyin": "wǒ men zài kè tīng kàn diàn shì",
+   "en": "We watch TV in the living room."
+  },
+  "measure": {
+   "hanzi": "間",
+   "zhuyin": "ㄐㄧㄢ",
+   "pinyin": "jiān"
+  }
+ },
+ "463": {
+  "example": {
+   "hanzi": "這間臥室有大窗戶。",
+   "zhuyin": "ㄓㄜˋ ㄐㄧㄢ ㄨㄛˋ ㄕˋ ㄧㄡˇ ㄉㄚˋ ㄔㄨㄤ ㄏㄨˋ",
+   "pinyin": "zhè jiān wò shì yǒu dà chuāng hù",
+   "en": "This bedroom has a big window."
+  },
+  "measure": {
+   "hanzi": "間",
+   "zhuyin": "ㄐㄧㄢ",
+   "pinyin": "jiān"
+  }
+ },
+ "464": {
+  "example": {
+   "hanzi": "浴室裡沒有熱水。",
+   "zhuyin": "ㄩˋ ㄕˋ ㄌㄧˇ ㄇㄟˊ ㄧㄡˇ ㄖㄜˋ ㄕㄨㄟˇ",
+   "pinyin": "yù shì lǐ méi yǒu rè shuǐ",
+   "en": "There's no hot water in the bathroom."
+  },
+  "measure": {
+   "hanzi": "間",
+   "zhuyin": "ㄐㄧㄢ",
+   "pinyin": "jiān"
+  }
+ },
+ "465": {
+  "example": {
+   "hanzi": "請問廁所在哪裡？",
+   "zhuyin": "ㄑㄧㄥˇ ㄨㄣˋ ㄘㄜˋ ㄙㄨㄛˇ ㄗㄞˋ ㄋㄚˇ ㄌㄧˇ",
+   "pinyin": "qǐng wèn cè suǒ zài nǎ lǐ",
+   "en": "Excuse me, where's the toilet?"
+  },
+  "measure": {
+   "hanzi": "間",
+   "zhuyin": "ㄐㄧㄢ",
+   "pinyin": "jiān"
+  }
+ },
+ "466": {
+  "example": {
+   "hanzi": "我在陽台曬衣服。",
+   "zhuyin": "ㄨㄛˇ ㄗㄞˋ ㄧㄤˊ ㄊㄞˊ ㄕㄞˋ ㄧ ㄈㄨˊ",
+   "pinyin": "wǒ zài yáng tái shài yī fú",
+   "en": "I hang the laundry on the balcony."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "467": {
+  "example": {
+   "hanzi": "請把門關上。",
+   "zhuyin": "ㄑㄧㄥˇ ㄅㄚˇ ㄇㄣˊ ㄍㄨㄢ ㄕㄤˋ",
+   "pinyin": "qǐng bǎ mén guān shàng",
+   "en": "Please close the door."
+  },
+  "measure": {
+   "hanzi": "扇",
+   "zhuyin": "ㄕㄢˋ",
+   "pinyin": "shàn"
+  }
+ },
+ "468": {
+  "example": {
+   "hanzi": "打開窗戶通風吧。",
+   "zhuyin": "ㄉㄚˇ ㄎㄞ ㄔㄨㄤ ㄏㄨˋ ㄊㄨㄥ ㄈㄥ ㄅㄚ˙",
+   "pinyin": "dǎ kāi chuāng hù tōng fēng ba",
+   "en": "Let's open the window to air the place out."
+  },
+  "measure": {
+   "hanzi": "扇",
+   "zhuyin": "ㄕㄢˋ",
+   "pinyin": "shàn"
+  }
+ },
+ "469": {
+  "example": {
+   "hanzi": "這面牆要重新油漆。",
+   "zhuyin": "ㄓㄜˋ ㄇㄧㄢˋ ㄑㄧㄤˊ ㄧㄠˋ ㄔㄨㄥˊ ㄒㄧㄣ ㄧㄡˊ ㄑㄧ",
+   "pinyin": "zhè miàn qiáng yào chóng xīn yóu qī",
+   "en": "This wall needs repainting."
+  },
+  "measure": {
+   "hanzi": "面",
+   "zhuyin": "ㄇㄧㄢˋ",
+   "pinyin": "miàn"
+  }
+ },
+ "470": {
+  "example": {
+   "hanzi": "地板剛拖過，小心滑。",
+   "zhuyin": "ㄉㄧˋ ㄅㄢˇ ㄍㄤ ㄊㄨㄛ ㄍㄨㄛˋ ㄒㄧㄠˇ ㄒㄧㄣ ㄏㄨㄚˊ",
+   "pinyin": "dì bǎn gāng tuō guò xiǎo xīn huá",
+   "en": "The floor was just mopped — careful, it's slippery."
+  },
+  "measure": null
+ },
+ "471": {
+  "example": {
+   "hanzi": "我每天爬樓梯運動。",
+   "zhuyin": "ㄨㄛˇ ㄇㄟˇ ㄊㄧㄢ ㄆㄚˊ ㄌㄡˊ ㄊㄧ ㄩㄣˋ ㄉㄨㄥˋ",
+   "pinyin": "wǒ měi tiān pá lóu tī yùn dòng",
+   "en": "I climb the stairs for exercise every day."
+  },
+  "measure": null
+ },
+ "472": {
+  "example": {
+   "hanzi": "電梯壞了，我們走樓梯吧。",
+   "zhuyin": "ㄉㄧㄢˋ ㄊㄧ ㄏㄨㄞˋ ㄌㄜ˙ ㄨㄛˇ ㄇㄣ˙ ㄗㄡˇ ㄌㄡˊ ㄊㄧ ㄅㄚ˙",
+   "pinyin": "diàn tī huài le wǒ men zǒu lóu tī ba",
+   "en": "The elevator's broken — let's take the stairs."
+  },
+  "measure": {
+   "hanzi": "台",
+   "zhuyin": "ㄊㄞˊ",
+   "pinyin": "tái"
+  }
+ },
+ "473": {
+  "example": {
+   "hanzi": "這張桌子太小了。",
+   "zhuyin": "ㄓㄜˋ ㄓㄤ ㄓㄨㄛ ㄗ˙ ㄊㄞˋ ㄒㄧㄠˇ ㄌㄜ˙",
+   "pinyin": "zhè zhāng zhuō zi tài xiǎo le",
+   "en": "This table is too small."
+  },
+  "measure": {
+   "hanzi": "張",
+   "zhuyin": "ㄓㄤ",
+   "pinyin": "zhāng"
+  }
+ },
+ "474": {
+  "example": {
+   "hanzi": "請把椅子搬過來。",
+   "zhuyin": "ㄑㄧㄥˇ ㄅㄚˇ ㄧˇ ㄗ˙ ㄅㄢ ㄍㄨㄛˋ ㄌㄞˊ",
+   "pinyin": "qǐng bǎ yǐ zi bān guò lái",
+   "en": "Please bring the chair over."
+  },
+  "measure": {
+   "hanzi": "把",
+   "zhuyin": "ㄅㄚˇ",
+   "pinyin": "bǎ"
+  }
+ },
+ "475": {
+  "example": {
+   "hanzi": "這張床睡起來很舒服。",
+   "zhuyin": "ㄓㄜˋ ㄓㄤ ㄔㄨㄤˊ ㄕㄨㄟˋ ㄑㄧˇ ㄌㄞˊ ㄏㄣˇ ㄕㄨ ㄈㄨˊ",
+   "pinyin": "zhè zhāng chuáng shuì qǐ lái hěn shū fú",
+   "en": "This bed is comfortable to sleep on."
+  },
+  "measure": {
+   "hanzi": "張",
+   "zhuyin": "ㄓㄤ",
+   "pinyin": "zhāng"
+  }
+ },
+ "476": {
+  "example": {
+   "hanzi": "他在沙發上睡著了。",
+   "zhuyin": "ㄊㄚ ㄗㄞˋ ㄕㄚ ㄈㄚ ㄕㄤˋ ㄕㄨㄟˋ ㄓㄠˊ ㄌㄜ˙",
+   "pinyin": "tā zài shā fā shàng shuì zháo le",
+   "en": "He fell asleep on the sofa."
+  },
+  "measure": {
+   "hanzi": "張",
+   "zhuyin": "ㄓㄤ",
+   "pinyin": "zhāng"
+  }
+ },
+ "477": {
+  "example": {
+   "hanzi": "碗放在櫃子裡。",
+   "zhuyin": "ㄨㄢˇ ㄈㄤˋ ㄗㄞˋ ㄍㄨㄟˋ ㄗ˙ ㄌㄧˇ",
+   "pinyin": "wǎn fàng zài guì zi lǐ",
+   "en": "The bowls are in the cabinet."
+  },
+  "measure": {
+   "hanzi": "個",
+   "zhuyin": "ㄍㄜˋ",
+   "pinyin": "gè"
+  }
+ },
+ "478": {
+  "example": {
+   "hanzi": "這盞燈不太亮。",
+   "zhuyin": "ㄓㄜˋ ㄓㄢˇ ㄉㄥ ㄅㄨˊ ㄊㄞˋ ㄌㄧㄤˋ",
+   "pinyin": "zhè zhǎn dēng bú tài liàng",
+   "en": "This lamp isn't very bright."
+  },
+  "measure": {
+   "hanzi": "盞",
+   "zhuyin": "ㄓㄢˇ",
+   "pinyin": "zhǎn"
+  }
+ },
+ "479": {
+  "example": {
+   "hanzi": "夏天沒有冷氣受不了。",
+   "zhuyin": "ㄒㄧㄚˋ ㄊㄧㄢ ㄇㄟˊ ㄧㄡˇ ㄌㄥˇ ㄑㄧˋ ㄕㄡˋ ㄅㄨˋ ㄌㄧㄠˇ",
+   "pinyin": "xià tiān méi yǒu lěng qì shòu bù liǎo",
+   "en": "Summer is unbearable without air conditioning."
+  },
+  "measure": {
+   "hanzi": "台",
+   "zhuyin": "ㄊㄞˊ",
+   "pinyin": "tái"
+  }
+ },
+ "480": {
+  "example": {
+   "hanzi": "請把電風扇打開。",
+   "zhuyin": "ㄑㄧㄥˇ ㄅㄚˇ ㄉㄧㄢˋ ㄈㄥ ㄕㄢˋ ㄉㄚˇ ㄎㄞ",
+   "pinyin": "qǐng bǎ diàn fēng shàn dǎ kāi",
+   "en": "Please turn on the electric fan."
+  },
+  "measure": {
+   "hanzi": "台",
+   "zhuyin": "ㄊㄞˊ",
+   "pinyin": "tái"
+  }
+ },
+ "481": {
+  "example": {
+   "hanzi": "洗衣機在陽台。",
+   "zhuyin": "ㄒㄧˇ ㄧ ㄐㄧ ㄗㄞˋ ㄧㄤˊ ㄊㄞˊ",
+   "pinyin": "xǐ yī jī zài yáng tái",
+   "en": "The washing machine is on the balcony."
+  },
+  "measure": {
+   "hanzi": "台",
+   "zhuyin": "ㄊㄞˊ",
+   "pinyin": "tái"
+  }
+ },
  "741": {
   "example": {
    "hanzi": "我對花生過敏。",
