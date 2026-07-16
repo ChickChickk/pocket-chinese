@@ -246,18 +246,31 @@
     if (v) CHOSEN_VOICE = v;
     return v;
   }
-  // rate: sentences read slowly (0.72) so learners can follow. A single isolated
-  // syllable (the zhuyin chart) smears badly at that speed — vowels lose their shape,
-  // so ㄅ "bo" can end up sounding like "be". Those read near-normal speed instead.
+  // Sentences read slowly (0.72) so learners can follow. But a short, isolated utterance
+  // smears at that speed — the vowel loses its shape, which is how ㄅ "bo" ends up sounding
+  // like "be". Those read near-normal instead.
+  //
+  // Decided from the text rather than tagged at each call site: speakBtn alone is reused for
+  // word cards, word-of-the-day, flashcard fronts, quiz reveals and the tones table, so
+  // per-caller flags would inevitably be missed.
   var RATE_SENTENCE = 0.72,
     RATE_SYLLABLE = 0.95;
-  function speak(text, rate) {
+  function autoRate(text) {
+    var t = String(text || "");
+    // Punctuation is the real signal — every example sentence carries 。？！ — so the length
+    // check is only a safety net for unpunctuated text. It sits above the longest headword
+    // (5 chars, e.g. 筆記型電腦) so genuine words are never dragged to sentence speed.
+    if (/[。！？，、；：]/.test(t)) return RATE_SENTENCE;
+    var hanzi = (t.match(/[㐀-鿿]/g) || []).length;
+    return hanzi > 5 ? RATE_SENTENCE : RATE_SYLLABLE;
+  }
+  function speak(text) {
     try {
       if (!window.speechSynthesis) return;
       window.speechSynthesis.cancel();
       var u = new SpeechSynthesisUtterance(text);
       u.lang = "zh-TW";
-      u.rate = rate || RATE_SENTENCE;
+      u.rate = autoRate(text);
       u.pitch = 1.05;
       var v = pickVoice();
       if (v) u.voice = v;
@@ -2166,9 +2179,7 @@
           return (
             '<button class="zy-cell' +
             (asp ? " asp" : "") +
-            '" data-act="speak" data-rate="' +
-            RATE_SYLLABLE +
-            '" data-say="' +
+            '" data-act="speak" data-say="' +
             attr(r[3]) +
             '" title="Tap to hear (' +
             attr(r[3]) +
@@ -2225,9 +2236,7 @@
       '<select class="select" id="voice-select">' +
       opts +
       "</select>" +
-      '<button class="btn btn-ghost btn-sm" data-act="speak" data-rate="' +
-      RATE_SYLLABLE +
-      '" data-say="ㄅㄆㄇㄈ的發音" title="Test">▶ Test</button>' +
+      '<button class="btn btn-ghost btn-sm" data-act="speak" data-say="ㄅㄆㄇㄈ的發音" title="Test">▶ Test</button>' +
       '<span class="voice-hint">Voices differ a lot by device — if the sound is off, try another (✓ Taiwan ones are best).</span>' +
       "</div>"
     );
@@ -2582,7 +2591,7 @@
     var act = t.getAttribute("data-act");
     if (act === "speak") {
       e.stopPropagation();
-      speak(t.getAttribute("data-say"), parseFloat(t.getAttribute("data-rate")) || 0);
+      speak(t.getAttribute("data-say"));
       return;
     }
     if (t.closest("#nav") && act !== "menu") closeMobileNav();
@@ -2602,7 +2611,7 @@
       CHOSEN_VOICE = null; // let pickVoice() re-resolve
       save();
       render();
-      speak("ㄅㄆㄇㄈ的發音", RATE_SYLLABLE); // audition the new choice immediately
+      speak("ㄅㄆㄇㄈ的發音"); // audition the new choice immediately
     }
   });
   document.addEventListener("input", function (e) {
