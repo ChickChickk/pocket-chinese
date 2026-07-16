@@ -1,0 +1,22 @@
+{
+  "_readme": [
+    "What the tap-to-hear button SPEAKS, when the bare 漢字 would be read wrong.",
+    "",
+    "Speech synthesis reads the CHARACTER and picks the reading itself — our zhuyin/pinyin",
+    "never reaches the voice. So a polyphone given no context is a guess, and bound particles",
+    "(的/了/著) never stand alone in speech at all, so the voice falls back to their standalone",
+    "reading: 著 comes out zhù instead of zhe.",
+    "",
+    "The only lever is context. Each 'say' below is the shortest natural phrase that forces the",
+    "reading this entry actually means. Keyed by word num.",
+    "",
+    "NOT fixable this way: 和 (and). A Taiwan voice reads it hàn, which is a genuine Taiwanese",
+    "reading — no context forces hé, because hàn IS the conjunction reading it knows."
+  ],
+  "18": { "say": "我的書", "why": "的 alone -> dì; needs a possessive phrase to be read de" },
+  "19": { "say": "我吃飽了", "why": "了 alone -> liǎo; needs a completed action to be read le" },
+  "20": { "say": "我去過台南", "why": "過 alone -> guò; needs the experiential use to be read guo" },
+  "21": { "say": "門開著", "why": "著 alone -> zhù (reported); needs the continuous use to be read zhe" },
+  "129": { "say": "教中文", "why": "教 alone may be read jiào (education); here it means to teach = jiāo" },
+  "727": { "say": "我想吐", "why": "吐 alone may be read tǔ (spit); here it means vomit = tù" }
+}

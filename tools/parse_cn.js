@@ -4,6 +4,7 @@ const SRC = path.join(__dirname, "source_1000.md");
 const OUT_DATA = path.join(__dirname, "..", "js", "data.js");
 const OUT_RAW = path.join(__dirname, "raw_rows.json");
 const OUT_ENRICH = path.join(__dirname, "enrich.json");
+const OUT_SAY = path.join(__dirname, "say_overrides.json");
 
 const lines = fs.readFileSync(SRC, "utf8").split("\n");
 
@@ -60,6 +61,10 @@ for (const line of lines) {
 let ENRICH = {};
 if (fs.existsSync(OUT_ENRICH)) { try { ENRICH = JSON.parse(fs.readFileSync(OUT_ENRICH, "utf8")); } catch (e) { console.warn("enrich.json parse failed:", e.message); } }
 
+// What to SPEAK when the bare 漢字 would be read with the wrong reading — see say_overrides.json.
+let SAY = {};
+if (fs.existsSync(OUT_SAY)) { try { SAY = JSON.parse(fs.readFileSync(OUT_SAY, "utf8")); } catch (e) { console.warn("say_overrides.json parse failed:", e.message); } }
+
 // Pass 2: split each theme into study-set chapters of ~24 (max 26), even distribution.
 const MAX = 26;
 const CATEGORIES = [];
@@ -76,10 +81,12 @@ for (let t = 0; t < SECTION_ORDER.length; t++) {
     CATEGORIES.push({ title, note: NOTES[SECTION_ORDER[t]], start: chunk[0].num, end: chunk[chunk.length - 1].num });
     for (const w of chunk) {
       const e = ENRICH[String(w.num)] || {};
+      const sayOverride = (SAY[String(w.num)] || {}).say || null;
       WORDS.push({
         num: w.num, cat: catId, hanzi: w.hanzi, zhuyin: w.zhuyin, pinyin: w.pinyin, meaning: w.meaning,
         measure: e.measure || null,
-        example: e.example || null
+        example: e.example || null,
+        say: sayOverride // null = speak the hanzi itself
       });
     }
   }
