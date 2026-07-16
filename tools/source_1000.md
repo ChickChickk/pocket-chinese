@@ -310,18 +310,18 @@
 | 267 | 下午 | ㄒㄧㄚˋ ㄨˇ | xià wǔ | afternoon | 我下午有一場會議。 | I have a meeting in the afternoon. | 1 |
 | 268 | 晚上 | ㄨㄢˇ ㄕㄤˋ | wǎn shàng | evening | 我晚上在家看電影。 | I watch movies at home in the evening. | 1 |
 | 269 | 半夜 | ㄅㄢˋ ㄧㄝˋ | bàn yè | midnight | 他半夜才回家。 | He did not return home until midnight. | 1 |
-| 270 | 星期 | ㄒㄧㄥ ㄑㄧ | xīng qī | week | 我下星期要出差。 | I am going on a business trip next week. | 1 |
+| 270 | 星期 | ㄒㄧㄥ ㄑㄧˊ | xīng qí | week | 我下星期要出差。 | I am going on a business trip next week. | 1 |
 | 271 | 週末 | ㄓㄡ ㄇㄛˋ | zhōu mò | weekend | 週末我們去爬山。 | We are going hiking this weekend. | 1 |
-| 272 | 星期一 | ㄒㄧㄥ ㄑㄧ ㄧ | xīng qī yī | Monday | 星期一我要上班。 | I have to work on Monday. | 1 |
-| 273 | 星期二 | ㄒㄧㄥ ㄑㄧ ㄦˋ | xīng qī èr | Tuesday | 星期二有中文課。 | There is a Chinese class on Tuesday. | 1 |
-| 274 | 星期三 | ㄒㄧㄥ ㄑㄧ ㄙㄢ | xīng qī sān | Wednesday | 星期三我們開會。 | We have a meeting on Wednesday. | 1 |
-| 275 | 星期四 | ㄒㄧㄥ ㄑㄧ ㄙˋ | xīng qī sì | Thursday | 星期四我要看醫生。 | I am seeing a doctor on Thursday. | 1 |
-| 276 | 星期五 | ㄒㄧㄥ ㄑㄧ ㄨˇ | xīng qī wǔ | Friday | 星期五晚上一起吃飯吧。 | Let’s have dinner together on Friday evening. | 1 |
-| 277 | 星期六 | ㄒㄧㄥ ㄑㄧ ㄌㄧㄡˋ | xīng qī liù | Saturday | 星期六銀行沒有開。 | The bank is not open on Saturday. | 1 |
-| 278 | 星期日 | ㄒㄧㄥ ㄑㄧ ㄖˋ | xīng qī rì | Sunday | 星期日我通常在家休息。 | I usually rest at home on Sunday. | 1 |
+| 272 | 星期一 | ㄒㄧㄥ ㄑㄧˊ ㄧ | xīng qí yī | Monday | 星期一我要上班。 | I have to work on Monday. | 1 |
+| 273 | 星期二 | ㄒㄧㄥ ㄑㄧˊ ㄦˋ | xīng qí èr | Tuesday | 星期二有中文課。 | There is a Chinese class on Tuesday. | 1 |
+| 274 | 星期三 | ㄒㄧㄥ ㄑㄧˊ ㄙㄢ | xīng qí sān | Wednesday | 星期三我們開會。 | We have a meeting on Wednesday. | 1 |
+| 275 | 星期四 | ㄒㄧㄥ ㄑㄧˊ ㄙˋ | xīng qí sì | Thursday | 星期四我要看醫生。 | I am seeing a doctor on Thursday. | 1 |
+| 276 | 星期五 | ㄒㄧㄥ ㄑㄧˊ ㄨˇ | xīng qí wǔ | Friday | 星期五晚上一起吃飯吧。 | Let’s have dinner together on Friday evening. | 1 |
+| 277 | 星期六 | ㄒㄧㄥ ㄑㄧˊ ㄌㄧㄡˋ | xīng qí liù | Saturday | 星期六銀行沒有開。 | The bank is not open on Saturday. | 1 |
+| 278 | 星期日 | ㄒㄧㄥ ㄑㄧˊ ㄖˋ | xīng qí rì | Sunday | 星期日我通常在家休息。 | I usually rest at home on Sunday. | 1 |
 | 279 | 月 | ㄩㄝˋ | yuè | month | 下個月我要搬家。 | I am moving next month. | 1 |
 | 280 | 年 | ㄋㄧㄢˊ | nián | year | 我在台灣住了三年。 | I have lived in Taiwan for three years. | 1 |
-| 281 | 日期 | ㄖˋ ㄑㄧ | rì qī | date | 請確認表格上的日期。 | Please confirm the date on the form. | 1 |
+| 281 | 日期 | ㄖˋ ㄑㄧˊ | rì qí | date | 請確認表格上的日期。 | Please confirm the date on the form. | 1 |
 | 282 | 生日 | ㄕㄥ ㄖˋ | shēng rì | birthday | 今天是我朋友的生日。 | Today is my friend’s birthday. | 1 |
 | 283 | 現在 | ㄒㄧㄢˋ ㄗㄞˋ | xiàn zài | now | 我現在正在上班。 | I am working now. | 1 |
 | 284 | 等一下 | ㄉㄥˇ ㄧˊ ㄒㄧㄚˋ | děng yí xià | wait a moment | 請等一下，我馬上回來。 | Please wait a moment; I will be right back. | 1 |
@@ -514,7 +514,7 @@
 | 452 | 攪拌 | ㄐㄧㄠˇ ㄅㄢˋ | jiǎo bàn | to stir | 我今天需要攪拌。 | I need to stir today. | 2 |
 | 453 | 味道 | ㄨㄟˋ ㄉㄠˋ | wèi dào | flavor | 我想吃味道。 | I would like to eat flavor. | 2 |
 | 454 | 新鮮 | ㄒㄧㄣ ㄒㄧㄢ | xīn xiān | fresh | 我想吃新鮮。 | I would like to eat fresh. | 2 |
-| 455 | 過期 | ㄍㄨㄛˋ ㄑㄧ | guò qī | expired | 我想吃過期。 | I would like to eat expired. | 2 |
+| 455 | 過期 | ㄍㄨㄛˋ ㄑㄧˊ | guò qí | expired | 我想吃過期。 | I would like to eat expired. | 2 |
 | 456 | 熟 | ㄕㄨˊ | shú | cooked/ripe | 我想吃熟。 | I would like to eat cooked/ripe. | 2 |
 | 457 | 生 | ㄕㄥ | shēng | raw | 我想吃生。 | I would like to eat raw. | 2 |
 | 458 | 廚房 | ㄔㄨˊ ㄈㄤˊ | chú fáng | kitchen | 我想吃廚房。 | I would like to eat kitchen. | 2 |
@@ -688,7 +688,7 @@
 | 606 | 上班 | ㄕㄤˋ ㄅㄢ | shàng bān | go to work | 我們今天要討論上班。 | We need to discuss the go to work today. | 2 |
 | 607 | 下班 | ㄒㄧㄚˋ ㄅㄢ | xià bān | finish work | 我們今天要討論下班。 | We need to discuss the finish work today. | 2 |
 | 608 | 加班 | ㄐㄧㄚ ㄅㄢ | jiā bān | work overtime | 我今天需要加班。 | I need to work overtime today. | 2 |
-| 609 | 請假 | ㄑㄧㄥˇ ㄐㄧㄚˇ | qǐng jiǎ | take leave | 我今天需要請假。 | I need to take leave today. | 2 |
+| 609 | 請假 | ㄑㄧㄥˇ ㄐㄧㄚˋ | qǐng jià | take leave | 我今天需要請假。 | I need to take leave today. | 2 |
 | 610 | 薪水 | ㄒㄧㄣ ㄕㄨㄟˇ | xīn shuǐ | salary | 我們今天要討論薪水。 | We need to discuss the salary today. | 2 |
 | 611 | 履歷 | ㄌㄩˇ ㄌㄧˋ | lǚ lì | résumé | 我們今天要討論履歷。 | We need to discuss the résumé today. | 2 |
 | 612 | 面試 | ㄇㄧㄢˋ ㄕˋ | miàn shì | interview | 我們今天要討論面試。 | We need to discuss the interview today. | 2 |
@@ -697,7 +697,7 @@
 | 615 | 任務 | ㄖㄣˋ ㄨˋ | rèn wù | task | 我們今天要討論任務。 | We need to discuss the task today. | 2 |
 | 616 | 工作量 | ㄍㄨㄥ ㄗㄨㄛˋ ㄌㄧㄤˋ | gōng zuò liàng | workload | 我們今天要討論工作量。 | We need to discuss the workload today. | 2 |
 | 617 | 進度 | ㄐㄧㄣˋ ㄉㄨˋ | jìn dù | progress | 我們今天要討論進度。 | We need to discuss the progress today. | 2 |
-| 618 | 期限 | ㄑㄧ ㄒㄧㄢˋ | qī xiàn | deadline | 我們今天要討論期限。 | We need to discuss the deadline today. | 2 |
+| 618 | 期限 | ㄑㄧˊ ㄒㄧㄢˋ | qí xiàn | deadline | 我們今天要討論期限。 | We need to discuss the deadline today. | 2 |
 | 619 | 優先順序 | ㄧㄡ ㄒㄧㄢ ㄕㄨㄣˋ ㄒㄩˋ | yōu xiān shùn xù | priority | 我們今天要討論優先順序。 | We need to discuss the priority today. | 2 |
 | 620 | 目標 | ㄇㄨˋ ㄅㄧㄠ | mù biāo | goal | 我們今天要討論目標。 | We need to discuss the goal today. | 2 |
 | 621 | 計畫 | ㄐㄧˋ ㄏㄨㄚˋ | jì huà | plan | 我們今天要討論計畫。 | We need to discuss the plan today. | 2 |
@@ -716,7 +716,7 @@
 | 634 | 檔案 | ㄉㄤˋ ㄢˋ | dàng àn | file | 我們今天要討論檔案。 | We need to discuss the file today. | 2 |
 | 635 | 資料夾 | ㄗ ㄌㄧㄠˋ ㄐㄧㄚ | zī liào jiā | folder | 我們今天要討論資料夾。 | We need to discuss the folder today. | 2 |
 | 636 | 電子郵件 | ㄉㄧㄢˋ ㄗ˙ ㄧㄡˊ ㄐㄧㄢˋ | diàn zi yóu jiàn | email | 我們今天要討論電子郵件。 | We need to discuss the email today. | 2 |
-| 637 | 訊息 | ㄒㄩㄣˋ ㄒㄧ | xùn xī | message | 我們今天要討論訊息。 | We need to discuss the message today. | 2 |
+| 637 | 訊息 | ㄒㄩㄣˋ ㄒㄧˊ | xùn xí | message | 我們今天要討論訊息。 | We need to discuss the message today. | 2 |
 | 638 | 電話 | ㄉㄧㄢˋ ㄏㄨㄚˋ | diàn huà | phone call | 我們今天要討論電話。 | We need to discuss the phone call today. | 2 |
 | 639 | 客戶 | ㄎㄜˋ ㄏㄨˋ | kè hù | client | 我們今天要討論客戶。 | We need to discuss the client today. | 2 |
 | 640 | 需求 | ㄒㄩ ㄑㄧㄡˊ | xū qiú | requirement | 我們今天要討論需求。 | We need to discuss the requirement today. | 2 |
@@ -734,7 +734,7 @@
 |---:|---|---|---|---|---|---|:---:|
 | 648 | 學校 | ㄒㄩㄝˊ ㄒㄧㄠˋ | xué xiào | school | 老師正在教我們學校。 | The teacher is teaching us school. | 2 |
 | 649 | 大學 | ㄉㄚˋ ㄒㄩㄝˊ | dà xué | university | 老師正在教我們大學。 | The teacher is teaching us university. | 2 |
-| 650 | 研究所 | ㄧㄢˊ ㄐㄧㄡ ㄙㄨㄛˇ | yán jiū suǒ | graduate school | 老師正在教我們研究所。 | The teacher is teaching us graduate school. | 2 |
+| 650 | 研究所 | ㄧㄢˊ ㄐㄧㄡˋ ㄙㄨㄛˇ | yán jiù suǒ | graduate school | 老師正在教我們研究所。 | The teacher is teaching us graduate school. | 2 |
 | 651 | 教室 | ㄐㄧㄠˋ ㄕˋ | jiào shì | classroom | 老師正在教我們教室。 | The teacher is teaching us classroom. | 2 |
 | 652 | 課程 | ㄎㄜˋ ㄔㄥˊ | kè chéng | course | 老師正在教我們課程。 | The teacher is teaching us course. | 2 |
 | 653 | 課堂 | ㄎㄜˋ ㄊㄤˊ | kè táng | class session | 老師正在教我們課堂。 | The teacher is teaching us class session. | 2 |
@@ -744,7 +744,7 @@
 | 657 | 成績 | ㄔㄥˊ ㄐㄧ | chéng jī | grade | 老師正在教我們成績。 | The teacher is teaching us grade. | 2 |
 | 658 | 分數 | ㄈㄣ ㄕㄨˋ | fēn shù | score | 老師正在教我們分數。 | The teacher is teaching us score. | 2 |
 | 659 | 畢業 | ㄅㄧˋ ㄧㄝˋ | bì yè | graduate | 老師正在教我們畢業。 | The teacher is teaching us graduate. | 2 |
-| 660 | 學期 | ㄒㄩㄝˊ ㄑㄧ | xué qī | semester | 老師正在教我們學期。 | The teacher is teaching us semester. | 2 |
+| 660 | 學期 | ㄒㄩㄝˊ ㄑㄧˊ | xué qí | semester | 老師正在教我們學期。 | The teacher is teaching us semester. | 2 |
 | 661 | 科目 | ㄎㄜ ㄇㄨˋ | kē mù | subject | 老師正在教我們科目。 | The teacher is teaching us subject. | 2 |
 | 662 | 中文 | ㄓㄨㄥ ㄨㄣˊ | zhōng wén | Chinese language | 老師正在教我們中文。 | The teacher is teaching us Chinese language. | 2 |
 | 663 | 英文 | ㄧㄥ ㄨㄣˊ | yīng wén | English language | 老師正在教我們英文。 | The teacher is teaching us English language. | 2 |
@@ -788,16 +788,16 @@
 | 696 | 頭 | ㄊㄡˊ | tóu | head | 醫生檢查了我的頭。 | The doctor examined my head. | 2 |
 | 697 | 臉 | ㄌㄧㄢˇ | liǎn | face | 醫生檢查了我的臉。 | The doctor examined my face. | 2 |
 | 698 | 眼睛 | ㄧㄢˇ ㄐㄧㄥ | yǎn jīng | eyes | 醫生檢查了我的眼睛。 | The doctor examined my eyes. | 2 |
-| 699 | 耳朵 | ㄦˇ ㄉㄨㄛˇ | ěr duǒ | ears | 醫生檢查了我的耳朵。 | The doctor examined my ears. | 2 |
+| 699 | 耳朵 | ㄦˇ ㄉㄨㄛ˙ | ěr duo | ears | 醫生檢查了我的耳朵。 | The doctor examined my ears. | 2 |
 | 700 | 鼻子 | ㄅㄧˊ ㄗ˙ | bí zi | nose | 我今天有點鼻子。 | I have nose today. | 2 |
-| 701 | 嘴巴 | ㄗㄨㄟˇ ㄅㄚ | zuǐ bā | mouth | 醫生檢查了我的嘴巴。 | The doctor examined my mouth. | 2 |
+| 701 | 嘴巴 | ㄗㄨㄟˇ ㄅㄚ˙ | zuǐ ba | mouth | 醫生檢查了我的嘴巴。 | The doctor examined my mouth. | 2 |
 | 702 | 牙齒 | ㄧㄚˊ ㄔˇ | yá chǐ | teeth | 醫生檢查了我的牙齒。 | The doctor examined my teeth. | 2 |
 | 703 | 喉嚨 | ㄏㄡˊ ㄌㄨㄥˊ | hóu lóng | throat | 醫生檢查了我的喉嚨。 | The doctor examined my throat. | 2 |
 | 704 | 脖子 | ㄅㄛˊ ㄗ˙ | bó zi | neck | 醫生檢查了我的脖子。 | The doctor examined my neck. | 2 |
 | 705 | 肩膀 | ㄐㄧㄢ ㄅㄤˇ | jiān bǎng | shoulder | 醫生檢查了我的肩膀。 | The doctor examined my shoulder. | 2 |
 | 706 | 手 | ㄕㄡˇ | shǒu | hand | 醫生檢查了我的手。 | The doctor examined my hand. | 2 |
 | 707 | 手指 | ㄕㄡˇ ㄓˇ | shǒu zhǐ | finger | 醫生檢查了我的手指。 | The doctor examined my finger. | 2 |
-| 708 | 肚子 | ㄉㄨˇ ㄗ˙ | dǔ zi | stomach | 醫生檢查了我的肚子。 | The doctor examined my stomach. | 2 |
+| 708 | 肚子 | ㄉㄨˋ ㄗ˙ | dù zi | stomach | 醫生檢查了我的肚子。 | The doctor examined my stomach. | 2 |
 | 709 | 背部 | ㄅㄟˋ ㄅㄨˋ | bèi bù | back | 醫生檢查了我的背部。 | The doctor examined my back. | 2 |
 | 710 | 腿 | ㄊㄨㄟˇ | tuǐ | leg | 醫生檢查了我的腿。 | The doctor examined my leg. | 2 |
 | 711 | 腳 | ㄐㄧㄠˇ | jiǎo | foot | 醫生檢查了我的腳。 | The doctor examined my foot. | 2 |
@@ -817,7 +817,7 @@
 | 725 | 癢 | ㄧㄤˇ | yǎng | itchy | 我今天有點癢。 | I have itchy today. | 2 |
 | 726 | 腫 | ㄓㄨㄥˇ | zhǒng | swollen | 我今天有點腫。 | I have swollen today. | 2 |
 | 727 | 暈 | ㄩㄣ | yūn | dizzy | 我今天有點暈。 | I have dizzy today. | 3 |
-| 728 | 吐 | ㄊㄨˇ | tǔ | vomit | 我今天有點吐。 | I have vomit today. | 3 |
+| 728 | 吐 | ㄊㄨˋ | tù | vomit | 我今天有點吐。 | I have vomit today. | 3 |
 | 729 | 拉肚子 | ㄌㄚ ㄉㄨˋ ㄗ˙ | lā dù zi | have diarrhea | 我今天有點拉肚子。 | I have have diarrhea today. | 3 |
 | 730 | 藥 | ㄧㄠˋ | yào | medicine | 醫生檢查了我的藥。 | The doctor examined my medicine. | 3 |
 | 731 | 藥局 | ㄧㄠˋ ㄐㄩˊ | yào jú | pharmacy | 醫生檢查了我的藥局。 | The doctor examined my pharmacy. | 3 |
@@ -858,9 +858,9 @@
 | 760 | 瀏覽器 | ㄌㄧㄡˊ ㄌㄢˇ ㄑㄧˋ | liú lǎn qì | browser | 我每天都會使用瀏覽器。 | I use browser every day. | 3 |
 | 761 | 搜尋引擎 | ㄙㄡ ㄒㄩㄣˊ ㄧㄣˇ ㄑㄧㄥˊ | sōu xún yǐn qíng | search engine | 我每天都會使用搜尋引擎。 | I use search engine every day. | 3 |
 | 762 | 社群媒體 | ㄕㄜˋ ㄑㄩㄣˊ ㄇㄟˊ ㄊㄧˇ | shè qún méi tǐ | social media | 我每天都會使用社群媒體。 | I use social media every day. | 3 |
-| 763 | 照片 | ㄓㄠˋ ㄆㄧㄢ | zhào piān | photo | 我每天都會使用照片。 | I use photo every day. | 3 |
+| 763 | 照片 | ㄓㄠˋ ㄆㄧㄢˋ | zhào piàn | photo | 我每天都會使用照片。 | I use photo every day. | 3 |
 | 764 | 影片 | ㄧㄥˇ ㄆㄧㄢˋ | yǐng piàn | video | 我每天都會使用影片。 | I use video every day. | 3 |
-| 765 | 音樂 | ㄧㄣ ㄌㄜˋ | yīn lè | music | 我每天都會使用音樂。 | I use music every day. | 3 |
+| 765 | 音樂 | ㄧㄣ ㄩㄝˋ | yīn yuè | music | 我每天都會使用音樂。 | I use music every day. | 3 |
 | 766 | 聲音 | ㄕㄥ ㄧㄣ | shēng yīn | sound | 我每天都會使用聲音。 | I use sound every day. | 3 |
 | 767 | 麥克風 | ㄇㄞˋ ㄎㄜˋ ㄈㄥ | mài kè fēng | microphone | 我每天都會使用麥克風。 | I use microphone every day. | 3 |
 | 768 | 開機 | ㄎㄞ ㄐㄧ | kāi jī | turn on device | 我今天需要開機。 | I need to turn on device today. | 3 |
@@ -897,7 +897,7 @@
 | 794 | 台北 | ㄊㄞˊ ㄅㄟˇ | tái běi | Taipei | 我明天要去台北。 | I am going to the Taipei tomorrow. | 3 |
 | 795 | 公園 | ㄍㄨㄥ ㄩㄢˊ | gōng yuán | park | 我明天要去公園。 | I am going to the park tomorrow. | 3 |
 | 796 | 圖書館 | ㄊㄨˊ ㄕㄨ ㄍㄨㄢˇ | tú shū guǎn | library | 我明天要去圖書館。 | I am going to the library tomorrow. | 3 |
-| 797 | 銀行 | ㄧㄣˊ ㄒㄧㄥˊ | yín xíng | bank | 我明天要去銀行。 | I am going to the bank tomorrow. | 3 |
+| 797 | 銀行 | ㄧㄣˊ ㄏㄤˊ | yín háng | bank | 我明天要去銀行。 | I am going to the bank tomorrow. | 3 |
 | 798 | 郵局 | ㄧㄡˊ ㄐㄩˊ | yóu jú | post office | 我明天要去郵局。 | I am going to the post office tomorrow. | 3 |
 | 799 | 派出所 | ㄆㄞˋ ㄔㄨ ㄙㄨㄛˇ | pài chū suǒ | police station | 我明天要去派出所。 | I am going to the police station tomorrow. | 3 |
 | 800 | 消防隊 | ㄒㄧㄠ ㄈㄤˊ ㄉㄨㄟˋ | xiāo fáng duì | fire department | 我明天要去消防隊。 | I am going to the fire department tomorrow. | 3 |
@@ -1090,7 +1090,7 @@
 | 967 | 緊急 | ㄐㄧㄣˇ ㄐㄧˊ | jǐn jí | urgent/emergency | 發生緊急時，請先保持冷靜。 | Stay calm when urgent/emergency happens. | 3 |
 | 968 | 意外 | ㄧˋ ㄨㄞˋ | yì wài | accident | 發生意外時，請先保持冷靜。 | Stay calm when accident happens. | 3 |
 | 969 | 取消 | ㄑㄩˇ ㄒㄧㄠ | qǔ xiāo | cancel | 發生取消時，請先保持冷靜。 | Stay calm when cancel happens. | 3 |
-| 970 | 改期 | ㄍㄞˇ ㄑㄧ | gǎi qī | reschedule | 發生改期時，請先保持冷靜。 | Stay calm when reschedule happens. | 3 |
+| 970 | 改期 | ㄍㄞˇ ㄑㄧˊ | gǎi qí | reschedule | 發生改期時，請先保持冷靜。 | Stay calm when reschedule happens. | 3 |
 | 971 | 來不及 | ㄌㄞˊ ㄅㄨˋ ㄐㄧˊ | lái bù jí | not enough time | 發生來不及時，請先保持冷靜。 | Stay calm when not enough time happens. | 3 |
 | 972 | 趕不上 | ㄍㄢˇ ㄅㄨˋ ㄕㄤˋ | gǎn bù shàng | cannot catch up/miss | 發生趕不上時，請先保持冷靜。 | Stay calm when cannot catch up/miss happens. | 3 |
 | 973 | 錯過 | ㄘㄨㄛˋ ㄍㄨㄛˋ | cuò guò | miss | 發生錯過時，請先保持冷靜。 | Stay calm when miss happens. | 3 |
