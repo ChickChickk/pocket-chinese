@@ -12,7 +12,8 @@ quiz, progress, theming) with a Chinese-specific content and rendering layer.
 
 ## Features
 
-- **Browse** — **1,000 practical words** across **42 themed chapters** (~24 words each).
+- **Words** — **1,000 practical words** across **42 themed chapters** (~24 words each), reached
+  from Home's Contents list or the Continue button.
   Each card shows the 漢字, 注音·拼音, meaning, its measure word (for nouns), and a natural
   example sentence with pinyin.
 - **Flashcards** with spaced repetition — front = 漢字 only (recognition); tap to reveal
@@ -31,9 +32,9 @@ quiz, progress, theming) with a Chinese-specific content and rendering layer.
   - **125 essential patterns** in 7 groups — function, structure formula, example, and a common warning.
   - **Contrasts** — side-by-side comparison of easily-confused patterns (才/就, 會/能/可以, 了/過/著…).
 - **Audio** — Taiwanese Mandarin (`zh-TW`) text-to-speech, auto-picking a Taiwan voice
-  (Mei-Jia / Google 國語（臺灣）). Sentences read slowly (0.72) for following along; single
-  syllables in the zhuyin chart read near-normal (0.95), since a compact voice slowed that
-  far smears the vowel. **Voice picker** in Grammar → 注音 Zhuyin lets you audition every
+  (Mei-Jia / Google 國語（臺灣）). Sentences read slowly (0.6) for following along; single
+  words and syllables read a little faster (0.8), since a compact voice slowed further smears
+  the vowel and ㄅ "bo" starts to sound like "be". **Voice picker** in Grammar → 注音 Zhuyin lets you audition every
   Chinese voice your device has and keep the one that sounds right (saved locally) —
   TTS quality varies far too much between devices to hard-code one choice.
 - **Typeface** — Chinese renders in **TW-Kai (全字庫正楷體)**, Taiwan's official standard-glyph
@@ -71,7 +72,7 @@ The word and grammar data is generated from source Markdown, so it's reproducibl
 
 ## The bundled TW-Kai font (required)
 
-`fonts/tw-kai-subset.woff2` (~555 KB) **must be committed and deployed.** Relying on system
+`fonts/tw-kai-subset.woff2` (~610 KB) **must be committed and deployed.** Relying on system
 Kai fonts does *not* work: a Mac has Kaiti/BiauKai and looks right, but phones have no Kai at
 all and silently fall back to generic serif — so the site looks different per device.
 
