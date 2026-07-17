@@ -46,12 +46,13 @@
     '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9v6h4l5 4V5L8 9H4z"></path><path d="M16.5 8.5a5 5 0 0 1 0 7"></path></svg>';
   var CHEV =
     '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg>';
+  // No "Browse": the chapter view is reached from Home's Contents list and the Continue button.
   var NAV = [
     ["home", "Home"],
-    ["browse", "Browse"],
+    ["grammar", "Grammar"],
     ["flash", "Flashcards"],
     ["quiz", "Quiz"],
-    ["grammar", "Grammar"],
+    ["practice", "Practice"],
     ["progress", "Progress"],
   ];
 
@@ -66,14 +67,19 @@
     var view = "home",
       chapter = 0,
       theme = "sepia",
-      voice = "";
+      voice = "",
+      visited = false;
     try {
       srs = JSON.parse(localStorage.getItem("hua_srs") || "null");
       fav = JSON.parse(localStorage.getItem("hua_fav") || "{}") || {};
       weak = JSON.parse(localStorage.getItem("hua_weak") || "{}") || {};
       var a = JSON.parse(localStorage.getItem("hua_activity") || "{}") || {};
       for (var k in a) activity[k] = a[k];
-      chapter = parseInt(localStorage.getItem("hua_chapter") || "0", 10) || 0;
+      var rawChapter = localStorage.getItem("hua_chapter");
+      // null = never opened a chapter. Cannot use the value: chapter 1 is stored as 0, and a
+      // first-time visitor defaults to 0 too — so only the key's presence distinguishes them.
+      visited = rawChapter !== null;
+      chapter = parseInt(rawChapter || "0", 10) || 0;
       voice = localStorage.getItem("hua_voice") || ""; // "" = auto-pick
     } catch (e) {}
     if (!srs) srs = {};
@@ -94,6 +100,7 @@
       quizMode: "mc",
       quiz: null,
       voice: voice,
+      visited: visited,
       ui: { grammarTab: "zhuyin", gp: null },
     };
   }
@@ -769,7 +776,11 @@
       " Traditional Chinese<br>Words &amp; Phrases</h1>" +
       "<p>A friendly pocket guide for beginners learning Taiwanese Mandarin — with tap-to-hear pronunciation, zhuyin &amp; pinyin, smart flashcards, and real example sentences.</p></div>" +
       '<div class="row center" style="margin:28px 0 8px">' +
-      '<button class="btn btn-primary" data-act="startCh1">Start with Chapter 1</button>' +
+      (state.visited
+        ? '<button class="btn btn-primary" data-act="continueCh">Continue Chapter ' +
+          (state.chapter + 1) +
+          "</button>"
+        : '<button class="btn btn-primary" data-act="startCh1">Start with Chapter 1</button>') +
       '<button class="btn btn-ghost" data-act="startFlashAll">Shuffle flashcards</button>' +
       '<button class="btn btn-link" data-act="print">Print / Save PDF</button>' +
       "</div>" +
@@ -2171,12 +2182,21 @@
       ? '<button class="btn btn-ghost btn-sm" data-act="gReset">Try again</button>'
       : '<button class="btn btn-primary btn-sm" data-act="gCheck">Check answers</button>';
     return (
-      '<p class="grammar-intro">Fill in the missing word in each sentence, then check. (Answers use patterns from the tabs above.)</p>' +
+      '<p class="grammar-intro">Fill in the missing word in each sentence, then check. Everything you need is in the Chinese — read the time words and particles.</p>' +
       '<div class="gp-list">' +
       rows +
       '</div><div class="row" style="margin-top:18px">' +
       controls +
       "</div>"
+    );
+  }
+  function practiceView() {
+    return (
+      '<section><div class="page-head"><div>' +
+      '<div class="sub">Grammar · Put it to use</div>' +
+      "<h1>Practice</h1></div></div>" +
+      grammarPractice() +
+      "</section>"
     );
   }
   function zyGrid(rows, showAsp) {
@@ -2291,10 +2311,7 @@
           return ["g" + i, i + 1 + ". " + g.title];
         }),
       )
-      .concat([
-        ["contrasts", "Contrasts"],
-        ["practice", "Practice"],
-      ]);
+      .concat([["contrasts", "Contrasts"]]);
     var tabsHtml =
       '<div class="family-tabs grammar-tabs">' +
       tabsArr
@@ -2314,7 +2331,6 @@
     var body;
     if (tab === "zhuyin") body = grammarZhuyin();
     else if (tab === "contrasts") body = grammarContrasts();
-    else if (tab === "practice") body = grammarPractice();
     else {
       var gi = parseInt(tab.slice(1), 10) || 0;
       body = grammarGroup(GRAMMAR.groups[gi] || GRAMMAR.groups[0]);
@@ -2385,6 +2401,7 @@
     else if (v === "quiz") html = quizView();
     else if (v === "progress") html = progressView();
     else if (v === "grammar") html = grammarView();
+    else if (v === "practice") html = practiceView();
     else html = searchView();
     app.innerHTML = html;
   }
@@ -2458,6 +2475,9 @@
     grammar: function () {
       setView("grammar");
     },
+    practice: function () {
+      setView("practice");
+    },
     progress: function () {
       setView("progress");
     },
@@ -2466,6 +2486,9 @@
     },
     startCh1: function () {
       openChapter(0);
+    },
+    continueCh: function () {
+      openChapter(state.chapter);
     },
     chapter: function (arg) {
       openChapter(Number(arg));
@@ -2545,7 +2568,6 @@
     },
     gtab: function (arg) {
       state.ui.grammarTab = arg;
-      if (arg !== "practice") state.ui.gp = null;
       render();
     },
     gCheck: function () {
