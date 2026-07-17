@@ -80,7 +80,6 @@
       // first-time visitor defaults to 0 too — so only the key's presence distinguishes them.
       visited = rawChapter !== null;
       chapter = parseInt(rawChapter || "0", 10) || 0;
-      voice = localStorage.getItem("hua_voice") || ""; // "" = auto-pick
     } catch (e) {}
     if (!srs) srs = {};
     return {
@@ -99,7 +98,6 @@
       quizScope: "all",
       quizMode: "mc",
       quiz: null,
-      voice: voice,
       visited: visited,
       ui: { grammarTab: "zhuyin", gp: null, pc: 0 },
     };
@@ -111,7 +109,6 @@
       localStorage.setItem("hua_weak", JSON.stringify(state.weak));
       localStorage.setItem("hua_activity", JSON.stringify(state.activity));
       localStorage.setItem("hua_chapter", String(state.chapter));
-      localStorage.setItem("hua_voice", state.voice || "");
     } catch (e) {}
   }
 
@@ -210,27 +207,10 @@
 
   var VOICES = [],
     CHOSEN_VOICE = null;
-  // Every zh voice on this device, Taiwan ones first — powers the voice picker.
-  function zhVoices() {
-    var zh = VOICES.filter(function (v) {
-      return /zh|cmn|Chinese|Mandarin/i.test(v.lang + " " + v.name);
-    });
-    return zh.sort(function (a, b) {
-      var rank = function (v) {
-        return /zh[-_]TW/i.test(v.lang) ? 0 : /zh[-_]?(HK|Hant)/i.test(v.lang) ? 1 : 2;
-      };
-      return rank(a) - rank(b) || a.name.localeCompare(b.name);
-    });
-  }
+  // Prefer Mei-Jia: macOS's standard Taiwanese Mandarin voice. The rest of the chain matters —
+  // it is what devices WITHOUT that voice fall back to, and it must never reach a mainland (zh-CN)
+  // voice while any Taiwan one is available.
   function pickVoice() {
-    // An explicit choice always wins — TTS quality varies wildly per device, so the
-    // user's ear beats our heuristics.
-    if (state && state.voice) {
-      var saved = VOICES.filter(function (v) {
-        return v.name === state.voice;
-      })[0];
-      if (saved) return saved;
-    }
     if (CHOSEN_VOICE) return CHOSEN_VOICE;
     var byName = function (re) {
       return VOICES.filter(function (v) {
@@ -2256,50 +2236,10 @@
       "</div>"
     );
   }
-  // Speech quality varies hugely between devices and voices, so let the learner audition
-  // the zh voices their own device has and keep the one that sounds right to them.
-  function voicePicker() {
-    var list = zhVoices();
-    if (!list.length)
-      return (
-        '<div class="didyouknow"><span class="tag">Audio</span><p>Your device has no Chinese voice installed, so tap-to-hear will not work. On macOS add one in <b>System Settings → Accessibility → Spoken Content → System Voice → Manage Voices</b> (Chinese, Taiwan).</p></div>'
-      );
-    var cur = pickVoice();
-    var opts = ['<option value="">Auto (' + esc(cur ? cur.name : "none") + ")</option>"]
-      .concat(
-        list.map(function (v) {
-          var tw = /zh[-_]TW/i.test(v.lang);
-          return (
-            '<option value="' +
-            attr(v.name) +
-            '"' +
-            (state.voice === v.name ? " selected" : "") +
-            ">" +
-            esc(v.name) +
-            " — " +
-            esc(v.lang) +
-            (tw ? " ✓ Taiwan" : "") +
-            "</option>"
-          );
-        })
-      )
-      .join("");
-    return (
-      '<div class="voice-pick">' +
-      '<span class="kicker" style="margin:0">Voice</span>' +
-      '<select class="select" id="voice-select">' +
-      opts +
-      "</select>" +
-      '<button class="btn btn-ghost btn-sm" data-act="speak" data-say="ㄅㄆㄇㄈ的發音" title="Test">▶ Test</button>' +
-      '<span class="voice-hint">Voices differ a lot by device — if the sound is off, try another (✓ Taiwan ones are best).</span>' +
-      "</div>"
-    );
-  }
   function grammarZhuyin() {
     var z = GRAMMAR.zhuyin;
     return (
       '<p class="grammar-intro">注音符號 (zhùyīn fúhào) is the phonetic system used in Taiwan. Each symbol is one sound — its pinyin and [IPA] pronunciation are shown so you know how to read it.</p>' +
-      voicePicker() +
       '<div class="rule"><h2>Initials 聲母</h2><div class="line"></div></div>' +
       '<div class="sec-intro"><span class="tag">Aspiration 送氣</span><p>' +
       'The pairs <b>ㄅ b / ㄆ p</b>, <b>ㄉ d / ㄊ t</b>, <b>ㄍ g / ㄎ k</b>, <b>ㄐ j / ㄑ q</b>, <b>ㄓ zh / ㄔ ch</b>, <b>ㄗ z / ㄘ c</b> differ by a <b>puff of air (送氣)</b>. The second of each pair — marked <b>送氣 · puff</b> below — is aspirated: hold your hand to your mouth and you should feel the puff. The first has no puff. That puff is the main thing that tells them apart.</p></div>' +
@@ -2679,13 +2619,6 @@
       startQuiz(e.target.value, state.quizMode);
     else if (e.target.id === "chapter-select")
       openChapter(Number(e.target.value));
-    else if (e.target.id === "voice-select") {
-      state.voice = e.target.value || "";
-      CHOSEN_VOICE = null; // let pickVoice() re-resolve
-      save();
-      render();
-      speak("ㄅㄆㄇㄈ的發音"); // audition the new choice immediately
-    }
   });
   document.addEventListener("input", function (e) {
     if (e.target.id === "search") {

@@ -31,12 +31,11 @@ quiz, progress, theming) with a Chinese-specific content and rendering layer.
     [IPA] sound, and **tap-to-hear audio** (aspirated pairs like ㄅ/ㄆ are marked 送氣 · puff).
   - **125 essential patterns** in 7 groups — function, structure formula, example, and a common warning.
   - **Contrasts** — side-by-side comparison of easily-confused patterns (才/就, 會/能/可以, 了/過/著…).
-- **Audio** — Taiwanese Mandarin (`zh-TW`) text-to-speech, auto-picking a Taiwan voice
-  (Mei-Jia / Google 國語（臺灣）). Sentences read slowly (0.6) for following along; single
-  words and syllables read a little faster (0.8), since a compact voice slowed further smears
-  the vowel and ㄅ "bo" starts to sound like "be". **Voice picker** in Grammar → 注音 Zhuyin lets you audition every
-  Chinese voice your device has and keep the one that sounds right (saved locally) —
-  TTS quality varies far too much between devices to hard-code one choice.
+- **Audio** — Taiwanese Mandarin (`zh-TW`) text-to-speech, using Mei-Jia (macOS's standard
+  Taiwan voice) where available and falling back through other Taiwan voices; it never drops to
+  a mainland (zh-CN) voice while a Taiwan one exists. Sentences read slowly (0.6) for following
+  along; single words and syllables read a little faster (0.8), since a compact voice slowed
+  further smears the vowel and ㄅ "bo" starts to sound like "be".
 - **Typeface** — Chinese renders in **TW-Kai (全字庫正楷體)**, Taiwan's official standard-glyph
   Kai font, **bundled as a subset** (`fonts/tw-kai-subset.woff2`) so it looks identical on every
   device. System Kai fonts are only a last-resort fallback.
