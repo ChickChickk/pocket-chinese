@@ -101,7 +101,7 @@
       quiz: null,
       voice: voice,
       visited: visited,
-      ui: { grammarTab: "zhuyin", gp: null },
+      ui: { grammarTab: "zhuyin", gp: null, pc: 0 },
     };
   }
   function save() {
@@ -2142,52 +2142,76 @@
       "</tbody></table></div>"
     );
   }
+  // Practice is chaptered to mirror the 7 pattern groups — one question per pattern.
   function grammarPractice() {
+    var chapters = GRAMMAR.practice;
+    var pc = Math.min(state.ui.pc || 0, chapters.length - 1);
+    var ch = chapters[pc];
     var gp = state.ui.gp,
       checked = !!(gp && gp.checked),
       ans = (gp && gp.answers) || {};
-    var rows = GRAMMAR.practice
+
+    var tabs =
+      '<div class="family-tabs grammar-tabs">' +
+      chapters
+        .map(function (c, i) {
+          return (
+            '<button class="' + (i === pc ? "active" : "") +
+            '" data-act="pctab" data-arg="' + i + '">' +
+            (i + 1) + ". " + esc(c.title) + "</button>"
+          );
+        })
+        .join("") +
+      "</div>";
+
+    var rows = ch.items
       .map(function (it, i) {
         var parts = it.sentence.split("___"),
           html = '<span class="gp-n">' + (i + 1) + ".</span> ";
         for (var k = 0; k < parts.length; k++) {
           html += '<span class="gp-text">' + esc(parts[k]) + "</span>";
           if (k < parts.length - 1) {
-            var id = "gp-" + i + "-" + k,
+            var id = "gp-" + pc + "-" + i + "-" + k,
               val = ans[id] != null ? ans[id] : "";
             if (checked) {
               var correct = it.answer[k] || "",
-                ok = val.trim() === correct;
+                ok = normHanzi(val) === normHanzi(correct);
               html +=
-                '<span class="gp-ans ' +
-                (ok ? "ok" : "bad") +
-                '">' +
+                '<span class="gp-ans ' + (ok ? "ok" : "bad") + '">' +
                 esc(val || "—") +
                 (ok ? "" : " → " + esc(correct)) +
                 "</span>";
             } else {
               html +=
-                '<input class="gp-input" data-gp="' +
-                id +
-                '" value="' +
-                attr(val) +
+                '<input class="gp-input" data-gp="' + id + '" value="' + attr(val) +
                 '" autocomplete="off" autocapitalize="off" spellcheck="false">';
             }
           }
         }
+        // The English is deliberately withheld until check: every sentence is solvable from
+        // the Chinese alone, and showing it up front would give the answer away.
+        if (checked)
+          html +=
+            '<div class="gp-en">' + esc(it.en) +
+            ' <a class="gp-pat" data-act="gotoPattern" data-arg="' + it.n +
+            '">pattern ' + it.n + " →</a></div>";
         return '<div class="gp-row">' + html + "</div>";
       })
       .join("");
+
     var controls = checked
       ? '<button class="btn btn-ghost btn-sm" data-act="gReset">Try again</button>'
       : '<button class="btn btn-primary btn-sm" data-act="gCheck">Check answers</button>';
     return (
-      '<p class="grammar-intro">Fill in the missing word in each sentence, then check. Everything you need is in the Chinese — read the time words and particles.</p>' +
-      '<div class="gp-list">' +
-      rows +
-      '</div><div class="row" style="margin-top:18px">' +
-      controls +
-      "</div>"
+      tabs +
+      '<div class="rule"><h2>' + esc(ch.title) + '</h2><div class="line"></div>' +
+      '<span class="count">' + ch.items.length + " questions</span></div>" +
+      '<p class="grammar-intro">' + esc(ch.intro) + "</p>" +
+      '<p class="grammar-intro" style="margin-bottom:14px"><b>Fill in the blank, then check.</b> ' +
+      "Everything you need is in the Chinese — read the time words and particles. " +
+      "The English appears when you check.</p>" +
+      '<div class="gp-list">' + rows + "</div>" +
+      '<div class="row" style="margin-top:18px">' + controls + "</div>"
     );
   }
   function practiceView() {
@@ -2569,6 +2593,22 @@
     gtab: function (arg) {
       state.ui.grammarTab = arg;
       render();
+    },
+    pctab: function (arg) {
+      state.ui.pc = Number(arg) || 0;
+      state.ui.gp = null; // answers belong to a chapter — start the new one clean
+      render();
+      top();
+    },
+    // "pattern 37 →" on a checked question: open the group that pattern lives in
+    gotoPattern: function (arg) {
+      var n = Number(arg);
+      var gi = 0;
+      GRAMMAR.groups.forEach(function (g, i) {
+        if (g.patterns.some(function (p) { return p.n === n; })) gi = i;
+      });
+      state.ui.grammarTab = "g" + gi;
+      setView("grammar");
     },
     gCheck: function () {
       var answers = {};

@@ -1415,31 +1415,201 @@ Each entry gives the function, reusable structure, natural example, translation,
 | 還是 / 或者 | 還是 is used in direct alternative questions; 或者 is used in statements. |
 | 只要…就… / 只有…才… | The first marks a sufficient condition; the second marks a necessary condition. |
 
-# Mini practice
+# Practice
 
-1. 我昨天___去那家店了。
-2. 這件事我們明天___討論。
-3. 他十點___到公司。
-4. 他六點___到公司了。
-5. ___你有時間，我們___一起吃飯。
-6. 這本書___看___有趣。
-7. 請___門關上。
-8. 我的包包___人拿走了。
-9. 你___先預約，週末常常客滿。
-10. 你想喝茶___咖啡？
+Seven chapters, one question per pattern. Format per row:
+  | pattern # | sentence with ___ | answer (／ separates multiple blanks) | English |
 
-## Answer key
+The English is NOT shown while answering — only on check. Every sentence must therefore be
+solvable from the Chinese alone (時間詞, particles, context). If a question needs the English
+to be answerable, it is a badly written question.
 
-1. 又
-2. 再
-3. 才
-4. 就
-5. 如果／就
-6. 越／越
-7. 把
-8. 被
-9. 最好
-10. 還是
+## Chapter: Sentence Foundations
+intro: The bones of a Chinese sentence. 是 links two nouns, 有 shows possession, 在 places
+something, and an adjective needs 很 rather than 是. Then the question words — 嗎 turns a
+statement into a yes/no question, while 誰/什麼/哪裡 simply sit where the answer would go.
+
+| # | Sentence | Answer | English |
+|---:|---|---|---|
+| 1 | 我___台灣人。 | 是 | I am Taiwanese. |
+| 2 | 我___兩個問題。 | 有 | I have two questions. |
+| 3 | 我現在___公司。 | 在 | I am at the office now. |
+| 4 | 今天___冷。 | 很 | It is cold today. |
+| 5 | 他想去，我___想去。 | 也 | He wants to go; I want to go too. |
+| 6 | 大家___知道這件事。 | 都 | Everyone knows about this. |
+| 7 | 我___喝咖啡，只喝茶。 | 不 | I do not drink coffee, only tea. |
+| 8 | 我今天___帶錢，不能買。 | 沒 | I did not bring money today, so I cannot buy it. |
+| 9 | 你今天有空___？ | 嗎 | Are you free today? |
+| 10 | 我很好，你___？ | 呢 | I am fine — and you? |
+| 11 | 門口的人是___？ | 誰 | Who is the person at the door? |
+| 12 | 你想吃___？ | 什麼 | What do you want to eat? |
+| 13 | 這兩件，你要___一件？ | 哪 | Of these two, which one do you want? |
+| 14 | 請問捷運站在___？ | 哪裡 | Excuse me, where is the MRT station? |
+| 15 | 這個字___念？ | 怎麼 | How is this character pronounced? |
+| 16 | 你今天___遲到？ | 為什麼 | Why were you late today? |
+| 17 | 這是我___書。 | 的 | This is my book. |
+| 18 | 我想買一件紅色___外套。 | 的 | I want to buy a red jacket. |
+| 19 | 我買了三___蘋果。 | 顆 | I bought three apples. |
+| 20 | 你有___個兄弟姊妹？ | 幾 | How many siblings do you have? |
+
+## Chapter: Time, Aspect, and Sequence
+intro: Chinese verbs never change shape — these words carry the time instead. 了 closes an
+action, 過 says you have done it before, 著 holds it open. 才 is later than expected, 就 is
+sooner. And 又 looks back while 再 looks forward, so let the time word decide.
+
+| # | Sentence | Answer | English |
+|---:|---|---|---|
+| 21 | 我昨天買___一本書。 | 了 | I bought a book yesterday. |
+| 22 | 下雨___！快進來。 | 了 | It is raining now! Come inside. |
+| 23 | 我去___台南，那裡很好玩。 | 過 | I have been to Tainan; it is fun there. |
+| 24 | 門一直開___。 | 著 | The door is standing open. |
+| 25 | 我___吃飯，等一下打給你。 | 在／正在 | I am eating right now; I will call you later. |
+| 26 | 我___到公司___。 | 已經／了 | I have already arrived at the office. |
+| 27 | 我___吃早餐。 | 還沒 | I have not eaten breakfast yet. |
+| 28 | 火車___開___，快一點！ | 快要／了 | The train is about to leave — hurry! |
+| 29 | 他下個月___結婚___。 | 就要／了 | He is getting married next month. |
+| 30 | 他___從房間出來。 | 剛 | He just came out of the room. |
+| 31 | ___老師找你。 | 剛才 | The teacher was looking for you a moment ago. |
+| 32 | 他晚上十點___到家。 | 才 | He did not get home until ten at night. |
+| 33 | 他六點___到公司了。 | 就 | He got to the office as early as six. |
+| 34 | 這件事我們明天___討論。 | 再 | We will discuss this again tomorrow. |
+| 35 | 他今天___遲到了。 | 又 | He was late again today. |
+| 36 | 我___住在台北，沒搬過家。 | 一直 | I have lived in Taipei all along; I have never moved. |
+| 37 | 我們___吃飯，___看電影。 | 先／再 | Let us eat first, then watch a movie. |
+| 38 | 我___下班___回家。 | 一／就 | As soon as I finish work, I go home. |
+| 39 | ___台北___高雄要兩個小時。 | 從／到 | From Taipei to Kaohsiung takes two hours. |
+| 40 | 吃飯___要洗手。 | 以前 | Wash your hands before eating. |
+
+## Chapter: Comparison, Degree, and Change
+intro: How to say more, less, and the same. 比 compares two things directly, 沒有…那麼… softens
+the negative, 跟…一樣 says they match. Degree words stack in front of the adjective — 比較, 更,
+最 — while 越…越… and 變得 describe something shifting over time.
+
+| # | Sentence | Answer | English |
+|---:|---|---|---|
+| 41 | 今天___昨天熱。 | 比 | Today is hotter than yesterday. |
+| 42 | 今天___昨天___熱。 | 沒有／那麼 | Today is not as hot as yesterday. |
+| 43 | 我的手機___你的___。 | 跟／一樣 | My phone is the same as yours. |
+| 44 | 這個方法___簡單。 | 比較 | This method is relatively simple. |
+| 45 | 今天比昨天___熱。 | 更 | Today is even hotter than yesterday. |
+| 46 | 這是我___喜歡的歌。 | 最 | This is my favourite song. |
+| 47 | 天氣___冷了。 | 越來越 | The weather is getting colder and colder. |
+| 48 | 這本書___看___有趣。 | 越／越 | The more I read this book, the more interesting it gets. |
+| 49 | 他最近___很安靜。 | 變得 | He has become very quiet lately. |
+| 50 | 這杯咖啡___甜___。 | 太／了 | This coffee is too sweet. |
+| 51 | 這杯咖啡___苦。 | 有點 | This coffee is a little bitter. |
+| 52 | 可以算便宜___嗎？ | 一點 | Could you make it a bit cheaper? |
+| 53 | 他中文說___很好。 | 得 | He speaks Chinese very well. |
+| 54 | 這個蛋糕好吃___！ | 極了 | This cake is absolutely delicious! |
+| 55 | 別急，我們___到了。 | 差不多 | Do not rush — we are almost there. |
+
+## Chapter: Logic and Connections
+intro: Joining two clauses. Chinese usually marks BOTH halves, so these come in pairs —
+因為…所以…, 如果…就…, 雖然…但是…. Look at the second half before you fill the first: the
+partner word tells you which pair it must be.
+
+| # | Sentence | Answer | English |
+|---:|---|---|---|
+| 56 | ___塞車，___我遲到了。 | 因為／所以 | Because of the traffic, I was late. |
+| 57 | 外面下雨，___我帶了雨傘。 | 所以 | It is raining outside, so I brought an umbrella. |
+| 58 | ___你有時間，我們___一起吃飯。 | 如果／就 | If you have time, we will eat together. |
+| 59 | ___明天下雨，我們___不去了。 | 要是／就 | If it rains tomorrow, we will not go. |
+| 60 | ___努力，___有機會。 | 只要／就 | As long as you work hard, there is a chance. |
+| 61 | ___先預約，___能看醫生。 | 只有／才 | Only if you book first can you see the doctor. |
+| 62 | ___你早點出門，___會遲到。 | 除非／不然 | Unless you leave early, you will be late. |
+| 63 | ___很累，___我還要工作。 | 雖然／但是 | Although I am tired, I still have to work. |
+| 64 | ___下雨，我___要去。 | 即使／也 | Even if it rains, I am still going. |
+| 65 | 他___聰明，___很努力。 | 不但／而且 | He is not only smart but also hardworking. |
+| 66 | ___中文以外，他___會說日文。 | 除了／也 | Besides Chinese, he can also speak Japanese. |
+| 67 | ___他以外，大家___來了。 | 除了／都 | Everyone came except him. |
+| 68 | ___你不舒服，___早點休息吧。 | 既然／就 | Since you are not feeling well, rest early. |
+| 69 | 這家店很好吃，___有點貴。 | 不過 | This shop is delicious, though a bit expensive. |
+| 70 | 我很累，___要把工作做完。 | 還是 | I am tired, but I still want to finish the work. |
+
+## Chapter: Objects, Complements, and Direction
+intro: What happens to the object. 把 moves it in front so you can say what was done to it,
+被 flips it into the passive. Then complements glue onto the verb to say how it turned out —
+完 finished, 到 succeeded, 懂 understood — and 來/去 tell you which way it moved.
+
+| # | Sentence | Answer | English |
+|---:|---|---|---|
+| 71 | 請___門關上。 | 把 | Please close the door. |
+| 72 | 我的包包___人拿走了。 | 被 | My bag was taken by someone. |
+| 73 | 媽媽___我早點回家。 | 讓 | Mum had me come home early. |
+| 74 | 老闆___我明天加班。 | 叫 | The boss told me to work overtime tomorrow. |
+| 75 | 我等一下打電話___你。 | 給 | I will call you in a bit. |
+| 76 | 請___我開門。 | 幫 | Please open the door for me. |
+| 77 | 他___我很好。 | 對 | He is very good to me. |
+| 78 | 我想___你談一談。 | 跟 | I would like to have a talk with you. |
+| 79 | 我___他借了一本書。 | 向 | I borrowed a book from him. |
+| 80 | 我家___公司很近。 | 離 | My home is close to the office. |
+| 81 | 我吃___飯就回家。 | 完 | I will go home once I finish eating. |
+| 82 | 我終於找___鑰匙了。 | 到 | I finally found my keys. |
+| 83 | 這個句子我看不___。 | 懂 | I cannot understand this sentence. |
+| 84 | 太吵了，我沒聽___你說什麼。 | 見 | It was too noisy; I did not hear what you said. |
+| 85 | 請先把資料準備___。 | 好 | Please get the materials ready first. |
+| 86 | 你什麼時候___台灣？我在這裡等你。 | 來 | When are you coming to Taiwan? I am waiting here. |
+| 87 | 我在三樓，你___吧。 | 上來 | I am on the third floor — come up. |
+| 88 | 請___坐，外面很冷。 | 進來 | Please come in and sit; it is cold outside. |
+| 89 | 他剛從房間___。 | 出來 | He just came out of the room. |
+| 90 | 這個蛋糕看___很好吃。 | 起來 | This cake looks delicious. |
+
+## Chapter: Ability, Desire, and Obligation
+
+intro: Saying what you can, want, and must do. Chinese splits "can" three ways — 會 for a skill
+you learned, 能 for whether circumstances allow it, 可以 for whether you are permitted — and the
+one you pick changes the meaning. The rest of the chapter climbs a ladder of pressure, from a
+mild 想 (I would like) through 應該 (you should) and 最好 (you had better) up to 必須 (you must),
+then closes with the two ways to tell someone not to: 不要 and 別.
+
+| # | Sentence | Answer | English |
+|---:|---|---|---|
+| 91 | 我___說一點中文。 | 會 | I can speak a little Chinese. |
+| 92 | 天氣這麼熱，下午___下雨。 | 會 | It is so hot; it will probably rain this afternoon. |
+| 93 | 我今天有事，不___去。 | 能 | I have something on today, so I cannot go. |
+| 94 | 請問這裡___拍照嗎？ | 可以 | Excuse me, may I take photos here? |
+| 95 | 我___喝一杯咖啡。 | 想 | I would like to drink a cup of coffee. |
+| 96 | 我___一份雞肉便當。 | 要 | I would like one chicken lunchbox. |
+| 97 | 我___你的幫助。 | 需要 | I need your help. |
+| 98 | 你___早點休息。 | 應該 | You should rest earlier. |
+| 99 | 他每天都運動，身體___很好。 | 一定 | He exercises every day; he must be very healthy. |
+| 100 | 外面很暗，等一下___會下雨。 | 可能 | It is dark outside; it may rain in a while. |
+| 101 | 週末常常客滿，你___先訂位。 | 最好 | It is often full at weekends; you had better book first. |
+| 102 | 進去以前___買票。 | 必須 | You must buy a ticket before going in. |
+| 103 | 太晚了，我___走了。 | 得 | It is late; I have to go. |
+| 104 | ___忘了帶護照。 | 不要 | Do not forget to bring your passport. |
+| 105 | ___擔心了，問題會解決的。 | 別 | Do not worry — the problem will get sorted out. |
+
+## Chapter: Natural Conversation
+
+intro: The phrases that make you sound like a person rather than a textbook. Taiwanese
+conversation leans on A-not-A questions (是不是, 有沒有, 要不要) far more than on 嗎, and on short
+reactions — 原來 for a penny dropping, 難怪 for "well, that explains it", 沒想到 for a surprise.
+The chapter ends with the patterns that carry the most feeling: 連…都… for something startling,
+and 是…的 for pinning down the when, where, or how of something both of you already know about.
+
+| # | Sentence | Answer | English |
+|---:|---|---|---|
+| 106 | 你___台灣人？ | 是不是 | Are you Taiwanese or not? |
+| 107 | 你___時間？我想跟你談一談。 | 有沒有 | Do you have time? I would like to talk with you. |
+| 108 | 你___喝茶？我剛泡好。 | 要不要 | Would you like some tea? I just made it. |
+| 109 | ___借過一下？ | 可不可以 | May I get past? |
+| 110 | 你明天___來？我六點到。 | 能不能 | Can you come tomorrow? I arrive at six. |
+| 111 | 你的臉色不太好，___？ | 怎麼了 | You do not look well — what is wrong? |
+| 112 | 最後一班車走了，___？ | 怎麼辦 | The last train has gone — what should we do? |
+| 113 | 這個蛋糕___很好吃。 | 看起來 | This cake looks delicious. |
+| 114 | 你的計畫___不錯。 | 聽起來 | Your plan sounds good. |
+| 115 | ___如此，我現在懂了。 | 原來 | I see — now I understand. |
+| 116 | 他昨天沒睡覺，___這麼累。 | 難怪 | He did not sleep last night — no wonder he is so tired. |
+| 117 | ___這家店這麼好吃。 | 沒想到 | I did not expect this place to be so good. |
+| 118 | 便宜的東西___不好。 | 不一定 | Cheap things are not necessarily bad. |
+| 119 | 我還不確定，到時候___。 | 看情況 | I am not sure yet; it depends at the time. |
+| 120 | 現在太晚了，明天___。 | 再說 | It is too late now; let us talk about it tomorrow. |
+| 121 | 你想喝茶___咖啡？ | 還是 | Do you want tea or coffee? |
+| 122 | 我喜歡___工作___聽音樂。 | 一邊／一邊 | I like to listen to music while I work. |
+| 123 | 台灣的香蕉___香___甜。 | 又／又 | Taiwanese bananas are both fragrant and sweet. |
+| 124 | 他___自己的名字___寫錯了。 | 連／都 | He even wrote his own name wrong. |
+| 125 | 我___昨天___到的。 | 是／的 | It was yesterday that I arrived. |
 
 # Suggested learning order
 

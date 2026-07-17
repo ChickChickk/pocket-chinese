@@ -410,6 +410,10 @@ table.ref tr:last-child td { border-bottom: none; }
 .gp-input { font-family: 'Newsreader', var(--cjk); font-size: 17px; width: 78px; text-align: center; border: 1px solid var(--accent); border-radius: 8px; padding: 2px 6px; margin: 0 5px; background: var(--card); color: var(--ink); vertical-align: middle; }
 .gp-ans { display: inline-block; padding: 1px 9px; margin: 0 4px; border-radius: 8px; font-weight: 700; font-size: 16px; }
 .gp-ans.ok { background: var(--okbg); color: var(--olive); }
+/* Practice: the English + pattern link, revealed only after checking. */
+.gp-en { font-size: 13px; color: var(--muted); margin: 6px 0 0 22px; }
+.gp-pat { color: var(--accent); cursor: pointer; white-space: nowrap; text-decoration: underline; text-underline-offset: 2px; }
+.gp-pat:hover { color: var(--accent2); }
 .gp-ans.bad { background: var(--nobg); color: var(--accent2); }
 /* Voice picker — speech quality varies per device, so the learner chooses. */
 .voice-pick { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; background: var(--panel); border: 1px solid var(--line2); border-radius: 12px; padding: 12px 14px; margin: 0 0 22px; }

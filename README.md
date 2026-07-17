@@ -21,12 +21,15 @@ quiz, progress, theming) with a Chinese-specific content and rendering layer.
   (meaning → 漢字), and type-it (meaning → **type the 漢字**, the way Chinese is really typed:
   pinyin into your IME, which commits characters. Needs a Chinese keyboard/輸入法; spaces and
   any punctuation the IME commits are ignored).
+- **Practice** (own section) — **7 chapters mirroring the 7 pattern groups, 125 fill-in-the-blank
+  questions: exactly one per pattern.** Each chapter opens with a short explanation of what it
+  drills. The English is withheld until you check — every sentence is solvable from the Chinese
+  alone — and each checked answer links back to the pattern it tests.
 - **Grammar** — a reference section with:
   - **注音 Zhuyin chart** — all initials 聲母 + finals 韻母 + tones 聲調, each with pinyin, an
     [IPA] sound, and **tap-to-hear audio** (aspirated pairs like ㄅ/ㄆ are marked 送氣 · puff).
   - **125 essential patterns** in 7 groups — function, structure formula, example, and a common warning.
   - **Contrasts** — side-by-side comparison of easily-confused patterns (才/就, 會/能/可以, 了/過/著…).
-  - **Practice** — an interactive fill-in-the-blank exercise with instant feedback.
 - **Audio** — Taiwanese Mandarin (`zh-TW`) text-to-speech, auto-picking a Taiwan voice
   (Mei-Jia / Google 國語（臺灣）). Sentences read slowly (0.72) for following along; single
   syllables in the zhuyin chart read near-normal (0.95), since a compact voice slowed that

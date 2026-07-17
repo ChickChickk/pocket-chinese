@@ -19,16 +19,20 @@ function flushPat() {
 }
 
 let mode = "patterns";
-const comparisons = [], practiceQ = {}, practiceA = {}, stages = [];
+const comparisons = [], stages = [];
+// Practice is chaptered: "## Chapter: <title>", an "intro:" paragraph, then one table row per
+// pattern — | # | sentence with ___ | answer (／ splits multiple blanks) | English |
+const practice = [];
+let curPC = null, introLines = null;
+const flushIntro = () => { if (curPC && introLines) { curPC.intro = introLines.join(" ").replace(/\s+/g, " ").trim(); introLines = null; } };
 
 for (let raw of lines) {
   const line = raw.replace(/\s+$/, "");
   let m;
   if ((m = line.match(/^# (\d+)\. (.+)$/))) { flushPat(); curGroup = { title: m[2], patterns: [] }; groups.push(curGroup); mode = "patterns"; continue; }
   if (line === "# Quick comparisons") { flushPat(); mode = "comparisons"; continue; }
-  if (line === "# Mini practice") { flushPat(); mode = "practiceQ"; continue; }
-  if (line === "## Answer key") { mode = "practiceA"; continue; }
-  if (line === "# Suggested learning order") { mode = "stages"; continue; }
+  if (line === "# Practice") { flushPat(); mode = "practice"; continue; }
+  if (line === "# Suggested learning order") { flushIntro(); mode = "stages"; continue; }
 
   if (mode === "patterns") {
     if ((m = line.match(/^## (\d+)\. (.+)$/))) { flushPat(); curPat = { n: +m[1], pattern: m[2].trim() }; field = null; quote = []; continue; }
@@ -42,20 +46,32 @@ for (let raw of lines) {
       if (/^-+$/.test(m[1].replace(/[|\s-]/g, "-")) || m[1] === "Pair") continue;
       comparisons.push({ pair: m[1], diff: m[2] });
     }
-  } else if (mode === "practiceQ") {
-    if ((m = line.match(/^(\d+)\.\s*(.+)$/))) practiceQ[m[1]] = m[2].trim();
-  } else if (mode === "practiceA") {
-    if ((m = line.match(/^(\d+)\.\s*(.+)$/))) practiceA[m[1]] = m[2].trim();
+  } else if (mode === "practice") {
+    if ((m = line.match(/^## Chapter:\s*(.+)$/))) {
+      flushIntro();
+      curPC = { title: m[1].trim(), intro: "", items: [] };
+      practice.push(curPC);
+      continue;
+    }
+    if (!curPC) continue;
+    if ((m = line.match(/^intro:\s*(.+)$/))) { introLines = [m[1]]; continue; }
+    // the intro wraps over several lines until a blank line or the table starts
+    if (introLines && line && !line.startsWith("|")) { introLines.push(line.trim()); continue; }
+    if (introLines && (!line || line.startsWith("|"))) flushIntro();
+    if ((m = line.match(/^\|\s*(\d+)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|$/))) {
+      curPC.items.push({
+        n: +m[1],                                                   // the pattern it drills
+        sentence: m[2].trim(),
+        answer: m[3].split(/[／/]/).map((x) => x.trim()).filter(Boolean),
+        en: m[4].trim(),                                            // revealed on check only
+      });
+    }
   } else if (mode === "stages") {
     if ((m = line.match(/^-\s*(.+)$/))) stages.push(m[1].replace(/\*\*/g, "").trim());
   }
 }
 flushPat();
-
-const practice = Object.keys(practiceQ).sort((a, b) => a - b).map((k) => ({
-  sentence: practiceQ[k],
-  answer: (practiceA[k] || "").split(/[／/]/).map((s) => s.trim()).filter(Boolean)
-}));
+flushIntro(); // in case the file ends without a following section
 
 // Zhuyin (注音符號) reference — [symbol, pinyin, IPA sound, hanzi-to-speak]
 // The 4th value is a real syllable the zh-TW TTS can pronounce (initials use the
