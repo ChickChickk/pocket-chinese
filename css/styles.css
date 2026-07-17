@@ -258,7 +258,14 @@ a:hover { color: var(--accent2); }
 .ch-row .frac { font-family: 'Space Mono', var(--cjk); font-size: 12px; color: var(--muted); width: 52px; text-align: right; flex: none; }
 
 /* ---------- Grammar ---------- */
-.grammar-intro { font-size: 17px; line-height: 1.6; color: var(--ink2); max-width: 680px; margin: 6px 0 30px; }
+.grammar-intro { font-size: 17px; line-height: 1.6; color: var(--ink2); max-width: 78ch; margin: 6px 0 30px; }
+/* A chapter/section intro: a full-width panel rather than a stub of text with dead space to the
+   right. The box makes the width deliberate, and the padding keeps the line length readable. */
+.sec-intro { background: var(--tint); border: 1px solid var(--herobd); border-left: 3px solid var(--accent); border-radius: 12px; padding: 16px 20px; margin: 0 0 22px; }
+.sec-intro p { margin: 0; font-size: 15.5px; line-height: 1.65; color: var(--ink2); }
+.sec-intro p + p { margin-top: 10px; }
+.sec-intro .tag { display: block; font-family: 'Space Mono', var(--cjk); font-size: 11px; font-weight: 700; letter-spacing: 0.08em; color: var(--accent); text-transform: uppercase; margin-bottom: 7px; }
+.sec-intro .how { color: var(--muted); font-size: 14px; }
 .affix-list { display: flex; flex-direction: column; gap: 14px; }
 .affix { background: var(--card); border: 1px solid var(--line2); border-radius: 16px; overflow: hidden; }
 .affix-head { display: flex; align-items: center; gap: 16px; width: 100%; text-align: left; background: none; border: none; cursor: pointer; padding: 20px 22px; }

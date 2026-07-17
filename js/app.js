@@ -2206,10 +2206,11 @@
       tabs +
       '<div class="rule"><h2>' + esc(ch.title) + '</h2><div class="line"></div>' +
       '<span class="count">' + ch.items.length + " questions</span></div>" +
-      '<p class="grammar-intro">' + esc(ch.intro) + "</p>" +
-      '<p class="grammar-intro" style="margin-bottom:14px"><b>Fill in the blank, then check.</b> ' +
-      "Everything you need is in the Chinese — read the time words and particles. " +
-      "The English appears when you check.</p>" +
+      '<div class="sec-intro"><span class="tag">About this chapter</span>' +
+      "<p>" + esc(ch.intro) + "</p>" +
+      '<p class="how"><b>Fill in the blank, then check.</b> Everything you need is in the ' +
+      "Chinese — read the time words and particles. The English appears when you check.</p>" +
+      "</div>" +
       '<div class="gp-list">' + rows + "</div>" +
       '<div class="row" style="margin-top:18px">' + controls + "</div>"
     );
@@ -2300,7 +2301,8 @@
       '<p class="grammar-intro">注音符號 (zhùyīn fúhào) is the phonetic system used in Taiwan. Each symbol is one sound — its pinyin and [IPA] pronunciation are shown so you know how to read it.</p>' +
       voicePicker() +
       '<div class="rule"><h2>Initials 聲母</h2><div class="line"></div></div>' +
-      '<p class="grammar-intro" style="margin-bottom:12px">The pairs <b>ㄅ b / ㄆ p</b>, <b>ㄉ d / ㄊ t</b>, <b>ㄍ g / ㄎ k</b>, <b>ㄐ j / ㄑ q</b>, <b>ㄓ zh / ㄔ ch</b>, <b>ㄗ z / ㄘ c</b> differ by a <b>puff of air (送氣)</b>. The second of each pair — marked <b>送氣 · puff</b> below — is aspirated: hold your hand to your mouth and you should feel the puff. The first has no puff. That puff is the main thing that tells them apart.</p>' +
+      '<div class="sec-intro"><span class="tag">Aspiration 送氣</span><p>' +
+      'The pairs <b>ㄅ b / ㄆ p</b>, <b>ㄉ d / ㄊ t</b>, <b>ㄍ g / ㄎ k</b>, <b>ㄐ j / ㄑ q</b>, <b>ㄓ zh / ㄔ ch</b>, <b>ㄗ z / ㄘ c</b> differ by a <b>puff of air (送氣)</b>. The second of each pair — marked <b>送氣 · puff</b> below — is aspirated: hold your hand to your mouth and you should feel the puff. The first has no puff. That puff is the main thing that tells them apart.</p></div>' +
       zyGrid(z.initials, true) +
       '<div class="rule"><h2>Finals 韻母</h2><div class="line"></div></div>' +
       zyGrid(z.finals) +
