@@ -253,8 +253,10 @@
   // Decided from the text rather than tagged at each call site: speakBtn alone is reused for
   // word cards, word-of-the-day, flashcard fronts, quiz reveals and the tones table, so
   // per-caller flags would inevitably be missed.
-  var RATE_SENTENCE = 0.72,
-    RATE_SYLLABLE = 0.95;
+  // Words stay a little faster than sentences on purpose: taken too slow, an isolated syllable
+  // smears and ㄅ "bo" starts to sound like "be". 0.8 is the floor that still held its shape.
+  var RATE_SENTENCE = 0.6,
+    RATE_SYLLABLE = 0.8;
   function autoRate(text) {
     var t = String(text || "");
     // Punctuation is the real signal — every example sentence carries 。？！ — so the length
